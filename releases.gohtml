@@ -1,0 +1,60 @@
+{{- /*gotype: github.com/refinedmods/sitegen/render.Releases*/ -}}
+{{ define "body" }}
+    <div class="container pt-3">
+        <div class="page-title">
+            <h1 class="h2">Releases</h1>
+        </div>
+
+        <nav aria-label="breadcrumb" class="mb-3">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/{{.Project.Slug}}">{{.Project.Name}}</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Releases</li>
+            </ol>
+        </nav>
+
+        <div class="d-flex justify-content-center">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination">
+                    <li class="page-item {{if eq .Page 1}}disabled{{end}}">
+                        <a class="page-link" href="/{{.Project.Slug}}/releases/{{ sub .Page 1 }}.html"
+                           aria-label="Previous">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    </li>
+                    {{range rangeList 1 .TotalPages}}
+                        <li class="page-item {{if eq $.Page .}}active{{end}}"><a class="page-link"
+                                                                                 href="/{{$.Project.Slug}}/releases/{{.}}.html">{{.}}</a>
+                        </li>
+                    {{end}}
+                    <li class="page-item {{if eq .Page .TotalPages}}disabled{{end}}">
+                        <a class="page-link" href="/{{.Project.Slug}}/releases/{{ add .Page 1 }}.html"
+                           aria-label="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">Version</th>
+                <th scope="col">Date</th>
+                <th scope="col">Group</th>
+            </tr>
+            </thead>
+            <tbody>
+            {{range .Releases}}
+                <tr>
+                    <td>
+                        <a href="/{{$.Project.Slug}}/releases/{{.Slug}}">{{$.Project.Name}} {{.Version}}</a> {{template "release-badge.gohtml" .}}
+                    </td>
+                    <td>{{.Date.Format "2006-01-02" }}</td>
+                    <td>{{.Group.Name}}</td>
+                </tr>
+            {{end}}
+            </tbody>
+        </table>
+    </div>
+{{ end }}

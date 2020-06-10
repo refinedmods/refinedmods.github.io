@@ -1,0 +1,135 @@
+{{- /*gotype: github.com/refinedmods/sitegen/render.RenderData*/ -}}
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Source+Sans+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="/dist/{{.Project.Slug}}.css">
+    <script src="/dist/{{.Project.Slug}}.js"></script>
+
+    <title>Refined Mods - {{.Title}}</title>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark main-nav d-none d-lg-block d-xl-block">
+    <div class="container">
+        <ul class="navbar-nav">
+            {{range $i, $project := .Site.Projects}}
+                <li class="nav-item">
+                    <a class="{{if eq $i 0}}pl-0{{end}} nav-link {{if eq $project $.Project}}active{{ end }}"
+                       href="/{{$project.Slug}}">{{$project.Name}}</a>
+                </li>
+            {{end}}
+        </ul>
+
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="https://ci.refinedmods.com/">
+                    <i class="fas fa-cube"></i> Dev builds
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://twitter.com/refinedmods">
+                    <i class="fab fa-twitter"></i> Twitter
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://github.com/refinedmods">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://discordapp.com/invite/VYzsydb"><i class="fab fa-discord"></i>
+                    Discord</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://www.patreon.com/raoulvdberge"><i class="fab fa-patreon"></i>
+                    Patreon</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <div class="logo mr-3 mt-2 mb-2">
+            <a class="navbar-brand" href="/{{.Project.Slug}}">
+                &nbsp;
+            </a>
+        </div>
+
+        <button class="navbar-toggler d-block d-lg-none d-xl-none" type="button" data-toggle="collapse"
+                data-target="#main-nav"
+                aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="main-nav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link {{if eq .NavItem "home"}}active{{end}}" href="/{{.Project.Slug}}">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link {{if eq .NavItem "wiki"}}active{{end}}" href="/{{.Project.Slug}}/wiki">Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link {{if eq .NavItem "releases"}}active{{end}}" href="/{{.Project.Slug}}/releases">Releases</a>
+                </li>
+
+                <div class="d-block d-lg-none d-xl-none">
+                    {{range $i, $project := .Site.Projects}}
+                        <li class="nav-item">
+                            <a class="{{if eq $i 0}}pl-0{{end}} nav-link {{if eq $project $.Project}}active{{ end }}"
+                               href="/{{$project.Slug}}"><i class="fas fa-external-link-alt"></i> {{$project.Name}}</a>
+                        </li>
+                    {{end}}
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://ci.refinedmods.com/">
+                            <i class="fas fa-cube"></i> Dev builds
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://twitter.com/refinedmods">
+                            <i class="fab fa-twitter"></i> Twitter
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/refinedmods">
+                            <i class="fab fa-github"></i> GitHub
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://discordapp.com/invite/VYzsydb"><i class="fab fa-discord"></i>
+                            Discord</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.patreon.com/raoulvdberge"><i class="fab fa-patreon"></i>
+                            Patreon</a>
+                    </li>
+                </div>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<main role="main" class="pb-4">
+    {{template "body" .}}
+</main>
+
+<footer class="bg-light container d-flex justify-content-between pt-4 pb-2">
+    <p>&copy; Refined Mods 2020</p>
+    <div class="d-flex">
+        <p>Sponsored by</p>
+        <div class="creeperhost-logo">
+            <a href="https://www.creeperhost.net/partner/refinedstorage945">
+                &nbsp;
+            </a>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>

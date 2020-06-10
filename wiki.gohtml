@@ -1,0 +1,53 @@
+{{- /*gotype: github.com/refinedmods/sitegen/render.Wiki*/ -}}
+{{ define "body" }}
+    <div class="container pt-3">
+        <div class="page-title">
+            <h1 class="h2">
+                {{if .Wiki.Meta.Icon}}
+                    <img src="{{.Wiki.Meta.Icon}}" alt="{{.Wiki.Name}}" class="wiki-icon">
+                {{end}}
+                {{.Wiki.Name}}
+                {{range .Wiki.Meta.Tags}}
+                    <a style="font-size: 15px" href="/{{$.Project.Slug}}/releases/{{ (index $.Project.ReleasesByVersion .Release).Slug }}"
+                       class="badge {{if eq .Type "since"}}badge-primary{{else if eq .Type "removed"}}badge-danger{{end}}">{{if eq .Type "since"}}Since{{else if eq .Type "removed"}}Removed in{{end}}: {{.Release}}</a>
+                {{end}}
+            </h1>
+        </div>
+
+        <nav aria-label="breadcrumb" class="mb-3">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/{{.Project.Slug}}">{{.Project.Name}}</a></li>
+                <li class="breadcrumb-item"><a href="/{{.Project.Slug}}/wiki">Wiki</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{{ .Wiki.Name}}</li>
+            </ol>
+        </nav>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-header">
+                        <ul class="nav nav-tabs card-header-tabs">
+                            {{range .Project.WikiSidebars}}
+                                <li class="nav-item">
+                                    <a class="nav-link" data-toggle="tab" data-tab="{{.Name}}" href="#">{{.Name}}</a>
+                                </li>
+                            {{end}}
+                        </ul>
+                    </div>
+                    <div class="card-body">
+                        {{range .Project.WikiSidebars}}
+                            <div class="sidebar" id="_sidebar_{{.Name}}">
+                                {{.BodyHtml}}
+                            </div>
+                        {{end}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <article>
+                    {{.Body}}
+                </article>
+            </div>
+        </div>
+    </div>
+{{ end }}

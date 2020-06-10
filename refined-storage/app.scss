@@ -1,0 +1,17 @@
+$primary: #04dfd9;
+$font-family-sans-serif: Open Sans;
+$body-bg: rgb(248, 249, 250);
+
+@import "../app";
+
+.logo {
+    width: 122px;
+    height: 40px;
+    background: url(/assets/refined-storage/logo.png);
+
+    a {
+        width: 122px;
+        height: 40px;
+        display: block;
+    }
+}

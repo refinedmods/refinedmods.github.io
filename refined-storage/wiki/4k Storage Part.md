@@ -1,0 +1,1 @@
+The 4k Storage Part is used to craft the [[4k Storage Disk]].

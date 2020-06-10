@@ -1,0 +1,96 @@
+{
+  "name": "Refined Mods",
+  "url": "https://refinedmods.com",
+  "projects": [
+    {
+      "name": "Refined Storage",
+      "wikiPath": "refined-storage/wiki",
+      "wikiSidebars": [
+        {
+          "file": "refined-storage/wiki/sidebar/Guides.md",
+          "name": "Guides"
+        },
+        {
+          "file": "refined-storage/wiki/sidebar/Blocks.md",
+          "name": "Blocks"
+        },
+        {
+          "file": "refined-storage/wiki/sidebar/Items.md",
+          "name": "Items"
+        }
+      ],
+      "releaseGroups": [
+        {
+          "name": "Minecraft 1.9",
+          "source": "refined-storage/releases/minecraft-1.9.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.9.4",
+          "source": "refined-storage/releases/minecraft-1.9.4.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.10.2",
+          "source": "refined-storage/releases/minecraft-1.10.2.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.11",
+          "source": "refined-storage/releases/minecraft-1.11.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.11.2",
+          "source": "refined-storage/releases/minecraft-1.11.2.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.12",
+          "source": "refined-storage/releases/minecraft-1.12.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.12.1",
+          "source": "refined-storage/releases/minecraft-1.12.1.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.12.2",
+          "source": "refined-storage/releases/minecraft-1.12.2.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.14.4",
+          "source": "refined-storage/releases/minecraft-1.14.4.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.15.1",
+          "source": "refined-storage/releases/minecraft-1.15.1.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.15.2",
+          "source": "refined-storage/releases/minecraft-1.15.2.json",
+          "featured": true
+        }
+      ],
+      "templates": {
+        "index": "refined-storage/index.gohtml"
+      }
+    }
+  ],
+  "templates": {
+    "layout": "layout.gohtml",
+    "releaseBadge": "release-badge.gohtml",
+    "release": "release.gohtml",
+    "releases": "releases.gohtml",
+    "wiki": "wiki.gohtml",
+    "wikiIndex": "wiki-index.gohtml"
+  },
+  "copyDirectories": [
+    "dist",
+    "assets"
+  ]
+}

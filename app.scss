@@ -1,0 +1,58 @@
+@import "~bootstrap/scss/bootstrap";
+
+.page-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: ($spacer * .5);
+}
+
+img.wiki-icon {
+    width: 32px;
+    height: 32px;
+    margin-top: -5px;
+}
+
+img.wiki-tooltip-icon {
+    width: 32px;
+    heigth: 32px;
+}
+
+img.home-icon {
+    width: 48px;
+    height: 48px;
+}
+
+.creeperhost-logo {
+    background: url(/assets/creeperhost-logo.png);
+    width: 128px;
+    height: 32px;
+    margin-top: -4px;
+    margin-left: 5px;
+
+    a {
+        display: block;
+        width: 128px;
+        height: 32px;
+    }
+}
+
+.main-nav {
+    font-size: 0.8rem;
+}
+
+main {
+    background: #fff;
+}
+
+.sidebar {
+    display: none;
+}
+
+.wiki-heading-link {
+    font-size: 15px;
+    position: relative;
+    top: -1px;
+    visibility: hidden;
+}

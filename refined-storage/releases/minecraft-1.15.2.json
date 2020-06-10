@@ -1,0 +1,38 @@
+[
+  {
+    "version": "1.8.1",
+    "changelog": "Port to Minecraft 1.15.2 (raoulvdberge)\r\nThe Storage Monitor supports fluids as well now (V1RTUOZ)",
+    "type": "beta",
+    "date": "2020-01-30T10:51:34+00:00",
+    "links": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/files\/2871849"
+    },
+    "downloads": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/download\/2871849"
+    }
+  },
+  {
+    "version": "1.8.2",
+    "changelog": "Add Refined Storage silicon to forge:silicon tag for mod compatibility (jeremiahwinsley)\r\nUpdate pt_br translation (Arthur-o-b)\r\nAdded waterlogging to all cable blocks (Darkere)\r\nFixed storage block dropping extra processor (Darkere)\r\nCreate zh_tw translation (ForFunPenguin)\r\nRe-added zh_cn translation (ppoozl)",
+    "type": "beta",
+    "date": "2020-04-25T19:44:36+00:00",
+    "links": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/files\/2940434"
+    },
+    "downloads": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/download\/2940434"
+    }
+  },
+  {
+    "version": "1.8.3",
+    "changelog": "Added a new experimental autocrafting engine that's enabled by default. This should improve autocrafting performance (Darkere)\r\nWireless Transmitters can now be placed on any block and in any direction (raoulvdberge)\r\nFixed Exporter not exporting anything when using a Stack Upgrade and there isn't space for 64 items in the inventory (raoulvdberge)\r\nFixed Controller always using the base usage even when turned off (raoulvdberge)\r\nAdded the Regulator Upgrade that can be inserted into a Exporter. This ensures a certain amount of items and fluids is kept in stock in a connected inventory (raoulvdberge)\r\nFixed severe memory leak in the storage cache (raoulvdberge)\r\nAdded debug logging on the server when an expensive operation occurs (raoulvdberge)",
+    "type": "beta",
+    "date": "2020-04-29T17:38:52+00:00",
+    "links": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/files\/2943760"
+    },
+    "downloads": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/download\/2943760"
+    }
+  }
+]

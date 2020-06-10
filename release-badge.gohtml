@@ -1,0 +1,6 @@
+{{- /*gotype: github.com/refinedmods/sitegen/release.Release*/ -}}
+{{if eq .Type "beta"}}
+    <span class="badge bg-primary">Beta</span>
+{{else if eq .Type "alpha"}}
+    <span class="badge badge-warning">Alpha</span>
+{{end}}

@@ -1,0 +1,44 @@
+{{- /*gotype: github.com/refinedmods/sitegen/render.WikiIndex*/ -}}
+{{ define "body" }}
+    <div class="container pt-3">
+        <div class="page-title">
+            <h1 class="h2">Wiki</h1>
+        </div>
+
+        <nav aria-label="breadcrumb" class="mb-3">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/{{.Project.Slug}}">{{.Project.Name}}</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Wiki</li>
+            </ol>
+        </nav>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-header">
+                        <ul class="nav nav-tabs card-header-tabs">
+                            {{range .Project.WikiSidebars}}
+                                <li class="nav-item">
+                                    <a class="nav-link" data-toggle="tab" data-tab="{{.Name}}" href="#">{{.Name}}</a>
+                                </li>
+                            {{end}}
+                        </ul>
+                    </div>
+                    <div class="card-body">
+                        {{range .Project.WikiSidebars}}
+                            <div class="sidebar" id="_sidebar_{{.Name}}">
+                                {{.BodyHtml}}
+                            </div>
+                        {{end}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="jumbotron">
+                    <h2>Welcome to the wiki!</h2>
+                    <p>Navigate through the wiki by using the sidebar to your right.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+{{ end }}

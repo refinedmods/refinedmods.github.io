@@ -1,0 +1,1 @@
+The Cutting Tool is a tool that is used to craft [[Cover|covers]].
