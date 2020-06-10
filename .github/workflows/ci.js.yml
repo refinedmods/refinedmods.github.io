@@ -22,7 +22,7 @@ jobs:
       uses: actions/setup-node@v1
     - run: npm ci
     - run: npm run build
-    - run: sitegen build
+    - run: sudo sitegen build
     - uses: actions/upload-artifact@v2
       with:
         name: output
