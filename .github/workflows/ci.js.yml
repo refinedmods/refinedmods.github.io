@@ -7,7 +7,19 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  build-frontend:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+    - run: npm ci
+    - run: npm run build
+    - uses: actions/upload-artifact@v2
+      with:
+        name: data
+        path: .
+  generate-website:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -17,13 +29,7 @@ jobs:
       with:
         go-version: '^1.13.1'
     - run: go install
-    - uses: actions/checkout@v2
-    - name: Use Node.js
-      uses: actions/setup-node@v1
-    - run: npm ci
-    - run: npm run build
-    - run: sudo sitegen build
-    - uses: actions/upload-artifact@v2
+    - uses: actions/download-artifact@v2
       with:
-        name: output
-        path: output/
+        name: data
+    - run: sitegen build
