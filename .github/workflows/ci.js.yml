@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x, 14.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm ci
+    - run: npm run build
+    - uses: actions/checkout@v2
+      with:
+        repository: 'refinedmods/sitegen'
+    - uses: actions/setup-go@v2
+      with:
+        go-version: '^1.13.1' # The Go version to download (if necessary) and use.
+    - run: go install
+    - run: sitegen build
+    - uses: actions/upload-artifact@v2
+      with:
+        name: output
+        path: output/
