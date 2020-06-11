@@ -35,4 +35,4 @@ jobs:
       with:
         name: data
     - run: chown $USER sitegen
-    - run: sitegen -output build/ build
+    - run: ./sitegen -output build/ build
