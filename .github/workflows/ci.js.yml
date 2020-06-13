@@ -2,12 +2,11 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches:
+      - master
 
 jobs:
-  build:
+  build-frontend:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -16,6 +15,14 @@ jobs:
     - run: npm ci
     - run: npm run build
     - run: rm -rf node_modules
+    - uses: actions/upload-artifact@v2
+      with:
+        name: frontend-output
+        path: .
+  build-website:
+    runs-on: ubuntu-latest
+    needs: build-frontend
+    steps:
     - uses: actions/checkout@v2
       with:
         repository: 'refinedmods/sitegen'
@@ -23,6 +30,9 @@ jobs:
       with:
         go-version: '^1.13.1'
     - run: go build
+    - uses: actions/download-artifact@v2
+      with:
+        name: frontend-output
     - run: chown $USER sitegen
     - run: sudo ./sitegen build
     - uses: actions/upload-artifact@v2
@@ -31,7 +41,7 @@ jobs:
         path: output/
   deploy:
     runs-on: ubuntu-latest
-    needs: build
+    needs: build-website
     steps:
     - uses: actions/download-artifact@v2
       with:
