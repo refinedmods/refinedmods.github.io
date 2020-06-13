@@ -16,26 +16,26 @@ jobs:
     - run: npm ci
     - run: npm run build
     - run: rm -rf node_modules
-    - uses: actions/upload-artifact@v2
-      with:
-        name: data
-        path: .
-  generate-website:
-    runs-on: ubuntu-latest
-    needs: build-frontend
-    steps:
     - uses: actions/checkout@v2
       with:
         repository: 'refinedmods/sitegen'
+        path: 'sitegen/'
     - uses: actions/setup-go@v2
       with:
         go-version: '^1.13.1'
+    - run: cd sitegen
     - run: go build
+    - run: chown $USER sitegen
+    - run: cd ..
+    - run: sudo ./sitegen/sitegen build
+    - uses: actions/upload-artifact@v2
+      with:
+        name: output
+        path: output/
+  deploy:
     - uses: actions/download-artifact@v2
       with:
-        name: data
-    - run: chown $USER sitegen
-    - run: sudo ./sitegen build
+        name: output
     - uses: appleboy/scp-action@master
       with:
         host: ${{ secrets.HOST }}
