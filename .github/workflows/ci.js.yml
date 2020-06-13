@@ -43,5 +43,5 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
         source: "output/"
-        target: "public"
+        target: "/home/minecraft/refinedmods/public"
         rm: true
