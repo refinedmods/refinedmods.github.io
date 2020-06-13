@@ -45,3 +45,4 @@ jobs:
         source: "output/"
         target: "/home/minecraft/refinedmods/public"
         rm: true
+        strip_components: 1
