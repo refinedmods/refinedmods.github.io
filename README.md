@@ -1,4 +1,4 @@
-# website
+# website ![CI](https://github.com/refinedmods/website/workflows/CI/badge.svg)
 
 This is the website of Refined Mods.
 
