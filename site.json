@@ -79,6 +79,55 @@
       "templates": {
         "index": "refined-storage/index.gohtml"
       }
+    },
+    {
+      "name": "Ranged Pumps",
+      "wikiPath": "ranged-pumps/wiki",
+      "wikiSidebars": [
+        {
+          "file": "ranged-pumps/wiki/sidebar/Guides.md",
+          "name": "Guides"
+        },
+        {
+          "file": "ranged-pumps/wiki/sidebar/Blocks.md",
+          "name": "Blocks"
+        }
+      ],
+      "releaseGroups": [
+        {
+          "name": "Minecraft 1.10.2",
+          "source": "ranged-pumps/releases/minecraft-1.10.2.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.11.2",
+          "source": "ranged-pumps/releases/minecraft-1.11.2.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.12.2",
+          "source": "ranged-pumps/releases/minecraft-1.12.2.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.14.4",
+          "source": "ranged-pumps/releases/minecraft-1.14.4.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.15.1",
+          "source": "ranged-pumps/releases/minecraft-1.15.1.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.15.2",
+          "source": "ranged-pumps/releases/minecraft-1.15.2.json",
+          "featured": true
+        }
+      ],
+      "templates": {
+        "index": "ranged-pumps/index.gohtml"
+      }
     }
   ],
   "templates": {

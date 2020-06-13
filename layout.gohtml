@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="/dist/{{.Project.Slug}}.css">
     <script src="/dist/{{.Project.Slug}}.js"></script>
 
-    <title>Refined Mods - {{.Title}}</title>
+    <title>{{.Title}} - Refined Mods</title>
 </head>
 <body>
 
@@ -56,9 +56,15 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <div class="logo mr-3 mt-2 mb-2">
+            {{if eq .Project.Name "Refined Storage"}}
             <a class="navbar-brand" href="/{{.Project.Slug}}">
                 &nbsp;
             </a>
+            {{else if eq .Project.Name "Ranged Pumps"}}
+            <a class="navbar-brand" href="/{{.Project.Slug}}">
+                Ranged Pumps
+            </a>
+            {{end}}
         </div>
 
         <button class="navbar-toggler d-block d-lg-none d-xl-none" type="button" data-toggle="collapse"

@@ -3,6 +3,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 module.exports = {
     entry: {
         'refined-storage': './refined-storage/app.js',
+        'ranged-pumps': './ranged-pumps/app.js',
     },
     output: {
         filename: '[name].js',
