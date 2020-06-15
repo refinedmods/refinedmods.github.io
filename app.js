@@ -3,6 +3,8 @@ import 'tippy.js/dist/tippy.css';
 import 'tippy.js/themes/light.css';
 
 window.addEventListener('load', () => {
+    const currentProject = document.querySelector('body').getAttribute('data-project');
+
     const tooltips = document.querySelectorAll('[data-tooltip-icon]');
     tooltips.forEach(tooltip => {
         tippy(tooltip, {
@@ -16,12 +18,20 @@ window.addEventListener('load', () => {
 
     tippy('[data-tippy-content]');
 
-    if (localStorage.getItem('tab') === null) {
-        localStorage.setItem('tab', 'Guides');
+    const tabKey = 'tab_' + currentProject;
+    if (localStorage.getItem(tabKey) === null) {
+        localStorage.setItem(tabKey, currentProject === 'refined-storage-addons' ? 'Items' : 'Guides');
     }
 
-    document.querySelector('#_sidebar_' + localStorage.getItem('tab')).style.display = 'block';
-    document.querySelector('[data-tab="' + localStorage.getItem('tab') + '"]').classList.add('active');
+    const currentSidebar = document.querySelector('#_sidebar_' + localStorage.getItem(tabKey));
+    if (currentSidebar !== null) {
+        currentSidebar.style.display = 'block';
+    }
+
+    const currentSidebarTab = document.querySelector('[data-tab="' + localStorage.getItem(tabKey) + '"]');
+    if (currentSidebarTab !== null) {
+        currentSidebarTab.classList.add('active');
+    }
 
     document.querySelectorAll('[data-toggle="tab"]').forEach(tab => {
         tab.addEventListener('click', () => {
@@ -30,7 +40,7 @@ window.addEventListener('load', () => {
             document.querySelectorAll('.sidebar').forEach(item => item.style.display = 'none');
             document.querySelector('#_sidebar_' + name).style.display = 'block';
 
-            localStorage.setItem('tab', name);
+            localStorage.setItem(tabKey, name);
         });
     });
 

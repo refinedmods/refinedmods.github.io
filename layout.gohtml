@@ -12,7 +12,7 @@
 
     <title>{{.Title}} - Refined Mods</title>
 </head>
-<body>
+<body data-project="{{.Project.Slug}}">
 
 <nav class="navbar navbar-expand-md navbar-dark bg-dark main-nav d-none d-lg-block d-xl-block">
     <div class="container">
@@ -55,6 +55,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
+        <div class="d-flex">
         <div class="logo mr-3 mt-2 mb-2">
             {{if eq .Project.Name "Refined Storage"}}
             <a class="navbar-brand" href="/{{.Project.Slug}}">
@@ -64,7 +65,15 @@
             <a class="navbar-brand" href="/{{.Project.Slug}}">
                 Ranged Pumps
             </a>
+            {{else if eq .Project.Name "Refined Storage Addons"}}
+            <a class="navbar-brand" href="/{{.Project.Slug}}">
+                &nbsp;
+            </a>
             {{end}}
+        </div>
+        {{if eq .Project.Name "Refined Storage Addons"}}
+            <span class="addons">Addons</span>
+        {{end}}
         </div>
 
         <button class="navbar-toggler d-block d-lg-none d-xl-none" type="button" data-toggle="collapse"

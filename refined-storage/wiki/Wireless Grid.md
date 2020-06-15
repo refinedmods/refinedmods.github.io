@@ -1,6 +1,6 @@
 With the Wireless Grid the player can access their items from anywhere.
 
-To activate the Wireless Grid, the player has to right click the Wireless Grid on a [[Controller]] (if you're playing on Refined Storage 1.7.x or higher you can bind the [[#name]] by right clicking on any connected network device).
+To activate the Wireless Grid, the player has to right click the Wireless Grid on a [[Controller]]. If you're playing on Refined Storage 1.7.x or higher you can bind the [[#name]] by right clicking on any connected network device.
 
 To use the Wireless Grid the item needs Forge Energy. You'll have to charge it in a block that charges items from another mod.
 

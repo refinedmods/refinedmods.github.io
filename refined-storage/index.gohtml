@@ -185,7 +185,7 @@
                                             </div>
                                         </div>
                                         <p class="mb-0">{{ template "release-badge.gohtml" .LatestRelease  }}
-                                            Refined Storage {{.LatestRelease.Version}}</p>
+                                            {{$.Project.Name}} {{.LatestRelease.Version}}</p>
                                     </a>
                                 {{end}}
                             {{end}}

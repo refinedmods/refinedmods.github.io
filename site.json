@@ -81,6 +81,46 @@
       }
     },
     {
+      "name": "Refined Storage Addons",
+      "wikiPath": "refined-storage-addons/wiki",
+      "wikiSidebars": [
+        {
+          "file": "refined-storage-addons/wiki/sidebar/Items.md",
+          "name": "Items"
+        }
+      ],
+      "releaseGroups": [
+        {
+          "name": "Minecraft 1.12",
+          "source": "refined-storage-addons/releases/minecraft-1.12.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.12.2",
+          "source": "refined-storage-addons/releases/minecraft-1.12.2.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.14.4",
+          "source": "refined-storage-addons/releases/minecraft-1.14.4.json",
+          "featured": true
+        },
+        {
+          "name": "Minecraft 1.15.1",
+          "source": "refined-storage-addons/releases/minecraft-1.15.1.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.15.2",
+          "source": "refined-storage-addons/releases/minecraft-1.15.2.json",
+          "featured": true
+        }
+      ],
+      "templates": {
+        "index": "refined-storage-addons/index.gohtml"
+      }
+    },
+    {
       "name": "Ranged Pumps",
       "wikiPath": "ranged-pumps/wiki",
       "wikiSidebars": [
