@@ -46,5 +46,17 @@
     "downloads": {
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2966220"
     }
+  },
+  {
+    "version": "1.8.5",
+    "changelog": "Cancelling a crafting task now also unlocks all Crafters related to that task (Darkere)\nExternal Storage will now always show the exact maximum capacity as reported by the attached inventory (Darkere)\nCrafters no longer expose their inventory to the side they are facing (Darkere)\nFixed Portable Grid voiding the disk when extracting with full inventory (Darkere)\nFixed Constructor extracting 2 buckets when placing fluid (Darkere)\nFixed Stack Overflow error with regulator upgrades (Darkere)\nFixed visual bug with the Detector not updating its values (Darkere)\nFixed Constructor placing the filtered item instead of the extracted (Darkere)\nFixed duplication bug with filter slots (Darkere)\nFixed shift crafting in a Grid not using the player (Darkere)\nRe-added all the language files (TheDirectorX)\nAdded Japanese translation file (KusozakoAtama10k)\nChanged package name to \"com.refinedmods.refinedstorage\", this is a breaking change for addons (raoulvdberge)\nFixed bug where shift clicking gives too many items (Darkere)\n",
+    "type": "beta",
+    "date": "2020-06-18T04:34:00+00:00",
+    "links": {
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2982967"
+    },
+    "downloads": {
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2982967"
+    }
   }
 ]
