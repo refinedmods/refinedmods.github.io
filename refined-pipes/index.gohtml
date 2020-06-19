@@ -5,6 +5,7 @@
             <p class="lead">
                 Refined Pipes is a Minecraft mod that adds item, fluid and energy pipes.
             </p>
+            <hr class="my-4">
             <p>
                 The goal is to have the best standalone item, fluid and energy pipes.
             </p>
@@ -19,37 +20,87 @@
             <div class="col-md-8">
                 <div id="accordion">
                     <div class="card">
-                        <div class="card-header" id="blocks-name">
+                        <div class="card-header" id="item-pipes-name">
                             <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#blocks"
-                                        aria-expanded="true" aria-controls="blocks">
-                                    Blocks
+                                <button class="btn btn-link" data-toggle="collapse" data-target="#item-pipes"
+                                        aria-expanded="true" aria-controls="item-pipes">
+                                    Item pipes
                                 </button>
                             </h5>
                         </div>
 
-                        <div id="blocks" class="collapse show" aria-labelledby="blocks-name"
+                        <div id="item-pipes" class="collapse show" aria-labelledby="item-pipes-name"
                              data-parent="#accordion">
                             <div class="card-body">
-                                
+                                {{wikiIcon .Project "Basic Item Pipe"}}
+                                {{wikiIcon .Project "Improved Item Pipe"}}
+                                {{wikiIcon .Project "Advanced Item Pipe"}}
                             </div>
                         </div>
                     </div>
 
                     <div class="card">
-                        <div class="card-header" id="items-name">
+                        <div class="card-header" id="fluid-pipes-name">
                             <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#items"
-                                        aria-expanded="true" aria-controls="items">
-                                    Items
+                                <button class="btn btn-link" data-toggle="collapse" data-target="#fluid-pipes"
+                                        aria-expanded="true" aria-controls="fluid-pipes">
+                                    Fluid pipes
                                 </button>
                             </h5>
                         </div>
 
-                        <div id="items" class="collapse" aria-labelledby="items-name"
+                        <div id="fluid-pipes" class="collapse" aria-labelledby="fluid-pipes-name"
                              data-parent="#accordion">
                             <div class="card-body">
-                                
+                                {{wikiIcon .Project "Basic Fluid Pipe"}}
+                                {{wikiIcon .Project "Improved Fluid Pipe"}}
+                                {{wikiIcon .Project "Advanced Fluid Pipe"}}
+                                {{wikiIcon .Project "Elite Fluid Pipe"}}
+                                {{wikiIcon .Project "Ultimate Fluid Pipe"}}
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="energy-pipes-name">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link" data-toggle="collapse" data-target="#energy-pipes"
+                                        aria-expanded="true" aria-controls="energy-pipes">
+                                    Energy pipes
+                                </button>
+                            </h5>
+                        </div>
+
+                        <div id="energy-pipes" class="collapse" aria-labelledby="energy-pipes-name"
+                             data-parent="#accordion">
+                            <div class="card-body">
+                                {{wikiIcon .Project "Basic Energy Pipe"}}
+                                {{wikiIcon .Project "Improved Energy Pipe"}}
+                                {{wikiIcon .Project "Advanced Energy Pipe"}}
+                                {{wikiIcon .Project "Elite Energy Pipe"}}
+                                {{wikiIcon .Project "Ultimate Energy Pipe"}}
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="attachments-name">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link" data-toggle="collapse" data-target="#attachments"
+                                        aria-expanded="true" aria-controls="attachments">
+                                    Attachments
+                                </button>
+                            </h5>
+                        </div>
+
+                        <div id="attachments" class="collapse" aria-labelledby="attachments-name"
+                             data-parent="#accordion">
+                            <div class="card-body">
+                                {{wikiIcon .Project "Basic Extractor Attachment"}}
+                                {{wikiIcon .Project "Improved Extractor Attachment"}}
+                                {{wikiIcon .Project "Advanced Extractor Attachment"}}
+                                {{wikiIcon .Project "Elite Extractor Attachment"}}
+                                {{wikiIcon .Project "Ultimate Extractor Attachment"}}
                             </div>
                         </div>
                     </div>
