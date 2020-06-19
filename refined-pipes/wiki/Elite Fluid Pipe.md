@@ -1,4 +1,4 @@
-The Elite Fluid Pipe is a Tier IV pipe.
+The Elite Fluid Pipe is a Tier IV [[Fluid Pipe]].
 
 ## Properties
 |Property|Value|

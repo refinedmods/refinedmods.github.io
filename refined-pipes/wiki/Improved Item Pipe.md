@@ -1,4 +1,4 @@
-The Basic Item Pipe is a Tier II pipe.
+The Basic Item Pipe is a Tier II [[Item Pipe]].
 
 ## Properties
 |Property|Value|

@@ -1,0 +1,1 @@
+Exact Mode decides NBT sensitivity.

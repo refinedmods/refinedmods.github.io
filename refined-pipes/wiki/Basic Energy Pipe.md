@@ -1,4 +1,4 @@
-The Basic Energy Pipe is a Tier I pipe.
+The Basic Energy Pipe is a Tier I [[Energy Pipe]].
 
 ## Properties
 |Property|Value|

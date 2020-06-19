@@ -1,4 +1,4 @@
-The Advanced Fluid Pipe is a Tier III pipe.
+The Advanced Fluid Pipe is a Tier III [[Fluid Pipe]].
 
 ## Properties
 |Property|Value|

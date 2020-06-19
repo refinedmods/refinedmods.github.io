@@ -1,4 +1,4 @@
-The Ultimate Energy Pipe is a Tier V pipe.
+The Ultimate Energy Pipe is a Tier V [[Energy Pipe]].
 
 ## Properties
 |Property|Value|

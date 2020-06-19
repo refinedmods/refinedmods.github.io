@@ -1,4 +1,4 @@
-The Advanced Energy Pipe is a Tier III pipe.
+The Advanced Energy Pipe is a Tier III [[Energy Pipe]].
 
 ## Properties
 |Property|Value|

@@ -1,4 +1,4 @@
-The Improved Energy Pipe is a Tier II pipe.
+The Improved Energy Pipe is a Tier II [[Energy Pipe]].
 
 ## Properties
 |Property|Value|

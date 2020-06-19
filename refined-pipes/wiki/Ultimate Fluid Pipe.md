@@ -1,4 +1,4 @@
-The Ultimate Fluid Pipe is a Tier V pipe.
+The Ultimate Fluid Pipe is a Tier V [[Fluid Pipe]].
 
 ## Properties
 |Property|Value|

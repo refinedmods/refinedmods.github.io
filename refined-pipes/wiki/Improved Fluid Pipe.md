@@ -1,4 +1,4 @@
-The Improved Fluid Pipe is a Tier II pipe.
+The Improved Fluid Pipe is a Tier II [[Fluid Pipe]].
 
 ## Properties
 |Property|Value|

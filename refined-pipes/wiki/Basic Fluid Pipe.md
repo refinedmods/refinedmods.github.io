@@ -1,4 +1,4 @@
-The Basic Fluid Pipe is a Tier I pipe.
+The Basic Fluid Pipe is a Tier I [[Fluid Pipe]].
 
 ## Properties
 |Property|Value|

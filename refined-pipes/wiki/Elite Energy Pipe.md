@@ -1,4 +1,4 @@
-The Elite Energy Pipe is a Tier IV pipe.
+The Elite Energy Pipe is a Tier IV [[Energy Pipe]].
 
 ## Properties
 |Property|Value|
