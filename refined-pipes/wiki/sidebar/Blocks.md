@@ -11,3 +11,11 @@
 - [[Advanced Fluid Pipe]]
 - [[Elite Fluid Pipe]]
 - [[Ultimate Fluid Pipe]]
+
+**Energy pipes**
+
+- [[Basic Energy Pipe]]
+- [[Improved Energy Pipe]]
+- [[Advanced Energy Pipe]]
+- [[Elite Energy Pipe]]
+- [[Ultimate Energy Pipe]]
