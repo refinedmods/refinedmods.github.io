@@ -4,4 +4,4 @@ The Ultimate Fluid Pipe is a Tier V [[Fluid Pipe]].
 |Property|Value|
 |--------|-----|
 |Capacity|32.000 mB|
-|Transfer rate|3.200 mB/t|
+|Transfer rate|3200 mB/t|

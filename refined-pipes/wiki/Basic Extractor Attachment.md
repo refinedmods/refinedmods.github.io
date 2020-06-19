@@ -8,6 +8,6 @@ The Basic Extractor Attachment is a Tier I [[Extractor Attachment]].
 |Filter slots|0|
 |Controlling stack size|✔️|
 |Controlling [[Redstone mode]]|❌|
+|Controlling [[Exact mode]]|❌|
 |Controlling [[Filter mode]]|❌|
 |Controlling [[Routing mode]]|❌|
-|Controlling [[Exact mode]]|❌|
