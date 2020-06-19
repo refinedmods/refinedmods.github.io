@@ -2,14 +2,15 @@
 {{define "body"}}
     <div class="jumbotron bg-light pt-4 pb-5">
         <div class="container">
-            <div class="d-flex">
-                <img src="/assets/ranged-pumps/pump.png" class="img-thumbnail mr-5">
-                <div>
-                    <p class="lead">Ranged Pumps is a simple mod that adds a pump that pumps liquids in a range.</p>
-
-                    <a class="btn btn-primary btn-lg" href="/ranged-pumps/wiki/getting-started.html" role="button">Get started</a>
-                </div>
-            </div>
+            <p class="lead">
+                Refined Pipes is a Minecraft mod that adds item, fluid and energy pipes.
+            </p>
+            <p>
+                The goal is to have the best standalone item, fluid and energy pipes.
+            </p>
+            <p>
+                No external dependencies or special ores/ingots required.
+            </p>
         </div>
     </div>
 
@@ -30,7 +31,25 @@
                         <div id="blocks" class="collapse show" aria-labelledby="blocks-name"
                              data-parent="#accordion">
                             <div class="card-body">
-                                {{wikiIcon .Project "Pump"}}
+                                
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="items-name">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link" data-toggle="collapse" data-target="#items"
+                                        aria-expanded="true" aria-controls="items">
+                                    Items
+                                </button>
+                            </h5>
+                        </div>
+
+                        <div id="items" class="collapse" aria-labelledby="items-name"
+                             data-parent="#accordion">
+                            <div class="card-body">
+                                
                             </div>
                         </div>
                     </div>

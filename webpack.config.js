@@ -5,6 +5,7 @@ module.exports = {
         'refined-storage': './refined-storage/app.js',
         'refined-storage-addons': './refined-storage-addons/app.js',
         'ranged-pumps': './ranged-pumps/app.js',
+        'refined-pipes': './refined-pipes/app.js'
     },
     output: {
         filename: '[name].js',

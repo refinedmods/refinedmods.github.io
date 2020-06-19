@@ -168,6 +168,30 @@
       "templates": {
         "index": "ranged-pumps/index.gohtml"
       }
+    },
+    {
+      "name": "Refined Pipes",
+      "wikiPath": "refined-pipes/wiki",
+      "wikiSidebars": [
+        {
+          "file": "refined-pipes/wiki/sidebar/Blocks.md",
+          "name": "Blocks"
+        },
+        {
+          "file": "refined-pipes/wiki/sidebar/Items.md",
+          "name": "Items"
+        }
+      ],
+      "releaseGroups": [
+        {
+          "name": "Minecraft 1.15.2",
+          "source": "refined-pipes/releases/minecraft-1.15.2.json",
+          "featured": true
+        }
+      ],
+      "templates": {
+        "index": "refined-pipes/index.gohtml"
+      }
     }
   ],
   "templates": {

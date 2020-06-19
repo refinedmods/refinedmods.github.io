@@ -2,6 +2,16 @@ import tippy from 'tippy.js';
 import 'tippy.js/dist/tippy.css';
 import 'tippy.js/themes/light.css';
 
+function getDefaultSidebar(project) {
+    if (project === 'refined-storage-addons') {
+        return 'Items';
+    } else if (project === 'refined-pipes') {
+        return 'Blocks';
+    } else {
+        return 'Guides';
+    }
+}
+
 window.addEventListener('load', () => {
     const currentProject = document.querySelector('body').getAttribute('data-project');
 
@@ -20,7 +30,7 @@ window.addEventListener('load', () => {
 
     const tabKey = 'tab_' + currentProject;
     if (localStorage.getItem(tabKey) === null) {
-        localStorage.setItem(tabKey, currentProject === 'refined-storage-addons' ? 'Items' : 'Guides');
+        localStorage.setItem(tabKey, getDefaultSidebar(currentProject));
     }
 
     const currentSidebar = document.querySelector('#_sidebar_' + localStorage.getItem(tabKey));
