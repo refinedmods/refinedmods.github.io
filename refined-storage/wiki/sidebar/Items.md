@@ -19,6 +19,7 @@
   - [[Speed Upgrade]]
   - [[Stack Upgrade]]
   - [[Crafting Upgrade]]
+  - [[Regulator Upgrade]]
   - [[Fortune Upgrade]]
   - [[Silk Touch Upgrade]]
   - [[Interdimensional Upgrade]]

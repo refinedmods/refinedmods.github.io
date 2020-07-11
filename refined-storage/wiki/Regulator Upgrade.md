@@ -1,0 +1,9 @@
+The Regulator Upgrade is an upgrade that can be inserted into an [[Exporter]] to keep certain items or fluids in stock in the connected inventory.
+
+It will try to keep the connected inventory stocked by using items or fluids from the storage network.
+
+As soon as the upgrade is inserted, you can right click on a filtered item or fluid in the [[Exporter]] GUI to configure the amount to keep in stock.
+
+Additionally, the Regulator Upgrade can be combined with a [[Crafting Upgrade]] to start autocrafting tasks when the stock from the storage network runs out.
+
+By using this upgrade, the amount of FE/t that this device draws will increase.

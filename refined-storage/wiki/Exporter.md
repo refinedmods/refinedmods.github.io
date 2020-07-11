@@ -10,3 +10,4 @@ The Exporter should face the block it's exporting to in a way that the wanted sl
 - [[Speed Upgrade]]
 - [[Stack Upgrade]]
 - [[Crafting Upgrade]]
+- [[Regulator Upgrade]]
