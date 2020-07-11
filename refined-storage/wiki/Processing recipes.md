@@ -3,10 +3,10 @@ So far, in the [[Getting started with autocrafting|the first guide]] you learnt 
 
 What if you want to automate the creation of items that don't involve a crafting recipe, like ores to ingots in a furnace?
 
-For this you use processing patterns.
+For this you use processing [[Pattern|patterns]].
 
 ## Processing patterns
-You can create processing patterns in the [[Pattern Grid]] by toggling the "processing" checkbox.
+You can create processing [[Pattern|patterns]] in the [[Pattern Grid]] by toggling the "processing" checkbox.
 
 The GUI will change and it'll allow you to define up to 9 inputs and outputs.
 
@@ -21,8 +21,13 @@ In the output section you put 1 [Iron Ingot](https://minecraft.gamepedia.com/Iro
 ## Inserting the pattern
 Make a [[Crafter]] and let it face the machine in a way it can input it in the correct slot.
 
-Insert the processing pattern you just created in the [[Crafter]] facing the machine.
+Insert the processing [[Pattern]] you just created in the [[Crafter]] facing the machine.
 
 When you now request the item, Refined Storage will insert the inputs in the machine.
 
 You do need to get the item manually back in the storage network so Refined Storage knows that the item has been processed. You can use any device to get the item back in the storage network, like an [[Interface]] or [[Importer]].
+
+## Allowed tags
+The allowed tags system in Refined Storage allows the player to decide which items or fluids can be used as alternatives when the original specified item or fluid isn't found in the storage network.
+
+These tags are retrieved from Minecraft's tag system. You can specify the allowed tags in the [[Pattern Grid]].

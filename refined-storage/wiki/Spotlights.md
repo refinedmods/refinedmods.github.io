@@ -20,4 +20,4 @@ Sorted by version:
 - [Mod Spotlight: Refined Storage pt.3 - solderer automation](https://www.youtube.com/watch?v=J16-w1gDV7g) by [LHS_Buster](https://www.youtube.com/channel/UC0VOXyP9T4QHomFaLwnmMgw)
 
 ## Want to be listed here as well?
-Send a tweet to [@vdbergeraoul](https://twitter.com/vdbergeraoul).
+Send a tweet to [@refinedmods](https://twitter.com/refinedmods).

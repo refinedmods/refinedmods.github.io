@@ -24,10 +24,10 @@ You want to autocraft [chests](https://minecraft.gamepedia.com/Chest).
      - If you run out of planks, Refined Storage will not know what to do
   - If you don't create the pattern, and you don't have wooden planks, than Refined Storage will not know how to craft this item and the crafting task can't 
 	
-## Oredict
-By default, Refined Storage will try to extract and craft all the items declared as-is in the [[Pattern]].
+## Exact mode
+Exact mode is turned on by default which means every [[Pattern]] is an "exact pattern". This means Refined Storage takes items exactly as defined in the [[Pattern]].
 
-You can enable oredict mode for the [[Pattern]] you are creating in a [[Pattern Grid]]. By doing that, Refined Storage will not attempt an exact extract, but will extract items that match in the ore dictionary.
+When Exact mode is turned off it will also match for other acceptable inputs for that crafting recipe (other types of wood, etc).
 
 ## Crafters
 Once you created your [[Pattern|patterns]], craft a [[Crafter]] and connect it to your storage network.

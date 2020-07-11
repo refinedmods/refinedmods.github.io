@@ -1,3 +1,5 @@
+**NOTE:** This command is only available in MC 1.12. It will be introduced for later MC versions in the future.
+
 Use the `/createdisk` command to spawn in a disk with a given ID.
 
 ## Usage

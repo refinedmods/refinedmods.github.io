@@ -1,8 +1,8 @@
 There are various addons for Refined Storage available.
 
-**[Refined Storage Addons](https://minecraft.curseforge.com/projects/refined-storage-addons) by [raoulvdberge](https://minecraft.curseforge.com/members/raoulvdberge)**
+**[Refined Storage Addons](https://minecraft.curseforge.com/projects/refined-storage-addons) by Refined Mods**
 
-This is an addon mod for Refined Storage, from the original Refined Storage author. [Read more...](/wiki/refined-storage-addons)
+This is an addon mod for Refined Storage, from the original Refined Storage author. [Read more...](/refined-storage-addons)
 
 **[Storage Tech](https://minecraft.curseforge.com/projects/storage-tech) by [cyrilgenin](https://minecraft.curseforge.com/members/cyrilgenin)**
 
