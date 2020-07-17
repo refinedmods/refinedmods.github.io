@@ -22,5 +22,17 @@
     "downloads": {
       "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/download\/3004744"
     }
+  },
+  {
+    "version": "1.9.2",
+    "changelog": "Fixed crash with Forge version 67 (Darkere)\nFixed cases where Refined Storage unwillingly acts like a chunkloader (raoulvdberge)\nFixed Network Transmitters being able to connect to any network device (raoulvdberge)\nFixed Crafting Tweaks buttons being in the wrong position after changing the size configuration of the Grid (raoulvdberge)\nNetworks that are in a chunk that isn't loaded will no longer work, they will turn off. Chunkload the Controller to maintain a functioning network over long distances (Darkere/raoulvdberge)\nRe-added interdimensional networks with the Network Transmitter and Network Receiver (raoulvdberge)\nRe-added MouseTweaks integration (raoulvdberge)",
+    "type": "beta",
+    "date": "2020-07-17T11:18:00+00:00",
+    "links": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/files\/3007496"
+    },
+    "downloads": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/download\/3007496"
+    }
   }
 ]
