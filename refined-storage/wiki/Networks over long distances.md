@@ -28,4 +28,4 @@ The [[Controller]] in your main base and the [[Network Receiver]] in the other a
 After linking, both areas have to stay chunkloaded.
 
 ## Using Refined Storage 1.7.x or 1.8.x?
-Cross dimensional functionality isn't available at the moment, this will return later.
+Cross dimensional functionality isn't available in this version.
