@@ -7,6 +7,7 @@
 - [[Alternative ways to access a storage]]
 - [[Readers and Writers]]
 - [[Networks over long distances]]
+- [[Commands]]
 
 **Autocrafting**
 
@@ -24,10 +25,6 @@
 - [[Keeping fluids in stock]]
 - [[Autocrafting with filled buckets]]
 - [Fluid autocrafting (demo video)](https://www.youtube.com/watch?v=6v-e_NdLEnI)
-
-**Commands**
-
-- [[createdisk|/createdisk]]
 
 **Integrations**
 

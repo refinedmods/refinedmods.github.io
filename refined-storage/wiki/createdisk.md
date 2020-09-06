@@ -1,4 +1,4 @@
-**NOTE:** This command is only available in MC 1.12. It will be introduced for later MC versions in the future.
+**NOTE:** This command is only available for Minecraft 1.12.2 on Refined Storage version 1.6.x. [[Commands|Since Refined Storage 1.9.5 for Minecraft 1.16.2 there is a new command available]].
 
 Use the `/createdisk` command to spawn in a disk with a given ID.
 

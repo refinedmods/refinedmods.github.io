@@ -22,5 +22,17 @@
     "downloads": {
       "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/download\/3045898"
     }
+  },
+  {
+    "version": "1.9.5",
+    "changelog": "Re-added the /refinedstorage disk create <player> <id> command (raoulvdberge)\nAdded the /refinedstorage disk list command (raoulvdberge)\nAdded the /refinedstorage disk list <player> command (raoulvdberge)\nAdded the /refinedstorage network list <dimension> command (raoulvdberge)\nAdded the /refinedstorage network get <dimension> <pos> command (raoulvdberge)\nAdded the /refinedstorage network get <dimension> <pos> autocrafting list command (raoulvdberge)\nAdded the /refinedstorage network get <dimension> <pos> autocrafting get <id> command (raoulvdberge)\nAdded the /refinedstorage network get <dimension> <pos> autocrafting cancel command (raoulvdberge)\nAdded the /refinedstorage network get <dimension> <pos> autocrafting cancel <id> command (raoulvdberge)\nAdded JEI ghost ingredient dragging support (raoulvdberge)\nFixed text field not being focused in amount specifying screens (raoulvdberge)",
+    "type": "release",
+    "date": "2020-09-06T01:31:00+00:00",
+    "links": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/files\/3050769"
+    },
+    "downloads": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/download\/3050769"
+    }
   }
 ]
