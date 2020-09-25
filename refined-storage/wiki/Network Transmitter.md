@@ -2,5 +2,7 @@ A Network Transmitter sends a network signal to a [[Network Receiver]] that is s
 
 In order for the Network Transmitter to work the [[Controller]] where the Network Transmitter is connected to has to be chunkloaded.
 
+[[@Recoloring]]
+
 ## Using Refined Storage 1.7.x or 1.8.x?
 Cross dimensional functionality isn't available in this version.

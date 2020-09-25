@@ -17,3 +17,5 @@ When no item or fluid is specified, the criteria won't care about the item or fl
 When the Detector is in fluid mode, the amount given should be in millibuckets (mB).
 
 If you want to check for 1 bucket of water, use 1000 and not 1.
+
+[[@Recoloring]]

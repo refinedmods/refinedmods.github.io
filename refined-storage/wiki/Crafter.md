@@ -21,5 +21,7 @@ The (un)locking mechanism is used to block the Crafter, so it can't insert items
 
 See [[Locking and unlocking]] for more details.
 
+[[@Recoloring]]
+
 ## Applicable upgrades
 - [[Speed Upgrade]]

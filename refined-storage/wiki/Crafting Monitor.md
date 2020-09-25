@@ -19,3 +19,5 @@ The size of any Crafting Monitor can be configured as well:
 - Large
 
 When choosing the stretched size, the Crafting Monitor will take up all the vertical screen space. This can be limited through the `maxRowsStretch` config option.
+
+[[@Recoloring]]

@@ -12,5 +12,7 @@ The wireless signal starts from the Wireless Transmitter's position, so, if you 
 
 Instead, you have to spread your wireless transmitters around.
 
+[[@Recoloring]]
+
 ## Applicable upgrades
 - [[Range Upgrade]]

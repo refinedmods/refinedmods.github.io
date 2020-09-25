@@ -68,3 +68,5 @@ By default, the Grid doesn't perform sorting when you're shift clicking items ou
 As soon as you stop pressing the shift key, the view is sorted again.
 
 To disable this behavior, modify the `preventSortingWhileShiftIsDown` config option.
+
+[[@Recoloring]]

@@ -8,6 +8,8 @@ The whitelist or blacklist can be configured to be NBT or damage sensitive.
 ## Mode
 The player can also choose whether to insert items to the storage network or extract items from the storage network.
 
+[[@Recoloring]]
+
 ## Applicable upgrades
 - [[Speed Upgrade]]
 - [[Stack Upgrade]]

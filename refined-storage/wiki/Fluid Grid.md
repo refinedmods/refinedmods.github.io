@@ -11,3 +11,5 @@ Players can extract the fluid by clicking on it. The Fluid Grid will then fill a
 Refined Storage will first search an empty bucket in your inventory. If none is found, a bucket will be searched in your storage network.
 
 Some fluids cannot be filled in a bucket, then the only way to extract those fluids is by using an [[Exporter]].
+
+[[@Recoloring]]

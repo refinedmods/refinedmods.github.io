@@ -37,3 +37,5 @@ Click on the item or fluid to change the quantity.
 Use CTRL + click to modify the allowed tags for the input slot (MC 1.14.4 and above).
 
 Use shift to clear the slot.
+
+[[@Recoloring]]

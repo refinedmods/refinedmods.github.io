@@ -27,3 +27,5 @@ The placer of the Security Manager will always be able to open it's GUI and chan
 |Modify|Opening block GUIs from the network|
 |Build|Adding or removing devices to or from the network|
 |Security|Ability to change security options|
+
+[[@Recoloring]]

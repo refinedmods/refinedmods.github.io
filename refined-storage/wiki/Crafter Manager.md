@@ -20,3 +20,5 @@ One can configure the Crafter Manager size:
 When choosing the stretched size, the Crafter Manager will take up all the vertical screen space. This can be limited through the `maxRowsStretch` config option.
 
 [[@Search Box Info]]
+
+[[@Recoloring]]

@@ -20,3 +20,5 @@ When the Controller is broken, it will maintain its energy.
 Each Refined Storage network can only have a single Controller. It doesn't make sense to connect multiple controllers on the same network.
 
 If you connect another Controller to an already existing network, the Controller will break.
+
+[[@Recoloring]]
