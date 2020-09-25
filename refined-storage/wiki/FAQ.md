@@ -11,6 +11,7 @@ Refined Storage doesn't do config options for features or things that change beh
 The philosophy of the mod is to have as less overlap with other mods and to only focus on the storage network part of the mod. If other mods are required to achieve something, that isn't a problem.
 
 Examples:
+
 - Autocrafting needs an external bucket filling machine in order to convert fluids to buckets
 - Energy that Refined Storage uses needs to be generated with another mod
 
