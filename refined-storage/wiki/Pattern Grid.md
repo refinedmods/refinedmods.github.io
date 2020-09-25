@@ -25,6 +25,10 @@ The Pattern Grid integrates with [JEI (Just Enough Items)](https://minecraft.cur
 
 You don't necessarily need the actual items in your storage network to create a [[Pattern]] for it.
 
+Refined Storage will warn you when you don't have the required item present in your inventory, storage network or crafting matrix. Even with this warning, you can still transfer items.
+
+If you don't have some required items, but autocrafting is available for said items, you can press CTRL + CLICK to start autocrafting for said items. Note that you need a [[Pattern]] configured for these items.
+
 ## Manual input/output configuration
 Click an item or fluid in the slots to configure the [[Pattern]].
 

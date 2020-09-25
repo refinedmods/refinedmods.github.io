@@ -57,3 +57,14 @@ The Grid can be configured to only show craftable items or only non-craftable it
 By default, the tooltips for items in a Grid are a little bit bigger to display the total item count and the last modified information. This can be turned off by using the `detailedTooltip` config option.
 
 By default, the Grid uses a small font size to display item or fluid quantities. Use the `largeFont` config option to change this.
+
+## Remember search query
+
+The Grid can be configured to remember the search query when closing and re-opening the GUI. You can do this by modifying the `rememberSearchQuery` config option.
+
+## Prevent sorting while shift is down
+By default, the Grid doesn't perform sorting when you're shift clicking items out of the storage network. This is done to prevent items and fluids shifting around your screen.
+
+As soon as you stop pressing the shift key, the view is sorted again.
+
+To disable this behavior, modify the `preventSortingWhileShiftIsDown` config option.
