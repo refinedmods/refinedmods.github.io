@@ -2,6 +2,23 @@ The Grid is a block that allows access to the items and fluids in the storage ne
 
 The player can extract items or fluids from the central GUI.
 
+## Controls
+
+Type                                           | Description
+-----------------------------------------------|-----------------------------------------------------------------
+Left click                                     | Takes at most 64 items
+Right click                                    | Takes at most 32 items
+Middle click                                   | Takes 1 item (removed since v1.9.7)
+SHIFT + Mouse scroll in the player inventory   | Pushes 1 item to or from the player's inventory (since v1.9.7)
+SHIFT + Mouse scroll in the Grid inventory     | Pushes 1 item to or from the Grid inventory (since v1.9.7)
+CTRL + Mouse scroll                            | Pushes 1 item to or from the player's mouse (since v1.9.7)
+SHIFT                                          | Pushes the items to the player's inventory
+SHIFT + CTRL                                   | Forces the crafting window to open *even if the item or fluid is available*
+CTRL + X                                       | Clears crafting matrix
+Right click on search bar                      | Clears the search query
+Tab                                            | Selects the search bar when the Grid isn't in autoselection mode
+When in the crafting start GUI, pressing SHIFT | Skips the crafting preview window
+
 ## Sorting
 The items or fluids in a Grid can be sorted in various ways:
 
@@ -34,22 +51,6 @@ The size of any Grid can be configured as well:
 - Large
 
 When choosing the stretched size, the Grid will take up all the vertical screen space. This can be limited through the `maxRowsStretch` config option.
-
-## Controls
-
-Type                                           | Description
------------------------------------------------|-----------------------------------------------------------------
-Left click                                     | Takes at most 64 items
-Right click                                    | Takes at most 32 items
-Middle click                                   | Takes 1 item
-SHIFT                                          | Pushes the items to the player's inventory
-SHIFT + CTRL                                   | Forces the crafting window to open even if the item is available
-CTRL + X                                       | Clears crafting matrix
-Right click on search bar                      | Clears the search query
-Tab                                            | Selects the search bar when the Grid isn't in autoselection mode
-When in the crafting start GUI, pressing SHIFT | Skips the crafting preview window
-
-These controls can be combined. For example, pressing SHIFT and middle click at the same time will push 1 item to the player inventory.
 
 ## Display
 The Grid can be configured to only show craftable items or only non-craftable items.
