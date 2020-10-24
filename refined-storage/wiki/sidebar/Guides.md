@@ -1,5 +1,6 @@
 **Using the mod**
 
+- [[How to install]]
 - [[Getting started]]
 - [[Getting items in and out]]
 - [[Storing externally]]
@@ -37,7 +38,6 @@
 
 - [[Spotlights]]
 - [[FAQ]]
-- [[Addons]]
 - [[Minecraft version support]]
 - [[Playing on development builds]]
 - [[Resource packs|For resource pack creators]]

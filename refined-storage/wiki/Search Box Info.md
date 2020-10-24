@@ -5,6 +5,8 @@
 |Normal (autoselected)|Autoselects the search box|
 |JEI synchronized|Synchronizes the search box with JEI|
 |JEI synchronized (autoselected)|Synchronizes the search box with JEI and autoselects the search box|
+|JEI synchronized (two-way)|Synchronizes the search box with JEI and synchronizes JEI with the search box|
+|JEI synchronized (two-way autoselected)|Synchronizes the search box with JEI, synchronizes JEI with the search box and autoselects the search box|
 
 ## Search box filters
 ### Mod ID or name

@@ -22,5 +22,17 @@
     "downloads": {
       "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/download\/3071888"
     }
+  },
+  {
+    "version": "1.9.8",
+    "changelog": "Fixed server crash when scrolling in Grid (Darkere)\nFixed various issues with Grid interactions working without power (Darkere)\nFixed changing rotation not updating blocks (Darkere)\nAdded a JEI synchronized (two-way) search box mode to the Grid (ScoreUnder)\nAdded a nag message when a player joins the world that asks the player to enable the experimental Forge lighting pipeline to ensure correct rendering (raoulvdberge)",
+    "type": "release",
+    "date": "2020-10-24T06:01:00+00:00",
+    "links": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/files\/3091433"
+    },
+    "downloads": {
+      "curseforge": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/refined-storage\/download\/3091433"
+    }
   }
 ]
