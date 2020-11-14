@@ -12,7 +12,7 @@ Before crafting any of these devices, you'll first craft a [[Controller]], which
 ### Step 1: The [[Controller]]
 Craft the [[Controller]]. The [[Controller]] is the "core" of your storage network. You'll be connecting all the Refined Storage devices to this block.
 
-The [[Controller]] needs Forge Energy, most mods can generate this.
+The [[Controller]] needs energy. More specifically, Forge Energy or RF. Lots of mods that generate energy support this.
 
 ### Step 2: Storage and accessing your items
 Craft a [[Disk Drive]] and a [[1k Storage Disk]] to store your items.
