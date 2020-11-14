@@ -9,6 +9,9 @@ Before crafting any of these devices, you'll first craft a [[Controller]], which
 
 ## A minimal setup
 
+### Step 0: Installing optional dependencies
+Refined Storage works perfectly without any additional mods, [[How to install|but you might want to include some extra mods to make your life easier#optional-dependencies]].
+
 ### Step 1: The [[Controller]]
 Craft the [[Controller]]. The [[Controller]] is the "core" of your storage network. You'll be connecting all the Refined Storage devices to this block.
 

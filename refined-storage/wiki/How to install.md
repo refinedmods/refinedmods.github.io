@@ -24,3 +24,9 @@ Changing the configuration isn't needed in most cases. If you need to do this, y
 - Change client-specific configuration in `config/refinedstorage-client.toml`
 
 Note that server-specific configuration also applies to single player worlds. That is because when you're playing single player, Minecraft uses an internal server.
+
+## Optional dependencies
+Refined Storage can work perfectly by itself without any additional mods, but it's helpful to install a few other mods alongside it.
+
+- Just Enough Items: This mod will help you view the recipes of the various items and blocks in the mod.
+- A mod that can generate Forge Energy or RF: A Refined Storage network requires energy to run. If you do not want to generate energy, you can disable energy usage in the Refined Storage server-side config (see section above "Configuring the mod"). Change `useEnergy` under `[controller]` to `false`.
