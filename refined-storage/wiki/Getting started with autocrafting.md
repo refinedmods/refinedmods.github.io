@@ -39,7 +39,9 @@ As soon as the relevant [[Pattern|patterns]] to craft an item are stored in a [[
 
 You can do this by clicking on the item you want to autocraft. If the item is already available and you want to request more of that item, you can use the CTRL + SHIFT key combination to open the crafting window.
 
-When requesting an item, Refined Storage will first ask how many of that item you want to craft. Then, it will show you what items it will take or craft. If you have missing items, the crafting task will only be startable if you press CTRL + SHIFT.
+When requesting an item, Refined Storage will first ask how many of that item you want to craft. Then, it will show you what items it will take or craft.
+
+You can't start an autocrafting task if you have insufficient resources, unless you have the ability to autocraft those resources.
 
 ## Monitoring your crafting tasks
 Craft a [[Crafting Monitor]] and connect it to your storage network to see how the crafting task is progressing.
