@@ -33,6 +33,7 @@
 - CraftingTweaks
 - Funky Locomotion
 - Just Enough Items
+- Curios
 
 **About the mod**
 
