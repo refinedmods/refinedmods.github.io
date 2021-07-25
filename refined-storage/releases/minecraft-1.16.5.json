@@ -1,0 +1,38 @@
+[
+  {
+    "version": "1.9.13",
+    "changelog": "Fixed count on Storage Monitor having Z fighting (tivec)\nFixed items on Storage Monitor not being flat (raoulvdberge)\nRemoved experimental pipeline nagging message (raoulvdberge)\nFixed crash when using an External Storage on a fluid inventory (jeremiahwinsley)\nAdded some performance improvements for autocrafting (necauqua, Darkere)\nFixed a memory leak in the pattern cache (necauqua)\nFixed Detector crashing when dyed (Darkere)\nFixed autocrafting being stuck after clicking \"Start\" (necauqua)\nFixed Crafting Monitor not being able to show hours (Darkere)\nFixed capacity rendering of infinite storages (Darkere)\nFixed wrong alignment for the JEI request autocrafting tooltip (Darkere)\nFixed mobs getting stuck in Refined Storage cables (Darkere)\nFixed dismantling storage blocks ignoring stack size (Darkere)\nFixed Ice and Fire banners breaking with Refined Storage (Darkere, necauqua)\nFixed empty keybinding causing GL errors (Darkere)\nFixed some parts of the Japanese translation (akihironagai)\nFixed rendering issue on blocks when using OptiFine (ylou)",
+    "type": "release",
+    "date": "2021-06-14T11:05:00+00:00",
+    "links": {
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3351933"
+    },
+    "downloads": {
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3351933"
+    }
+  },
+  {
+    "version": "1.9.14",
+    "changelog": "Implemented Curios support (Darkere)",
+    "type": "release",
+    "date": "2021-07-25T01:37:00+00:00",
+    "links": {
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3400209"
+    },
+    "downloads": {
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3400209"
+    }
+  },
+  {
+    "version": "1.9.15",
+    "changelog": "Fixed Refined Storage Addons compatibility (Darkere)",
+    "type": "release",
+    "date": "2021-07-25T07:59:00+00:00",
+    "links": {
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3400575"
+    },
+    "downloads": {
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3400575"
+    }
+  }
+]

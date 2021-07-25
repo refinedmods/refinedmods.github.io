@@ -88,11 +88,16 @@
         {
           "name": "Minecraft 1.16.3",
           "source": "refined-storage/releases/minecraft-1.16.3.json",
-          "featured": true
+          "featured": false
         },
         {
           "name": "Minecraft 1.16.4",
           "source": "refined-storage/releases/minecraft-1.16.4.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.16.5",
+          "source": "refined-storage/releases/minecraft-1.16.5.json",
           "featured": true
         }
       ],
@@ -148,6 +153,11 @@
         {
           "name": "Minecraft 1.16.3",
           "source": "refined-storage-addons/releases/minecraft-1.16.3.json",
+          "featured": false
+        },
+        {
+          "name": "Minecraft 1.16.5",
+          "source": "refined-storage-addons/releases/minecraft-1.16.5.json",
           "featured": true
         }
       ],
