@@ -8,8 +8,11 @@
                 {{end}}
                 {{.Wiki.Name}}
                 {{range .Wiki.Meta.Tags}}
-                    <a style="font-size: 15px" href="/{{$.Project.Slug}}/releases/{{ (index $.Project.ReleasesByVersion .Release).Slug }}"
-                       class="badge {{if eq .Type "since"}}badge-primary{{else if eq .Type "removed"}}badge-danger{{end}}">{{if eq .Type "since"}}Since{{else if eq .Type "removed"}}Removed in{{end}}: {{.Release}}</a>
+                    {{if index $.Project.ReleasesByVersion .Release}}
+                        <a style="font-size: 15px" href="/{{$.Project.Slug}}/releases/{{ (index $.Project.ReleasesByVersion .Release).Slug }}" class="badge {{if eq .Type "since"}}badge-primary{{else if eq .Type "removed"}}badge-danger{{end}}">{{if eq .Type "since"}}Since{{else if eq .Type "removed"}}Removed in{{end}}: {{.Release}}</a>
+                    {{else}}
+                        <span style="font-size: 15px" class="badge {{if eq .Type "since"}}badge-primary{{else if eq .Type "removed"}}badge-danger{{end}}">{{if eq .Type "since"}}Since{{else if eq .Type "removed"}}Removed in{{end}}: {{.Release}}</span>
+                    {{end}}
                 {{end}}
             </h1>
         </div>
