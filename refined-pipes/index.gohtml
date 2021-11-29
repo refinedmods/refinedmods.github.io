@@ -107,43 +107,12 @@
                 </div>
             </div>
             <div class="col-md-4">
-                {{if .Project.LatestStableRelease}}
-                    <div class="card mb-4">
-                        <div class="card-header">
-                            Latest stable release
-                        </div>
-                        <div class="card-body text-center">
-                            <h5 class="card-title">{{.Project.Name}} {{.Project.LatestStableRelease.Version}}</h5>
-                            <p class="card-text">{{.Project.LatestStableRelease.Group.Name}}</p>
-                            <a href="/{{.Project.Slug}}/releases/{{.Project.LatestStableRelease.Slug}}"
-                               class="btn btn-primary">Download</a>
-                        </div>
-                    </div>
-                {{end}}
-
                 <div class="card">
                     <div class="card-header">
-                        Latest releases
+                        Releases
                     </div>
-                    <div class="card-body p-0 m-0">
-                        <div class="list-group list-group-flush">
-                            {{range .Project.ReleaseGroupsReversed}}
-                                {{if .Featured}}
-                                    <a class="list-group-item list-group-item-action"
-                                       href="/{{$.Project.Slug}}/releases/{{.LatestRelease.Slug}}">
-                                        <div class="d-flex justify-content-between">
-                                            <strong>{{.Name}}</strong>
-
-                                            <div class="mt-sm">
-                                                <span class="fa fa-download mt-sm"></span>
-                                            </div>
-                                        </div>
-                                        <p class="mb-0">{{ template "release-badge.gohtml" .LatestRelease  }}
-                                            {{$.Project.Name}} {{.LatestRelease.Version}}</p>
-                                    </a>
-                                {{end}}
-                            {{end}}
-                        </div>
+                    <div class="card-body">
+                        <p class="pb-0 mb-0">Find releases on <a href="https://www.curseforge.com/minecraft/mc-mods/refined-pipes">CurseForge</a>.</p>
                     </div>
                 </div>
             </div>
