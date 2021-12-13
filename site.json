@@ -253,7 +253,8 @@
     "release": "release.gohtml",
     "releases": "releases.gohtml",
     "wiki": "wiki.gohtml",
-    "wikiIndex": "wiki-index.gohtml"
+    "wikiIndex": "wiki-index.gohtml",
+    "index": "index.gohtml"
   },
   "copyDirectories": [
     "dist",

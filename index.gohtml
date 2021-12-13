@@ -1,0 +1,19 @@
+{{- /*gotype: github.com/refinedmods/sitegen/render.Index*/ -}}
+{{ define "body" }}
+    <div class="container pt-3">
+        <div class="page-title">
+            <h1 class="h2">Home</h1>
+        </div>
+
+        <p>Welcome to the home of Refined Mods!</p>
+        <p>Which project are you looking for?</p>
+
+        <ul>
+            {{range $i, $project := .Site.Projects}}
+                <li>
+                    <a class="nav-link" href="/{{$project.Slug}}">{{$project.Name}}</a>
+                </li>
+            {{end}}
+        </ul>        
+    </div>
+{{ end }}
