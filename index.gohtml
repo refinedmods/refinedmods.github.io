@@ -11,7 +11,7 @@
         <ul>
             {{range $i, $project := .Site.Projects}}
                 <li>
-                    <a class="nav-link" href="/{{$project.Slug}}">{{$project.Name}}</a>
+                    <a href="/{{$project.Slug}}">{{$project.Name}}</a>
                 </li>
             {{end}}
         </ul>        
