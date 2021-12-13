@@ -1,5 +1,14 @@
 @import "~bootstrap/scss/bootstrap";
 
+a {
+    text-decoration: none;
+}
+
+.breadcrumb {
+    background: $light;
+    padding: $spacer;
+}
+
 .page-title {
   display: flex;
   justify-content: space-between;
@@ -16,7 +25,7 @@ img.wiki-icon {
 
 img.wiki-tooltip-icon {
     width: 32px;
-    heigth: 32px;
+    height: 32px;
 }
 
 img.home-icon {
@@ -55,4 +64,8 @@ main {
     position: relative;
     top: -1px;
     visibility: hidden;
+}
+
+#content-accordion .accordion-body a {
+    text-decoration: none;
 }

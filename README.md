@@ -1,4 +1,4 @@
-# website ![CI](https://github.com/refinedmods/website/workflows/CI/badge.svg)
+# website [![Deploy Status](https://github.com/refinedmods/website/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/refinedmods/website/actions/workflows/deploy.yml)
 
 This is the website of Refined Mods.
 

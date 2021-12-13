@@ -1,6 +1,6 @@
 {{- /*gotype: github.com/refinedmods/sitegen/render.ProjectIndex*/ -}}
 {{define "body"}}
-    <div class="jumbotron bg-light pt-4 pb-5">
+    <div class="jumbotron bg-light pt-4 pb-4 mb-4">
         <div class="container">
             <p class="lead">Refined Storage is a mass storage mod for Minecraft that offers the player a
                 network-based storage system, allowing them to store items and fluids on a massively expandable
@@ -24,20 +24,15 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <div id="accordion" class="mb-4">
-                    <div class="card">
-                        <div class="card-header" id="blocks-name">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#blocks"
-                                        aria-expanded="true" aria-controls="blocks">
-                                    Blocks
-                                </button>
-                            </h5>
-                        </div>
-
-                        <div id="blocks" class="collapse show" aria-labelledby="blocks-name"
-                             data-parent="#accordion">
-                            <div class="card-body">
+                <div class="accordion mb-4" id="content-accordion">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="content-accordion-blocks-heading">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-blocks" aria-expanded="true" aria-controls="content-accordion-blocks">
+                                Blocks
+                            </button>
+                        </h2>
+                        <div id="content-accordion-blocks" class="accordion-collapse collapse show" aria-labelledby="content-accordion-blocks-heading" data-bs-parent="#content-accordion">
+                            <div class="accordion-body">
                                 {{wikiIcon .Project "Controller"}}
                                 {{wikiIcon .Project "Grid"}}
                                 {{wikiIcon .Project "Crafting Grid"}}
@@ -85,20 +80,14 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="card">
-                        <div class="card-header" id="items-name">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#items"
-                                        aria-expanded="true" aria-controls="items">
-                                    Items
-                                </button>
-                            </h5>
-                        </div>
-
-                        <div id="items" class="collapse" aria-labelledby="items-name"
-                             data-parent="#accordion">
-                            <div class="card-body">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="content-accordion-items-heading">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-items" aria-expanded="true" aria-controls="content-accordion-items">
+                                Items
+                            </button>
+                        </h2>
+                        <div id="content-accordion-items" class="accordion-collapse collapse" aria-labelledby="content-accordion-items-heading" data-bs-parent="#content-accordion">
+                            <div class="accordion-body">
                                 {{wikiIcon .Project "Quartz Enriched Iron"}}
                                 {{wikiIcon .Project "1k Storage Disk"}}
                                 {{wikiIcon .Project "4k Storage Disk"}}

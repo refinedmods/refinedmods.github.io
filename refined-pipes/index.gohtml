@@ -1,6 +1,6 @@
 {{- /*gotype: github.com/refinedmods/sitegen/render.ProjectIndex*/ -}}
 {{define "body"}}
-    <div class="jumbotron bg-light pt-4 pb-5">
+    <div class="jumbotron bg-light pt-4 pb-4 mb-4">
         <div class="container">
             <p class="lead">
                 Refined Pipes is a Minecraft mod that adds item, fluid and energy pipes.
@@ -18,40 +18,29 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <div id="accordion" class="mb-4">
-                    <div class="card">
-                        <div class="card-header" id="item-pipes-name">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#item-pipes"
-                                        aria-expanded="true" aria-controls="item-pipes">
-                                    Item pipes
-                                </button>
-                            </h5>
-                        </div>
-
-                        <div id="item-pipes" class="collapse show" aria-labelledby="item-pipes-name"
-                             data-parent="#accordion">
-                            <div class="card-body">
+                <div class="accordion mb-4" id="content-accordion">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="content-accordion-item-pipes-heading">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-item-pipes" aria-expanded="true" aria-controls="content-accordion-item-pipes">
+                                Item pipes
+                            </button>
+                        </h2>
+                        <div id="content-accordion-item-pipes" class="accordion-collapse collapse show" aria-labelledby="content-accordion-item-pipes-heading" data-bs-parent="#content-accordion">
+                            <div class="accordion-body">
                                 {{wikiIcon .Project "Basic Item Pipe"}}
                                 {{wikiIcon .Project "Improved Item Pipe"}}
                                 {{wikiIcon .Project "Advanced Item Pipe"}}
                             </div>
                         </div>
                     </div>
-
-                    <div class="card">
-                        <div class="card-header" id="fluid-pipes-name">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#fluid-pipes"
-                                        aria-expanded="true" aria-controls="fluid-pipes">
-                                    Fluid pipes
-                                </button>
-                            </h5>
-                        </div>
-
-                        <div id="fluid-pipes" class="collapse" aria-labelledby="fluid-pipes-name"
-                             data-parent="#accordion">
-                            <div class="card-body">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="content-accordion-fluid-pipes-heading">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-fluid-pipes" aria-expanded="true" aria-controls="content-accordion-fluid-pipes">
+                                Fluid pipes
+                            </button>
+                        </h2>
+                        <div id="content-accordion-fluid-pipes" class="accordion-collapse collapse" aria-labelledby="content-accordion-fluid-pipes-heading" data-bs-parent="#content-accordion">
+                            <div class="accordion-body">
                                 {{wikiIcon .Project "Basic Fluid Pipe"}}
                                 {{wikiIcon .Project "Improved Fluid Pipe"}}
                                 {{wikiIcon .Project "Advanced Fluid Pipe"}}
@@ -60,20 +49,14 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="card">
-                        <div class="card-header" id="energy-pipes-name">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#energy-pipes"
-                                        aria-expanded="true" aria-controls="energy-pipes">
-                                    Energy pipes
-                                </button>
-                            </h5>
-                        </div>
-
-                        <div id="energy-pipes" class="collapse" aria-labelledby="energy-pipes-name"
-                             data-parent="#accordion">
-                            <div class="card-body">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="content-accordion-energy-pipes-heading">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-energy-pipes" aria-expanded="true" aria-controls="content-accordion-energy-pipes">
+                                Energy pipes
+                            </button>
+                        </h2>
+                        <div id="content-accordion-energy-pipes" class="accordion-collapse collapse" aria-labelledby="content-accordion-energy-pipes-heading" data-bs-parent="#content-accordion">
+                            <div class="accordion-body">
                                 {{wikiIcon .Project "Basic Energy Pipe"}}
                                 {{wikiIcon .Project "Improved Energy Pipe"}}
                                 {{wikiIcon .Project "Advanced Energy Pipe"}}
@@ -82,20 +65,14 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="card">
-                        <div class="card-header" id="attachments-name">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#attachments"
-                                        aria-expanded="true" aria-controls="attachments">
-                                    Attachments
-                                </button>
-                            </h5>
-                        </div>
-
-                        <div id="attachments" class="collapse" aria-labelledby="attachments-name"
-                             data-parent="#accordion">
-                            <div class="card-body">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="content-accordion-attachments-heading">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-attachments" aria-expanded="true" aria-controls="content-accordion-attachments">
+                                Attachments
+                            </button>
+                        </h2>
+                        <div id="content-accordion-attachments" class="accordion-collapse collapse" aria-labelledby="content-accordion-attachments-heading" data-bs-parent="#content-accordion">
+                            <div class="accordion-body">
                                 {{wikiIcon .Project "Basic Extractor Attachment"}}
                                 {{wikiIcon .Project "Improved Extractor Attachment"}}
                                 {{wikiIcon .Project "Advanced Extractor Attachment"}}

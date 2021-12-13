@@ -22,20 +22,22 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header">
-                        <ul class="nav nav-tabs card-header-tabs">
+                        <ul class="nav nav-tabs card-header-tabs" id="wiki-tabs" role="tablist">
                             {{range .Project.WikiSidebars}}
-                                <li class="nav-item">
-                                    <a class="nav-link" data-toggle="tab" data-tab="{{.Name}}" href="#">{{.Name}}</a>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="{{.Name}}-tab" data-website-tab-id="{{.Name}}" data-bs-toggle="tab" data-bs-target="#{{.Name}}-tab-content" type="button" role="tab" aria-controls="{{.Name}}-tab-content">{{.Name}}</button>
                                 </li>
                             {{end}}
                         </ul>
                     </div>
                     <div class="card-body">
-                        {{range .Project.WikiSidebars}}
-                            <div class="sidebar" id="_sidebar_{{.Name}}">
-                                {{.BodyHtml}}
-                            </div>
-                        {{end}}
+                        <div class="tab-content" id="wiki-tabs-content">
+                            {{range .Project.WikiSidebars}}
+                                <div class="tab-pane" id="{{.Name}}-tab-content" aria-labelledby="{{.Name}}-tab" role="tabpanel">
+                                    {{.BodyHtml}}
+                                </div>
+                            {{end}}
+                        </div>
                     </div>
                 </div>
             </div>

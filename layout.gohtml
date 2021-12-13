@@ -19,13 +19,13 @@
         <ul class="navbar-nav">
             {{range $i, $project := .Site.Projects}}
                 <li class="nav-item">
-                    <a class="{{if eq $i 0}}pl-0{{end}} nav-link {{if eq $project $.Project}}active{{ end }}"
+                    <a class="{{if eq $i 0}}ps-0{{end}} nav-link {{if eq $project $.Project}}active{{ end }}"
                        href="/{{$project.Slug}}">{{$project.Name}}</a>
                 </li>
             {{end}}
         </ul>
 
-        <ul class="navbar-nav ml-auto">
+        <ul class="navbar-nav ms-auto">
             <li class="nav-item">
                 <a class="nav-link" href="https://ci.refinedmods.com/">
                     <i class="fas fa-cube"></i> Dev builds
@@ -61,7 +61,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <div class="d-flex">
-        <div class="logo mr-3 mt-2 mb-2">
+        <div class="logo me-3 mt-2 mb-2">
             {{if eq .Project.Name "Refined Storage"}}
             <a class="navbar-brand" href="/{{.Project.Slug}}">
                 &nbsp;
@@ -112,7 +112,7 @@
                 <div class="d-block d-lg-none d-xl-none">
                     {{range $i, $project := .Site.Projects}}
                         <li class="nav-item">
-                            <a class="{{if eq $i 0}}pl-0{{end}} nav-link {{if eq $project $.Project}}active{{ end }}"
+                            <a class="{{if eq $i 0}}ps-0{{end}} nav-link {{if eq $project $.Project}}active{{ end }}"
                                href="/{{$project.Slug}}"><i class="fas fa-external-link-alt"></i> {{$project.Name}}</a>
                         </li>
                     {{end}}
