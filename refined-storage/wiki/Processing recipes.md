@@ -31,3 +31,6 @@ You do need to get the item manually back in the storage network so Refined Stor
 The allowed tags system in Refined Storage allows the player to decide which items or fluids can be used as alternatives when the original specified item or fluid isn't found in the storage network.
 
 These tags are retrieved from Minecraft's tag system. You can specify the allowed tags in the [[Pattern Grid]].
+
+## Chaining crafters
+You can [[Crafter|chain crafters#chaining]] to connect multiple [[Crafter|crafters]] to the same machine.

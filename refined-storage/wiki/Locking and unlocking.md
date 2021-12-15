@@ -51,3 +51,6 @@ If you use an [[Importer]] on a chest to import the final processed item, and al
 You'd cause a deadlock because the [[Crafter]] doesn't receive a redstone pulse, and the [[Crafter]] would keep waiting forever.
 
 The solution for this is to only enable the [[Importer]] AFTER the redstone pulse is sent to the [[Crafter]]. Use the [[Importer]]'s redstone settings to achieve this.
+
+## Other resources
+- [Demo video](https://www.youtube.com/watch?v=c9s-IfDPKxw)

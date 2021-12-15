@@ -7,15 +7,15 @@
       "wikiPath": "refined-storage/wiki",
       "wikiSidebars": [
         {
-          "file": "refined-storage/wiki/sidebar/Guides.md",
+          "file": "refined-storage/wiki/sidebar/guides.json",
           "name": "Guides"
         },
         {
-          "file": "refined-storage/wiki/sidebar/Blocks.md",
+          "file": "refined-storage/wiki/sidebar/blocks.json",
           "name": "Blocks"
         },
         {
-          "file": "refined-storage/wiki/sidebar/Items.md",
+          "file": "refined-storage/wiki/sidebar/items.json",
           "name": "Items"
         }
       ],
@@ -109,10 +109,6 @@
       "name": "Refined Storage Addons",
       "wikiPath": "refined-storage-addons/wiki",
       "wikiSidebars": [
-        {
-          "file": "refined-storage-addons/wiki/sidebar/Items.md",
-          "name": "Items"
-        }
       ],
       "releaseGroups": [
         {
@@ -169,14 +165,6 @@
       "name": "Ranged Pumps",
       "wikiPath": "ranged-pumps/wiki",
       "wikiSidebars": [
-        {
-          "file": "ranged-pumps/wiki/sidebar/Guides.md",
-          "name": "Guides"
-        },
-        {
-          "file": "ranged-pumps/wiki/sidebar/Blocks.md",
-          "name": "Blocks"
-        }
       ],
       "releaseGroups": [
         {
@@ -233,14 +221,6 @@
       "name": "Refined Pipes",
       "wikiPath": "refined-pipes/wiki",
       "wikiSidebars": [
-        {
-          "file": "refined-pipes/wiki/sidebar/Blocks.md",
-          "name": "Blocks"
-        },
-        {
-          "file": "refined-pipes/wiki/sidebar/Items.md",
-          "name": "Items"
-        }
       ],
       "templates": {
         "index": "refined-pipes/index.gohtml"

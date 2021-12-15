@@ -14,3 +14,6 @@ To make a mixed (fluid or item) processing pattern, toggle the [[Pattern Grid]] 
 You can then use JEI transfer to transfer item and fluid ingredients. You can also use a filled fluid container (like a bucket) to specify the fluid.
 
 Use left or right click on the fluid slot to modify the mB.
+
+## Other resources
+- [Demo video](https://www.youtube.com/watch?v=6v-e_NdLEnI)
