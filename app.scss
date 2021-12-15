@@ -20,10 +20,25 @@ a {
   margin-bottom: ($spacer * .5);
 }
 
+.wiki-sidebar-section-title {
+    text-transform: uppercase;
+    font-size: .95em;
+    letter-spacing: .1em;
+    margin-bottom: ($spacer * .5);
+    margin-top: ($spacer * .5);
+}
+
+.wiki-sidebar-section-title:first-child {
+    margin-top: 0;
+}
+
 img.wiki-icon {
     width: 32px;
-    height: 32px;
     margin-top: -5px;
+}
+
+img.wiki-sidebar-icon {
+    width: 30px;
 }
 
 img.wiki-tooltip-icon {

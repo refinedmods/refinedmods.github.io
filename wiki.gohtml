@@ -26,11 +26,6 @@
         </nav>
 
         <div class="row">
-            <div class="col-md-8">
-                <article>
-                    {{.Body}}
-                </article>
-            </div>
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header">
@@ -46,12 +41,31 @@
                         <div class="tab-content" id="wiki-tabs-content">
                             {{range .Project.WikiSidebars}}
                                 <div class="tab-pane" id="{{.Name}}-tab-content" aria-labelledby="{{.Name}}-tab" role="tabpanel">
-                                    {{.BodyHtml}}
+                                    {{range .Sections}}
+                                        <div class="wiki-sidebar-section-title text-muted">{{.Name}}</div>
+                                        <ul class="nav flex-column nav-pills">
+                                        {{range .Items}}
+                                            <li class="nav-item">
+                                                <a class="nav-link {{if eq . $.Wiki}}active{{end}}" {{if eq . $.Wiki}}aria-current="page"{{end}} href="/{{$.Project.Slug}}/wiki/{{.Slug}}.html">
+                                                    {{if .Meta.Icon}}
+                                                        <img src="{{.Meta.Icon}}" alt="{{.Name}}" class="wiki-sidebar-icon">
+                                                    {{end}}
+                                                    {{.Name}}
+                                                </a>
+                                            </li>
+                                        {{end}}
+                                        </ul>
+                                    {{end}}
                                 </div>
                             {{end}}
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="col-md-8">
+                <article>
+                    {{.Body}}
+                </article>
             </div>
         </div>
     </div>
