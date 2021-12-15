@@ -169,6 +169,14 @@
       "name": "Ranged Pumps",
       "wikiPath": "ranged-pumps/wiki",
       "wikiSidebars": [
+        {
+          "file": "ranged-pumps/wiki/sidebar/guides.json",
+          "name": "Guides"
+        },
+        {
+          "file": "ranged-pumps/wiki/sidebar/blocks.json",
+          "name": "Blocks"
+        }
       ],
       "releaseGroups": [
         {

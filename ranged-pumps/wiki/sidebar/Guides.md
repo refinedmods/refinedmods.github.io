@@ -1,2 +1,0 @@
-- [[Getting started]]
-- [[Getting started on Minecraft 1.10.2 and 1.11.2]]
