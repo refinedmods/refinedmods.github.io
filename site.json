@@ -233,6 +233,14 @@
       "name": "Refined Pipes",
       "wikiPath": "refined-pipes/wiki",
       "wikiSidebars": [
+        {
+          "file": "refined-pipes/wiki/sidebar/blocks.json",
+          "name": "Blocks"
+        },
+        {
+          "file": "refined-pipes/wiki/sidebar/items.json",
+          "name": "Items"
+        }
       ],
       "templates": {
         "index": "refined-pipes/index.gohtml"
