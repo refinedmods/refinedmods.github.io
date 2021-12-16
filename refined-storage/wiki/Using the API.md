@@ -36,7 +36,7 @@ implementation fg.deobf("com.refinedmods:refinedstorage:VERSION_HERE") {
 }
 ```
 
-You can find a list of versions on [https://github.com/refinedmods/refinedstorageaddons/packages/1150839](GitHub packages).
+You can find a list of versions on [GitHub packages](https://github.com/orgs/refinedmods/packages).
 
 ### For Minecraft 1.15 or later
 
@@ -57,7 +57,7 @@ compileOnly fg.deobf("com.refinedmods:refinedstorage:VERSION_HERE")
 runtimeOnly fg.deobf("com.refinedmods:refinedstorage:VERSION_HERE")
 ```
 
-You can find a list of versions on [https://repo.refinedmods.com/com/refinedmods/refinedstorage/](our Maven repository).
+You can find a list of versions on [our Maven repository](https://repo.refinedmods.com/com/refinedmods/).
 
 Warning: the Maven repository is being phased out and will be removed at some point.
 When that happens, you'll have to build Refined Storage from source and include the jar manually.
