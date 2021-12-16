@@ -14,6 +14,18 @@
     ]
   },
   {
+    "name": "About the mod",
+    "pages": [
+      "Integrations",
+      "Spotlights",
+      "FAQ",
+      "Minecraft version support",
+      "Resource packs",
+      "Using development builds",
+      "Using the API"
+    ]
+  },
+  {
     "name": "Autocrafting",
     "pages": [
       "Getting started with autocrafting",
@@ -29,19 +41,6 @@
       "Fluid autocrafting",
       "Keeping fluids in stock",
       "Autocrafting with filled buckets"
-    ]
-  },
-  {
-    "name": "About the mod",
-    "pages": [
-      "Integrations",
-      "Spotlights",
-      "FAQ",
-      "Minecraft version support",
-      "Playing on development builds",
-      "Resource packs",
-      "Using development builds",
-      "Using the API"
     ]
   },
   { "name": "Reporting a bug", "pages": ["Profiling"] }
