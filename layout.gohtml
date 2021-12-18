@@ -56,34 +56,34 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <div class="d-flex">
-        <div class="logo me-3 mt-2 mb-2">
-            {{if not .Project }}
-            <a class="navbar-brand" href="/">
-                Refined Mods
-            </a>
-            {{else if eq .Project.Name "Refined Storage"}}
-            <a class="navbar-brand" href="/{{.Project.Slug}}">
-                &nbsp;
-            </a>
-            {{else if eq .Project.Name "Ranged Pumps"}}
-            <a class="navbar-brand" href="/{{.Project.Slug}}">
-                Ranged Pumps
-            </a>
-            {{else if eq .Project.Name "Refined Pipes"}}
-            <a class="navbar-brand" href="/{{.Project.Slug}}">
-                Refined Pipes
-            </a>
-            {{else if eq .Project.Name "Refined Storage Addons"}}
-            <a class="navbar-brand" href="/{{.Project.Slug}}">
-                &nbsp;
-            </a>
+            <div class="logo mt-2 mb-2">
+                {{if not .Project }}
+                <a class="navbar-brand" href="/">
+                    Refined Mods
+                </a>
+                {{else if eq .Project.Name "Refined Storage"}}
+                <a class="navbar-brand" href="/{{.Project.Slug}}">
+                    &nbsp;
+                </a>
+                {{else if eq .Project.Name "Ranged Pumps"}}
+                <a class="navbar-brand" href="/{{.Project.Slug}}">
+                    Ranged Pumps
+                </a>
+                {{else if eq .Project.Name "Refined Pipes"}}
+                <a class="navbar-brand" href="/{{.Project.Slug}}">
+                    Refined Pipes
+                </a>
+                {{else if eq .Project.Name "Refined Storage Addons"}}
+                <a class="navbar-brand" href="/{{.Project.Slug}}">
+                    &nbsp;
+                </a>
+                {{end}}
+            </div>
+            {{if .Project }}
+                {{if eq .Project.Name "Refined Storage Addons"}}
+                    <span class="addons ms-2">Addons</span>
+                {{end}}
             {{end}}
-        </div>
-        {{if .Project }}
-            {{if eq .Project.Name "Refined Storage Addons"}}
-                <span class="addons">Addons</span>
-            {{end}}
-        {{end}}
         </div>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
