@@ -1,11 +1,11 @@
-## Adding the dependency
+## For Minecraft 1.18.2 or later
 
-### For Minecraft 1.18 or later
+Starting from Minecraft 1.18, you can include the Refined Storage API in your development environment from 2 sources:
 
-Starting from Minecraft 1.18, Refined Storage will no longer publish Maven packages on our own Maven repository.
+- GitHub Packages
+- CreeperHost Maven
 
-We will be moving to GitHub packages.
-
+### GitHub packages
 Add following repository to your `build.gradle`:
 ```
 repositories {
@@ -28,45 +28,36 @@ See:
 - https://github.community/t/download-from-github-package-registry-without-authentication/14407/38
 - https://github.community/t/download-from-github-package-registry-without-authentication/14407/44
 
-Then use following dependency:
+You can find a list of versions on [GitHub packages](https://github.com/orgs/refinedmods/packages).
 
+### CreeperHost Maven
+Add following repository to your `build.gradle`:
+```
+repositories {
+    maven {
+        url = uri("https://maven.creeperhost.net")
+    }
+}
+```
+
+You can find a list of versions on the [Maven index](https://maven.creeperhost.net/com/refinedmods/refinedstorage).
+
+**Warning:** Due to a bug in the Maven index on CreeperHost, new versions aren't included in the index. However, you can use them in your Gradle dependency.
+
+For example, version `1.10.2` isn't included in the Maven index, but you can use `1.10.2` in your Gradle dependency when using CreeperHost Maven.
+
+## For older Minecraft versions
+
+Some Refined Storage API versions for older Minecraft versions are available on [CreeperHost Maven](https://maven.creeperhost.net/com/refinedmods/refinedstorage).
+
+However, not all of them are available. If you need a specific version, build Refined Storage yourself and include the API manually.
+
+## Including the API
 ``` 
 implementation fg.deobf("com.refinedmods:refinedstorage:VERSION_HERE") {
     transitive false
 }
 ```
-
-You can find a list of versions on [GitHub packages](https://github.com/orgs/refinedmods/packages).
-
-### For Minecraft 1.15 or later
-
-Add following repository to your `build.gradle`:
-
-```
-repositories {
-    maven {
-        url "https://repo.refinedmods.com"
-    }
-}
-```
-
-Then use following dependency:
-
-```
-compileOnly fg.deobf("com.refinedmods:refinedstorage:VERSION_HERE")
-runtimeOnly fg.deobf("com.refinedmods:refinedstorage:VERSION_HERE")
-```
-
-You can find a list of versions on [our Maven repository](https://repo.refinedmods.com/com/refinedmods/).
-
-Warning: the Maven repository is being phased out and will be removed at some point.
-When that happens, you'll have to build Refined Storage from source and include the jar manually.
-
-### For older Minecraft versions
-
-Due to disk space issues on our repository we have removed these old versions.
-
-You'll have to build Refined Storage from source and include the jar manually.
 
 ## Using the API
 
@@ -78,3 +69,6 @@ public class MyMod {
     public static IRSAPI RSAPI;
 }
 ```
+
+## JavaDoc
+Updated JavaDoc is available after every release [here](https://refinedmods.com/refinedstorage/).
