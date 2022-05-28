@@ -2,7 +2,7 @@
 |-----------------|-----------------------------|-----|------------|--------|
 |Minecraft 1.18|1.10|Available|✔️|✔️|
 |Minecraft 1.17|-|Never available|❌|❌|
-|Minecraft 1.16|1.9|Available|❌|✔️|
+|Minecraft 1.16|1.9|Available|❌|❌|
 |Minecraft 1.15|1.8|Available|❌|❌|
 |Minecraft 1.14|1.7 |Available|❌|❌|
 |Minecraft 1.13|-|Never available|❌|❌|
