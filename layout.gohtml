@@ -56,31 +56,36 @@
     </div>
 </nav>
 
-{{if .Project}}
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <div class="d-flex">
             <div class="logo mt-2 mb-2">
-                {{if eq .Project.Name "Refined Storage"}}
-                <a class="navbar-brand" href="/{{.Project.Slug}}">
-                    &nbsp;
-                </a>
+                {{if not .Project}}
+                    <a class="navbar-brand" href="/">
+                        Refined Mods
+                    </a>
+                {{else if eq .Project.Name "Refined Storage"}}
+                    <a class="navbar-brand" href="/{{.Project.Slug}}">
+                        &nbsp;
+                    </a>
                 {{else if eq .Project.Name "Ranged Pumps"}}
-                <a class="navbar-brand" href="/{{.Project.Slug}}">
-                    Ranged Pumps
-                </a>
+                    <a class="navbar-brand" href="/{{.Project.Slug}}">
+                        Ranged Pumps
+                    </a>
                 {{else if eq .Project.Name "Refined Pipes"}}
-                <a class="navbar-brand" href="/{{.Project.Slug}}">
-                    Refined Pipes
-                </a>
+                    <a class="navbar-brand" href="/{{.Project.Slug}}">
+                        Refined Pipes
+                    </a>
                 {{else if eq .Project.Name "Refined Storage Addons"}}
-                <a class="navbar-brand" href="/{{.Project.Slug}}">
-                    &nbsp;
-                </a>
+                    <a class="navbar-brand" href="/{{.Project.Slug}}">
+                        &nbsp;
+                    </a>
                 {{end}}
             </div>
-            {{if eq .Project.Name "Refined Storage Addons"}}
-                <span class="addons ms-2">Addons</span>
+            {{if .Project}}
+                {{if eq .Project.Name "Refined Storage Addons"}}
+                    <span class="addons ms-2">Addons</span>
+                {{end}}
             {{end}}
         </div>
 
@@ -109,10 +114,13 @@
                 {{ end }}
 
                 <div class="d-block d-lg-none d-xl-none">
+                    <li class="nav-item">
+                        <a class="ps-0 nav-link {{ if not .Project}}active{{ end }}" href="/"><i class="fas fa-globe"></i> Refined Mods</a>
+                    </li>
                     {{range $i, $project := .Site.Projects}}
                         <li class="nav-item">
                             <a class="{{if eq $i 0}}ps-0{{end}} nav-link {{if eq $project $.Project}}active{{ end }}"
-                               href="/{{$project.Slug}}"><i class="fas fa-external-link-alt"></i> {{$project.Name}}</a>
+                               href="/{{$project.Slug}}">{{$project.Name}}</a>
                         </li>
                     {{end}}
                     <li class="nav-item">
@@ -138,7 +146,6 @@
         </div>
     </div>
 </nav>
-{{end}}
 
 <main role="main" class="pb-4">
     {{template "body" .}}
