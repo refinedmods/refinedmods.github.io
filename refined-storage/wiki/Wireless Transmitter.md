@@ -8,7 +8,7 @@ Keep in mind, **you are not limited to 1 Wireless Transmitter**!
 
 You can spread multiple around in your world, each maximally upgraded with [[Range Upgrade|range upgrades]].
 
-Note that every Wireless Transmitter needs to be connected to the network through a [[Cable]] or [[Network Receiver]]. They do not act as redstone repeaters for a network.
+Note that every Wireless Transmitter needs to be connected to the network through a [[Cable]] or [[Network Receiver]].
 
 ## Placing transmitters efficiently
 Placing 2 Wireless Transmitters just next to each other will not do that much.
