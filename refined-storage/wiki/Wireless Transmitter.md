@@ -4,7 +4,11 @@ The Wireless Transmitter is used to send signals to wireless network items in Re
 The default range is 16 blocks, but can be upgraded with [[Range Upgrade|range upgrades]].
 
 ### Bigger range
-Keep in mind, **you are not limited to 1 Wireless Transmitter**! You can spread multiple around in your world, each maximally upgraded with [[Range Upgrade|range upgrades]].
+Keep in mind, **you are not limited to 1 Wireless Transmitter**!
+
+You can spread multiple around in your world, each maximally upgraded with [[Range Upgrade|range upgrades]].
+
+Note that every Wireless Transmitter needs to be connected to the network through a [[Cable]] or [[Network Receiver]]. They do not act as redstone repeaters for a network.
 
 ## Placing transmitters efficiently
 Placing 2 Wireless Transmitters just next to each other will not do that much.
