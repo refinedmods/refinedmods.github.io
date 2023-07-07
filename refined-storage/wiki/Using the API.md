@@ -70,5 +70,5 @@ public class MyMod {
 }
 ```
 
-## JavaDoc
-Updated JavaDoc is available after every release [here](https://refinedmods.com/refinedstorage/).
+## Javadoc
+Updated Javadoc is available after every release [here](https://refinedmods.com/javadoc/refinedstorage).
