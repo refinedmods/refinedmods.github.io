@@ -1,6 +1,7 @@
 |Minecraft version|Refined Storage version range|State|New features|Bugfixes|
 |-----------------|-----------------------------|-----|------------|--------|
-|Minecraft 1.19|1.11|Available|✔️|✔️|
+|Minecraft 1.20|1.12|Available|✔️|✔️|
+|Minecraft 1.19|1.11|Available|❌|✔️|
 |Minecraft 1.18|1.10|Available|❌|❌|
 |Minecraft 1.17|-|Never available|❌|❌|
 |Minecraft 1.16|1.9|Available|❌|❌|
