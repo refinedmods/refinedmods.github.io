@@ -14,13 +14,13 @@ By default, the [[Pump|pump]] requires Forge Energy, but can be configured to no
 
 ## Internal tank
 
-The size of the [[Pump|pump's]] internal tank is by default 32 buckets, you can increase or decrease this in the config.
+The size of the [[Pump|pump's]] internal tank is 32 buckets by default. You can increase or decrease this in the config.
 
 The [[Pump|pump]] will stop running if the internal tank is full.
 
 ## Status updates
 
-Right click on the [[Pump|pump]] to know what it is doing and if it is running.
+Right click on the [[Pump|pump]] to know what it is doing and to know if it is running.
 
 ## Scanning and range
 
@@ -28,7 +28,7 @@ Right click on the [[Pump|pump]] to know what it is doing and if it is running.
 
 It'll start pumping liquids in rectangular spiral shape 1 block under the [[Pump|pump]].
 
-The default range is 64 blocks, that'll mean it scan 64 blocks in any direction, nearest-first.
+The default range is 64 blocks. That'll mean it scan 64 blocks in any direction, nearest-first.
 
 On a vertical (Y) level, it will scan liquids from the [[Pump|pump]] to bedrock.
 
@@ -42,4 +42,4 @@ The [[Pump|pump]] will auto-push liquids to neighboring tanks. You can also get 
 
 ## Chunkloading
 
-The mod doesn't chunkload [[Pump|pumps]].
+The mod doesn't chunkload [[Pump|pumps]] automatically. You'll need another mod to get this behavior.
