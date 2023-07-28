@@ -2,19 +2,12 @@
 {{ define "body" }}
     <div class="container pt-3">
         <div class="page-title">
-            <h1 class="h2">{{.Release.Version}}</h1>
+            <h1 class="h2">{{.Release.Name}} {{ template "release-badge.gohtml" .Release }}</h1>
 
             <div class="btn-group" role="group">
-                {{ range $key, $value := .Release.Downloads}}
-                    <a href="{{$value}}" class="btn btn-outline-primary"><i class="fas fa-download"></i> Download
-                        on {{if eq $key "curseforge"}}CurseForge{{else}}{{$key}}{{end}}
-                    </a>
-                {{end}}
-                {{ range $key, $value := .Release.Links}}
-                    <a href="{{$value}}" class="btn btn-outline-primary"><i
-                                class="fas fa-external-link-alt"></i> View
-                        on {{if eq $key "curseforge"}}CurseForge{{else}}{{$key}}{{end}}</a>
-                {{end}}
+                <a href="https://github.com/{{ .Project.Github.Owner }}/{{ .Project.Github.Repo }}/releases/tag/{{ .Release.Name }}" class="btn btn-outline-primary">
+                    <i class="fas fa-external-link-alt"></i> View on GitHub
+                </a>
             </div>
         </div>
 
@@ -22,27 +15,14 @@
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/{{.Project.Slug}}">{{.Project.Name}}</a></li>
                 <li class="breadcrumb-item"><a href="/{{.Project.Slug}}/releases">Releases</a></li>
-                <li class="breadcrumb-item active" aria-current="page">{{ .Release.Version}}</li>
+                <li class="breadcrumb-item active" aria-current="page">{{ .Release.Name}}</li>
             </ol>
         </nav>
 
-        <table class="table table-reflow">
-            <tr>
-                <th scope="row" width="20%">Version</th>
-                <td>{{.Release.Version}} {{ template "release-badge.gohtml" .Release }}</td>
-            </tr>
-            <tr>
-                <th scope="row" class="thead-default">Group</th>
-                <td>{{ .Release.Group.Name }}</td>
-            </tr>
-            <tr>
-                <th scope="row" class="thead-default">Date</th>
-                <td>{{ .Release.Date.Format "2006-01-02" }}</td>
-            </tr>
-            <tr>
-                <th scope="row" class="thead-default">Changelog</th>
-                <td>{{ nl2br .Release.Changelog }}</td>
-            </tr>
-        </table>
+        <div class="card">
+            <div class="card-body">
+                {{ .Changelog }}
+            </div>
+        </div>
     </div>
 {{ end }}

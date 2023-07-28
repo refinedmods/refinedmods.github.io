@@ -109,7 +109,7 @@
                     <li class="nav-item">
                         <a class="nav-link {{if eq .NavItem "wiki"}}active{{end}}" href="/{{.Project.Slug}}/wiki">Wiki</a>
                     </li>
-                    {{if .Project.ReleaseGroups}}
+                    {{if .Project.Releases}}
                         <li class="nav-item">
                             <a class="nav-link {{if eq .NavItem "releases"}}active{{end}}" href="/{{.Project.Slug}}/releases">Releases</a>
                         </li>

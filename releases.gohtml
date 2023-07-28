@@ -5,10 +5,6 @@
             <h1 class="h2">Releases</h1>
         </div>
 
-        <div class="alert alert-warning" role="alert">
-            Releases on the Refined Mods website are being phased out. Check GitHub and CurseForge for actual releases for the project.
-        </div>
-
         <nav aria-label="breadcrumb" class="mb-3">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/{{.Project.Slug}}">{{.Project.Name}}</a></li>
@@ -40,25 +36,10 @@
             </nav>
         </div>
 
-        <table class="table table-striped">
-            <thead>
-            <tr>
-                <th scope="col">Version</th>
-                <th scope="col">Date</th>
-                <th scope="col">Group</th>
-            </tr>
-            </thead>
-            <tbody>
+        <div class="list-group">
             {{range .Releases}}
-                <tr>
-                    <td>
-                        <a href="/{{$.Project.Slug}}/releases/{{.Slug}}">{{$.Project.Name}} {{.Version}}</a> {{template "release-badge.gohtml" .}}
-                    </td>
-                    <td>{{.Date.Format "2006-01-02" }}</td>
-                    <td>{{.Group.Name}}</td>
-                </tr>
+                <a class="list-group-item list-group-item-action" href="/{{$.Project.Slug}}/releases/{{.Name}}.html">{{.Name}} {{template "release-badge.gohtml" .}}</a>
             {{end}}
-            </tbody>
-        </table>
+        </div>
     </div>
 {{ end }}
