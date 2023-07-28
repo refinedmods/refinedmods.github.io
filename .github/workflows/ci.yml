@@ -30,6 +30,8 @@ jobs:
         name: frontend-output
     - run: chown $USER sitegen
     - run: sudo ./sitegen build
+      env:
+        SITEGEN_GITHUB_TOKEN: ${{ secrets.SITEGEN_GITHUB_TOKEN }}
     - uses: actions/upload-artifact@v2
       with:
         name: output
