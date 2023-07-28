@@ -38,7 +38,7 @@
 
         <div class="list-group">
             {{range .Releases}}
-                <a class="list-group-item list-group-item-action" href="/{{$.Project.Slug}}/releases/{{.Name}}.html">{{.Name}} {{template "release-badge.gohtml" .}}</a>
+                <a class="list-group-item list-group-item-action" href="/{{$.Project.Slug}}/releases/{{.Name}}">{{.Name}} {{template "release-badge.gohtml" .}}</a>
             {{end}}
         </div>
     </div>
