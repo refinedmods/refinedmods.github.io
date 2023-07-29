@@ -1,9 +1,6 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/cover.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "1.6"
-    }
-  ]
+  "range": {
+    "from": "v1.6.0"
+  }
 }

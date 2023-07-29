@@ -1,9 +1,6 @@
 {
-    "icon": "/assets/refined-pipes/renders/ultimate_energy_pipe.png",
-    "tags": [
-        {
-            "type": "since",
-            "release": "0.3"
-        }
-    ]
+  "icon": "/assets/refined-pipes/renders/ultimate_energy_pipe.png",
+  "range": {
+    "from": "v0.3.0"
+  }
 }

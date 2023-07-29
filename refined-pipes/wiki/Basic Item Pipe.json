@@ -1,9 +1,6 @@
 {
-    "icon": "/assets/refined-pipes/renders/basic_item_pipe.png",
-    "tags": [
-        {
-            "type": "since",
-            "release": "0.1"
-        }
-    ]
+  "icon": "/assets/refined-pipes/renders/basic_item_pipe.png",
+  "range": {
+    "from": "v0.1.0"
+  }
 }

@@ -7,9 +7,6 @@
                     <img src="{{.Wiki.Meta.Icon}}" alt="{{.Wiki.Name}}" class="wiki-icon">
                 {{end}}
                 {{.Wiki.Name}}
-                {{range .Wiki.Meta.Tags}}
-                    <span style="font-size: 15px" class="badge {{if eq .Type "since"}}bg-primary{{else if eq .Type "removed"}}bg-danger{{end}}">{{if eq .Type "since"}}Since{{else if eq .Type "removed"}}Removed in{{end}}: {{.Release}}</span>
-                {{end}}
             </h1>
         </div>
 
@@ -59,6 +56,48 @@
                 </div>
             </div>
             <div class="col-md-8">
+                {{if or .Wiki.Meta.Range .Wiki.Meta.See}}
+                <aside>
+                    <table class="table table-sm table-bordered">
+                        {{if .Wiki.Meta.Range}}
+                            <tr>
+                                <th scope="col" width="20%">Status</th>
+                                <td>
+                                    {{if .Wiki.Meta.Range.To}}
+                                        <span class="badge rounded-pill bg-danger">Removed</span>
+                                    {{else}}
+                                        <span class="badge rounded-pill bg-success">Available</span>
+                                    {{end}}
+                                </td>
+                            </tr>
+                            {{if .Wiki.Meta.Range.From}}
+                            <tr>
+                                <th scope="col">Added in</th>
+                                <td>
+                                    <a href="/{{.Project.Slug}}/releases/{{.Wiki.Meta.Range.From}}"><span class="badge rounded-pill bg-light text-dark">{{.Wiki.Meta.Range.From}}</span></a>
+                                </td>
+                            </tr>
+                            {{end}}
+                            {{if .Wiki.Meta.Range.To}}
+                            <tr>
+                                <th scope="col">Removed in</th>
+                                <td>
+                                    <a href="/{{.Project.Slug}}/releases/{{.Wiki.Meta.Range.To}}"><span class="badge rounded-pill bg-light text-dark">{{.Wiki.Meta.Range.To}}</span></a>
+                                </td>
+                            </tr>
+                            {{end}}
+                        {{end}}
+                        {{if .Wiki.Meta.See}}
+                        <tr>
+                            <th scope="col">See</th>
+                            <td>
+                                {{wikiLink .Project .Wiki.Meta.See}}
+                            </td>
+                        </tr>
+                        {{end}}
+                    </table>
+                </aside>
+                {{end}}
                 <article>
                     {{.Body}}
                 </article>

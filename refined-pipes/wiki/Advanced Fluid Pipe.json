@@ -1,9 +1,6 @@
 {
-    "icon": "/assets/refined-pipes/renders/advanced_fluid_pipe.png",
-    "tags": [
-        {
-            "type": "since",
-            "release": "0.2"
-        }
-    ]
+  "icon": "/assets/refined-pipes/renders/advanced_fluid_pipe.png",
+  "range": {
+    "from": "v0.2.0"
+  }
 }

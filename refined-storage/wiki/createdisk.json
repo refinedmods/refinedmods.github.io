@@ -1,12 +1,6 @@
 {
-    "tags": [
-      {
-        "type": "since",
-        "release": "1.6"
-      },
-      {
-        "type": "removed",
-        "release": "1.7"
-      }
-    ]
+  "range": {
+    "from": "v1.6.0",
+    "to": "v1.7.0-alpha"
   }
+}

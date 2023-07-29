@@ -1,9 +1,6 @@
 {
-  "icon": "\/assets\/refined-storage\/renders\/silk-touch-upgrade.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "1.2"
-    }
-  ]
+  "icon": "/assets/refined-storage/renders/silk-touch-upgrade.png",
+  "range": {
+    "from": "v1.2.0"
+  }
 }

@@ -1,9 +1,6 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/block-of-quartz-enriched-iron.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "1.4"
-    }
-  ]
+  "range": {
+    "from": "v1.4.0-beta"
+  }
 }

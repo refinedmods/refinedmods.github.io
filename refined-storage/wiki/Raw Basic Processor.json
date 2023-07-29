@@ -1,9 +1,6 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/raw-basic-processor.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "0.3"
-    }
-  ]
+  "range": {
+    "from": "v0.3.0-alpha"
+  }
 }

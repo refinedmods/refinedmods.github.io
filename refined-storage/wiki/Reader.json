@@ -1,13 +1,7 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/reader.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "1.4"
-    },
-    {
-      "type": "removed",
-      "release": "1.7"
-    }
-  ]
+  "range": {
+    "from": "v1.4.0-beta",
+    "to": "v1.7.0-alpha"
+  }
 }

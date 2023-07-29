@@ -1,13 +1,7 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/interdimensional-upgrade.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "0.8.14"
-    },
-    {
-      "type": "removed",
-      "release": "1.6.10"
-    }
-  ]
+  "range": {
+    "from": "v0.8.14-beta",
+    "to": "v1.6.10"
+  }
 }

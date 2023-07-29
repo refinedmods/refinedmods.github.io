@@ -1,9 +1,6 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/network-card.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "0.8.13"
-    }
-  ]
+  "range": {
+    "from": "v0.8.13-beta"
+  }
 }

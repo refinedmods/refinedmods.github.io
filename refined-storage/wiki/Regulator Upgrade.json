@@ -1,9 +1,6 @@
 {
-    "icon": "\/assets\/refined-storage\/renders\/regulator-upgrade.png",
-    "tags": [
-      {
-        "type": "since",
-        "release": "1.8.3"
-      }
-    ]
+  "icon": "/assets/refined-storage/renders/regulator-upgrade.png",
+  "range": {
+    "from": "v1.8.3-beta"
   }
+}

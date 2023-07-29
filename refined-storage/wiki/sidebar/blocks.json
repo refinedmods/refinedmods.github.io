@@ -1,7 +1,7 @@
 [
   {
     "name": "Networking",
-    "pages": ["Controller", "Creative Controller", "Cable", "Relay"]
+    "pages": ["Controller", "Creative Controller", "Cable", "Relay", "Solderer"]
   },
   {
     "name": "Storage",
@@ -29,7 +29,9 @@
       "Destructor",
       "Interface",
       "Fluid Interface",
-      "Disk Manipulator"
+      "Disk Manipulator",
+      "Reader",
+      "Writer"
     ]
   },
   {
@@ -48,7 +50,7 @@
   },
   {
     "name": "Autocrafting",
-    "pages": ["Crafter", "Crafting Monitor", "Crafter Manager"]
+    "pages": ["Crafter", "Crafting Monitor", "Crafter Manager", "Processing Pattern Encoder"]
   },
   {
     "name": "Monitoring",
@@ -61,9 +63,5 @@
   {
     "name": "Utility",
     "pages": ["Cover", "Hollow Cover", "Machine Casing"]
-  },
-  {
-    "name": "Removed Blocks",
-    "pages": ["Solderer", "Processing Pattern Encoder", "Reader", "Writer"]
   }
 ]

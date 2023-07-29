@@ -1,9 +1,6 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/4096k-fluid-storage-block.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "0.9"
-    }
-  ]
+  "range": {
+    "from": "v0.9.0-beta"
+  }
 }

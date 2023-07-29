@@ -1,9 +1,6 @@
 {
-    "icon": "/assets/ranged-pumps/renders/pump.png",
-    "tags": [
-        {
-            "type": "since",
-            "release": "0.1"
-        }
-    ]
+  "icon": "/assets/ranged-pumps/renders/pump.png",
+  "range": {
+    "from": "v0.1.0"
+  }
 }

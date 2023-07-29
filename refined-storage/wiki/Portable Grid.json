@@ -1,9 +1,6 @@
 {
-  "icon": "\/assets\/refined-storage\/renders\/portable-grid.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "1.4.5"
-    }
-  ]
+  "icon": "/assets/refined-storage/renders/portable-grid.png",
+  "range": {
+    "from": "v1.4.5-beta"
+  }
 }

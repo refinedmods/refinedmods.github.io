@@ -1,9 +1,6 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/wireless-crafting-monitor.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "1.2.1"
-    }
-  ]
+  "range": {
+    "from": "v1.2.1"
+  }
 }

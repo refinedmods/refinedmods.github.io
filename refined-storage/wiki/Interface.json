@@ -1,9 +1,6 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/interface.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "0.4"
-    }
-  ]
+  "range": {
+    "from": "v0.4.0-alpha"
+  }
 }

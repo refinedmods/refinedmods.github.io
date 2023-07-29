@@ -1,9 +1,6 @@
 {
-  "icon": "\/assets\/refined-storage\/renders\/security-card.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "1.4"
-    }
-  ]
+  "icon": "/assets/refined-storage/renders/security-card.png",
+  "range": {
+    "from": "v1.4.0-beta"
+  }
 }

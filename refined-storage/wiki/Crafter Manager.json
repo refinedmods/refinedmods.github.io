@@ -1,9 +1,6 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/crafter-manager.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "1.5.33"
-    }
-  ]
+  "range": {
+    "from": "v1.5.33"
+  }
 }

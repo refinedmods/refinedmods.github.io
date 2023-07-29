@@ -1,9 +1,6 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/storage-monitor.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "1.4.1"
-    }
-  ]
+  "range": {
+    "from": "v1.4.1-beta"
+  }
 }

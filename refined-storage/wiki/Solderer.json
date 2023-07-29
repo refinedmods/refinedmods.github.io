@@ -1,13 +1,8 @@
 {
   "icon": "\/assets\/refined-storage\/renders\/solderer.png",
-  "tags": [
-    {
-      "type": "since",
-      "release": "0.3"
-    },
-    {
-      "type": "removed",
-      "release": "1.6"
-    }
-  ]
+  "range": {
+    "from": "v0.3.0-alpha",
+    "to": "v1.6.0"
+  },
+  "see": "Processor Binding"
 }
