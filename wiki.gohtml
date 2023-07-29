@@ -58,7 +58,7 @@
             <div class="col-md-8">
                 {{if or .Wiki.Meta.Range .Wiki.Meta.See}}
                 <aside>
-                    <table class="table table-sm table-bordered">
+                    <table class="table table-bordered">
                     <tbody>
                         {{if .Wiki.Meta.Range}}
                             <tr>
@@ -67,7 +67,7 @@
                                     {{if .Wiki.Meta.Range.To}}
                                         <span class="badge rounded-pill text-bg-danger">Removed</span>
                                     {{else}}
-                                        <span class="badge rounded-pill text-bg-success">Available</span>
+                                        <span class="badge rounded-pill text-bg-primary">Available</span>
                                     {{end}}
                                 </td>
                             </tr>
@@ -75,7 +75,7 @@
                             <tr>
                                 <th scope="col">Added in</th>
                                 <td>
-                                    <a href="/{{.Project.Slug}}/releases/{{.Wiki.Meta.Range.From}}"><span class="badge rounded-pill text-bg-primary">{{.Wiki.Meta.Range.From}}</span></a>
+                                    <a href="/{{.Project.Slug}}/releases/{{.Wiki.Meta.Range.From}}">{{.Wiki.Meta.Range.From}} {{ template "release-badge.gohtml" (release .Project .Wiki.Meta.Range.From ) }}</a>
                                 </td>
                             </tr>
                             {{end}}
@@ -83,7 +83,7 @@
                             <tr>
                                 <th scope="col">Removed in</th>
                                 <td>
-                                    <a href="/{{.Project.Slug}}/releases/{{.Wiki.Meta.Range.To}}"><span class="badge rounded-pill text-bg-primary">{{.Wiki.Meta.Range.To}}</span></a>
+                                    <a href="/{{.Project.Slug}}/releases/{{.Wiki.Meta.Range.To}}">{{.Wiki.Meta.Range.To}} {{ template "release-badge.gohtml" (release .Project .Wiki.Meta.Range.To ) }}</a>
                                 </td>
                             </tr>
                             {{end}}
