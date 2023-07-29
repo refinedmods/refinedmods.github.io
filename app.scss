@@ -1,5 +1,4 @@
 $font-family-sans-serif: Open Sans;
-$body-bg: rgb(248, 249, 250);
 
 @import "~bootstrap/scss/bootstrap";
 
@@ -17,7 +16,7 @@ a {
 }
 
 .breadcrumb {
-    background: $light;
+    background: var(--bs-tertiary-bg);
     padding: $spacer;
 }
 
@@ -62,10 +61,6 @@ img.home-icon {
 
 .main-nav {
     font-size: 0.8rem;
-}
-
-main {
-    background: #fff;
 }
 
 .sidebar {
