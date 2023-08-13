@@ -1,6 +1,6 @@
 import tippy from "tippy.js";
 import "tippy.js/dist/tippy.css";
-import "tippy.js/themes/light.css";
+import "tippy.js/themes/material.css";
 import { Tab } from "bootstrap";
 import './app.scss';
 
@@ -26,7 +26,7 @@ window.addEventListener("load", () => {
         '<img src="' +
         tooltip.getAttribute("data-tooltip-icon") +
         '" class="wiki-tooltip-icon">',
-      theme: "light",
+      theme: "material",
       allowHTML: true,
       animation: null,
       placement: "right",
