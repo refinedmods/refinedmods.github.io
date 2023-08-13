@@ -96,8 +96,9 @@
     "wikiIndex": "wiki-index.gohtml",
     "index": "index.gohtml"
   },
-  "copyDirectories": [
-    "dist",
-    "assets"
+  "copy": [
+    "dist/",
+    "assets/",
+    "ads.txt"
   ]
 }
