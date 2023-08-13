@@ -30,7 +30,7 @@
   setTheme(getPreferredTheme())
 
   const showActiveTheme = (theme, focus = false) => {
-    const themeSwitcher = document.querySelector('#bd-theme')
+    const themeSwitcher = document.querySelector('.bd-theme')
 
     if (!themeSwitcher) {
       return
@@ -41,6 +41,14 @@
     document.querySelectorAll('[data-bs-theme-value]').forEach(element => {
       element.classList.remove('active')
       element.setAttribute('aria-pressed', 'false')
+    })
+
+    const themeIcons = document.querySelectorAll('.theme-icon')
+    themeIcons.forEach(themeIcon => {
+      themeIcon.classList.remove('fa-sun')
+      themeIcon.classList.remove('fa-moon')
+      themeIcon.classList.remove('fa-palette')
+      themeIcon.classList.add(theme === 'light' ? 'fa-sun' : (theme === 'dark' ? 'fa-moon' : 'fa-palette'))
     })
 
     btnToActive.classList.add('active')
