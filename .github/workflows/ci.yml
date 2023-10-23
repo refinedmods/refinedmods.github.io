@@ -33,7 +33,7 @@ jobs:
     - run: chown $USER sitegen
     - run: ./sitegen build
       env:
-        SITEGEN_GITHUB_TOKEN: ${{ secrets.SITEGEN_GITHUB_TOKEN }}
+        SITEGEN_GITHUB_TOKEN: ${{ secrets.GH_METADATA_TOKEN }}
     - uses: actions/upload-artifact@v3
       with:
         name: output
