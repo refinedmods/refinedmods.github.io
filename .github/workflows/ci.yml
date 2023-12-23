@@ -33,3 +33,4 @@ jobs:
           clean: true
           clean-exclude: |
             refined-storage/wiki/*.html
+            refined-storage-addons/wiki/*.html
