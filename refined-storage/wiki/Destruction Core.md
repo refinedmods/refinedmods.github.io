@@ -1,1 +1,0 @@
-The [[#name]] is used in recipes for devices that turn items from the world into items in the storage network.

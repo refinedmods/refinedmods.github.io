@@ -1,1 +1,0 @@
-The Machine Casing is a block that is used to craft the various Refined Storage devices.

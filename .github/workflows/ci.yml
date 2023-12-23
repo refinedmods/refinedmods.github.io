@@ -1,56 +1,32 @@
 name: CI
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 0,12 * * *"
+env:
+  refinedSitesVersion: 0.1.2
 jobs:
-  build-frontend:
+  build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: Use Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: 18
-    - run: npm ci
-    - run: npm run build
-    - run: rm -rf node_modules
-    - uses: actions/upload-artifact@v3
-      with:
-        name: frontend-output
-        path: .
-  build-website:
-    runs-on: ubuntu-latest
-    needs: build-frontend
-    steps:
-    - uses: actions/checkout@v3
-      with:
-        repository: 'refinedmods/sitegen'
-    - uses: actions/setup-go@v4
-      with:
-        go-version: '1.20'
-    - run: go build
-    - uses: actions/download-artifact@v3
-      with:
-        name: frontend-output
-    - run: chown $USER sitegen
-    - run: ./sitegen build
-      env:
-        SITEGEN_GITHUB_TOKEN: ${{ secrets.GH_METADATA_TOKEN }}
-    - uses: actions/upload-artifact@v3
-      with:
-        name: output
-        path: output/
-  deploy:
-    if: ${{ github.ref == 'refs/heads/main' }}
-    runs-on: ubuntu-latest
-    needs: build-website
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-    - uses: actions/download-artifact@v3
-      with:
-        name: output
-        path: output/
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        branch: gh-pages
-        folder: output/
+      - uses: actions/checkout@v3
+      - name: Use Refined Sites
+        run: wget "https://github.com/refinedmods/refinedsites/releases/download/v$refinedSitesVersion/refinedsites-$refinedSitesVersion-all.jar"
+      - name: Setup Java
+        uses: refinedmods/refinedarchitect/.github/actions/setup-java@develop
+      - name: Build site
+        run: java -jar refinedsites-$refinedSitesVersion-all.jar .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run build
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: dist/

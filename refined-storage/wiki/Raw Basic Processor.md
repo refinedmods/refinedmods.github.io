@@ -1,1 +1,0 @@
-The Raw Basic Processor is used to craft a [[Basic Processor]].

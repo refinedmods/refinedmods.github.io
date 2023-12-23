@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="module" th:src="@{./assets/js/color-modes.js}"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" th:href="@{./assets/scss/styles.scss}">
+    <script type="module" th:src="@{./assets/js/main.js}"></script>
+    <meta name="robots" content="noindex" th:if="${!currentComponent.latest}">
+    <title layout:title-pattern="$LAYOUT_TITLE - $CONTENT_TITLE">Refined Mods</title>
+</head>
+<body>
+<div class="d-flex flex-column vh-100">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" th:href="@{./index.html}">
+                <img th:src="@{./assets/images/logo.png}" style="width: 98.1px;" alt="Refined Mods logo">
+                Refined Mods
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" th:classappend="${currentComponent.name == 'root' ? 'active' : ''}"
+                           aria-current="page" th:href="@{./index.html}">
+                            Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"
+                           th:classappend="${currentComponent.name == 'Refined Storage' ? 'active' : ''}"
+                           th:href="@{./refined-storage/index.html}">
+                            Refined Storage
+                        </a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <div class="row g-0 h-100 overflow-auto">
+        <div class="col-xl-3 shadow bg-light-subtle p-3 scrollbar-col" th:if="${!currentComponent.root}">
+            <div class="d-flex border-bottom pb-2 mb-2 justify-content-between">
+                <a th:href="@{'./' + ${currentComponent.slug} + '/' + ${currentComponent.latest ? '' : currentComponent.version.friendlyName() + '/'} + 'index.html'}"
+                   class="link-body-emphasis d-flex d-flex gap-2 align-items-center text-decoration-none">
+                    <img th:src="@{./assets/images/refined-storage-logo.png}"
+                         th:if="${currentComponent.name == 'Refined Storage'}" style="width: 40px"
+                         alt="Refined Storage logo">
+                    <span class="fs-5 fw-semibold" th:text="${currentComponent.name}"></span>
+                </a>
+                <div class="d-flex">
+                    <button class="btn btn-outline btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                        <span th:text="${currentComponent.version.friendlyName()}"
+                              th:if="${!currentComponent.latest}"></span>
+                        <span class="badge rounded-pill text-bg-primary"
+                              th:if="${currentComponent.latest}">Latest</span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li th:each="component : ${otherComponents}">
+                            <a class="dropdown-item"
+                               th:classappend="${component.version == currentComponent.version ? 'active' : ''}"
+                               th:href="@{'./' + ${component.slug} + '/' + ${component.latest ? '' : component.version.friendlyName() + '/'} + 'index.html'}">
+                                <span th:text="${component.version.friendlyName()}"></span>
+                                <span class="badge rounded-pill text-bg-primary"
+                                      th:if="${component.latest}">Latest</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <button class="btn btn-outline btn-sm" id="nav-expand-button">
+                        <i class="bi bi-arrows-expand"></i>
+                    </button>
+                </div>
+            </div>
+
+            <ul class="list-unstyled ps-0">
+                <li class="mb-1" th:each="item : ${navigationItems}">
+                    <a class="btn btn-toggle-no-children d-inline-flex align-items-center rounded border-0"
+                       th:if="${item.children == null}"
+                       th:classappend="${item.active ? 'active' : ''}"
+                       th:href="@{'./' + ${currentComponent.slug} + '/' + ${currentComponent.latest ? '' : currentComponent.version.friendlyName() + '/'} + ${item.url}}">
+                        <i class="bi" th:classappend="${item.icon}"></i>
+                        <span th:utext="${item.name}"></span>
+                    </a>
+                    <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0"
+                            th:if="${item.children != null}"
+                            th:classappend="${item.active ? 'collapsed' : ''}"
+                            data-bs-toggle="collapse"
+                            th:attr="data-bs-target='#collapse-' + ${item.key}, aria-expanded=${item.active} ? 'true' : 'false'"
+                            th:utext="${item.name}">
+                    </button>
+                    <div class="nav-collapse collapse"
+                         th:if="${item.children != null}"
+                         th:classappend="${item.active ? 'show' : ''}"
+                         th:id="'collapse-' + ${item.key}">
+                        <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                            <li th:each="subItem : ${item.children}">
+                                <a th:href="@{'./' + ${currentComponent.slug} + '/' + ${currentComponent.latest ? '' : currentComponent.version.friendlyName() + '/'} + ${subItem.url} + '#nav-' + ${subItem.nameSlug}}"
+                                   th:classappend="${subItem.active ? 'active' : ''}"
+                                   th:id="'nav-' + ${subItem.nameSlug}"
+                                   class="link-body-emphasis d-inline-flex text-decoration-none rounded align-items-center gap-2">
+                                    <img th:if="${subItem.icon != null}"
+                                         th:src="@{'./assets/' + ${currentComponent.slug} + '.' + ${currentComponent.version.friendlyName()} + '/' + ${subItem.icon}}"
+                                         width="32">
+                                    <span th:utext="${subItem.name}"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="col scrollbar-col">
+            <div class="container mt-3">
+                <h1 class="mb-2">
+                    <img th:if="${icon != null}"
+                         th:src="@{'./assets/' + ${currentComponent.slug} + '.' + ${currentComponent.version.friendlyName()} + '/' + ${icon}}"
+                         width="32">
+                    <span th:utext="${title}" th:remove="tag"></span>
+                </h1>
+                <nav aria-label="breadcrumb" th:if="${#lists.size(breadcrumbs) > 0}">
+                    <ol class="breadcrumb breadcrumb-chevron p-3 bg-body-tertiary rounded-3">
+                        <li class="breadcrumb-item" th:each="breadcrumb : ${breadcrumbs}"
+                            th:classappend="${breadcrumb.active ? 'active' : ''}">
+                            <a class="link-body-emphasis fw-semibold text-decoration-none"
+                               th:if="${!breadcrumb.active}"
+                               th:href="@{'./' + ${currentComponent.slug} + '/' + ${currentComponent.latest ? '' : currentComponent.version.friendlyName() + '/'} + ${breadcrumb.url}}">
+                                <i th:if="${breadcrumb.icon != null}" class="bi"
+                                   th:classappend="${breadcrumb.icon}"></i>
+                                <span th:utext="${breadcrumb.name}"></span>
+                            </a>
+                            <div th:if="${breadcrumb.active}" th:remove="tag">
+                                <i th:if="${breadcrumb.icon != null}" class="bi"
+                                   th:classappend="${breadcrumb.icon}"></i>
+                                <span th:utext="${breadcrumb.name}"></span>
+                            </div>
+                        </li>
+                    </ol>
+                </nav>
+                <div layout:fragment="content"></div>
+            </div>
+            <div class="container">
+                <footer class="py-3 my-4">
+                    <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+                        <li class="nav-item"><a href="https://twitter.com/refinedmods"
+                                                class="nav-link px-2 text-body-secondary"><i class="bi bi-twitter"></i>
+                            Twitter</a></li>
+                        <li class="nav-item"><a href="https://discordapp.com/invite/VYzsydb"
+                                                class="nav-link px-2 text-body-secondary"><i class="bi bi-discord"></i>
+                            Discord</a></li>
+                        <li class="nav-item"><a href="https://anvil.social/@refinedmods"
+                                                class="nav-link px-2 text-body-secondary"><i class="bi bi-mastodon"></i>
+                            Mastodon</a></li>
+                        <li class="nav-item"><a href="https://github.com/refinedmods"
+                                                class="nav-link px-2 text-body-secondary"><i class="bi bi-github"></i>
+                            GitHub</a></li>
+                    </ul>
+                    <p class="text-center text-body-secondary">&copy; <span
+                            th:text="${#dates.year(#dates.createNow())}"></span> Refined Mods</p>
+                </footer>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
+    <button class="btn btn-bd-primary py-2 dropdown-toggle d-flex align-items-center"
+            id="bd-theme"
+            type="button"
+            aria-expanded="false"
+            data-bs-toggle="dropdown"
+            aria-label="Toggle theme (auto)">
+        <i class="bi bi-circle-half theme-icon-active"></i>
+        <span class="visually-hidden" id="bd-theme-text">Toggle theme</span>
+    </button>
+    <ul class="dropdown-menu dropdown-menu-end shadow" aria-labelledby="bd-theme-text">
+        <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light"
+                    aria-pressed="false">
+                <i class="bi bi-sun-fill me-2 theme-icon"></i>
+                Light
+                <i class="bi bi-check2 ms-auto theme-check"></i>
+            </button>
+        </li>
+        <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark"
+                    aria-pressed="false">
+                <i class="bi bi-moon-stars-fill me-2 theme-icon"></i>
+                Dark
+                <i class="bi bi-check2 ms-auto theme-check"></i>
+            </button>
+        </li>
+        <li>
+            <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto"
+                    aria-pressed="true">
+                <i class="bi bi-circle-half me-2 theme-icon"></i>
+                Auto
+                <i class="bi bi-check2 ms-auto theme-check"></i>
+            </button>
+        </li>
+    </ul>
+</div>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-440597B2Z2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-440597B2Z2');
+</script>
+</body>
+</html>

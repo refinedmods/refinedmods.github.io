@@ -1,1 +1,0 @@
-The 16k Storage Part is used to craft the [[16k Storage Disk]].
