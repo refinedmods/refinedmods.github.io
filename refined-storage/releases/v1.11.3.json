@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.11.3.json",
+  "name": "v1.11.3",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86653006,
+      "nodeId": "RE_kwDOAtXBQM4FKjhO",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.11.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86653006/assets",
+      "assets": [
+        {
+          "id": 88896064,
+          "nodeId": "RA_kwDOAtXBQM4FTHJA",
+          "name": "refinedstorage-1.11.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3269889,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.11.3/refinedstorage-1.11.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86653006/assets{?name,label}",
+      "tagName": "v1.11.3",
+      "targetCommitish": "develop",
+      "body": "### Fixed\n\n- Fixed external storage cache being de-synced from the network cache.\n- Fixed external storage using an out of date block entity for getting handler.\n- Fixed inventory slots being reused incorrectly in rare cases in the JEI transfer handler.\n\n### Changed\n\n- Increased packet size limit.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-20T13:42:40Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86653006",
+      "createdAt": "2022-12-20T13:37:09Z"
+    },
+    {
+      "id": 4216261,
+      "dateModified": "2022-12-20T13:59:43Z",
+      "fileLength": 3269889,
+      "fileName": "refinedstorage-1.11.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.19.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4216261",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4216261",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4216261",
+      "createdAt": "2022-12-20T13:42:55Z"
+    },
+    {
+      "id": "Qf5sD6tZ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.11.3",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed external storage cache being de-synced from the network cache.\u003c/li\u003e\n\u003cli\u003eFixed external storage using an out of date block entity for getting handler.\u003c/li\u003e\n\u003cli\u003eFixed inventory slots being reused incorrectly in rare cases in the JEI transfer handler.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIncreased packet size limit.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "cade71b786419c0d3bf79cb1e12ecec102ceae8c69124cbdce98a6ab5102cac1c026e3c3d7f355304e5593bb6929337b69f9bd9c922d27ae95275783f46ccf75",
+            "sha1": "e024850d9751c5d25c45aef060598a26309f6105"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/Qf5sD6tZ/refinedstorage-1.11.3.jar",
+          "filename": "refinedstorage-1.11.3.jar",
+          "primary": true,
+          "size": 3269889
+        }
+      ],
+      "gameVersions": [
+        "1.19.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.11.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/Qf5sD6tZ",
+      "createdAt": "2023-07-04T19:59:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 564
+      },
+      {
+        "source": "modrinth",
+        "downloads": 15
+      }
+    ],
+    "totalDownloads": 585
+  }
+}

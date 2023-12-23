@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.3.0-alpha.json",
+  "name": "v1.3.0-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 110493305,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MzMwNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.3.0-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110493305/assets",
+      "assets": [
+        {
+          "id": 115011100,
+          "nodeId": "RA_kwDOAtXBQM4G2u4c",
+          "name": "refinedstorage-1.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1379304,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.3.0-alpha/refinedstorage-1.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110493305/assets{?name,label}",
+      "tagName": "v1.3.0-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.11.\r\n\r\n### Removed\r\n\r\n- Removed RF support, use Forge Energy instead.\r\n- Removed IC2 support.\r\n- Removed MCMultiPart support (will be re-added as soon as MCMultiPart for MC 1.11 is available).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:26:23Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.3.0-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.3.0-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110493305",
+      "createdAt": "2016-12-03T19:24:41Z"
+    },
+    {
+      "id": 2351985,
+      "dateModified": "2023-06-30T13:43:14Z",
+      "fileLength": 1379304,
+      "fileName": "refinedstorage-1.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2351985",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2351985",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2351985",
+      "createdAt": "2016-12-03T19:39:07Z"
+    },
+    {
+      "id": "ebflXOrE",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.3.0-alpha",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.11.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved RF support, use Forge Energy instead.\u003c/li\u003e\n\u003cli\u003eRemoved IC2 support.\u003c/li\u003e\n\u003cli\u003eRemoved MCMultiPart support (will be re-added as soon as MCMultiPart for MC 1.11 is available).\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d2563d693554028497f86c2e809ef19a9190126206cee2470cacf7f2fb59717b837682a2c0920b3c31ee66ac9093e63478c5fdf98d0a5048b08fe6888e08c1a0",
+            "sha1": "d4a565edab27ee0f255e946808746b3692ad504e"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ebflXOrE/refinedstorage-1.3.jar",
+          "filename": "refinedstorage-1.3.jar",
+          "primary": true,
+          "size": 1379304
+        }
+      ],
+      "gameVersions": [
+        "1.11"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.3.0-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ebflXOrE",
+      "createdAt": "2023-07-04T19:57:37Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 345
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 346
+  }
+}

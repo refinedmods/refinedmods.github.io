@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.0.5.json",
+  "name": "v1.0.5",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110520854,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMDg1NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520854/assets",
+      "assets": [
+        {
+          "id": 115035536,
+          "nodeId": "RA_kwDOAtXBQM4G202Q",
+          "name": "refinedstorage-1.0.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 767021,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.5/refinedstorage-1.0.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520854/assets{?name,label}",
+      "tagName": "v1.0.5",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Importer now takes a Destruction Core, and Exporter a Construction Core.\r\n- Added Disk Manipulator.\r\n- Added ingame config.\r\n- Added the ability to see the output of a Pattern by holding shift.\r\n- Exporter in fluid mode and Fluid Interface no longer duplicates fluids that are less than 1 bucket.\r\n\r\n### Changed\r\n\r\n- Changed default Grid sorting type to quantity.\r\n- Updated Dutch translation.\r\n- Updated Chinese translation.\r\n- When a machine is in use by a crafting pattern, inserting of items from other patterns will be avoided.\r\n\r\n### Fixed\r\n\r\n- Fixed crafting a complex item causes the process to flow off the Crafting Monitor\u0027s GUI.\r\n- Fixed shift clicking from Grid when player inventory is full throwing items in the world.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:43:45Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520854",
+      "createdAt": "2016-09-21T15:43:34Z"
+    },
+    {
+      "id": 2331510,
+      "dateModified": "2023-06-30T15:51:04Z",
+      "fileLength": 767021,
+      "fileName": "refinedstorage-1.0.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2331510",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2331510",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2331510",
+      "createdAt": "2016-09-21T16:01:46Z"
+    },
+    {
+      "id": "NZfnBHnF",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.0.5",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImporter now takes a Destruction Core, and Exporter a Construction Core.\u003c/li\u003e\n\u003cli\u003eAdded Disk Manipulator.\u003c/li\u003e\n\u003cli\u003eAdded ingame config.\u003c/li\u003e\n\u003cli\u003eAdded the ability to see the output of a Pattern by holding shift.\u003c/li\u003e\n\u003cli\u003eExporter in fluid mode and Fluid Interface no longer duplicates fluids that are less than 1 bucket.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eChanged default Grid sorting type to quantity.\u003c/li\u003e\n\u003cli\u003eUpdated Dutch translation.\u003c/li\u003e\n\u003cli\u003eUpdated Chinese translation.\u003c/li\u003e\n\u003cli\u003eWhen a machine is in use by a crafting pattern, inserting of items from other patterns will be avoided.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crafting a complex item causes the process to flow off the Crafting Monitor\u0027s GUI.\u003c/li\u003e\n\u003cli\u003eFixed shift clicking from Grid when player inventory is full throwing items in the world.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "57ed1269db2c3c90c23f673f5db390f801da06b3fc53a69e69eab7f9832bd2ccaef21ffff9f3641cc49dbd6bc1bbcf21011b2159378fa462485e041db61924c8",
+            "sha1": "1f548be533dc723747e29888dbcb330240121e75"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/NZfnBHnF/refinedstorage-1.0.5.jar",
+          "filename": "refinedstorage-1.0.5.jar",
+          "primary": true,
+          "size": 767021
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.0.5",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/NZfnBHnF",
+      "createdAt": "2023-07-04T19:57:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 15190
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 15191
+  }
+}

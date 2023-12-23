@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.3-beta.json",
+  "name": "v1.9.3-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 85636302,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2MzAy",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.3-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636302/assets",
+      "assets": [
+        {
+          "id": 87725073,
+          "nodeId": "RA_kwDOAtXBQM4FOpQR",
+          "name": "refinedstorage-1.9.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1898716,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.3-beta/refinedstorage-1.9.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636302/assets{?name,label}",
+      "tagName": "v1.9.3-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.16.2.\r\n\r\n### Changed\r\n\r\n- Updated Japanese translation.\r\n- Updated Taiwanese translation.\r\n- Refactored autocrafting code.\r\n\r\n### Fixed\r\n\r\n- Fixed duplication bug with the Constructor.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T20:03:07Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.3-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.3-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636302",
+      "createdAt": "2020-08-24T20:23:12Z"
+    },
+    {
+      "id": 3041175,
+      "dateModified": "2022-12-10T20:11:49Z",
+      "fileLength": 1898716,
+      "fileName": "refinedstorage-1.9.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3041175",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3041175",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3041175",
+      "createdAt": "2020-08-24T20:41:26Z"
+    },
+    {
+      "id": "qbD7GpRs",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.3-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.16.2.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Japanese translation.\u003c/li\u003e\n\u003cli\u003eUpdated Taiwanese translation.\u003c/li\u003e\n\u003cli\u003eRefactored autocrafting code.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed duplication bug with the Constructor.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e276043a5062ba69722003e215959addcd62f8b4d1588142cb1130a3d1e562bd83c3b654f075ebabf6617fe0735930bf3cff8bc20ef64564469b53bd8ac09868",
+            "sha1": "2d1baa49130210fa2171fe9002b6fb09257fefd9"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/qbD7GpRs/refinedstorage-1.9.3.jar",
+          "filename": "refinedstorage-1.9.3.jar",
+          "primary": true,
+          "size": 1898716
+        }
+      ],
+      "gameVersions": [
+        "1.16.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.3-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/qbD7GpRs",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1466
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1468
+  }
+}

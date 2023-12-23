@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.11.json",
+  "name": "v1.5.11",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110471305,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTMwNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.11",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471305/assets",
+      "assets": [
+        {
+          "id": 114987980,
+          "nodeId": "RA_kwDOAtXBQM4G2pPM",
+          "name": "refinedstorage-1.5.11.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1649546,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.11/refinedstorage-1.5.11.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471305/assets{?name,label}",
+      "tagName": "v1.5.11",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed not being able to smelt quartz into silicon.\r\n- Fixed Grid extracting wrong enchanted books.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:05:07Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.11",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.11",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471305",
+      "createdAt": "2017-07-16T07:26:31Z"
+    },
+    {
+      "id": 2451420,
+      "dateModified": "2023-06-30T09:23:26Z",
+      "fileLength": 1649546,
+      "fileName": "refinedstorage-1.5.11.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2451420",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2451420",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2451420",
+      "createdAt": "2017-07-16T07:33:52Z"
+    },
+    {
+      "id": "zd9efSD4",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.11",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed not being able to smelt quartz into silicon.\u003c/li\u003e\n\u003cli\u003eFixed Grid extracting wrong enchanted books.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "3a443c0286f37bf3936d4f631d24effd6734b4238a7338ace7355a5d0d340d9450611cf9bc658694d1a5e7417c39e35fbb1cb4994d6f947d4f910e3d6845107c",
+            "sha1": "da7ed3ffc67c7516879b0d5ef59f714c6cd9d80b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/zd9efSD4/refinedstorage-1.5.11.jar",
+          "filename": "refinedstorage-1.5.11.jar",
+          "primary": true,
+          "size": 1649546
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.11",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/zd9efSD4",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2503
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 2505
+  }
+}

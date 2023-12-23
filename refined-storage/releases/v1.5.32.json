@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.32.json",
+  "name": "v1.5.32",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110470226,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDIyNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.32",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470226/assets",
+      "assets": [
+        {
+          "id": 114986945,
+          "nodeId": "RA_kwDOAtXBQM4G2o_B",
+          "name": "refinedstorage-1.5.32.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1766486,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.32/refinedstorage-1.5.32.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470226/assets{?name,label}",
+      "tagName": "v1.5.32",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Spanish translation.\r\n\r\n### Changed\r\n\r\n- Changed stack quantity of craftable items from 1 to 0 to fix Quantity Sorting.\r\n- Changed fluid stack amount to not display \"0\" anymore.\r\n- Disk Manipulator in fluid mode will now extract a bucket at a time instead of 1 mB (or 64 buckets at a time with a Stack Upgrade instead of 64 mB).\r\n\r\n### Fixed\r\n\r\n- Fixed issue where the Pattern Grid can only overwrite patterns when blank ones are present.\r\n- Fixed not being able to extract half a stack of items with max stack size 1 in Grid when using right click.\r\n- Fixed 2 same stacks using capabilities without NBT tag not treated equal.\r\n- Fixed NBT/metadata check on exporting in an Interface.\r\n- Fixed Disk Manipulator being stuck on unemptiable, non-empty disks.\r\n- Fixed orientations of the Portable Grid.\r\n- Fixed crafting event in Crafting Grid being fired twice.\r\n- Fixed a crash when the Constructor tries to place a block when a multipart is attached to it.\r\n- Fixed an autocrafting crash.\r\n- Attempted to fix FPS drop on Grid sorting.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T08:55:40Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.32",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.32",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470226",
+      "createdAt": "2018-03-08T20:38:47Z"
+    },
+    {
+      "id": 2538885,
+      "dateModified": "2023-06-30T09:17:02Z",
+      "fileLength": 1766486,
+      "fileName": "refinedstorage-1.5.32.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2538885",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2538885",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2538885",
+      "createdAt": "2018-03-08T20:52:10Z"
+    },
+    {
+      "id": "ECyJMVne",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.32",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Spanish translation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eChanged stack quantity of craftable items from 1 to 0 to fix Quantity Sorting.\u003c/li\u003e\n\u003cli\u003eChanged fluid stack amount to not display \u0026quot;0\u0026quot; anymore.\u003c/li\u003e\n\u003cli\u003eDisk Manipulator in fluid mode will now extract a bucket at a time instead of 1 mB (or 64 buckets at a time with a Stack Upgrade instead of 64 mB).\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed issue where the Pattern Grid can only overwrite patterns when blank ones are present.\u003c/li\u003e\n\u003cli\u003eFixed not being able to extract half a stack of items with max stack size 1 in Grid when using right click.\u003c/li\u003e\n\u003cli\u003eFixed 2 same stacks using capabilities without NBT tag not treated equal.\u003c/li\u003e\n\u003cli\u003eFixed NBT/metadata check on exporting in an Interface.\u003c/li\u003e\n\u003cli\u003eFixed Disk Manipulator being stuck on unemptiable, non-empty disks.\u003c/li\u003e\n\u003cli\u003eFixed orientations of the Portable Grid.\u003c/li\u003e\n\u003cli\u003eFixed crafting event in Crafting Grid being fired twice.\u003c/li\u003e\n\u003cli\u003eFixed a crash when the Constructor tries to place a block when a multipart is attached to it.\u003c/li\u003e\n\u003cli\u003eFixed an autocrafting crash.\u003c/li\u003e\n\u003cli\u003eAttempted to fix FPS drop on Grid sorting.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "181fbe9afd9db3cd622e2ae24744c23f784fbad87d9a52051214bfe21c82f4452d8dc224768e52d2efe6ba8a69e44ae46cf2d33ea950467e46caa944a2edcc54",
+            "sha1": "58b3db3ad217623e44466275f9ecd2dc17f80abf"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ECyJMVne/refinedstorage-1.5.32.jar",
+          "filename": "refinedstorage-1.5.32.jar",
+          "primary": true,
+          "size": 1766486
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.32",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ECyJMVne",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 700769
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 700770
+  }
+}

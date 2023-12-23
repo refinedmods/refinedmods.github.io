@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.15.json",
+  "name": "v1.9.15",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 85636080,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2MDgw",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.15",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636080/assets",
+      "assets": [
+        {
+          "id": 87724493,
+          "nodeId": "RA_kwDOAtXBQM4FOpHN",
+          "name": "refinedstorage-1.9.15.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3130693,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.15/refinedstorage-1.9.15.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636080/assets{?name,label}",
+      "tagName": "v1.9.15",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Refined Storage Addons compatibility.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T19:51:56Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.15",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.15",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636080",
+      "createdAt": "2021-07-25T14:57:07Z"
+    },
+    {
+      "id": 3400575,
+      "dateModified": "2022-12-10T20:07:37Z",
+      "fileLength": 3130693,
+      "fileName": "refinedstorage-1.9.15.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3400575",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3400575",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3400575",
+      "createdAt": "2021-07-25T14:59:24Z"
+    },
+    {
+      "id": "t5HOPjQj",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.15",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Refined Storage Addons compatibility.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "1a5c250a4db499d8217947a216dc34031bce75ca3d7287b3c1c634a68a61ff001ad2422ad30604dea76c11f3ecdb01b6fa98417cf6137aa4da43f3d30c77db72",
+            "sha1": "8872a643b45bb4cff2fbffbe6d02aa3a79737b85"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/t5HOPjQj/refinedstorage-1.9.15.jar",
+          "filename": "refinedstorage-1.9.15.jar",
+          "primary": true,
+          "size": 3130693
+        }
+      ],
+      "gameVersions": [
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.15",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/t5HOPjQj",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3884086
+      },
+      {
+        "source": "modrinth",
+        "downloads": 7
+      }
+    ],
+    "totalDownloads": 3884093
+  }
+}

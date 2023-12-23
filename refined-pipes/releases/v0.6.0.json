@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.6.0.json",
+  "name": "v0.6.0",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55580732,
+      "nodeId": "RE_kwDODcjNAM4DUBg8",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.6.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/55580732/assets",
+      "assets": [
+        {
+          "id": 52051839,
+          "nodeId": "RA_kwDODcjNAM4DGj9_",
+          "name": "refinedpipes-0.6.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 321947,
+          "downloadCount": 12,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.6.0/refinedpipes-0.6.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/55580732/assets{?name,label}",
+      "tagName": "v0.6.0",
+      "targetCommitish": "develop",
+      "body": "\n### Added\n\n- Ported to Minecraft 1.18.1.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-17T23:02:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.6.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.6.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/55580732",
+      "createdAt": "2021-12-17T22:58:41Z"
+    },
+    {
+      "id": 3570151,
+      "dateModified": "2021-12-17T23:04:24Z",
+      "fileLength": 321948,
+      "fileName": "refinedpipes-0.6.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/3570151",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/3570151",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/3570151",
+      "createdAt": "2021-12-17T23:02:46Z"
+    },
+    {
+      "id": "1MDueLVz",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.6.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePorted to Minecraft 1.18.1.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "1be6ad36e1046fac1b74b865b9586e67437869f7c6b1bf742849ab1c897f1ca5d0a97f4c5e03f0d0cbdcedb742897b0c549afc2cf940da726f861229448e70f0",
+            "sha1": "b74c14671b32888473585a3c424b8968ae3eae2a"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/1MDueLVz/refinedpipes-0.6.0.jar",
+          "filename": "refinedpipes-0.6.0.jar",
+          "primary": true,
+          "size": 321948
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.6.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/1MDueLVz",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 12
+      },
+      {
+        "source": "curseforge",
+        "downloads": 30031
+      },
+      {
+        "source": "modrinth",
+        "downloads": 5
+      }
+    ],
+    "totalDownloads": 30048
+  }
+}

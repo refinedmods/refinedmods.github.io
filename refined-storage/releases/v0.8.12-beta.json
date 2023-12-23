@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.12-beta.json",
+  "name": "v0.8.12-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110998701,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5ODcwMQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.12-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998701/assets",
+      "assets": [
+        {
+          "id": 115527458,
+          "nodeId": "RA_kwDOAtXBQM4G4s8i",
+          "name": "refinedstorage-0.8.12.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 514429,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.12-beta/refinedstorage-0.8.12.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998701/assets{?name,label}",
+      "tagName": "v0.8.12-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed dupe bug when shift clicking output slot in grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:16:00Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.12-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.12-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998701",
+      "createdAt": "2016-07-19T22:32:48Z"
+    },
+    {
+      "id": 2317263,
+      "dateModified": "2023-07-04T10:46:17Z",
+      "fileLength": 514429,
+      "fileName": "refinedstorage-0.8.12.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2317263",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2317263",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2317263",
+      "createdAt": "2016-07-20T02:24:41Z"
+    },
+    {
+      "id": "E3XCJ2TW",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.12-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed dupe bug when shift clicking output slot in grid.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "70b3c60cf03e5fde525b4612799fde8aa4bba3b0a07e1f054108029ece65c32627c22e737d4a6be2760e428a8a791b4448ddb8e160db289abfbab8b0b076da18",
+            "sha1": "3943fae10ad5684e4abed67b6f445e1f87c3b8ed"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/E3XCJ2TW/refinedstorage-0.8.12.jar",
+          "filename": "refinedstorage-0.8.12.jar",
+          "primary": true,
+          "size": 514429
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.12-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/E3XCJ2TW",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 40815
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 40816
+  }
+}

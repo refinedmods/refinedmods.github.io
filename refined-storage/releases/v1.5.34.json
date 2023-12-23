@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.34.json",
+  "name": "v1.5.34",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110331436,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMTQzNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.34",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331436/assets",
+      "assets": [
+        {
+          "id": 114837356,
+          "nodeId": "RA_kwDOAtXBQM4G2Eds",
+          "name": "refinedstorage-1.5.34.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1825275,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.34/refinedstorage-1.5.34.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110331436/assets{?name,label}",
+      "tagName": "v1.5.34",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added OR search operator to the Grid with \"|\".\r\n- Added new `getPattern(stack:table)` function for OpenComputers integration.\r\n\r\n### Changed\r\n\r\n- Empty patterns can no longer be inserted in the pattern result slot in the Pattern Grid with hoppers.\r\n- `getPatterns()` now only returns all the outputs, this to limit memory usage in OpenComputers (only affects OC integration).\r\n- Allow crafters to be daisy-chained.\r\n\r\n### Fixed\r\n\r\n- Fixed repeated key events not getting handled in some cases.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:38:44Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.34",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.34",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331436",
+      "createdAt": "2018-05-17T06:30:48Z"
+    },
+    {
+      "id": 2564334,
+      "dateModified": "2023-06-29T09:46:42Z",
+      "fileLength": 1825275,
+      "fileName": "refinedstorage-1.5.34.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2564334",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2564334",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2564334",
+      "createdAt": "2018-05-22T08:02:37Z"
+    },
+    {
+      "id": "zYkzZ6Xc",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.34",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded OR search operator to the Grid with \u0026quot;|\u0026quot;.\u003c/li\u003e\n\u003cli\u003eAdded new \u003ccode\u003egetPattern(stack:table)\u003c/code\u003e function for OpenComputers integration.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eEmpty patterns can no longer be inserted in the pattern result slot in the Pattern Grid with hoppers.\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003egetPatterns()\u003c/code\u003e now only returns all the outputs, this to limit memory usage in OpenComputers (only affects OC integration).\u003c/li\u003e\n\u003cli\u003eAllow crafters to be daisy-chained.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed repeated key events not getting handled in some cases.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "66a910aa9a901e6e38018f853ee4b67e97ea5ec4ca53bdedc0e8c726361dd8aa3d00d343b1097f2ae797301b157db6591a63bcb564c59615857ddba62ad7a0af",
+            "sha1": "0a22bff010ab74b7d772f7a1a63a6dbe1ffc22fb"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/zYkzZ6Xc/refinedstorage-1.5.34.jar",
+          "filename": "refinedstorage-1.5.34.jar",
+          "primary": true,
+          "size": 1825275
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.34",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/zYkzZ6Xc",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2383844
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 2383846
+  }
+}

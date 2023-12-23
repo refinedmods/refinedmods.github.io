@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.18.json",
+  "name": "v1.2.18",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513233,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzIzMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.18",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513233/assets",
+      "assets": [
+        {
+          "id": 115028849,
+          "nodeId": "RA_kwDOAtXBQM4G2zNx",
+          "name": "refinedstorage-1.2.18.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1395269,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.18/refinedstorage-1.2.18.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513233/assets{?name,label}",
+      "tagName": "v1.2.18",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Fluid Grid now first tries to get buckets from your inventory instead of the storage.\r\n- Performance improvements with oredict autocrafting.\r\n\r\n### Fixed\r\n\r\n- Fixed client side crash with cable.\r\n- Fixed client side crash with disk drive.\r\n- Fixed crash with external storage in fluid mode.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:49:07Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.18",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.18",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513233",
+      "createdAt": "2017-01-20T22:13:40Z"
+    },
+    {
+      "id": 2371496,
+      "dateModified": "2023-06-30T15:07:06Z",
+      "fileLength": 1395269,
+      "fileName": "refinedstorage-1.2.18.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2371496",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2371496",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2371496",
+      "createdAt": "2017-01-22T00:04:53Z"
+    },
+    {
+      "id": "WXc7Lduy",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.18",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFluid Grid now first tries to get buckets from your inventory instead of the storage.\u003c/li\u003e\n\u003cli\u003ePerformance improvements with oredict autocrafting.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed client side crash with cable.\u003c/li\u003e\n\u003cli\u003eFixed client side crash with disk drive.\u003c/li\u003e\n\u003cli\u003eFixed crash with external storage in fluid mode.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c73bdce6fe69e95ef4fa7a8cae9706d03d974b855fb41ea5555ed63f9931a97af51e902122beddbf282acd47f0f3903f2d000a29ca1fb0bbfa1d77c9de2da58f",
+            "sha1": "902e1e73bb1f8e3980dcf995d6c779655af12cf6"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/WXc7Lduy/refinedstorage-1.2.18.jar",
+          "filename": "refinedstorage-1.2.18.jar",
+          "primary": true,
+          "size": 1395269
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.18",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/WXc7Lduy",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 372886
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 372888
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.2.1.json",
+  "name": "v0.2.1",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 54192384,
+      "nodeId": "MDc6UmVsZWFzZTU0MTkyMzg0",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.2.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192384/assets",
+      "assets": [
+        {
+          "id": 50488255,
+          "nodeId": "RA_kwDODcjNAM4DAmO_",
+          "name": "refinedpipes-0.2.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 188409,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.2.1/refinedpipes-0.2.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/54192384/assets{?name,label}",
+      "tagName": "v0.2.1",
+      "targetCommitish": "develop",
+      "body": "Note: Due to refactoring of the network architecture, pipes from version 0.2 and earlier are incompatible and won\u0027t be\r\nfunctioning. This can be fixed by breaking and replacing all the pipes in a network.\r\n\r\n### Added\r\n\r\n- Added ghost hitboxes when holding an attachment in hand.\r\n\r\n### Changed\r\n\r\n- Refactored network architecture.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-11-28T13:09:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.2.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.2.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192384",
+      "createdAt": "2020-03-30T10:56:40Z"
+    },
+    {
+      "id": 2916417,
+      "dateModified": "2021-11-28T13:00:29Z",
+      "fileLength": 188409,
+      "fileName": "refinedpipes-0.2.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/2916417",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/2916417",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/2916417",
+      "createdAt": "2020-03-30T10:57:49Z"
+    },
+    {
+      "id": "WLrxbnMV",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.2.1",
+      "changelog": "\u003cp\u003eNote:\u0026nbsp;Due to refactoring of the network architecture,\u0026nbsp;pipes from version 0.2 and earlier are incompatible and won\u0027t be\u0026nbsp;functioning.\u0026nbsp;This can be fixed by breaking and replacing all the pipes in a network.\u003c/p\u003e\r\n\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eAdded ghost hitboxes when holding an attachment in hand.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eChanged\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eRefactored network architecture.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "86c4ce324d51bb5e22b6e548b20e8b43eb93cfd0853ed60e930abab6af48396b81b374d6cd6511958e38842dd5b654a5819f91c967727cbab62d2993ae30b8a6",
+            "sha1": "5d50d2491c0b40eadd199517636330e20854365b"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/WLrxbnMV/refinedpipes-0.2.1.jar",
+          "filename": "refinedpipes-0.2.1.jar",
+          "primary": true,
+          "size": 188409
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.2.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/WLrxbnMV",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 162
+      },
+      {
+        "source": "modrinth",
+        "downloads": 7
+      }
+    ],
+    "totalDownloads": 175
+  }
+}

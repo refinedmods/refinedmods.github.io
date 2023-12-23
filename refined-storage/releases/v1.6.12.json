@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.12.json",
+  "name": "v1.6.12",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110330718,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDcxOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.12",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330718/assets",
+      "assets": [
+        {
+          "id": 114836576,
+          "nodeId": "RA_kwDOAtXBQM4G2ERg",
+          "name": "refinedstorage-1.6.12.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1896159,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.12/refinedstorage-1.6.12.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330718/assets{?name,label}",
+      "tagName": "v1.6.12",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added a completion percentage to the Crafting Monitor.\r\n\r\n### Changed\r\n\r\n- Updated Russian translation.\r\n- Increased the speed of autocrafting.\r\n\r\n### Fixed\r\n\r\n- Fixed External Storage sending storage updates when it is disabled.\r\n- Fixed slight performance issue with loading Crafters from disk.\r\n- Fixed storage GUIs overflowing on large numbers.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:32:48Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.12",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.12",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330718",
+      "createdAt": "2018-11-28T20:26:12Z"
+    },
+    {
+      "id": 2642249,
+      "dateModified": "2023-06-29T09:42:28Z",
+      "fileLength": 1896159,
+      "fileName": "refinedstorage-1.6.12.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2642249",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2642249",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2642249",
+      "createdAt": "2018-11-28T20:54:08Z"
+    },
+    {
+      "id": "fmgKjOC6",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.12",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded a completion percentage to the Crafting Monitor.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Russian translation.\u003c/li\u003e\n\u003cli\u003eIncreased the speed of autocrafting.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed External Storage sending storage updates when it is disabled.\u003c/li\u003e\n\u003cli\u003eFixed slight performance issue with loading Crafters from disk.\u003c/li\u003e\n\u003cli\u003eFixed storage GUIs overflowing on large numbers.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "55f9fbcf4f3b9b3b0c131669485f77a7184a49a5c8b419c24433e6fe3e8d9470acb778c30ee27f4e7e23a29b380af2dd9b358b16e4c38f67a2e9526ff8808bfb",
+            "sha1": "001eb56ae498cb74e877df6ab39310773ae3a620"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/fmgKjOC6/refinedstorage-1.6.12.jar",
+          "filename": "refinedstorage-1.6.12.jar",
+          "primary": true,
+          "size": 1896159
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.12",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/fmgKjOC6",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2981178
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 2981184
+  }
+}

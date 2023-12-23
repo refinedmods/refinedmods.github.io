@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.13.json",
+  "name": "v1.2.13",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513448,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzQ0OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.13",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513448/assets",
+      "assets": [
+        {
+          "id": 115029076,
+          "nodeId": "RA_kwDOAtXBQM4G2zRU",
+          "name": "refinedstorage-1.2.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1390952,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.13/refinedstorage-1.2.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513448/assets{?name,label}",
+      "tagName": "v1.2.13",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed memes not working.\r\n- Fixed controller causing network rebuild on every neighbor change.\r\n- Fixed Wireless Transmitter working even if it was disabled with redstone mode.\r\n- Fixed Solderer not accepting books created in an Anvil.\r\n- Autocrafting bugfixes.\r\n- Made sure External Storage always has the correct inventory in world.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:50:47Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.13",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.13",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513448",
+      "createdAt": "2016-12-23T19:04:15Z"
+    },
+    {
+      "id": 2359687,
+      "dateModified": "2023-06-30T15:08:50Z",
+      "fileLength": 1390952,
+      "fileName": "refinedstorage-1.2.13.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2359687",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2359687",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2359687",
+      "createdAt": "2016-12-23T21:57:08Z"
+    },
+    {
+      "id": "KQUlf68j",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.13",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed memes not working.\u003c/li\u003e\n\u003cli\u003eFixed controller causing network rebuild on every neighbor change.\u003c/li\u003e\n\u003cli\u003eFixed Wireless Transmitter working even if it was disabled with redstone mode.\u003c/li\u003e\n\u003cli\u003eFixed Solderer not accepting books created in an Anvil.\u003c/li\u003e\n\u003cli\u003eAutocrafting bugfixes.\u003c/li\u003e\n\u003cli\u003eMade sure External Storage always has the correct inventory in world.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "516f895eacb71ee096bf78f8391fe04616c6a2922673de42a017da2d30aa073282a2e8b428749b563110ba36692d1abd8dcc83426b810f9c1aa3b34e613faba6",
+            "sha1": "3cd741c5ebb1d537d885faea9baf5abf686bbdd2"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/KQUlf68j/refinedstorage-1.2.13.jar",
+          "filename": "refinedstorage-1.2.13.jar",
+          "primary": true,
+          "size": 1390952
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.13",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/KQUlf68j",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1399
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 1400
+  }
+}

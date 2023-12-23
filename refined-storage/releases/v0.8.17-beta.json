@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.17-beta.json",
+  "name": "v0.8.17-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110998420,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5ODQyMA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.17-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998420/assets",
+      "assets": [
+        {
+          "id": 115526915,
+          "nodeId": "RA_kwDOAtXBQM4G4s0D",
+          "name": "refinedstorage-0.8.17.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 608394,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.17-beta/refinedstorage-0.8.17.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998420/assets{?name,label}",
+      "tagName": "v0.8.17-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Grid causing sorting lag on the client.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:10:33Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.17-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.17-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998420",
+      "createdAt": "2016-08-09T19:42:12Z"
+    },
+    {
+      "id": 2322008,
+      "dateModified": "2023-07-04T10:44:12Z",
+      "fileLength": 608394,
+      "fileName": "refinedstorage-0.8.17.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2322008",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2322008",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2322008",
+      "createdAt": "2016-08-09T19:44:26Z"
+    },
+    {
+      "id": "zFl6azVW",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.17-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Grid causing sorting lag on the client.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d79e4197f8de5173c5eda3ef6e96938c6db20da9822e3a8f091e3dcc13356cc2dd4e0aaf786059548cf987ca143ca1e655b3f38493bb750e55672b40e0402fbb",
+            "sha1": "67e2fed680297b2e2d6aa339e5d2175fec2e5674"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/zFl6azVW/refinedstorage-0.8.17.jar",
+          "filename": "refinedstorage-0.8.17.jar",
+          "primary": true,
+          "size": 608394
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.17-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/zFl6azVW",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2750
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 2751
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.8-beta.json",
+  "name": "v1.4.8-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110492545,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjU0NQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.8-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492545/assets",
+      "assets": [
+        {
+          "id": 115010472,
+          "nodeId": "RA_kwDOAtXBQM4G2uuo",
+          "name": "refinedstorage-1.4.8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1651490,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.8-beta/refinedstorage-1.4.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492545/assets{?name,label}",
+      "tagName": "v1.4.8-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed missing config categories in ingame config.\r\n- Fixed Controller not working anymore after changing redstone setting.\r\n- Fixed crash when placing or destroying network blocks.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:20:08Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.8-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.8-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492545",
+      "createdAt": "2017-05-24T19:04:32Z"
+    },
+    {
+      "id": 2424241,
+      "dateModified": "2023-06-30T13:38:32Z",
+      "fileLength": 1651490,
+      "fileName": "refinedstorage-1.4.8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2424241",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2424241",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2424241",
+      "createdAt": "2017-05-24T20:45:46Z"
+    },
+    {
+      "id": "aFEIrETt",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.8-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed missing config categories in ingame config.\u003c/li\u003e\n\u003cli\u003eFixed Controller not working anymore after changing redstone setting.\u003c/li\u003e\n\u003cli\u003eFixed crash when placing or destroying network blocks.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c489f78c8744a3b543f9d5fd889ebb547f2a00cea1de7d113d1c5d930a33120fa5b677619fee60aa53bc2e9c6eed397fc30b08de486e1c9271e6b0c9b1ffab39",
+            "sha1": "80f8b9f6d1bf1c1ba01aff7b613d871011d09c26"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/aFEIrETt/refinedstorage-1.4.8.jar",
+          "filename": "refinedstorage-1.4.8.jar",
+          "primary": true,
+          "size": 1651490
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.8-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/aFEIrETt",
+      "createdAt": "2023-07-04T19:57:47Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 615
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 618
+  }
+}

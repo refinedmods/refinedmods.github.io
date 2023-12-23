@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.22.json",
+  "name": "v1.2.22",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110512979,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMjk3OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.22",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512979/assets",
+      "assets": [
+        {
+          "id": 115028647,
+          "nodeId": "RA_kwDOAtXBQM4G2zKn",
+          "name": "refinedstorage-1.2.22.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1407316,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.22/refinedstorage-1.2.22.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110512979/assets{?name,label}",
+      "tagName": "v1.2.22",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed recipe for Processing Pattern Encoder not using oredictionary for the workbench.\r\n- Fixed Fluid Interface not dropping inventory contents.\r\n- Fixed glitchy upgrade recipes in the Solderer.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:47:11Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.22",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.22",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512979",
+      "createdAt": "2017-02-19T04:01:14Z"
+    },
+    {
+      "id": 2383728,
+      "dateModified": "2023-06-30T15:05:49Z",
+      "fileLength": 1407316,
+      "fileName": "refinedstorage-1.2.22.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2383728",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2383728",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2383728",
+      "createdAt": "2017-02-19T15:17:49Z"
+    },
+    {
+      "id": "IfASYu3s",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.22",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed recipe for Processing Pattern Encoder not using oredictionary for the workbench.\u003c/li\u003e\n\u003cli\u003eFixed Fluid Interface not dropping inventory contents.\u003c/li\u003e\n\u003cli\u003eFixed glitchy upgrade recipes in the Solderer.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "961c8455430abe36d0ba7bd8dd223789a58bff31e6950453d1518b0777403eccf0931868972606d5f5558238bb8c66b80edf26a220e6fccd272f9096d5578bb9",
+            "sha1": "743fad238a10aee422be3ae99dc9376b5876f34c"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/IfASYu3s/refinedstorage-1.2.22.jar",
+          "filename": "refinedstorage-1.2.22.jar",
+          "primary": true,
+          "size": 1407316
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.22",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/IfASYu3s",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 543062
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 543063
+  }
+}

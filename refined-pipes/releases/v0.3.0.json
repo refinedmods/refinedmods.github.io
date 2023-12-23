@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.3.0.json",
+  "name": "v0.3.0",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 54192397,
+      "nodeId": "MDc6UmVsZWFzZTU0MTkyMzk3",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.3.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192397/assets",
+      "assets": [
+        {
+          "id": 50488283,
+          "nodeId": "RA_kwDODcjNAM4DAmPb",
+          "name": "refinedpipes-0.3.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 247107,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.3.0/refinedpipes-0.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/54192397/assets{?name,label}",
+      "tagName": "v0.3.0",
+      "targetCommitish": "develop",
+      "body": "Note: Due to fluid networks now being split up by their tier, all fluid pipes from version 0.2.1 and earlier are\r\nincompatible and won\u0027t be functioning. This can be fixed by breaking and replacing all the fluid pipes in a network.\r\n\r\n### Added\r\n\r\n- Implemented pick block on attachments.\r\n- Added energy pipes.\r\n- Added new tiers for the Fluid Pipe: Elite and Ultimate.\r\n\r\n### Fixed\r\n\r\n- Improved performance of calculating pipe shapes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-11-28T13:10:15Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.3.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.3.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192397",
+      "createdAt": "2020-04-05T19:34:26Z"
+    },
+    {
+      "id": 2921996,
+      "dateModified": "2021-11-28T13:00:49Z",
+      "fileLength": 247107,
+      "fileName": "refinedpipes-0.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/2921996",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/2921996",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/2921996",
+      "createdAt": "2020-04-05T19:37:28Z"
+    },
+    {
+      "id": "ugE9XRf5",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.3.0",
+      "changelog": "\u003cp\u003eNote:\u0026nbsp;Due to fluid networks now being split up by their tier,\u0026nbsp;all fluid pipes from version 0.2.1 and earlier are\u0026nbsp;incompatible and won\u0027t be functioning.\u0026nbsp;This can be fixed by breaking and replacing all the fluid pipes in a network.\u003c/p\u003e\r\n\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eImplemented pick block on attachments.\u003c/li\u003e\r\n\u003cli\u003eAdded energy pipes.\u003c/li\u003e\r\n\u003cli\u003eAdded new tiers for the Fluid Pipe: Elite and Ultimate.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eFixed\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eImproved performance of calculating pipe shapes.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "90547afb99cabe263e8f89f70094e97100488e571dbd5ed41a04d1dfea9efe20c948645ccfade5f525a6609319b72152f8a200e9f131fd2398028acaf3e5c10c",
+            "sha1": "b105acd15a840c3faa3797faebb4e25a8dc0e0b5"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/ugE9XRf5/refinedpipes-0.3.jar",
+          "filename": "refinedpipes-0.3.jar",
+          "primary": true,
+          "size": 247107
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.3.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/ugE9XRf5",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 4
+      },
+      {
+        "source": "curseforge",
+        "downloads": 444
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 454
+  }
+}

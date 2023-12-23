@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.10.5.json",
+  "name": "v1.10.5",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 92138357,
+      "nodeId": "RE_kwDOAtXBQM4Ffet1",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.10.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/92138357/assets",
+      "assets": [
+        {
+          "id": 95317999,
+          "nodeId": "RA_kwDOAtXBQM4Frm_v",
+          "name": "refinedstorage-1.10.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3250696,
+          "downloadCount": 21,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.10.5/refinedstorage-1.10.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/92138357/assets{?name,label}",
+      "tagName": "v1.10.5",
+      "targetCommitish": "develop",
+      "body": "### Fixed\n\n- Fixed rare multithreading crash\n- Fixed Constructor being able to drop more than the maximum stack size for an item",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-02-12T10:08:00Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/92138357",
+      "createdAt": "2023-02-12T09:57:27Z"
+    },
+    {
+      "id": 4392829,
+      "dateModified": "2023-02-12T10:16:39Z",
+      "fileLength": 3250697,
+      "fileName": "refinedstorage-1.10.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4392829",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4392829",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4392829",
+      "createdAt": "2023-02-12T10:08:44Z"
+    },
+    {
+      "id": "gAZ6iwUG",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.10.5",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed rare multithreading crash\u003c/li\u003e\n\u003cli\u003eFixed Constructor being able to drop more than the maximum stack size for an item\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "8b270dd2157ac68849f932c8e56a364f522ad2dcf6447660d408e5da56ed7bcba016d47058f6a28cffdaf45e58b7fafd02580007751ed14a4cf08fe2db14f74d",
+            "sha1": "071f68923a01a2f8533b1070d540d8e7a4f480df"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/gAZ6iwUG/refinedstorage-1.10.5.jar",
+          "filename": "refinedstorage-1.10.5.jar",
+          "primary": true,
+          "size": 3250697
+        }
+      ],
+      "gameVersions": [
+        "1.18.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.10.5",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/gAZ6iwUG",
+      "createdAt": "2023-07-04T19:59:18Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 21
+      },
+      {
+        "source": "curseforge",
+        "downloads": 829851
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1232
+      }
+    ],
+    "totalDownloads": 831104
+  }
+}

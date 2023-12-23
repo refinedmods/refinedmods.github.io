@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.0-alpha.json",
+  "name": "v0.6.0-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111007427,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNzQyNw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.0-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007427/assets",
+      "assets": [
+        {
+          "id": 115536076,
+          "nodeId": "RA_kwDOAtXBQM4G4vDM",
+          "name": "refinedstorage-0.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 419285,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.0-alpha/refinedstorage-0.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111007427/assets{?name,label}",
+      "tagName": "v0.6.0-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added autocrafting.\r\n- Added the Pattern Grid.\r\n- Added the Crafting Monitor.\r\n- Added the Crafter.\r\n- Added the Processing Pattern Encoder.\r\n- Added a Pattern item.\r\n- Added the Wireless Transmitter.\r\n- Added Speed Upgrades which are applicable on a bunch of machines.\r\n- Added Range Upgrades for in the Wireless Transmitter.\r\n- Added Crafting Upgrades.\r\n- Added recipe category -\u003e item JEI integration.\r\n- Added Storage Housing.\r\n\r\n### Changed\r\n\r\n- Changed Grid modes to have a autoselected option.\r\n\r\n### Fixed\r\n\r\n- Fixed Destructor not playing block break sound.\r\n- Fixed Constructor not playing block place sound.\r\n- Fixed picking up from crafting result slot.\r\n- Fixed being able to use right click on crafting result slot.\r\n- Fixed item duplication issue with the Interface.\r\n- Fixed Importers and Exporters not working when changing facing with a wrench.\r\n- Fixed Crafting Grid not respecting remainder in recipes.\r\n- Fixed Crafting Grid giving back the wrong amount of items when shift clicking.\r\n- Fixed items disappearing in Grid when doing a weird combination of inputs.\r\n- Fixed Solderer not stacking items.\r\n- Fixed Importer voiding Storage Disks from the Disk Drive.\r\n- Fixed Controller not saving energy.\r\n- Massive performance improvements which reduces lag and lets machines connect almost instantly.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:19:15Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.0-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.0-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007427",
+      "createdAt": "2016-05-16T19:28:16Z"
+    },
+    {
+      "id": 2300536,
+      "dateModified": "2023-07-04T15:12:31Z",
+      "fileLength": 419285,
+      "fileName": "refinedstorage-0.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2300536",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2300536",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2300536",
+      "createdAt": "2016-05-16T19:31:44Z"
+    },
+    {
+      "id": "FfIoyI6k",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.0-alpha",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded autocrafting.\u003c/li\u003e\n\u003cli\u003eAdded the Pattern Grid.\u003c/li\u003e\n\u003cli\u003eAdded the Crafting Monitor.\u003c/li\u003e\n\u003cli\u003eAdded the Crafter.\u003c/li\u003e\n\u003cli\u003eAdded the Processing Pattern Encoder.\u003c/li\u003e\n\u003cli\u003eAdded a Pattern item.\u003c/li\u003e\n\u003cli\u003eAdded the Wireless Transmitter.\u003c/li\u003e\n\u003cli\u003eAdded Speed Upgrades which are applicable on a bunch of machines.\u003c/li\u003e\n\u003cli\u003eAdded Range Upgrades for in the Wireless Transmitter.\u003c/li\u003e\n\u003cli\u003eAdded Crafting Upgrades.\u003c/li\u003e\n\u003cli\u003eAdded recipe category -\u0026gt; item JEI integration.\u003c/li\u003e\n\u003cli\u003eAdded Storage Housing.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eChanged Grid modes to have a autoselected option.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Destructor not playing block break sound.\u003c/li\u003e\n\u003cli\u003eFixed Constructor not playing block place sound.\u003c/li\u003e\n\u003cli\u003eFixed picking up from crafting result slot.\u003c/li\u003e\n\u003cli\u003eFixed being able to use right click on crafting result slot.\u003c/li\u003e\n\u003cli\u003eFixed item duplication issue with the Interface.\u003c/li\u003e\n\u003cli\u003eFixed Importers and Exporters not working when changing facing with a wrench.\u003c/li\u003e\n\u003cli\u003eFixed Crafting Grid not respecting remainder in recipes.\u003c/li\u003e\n\u003cli\u003eFixed Crafting Grid giving back the wrong amount of items when shift clicking.\u003c/li\u003e\n\u003cli\u003eFixed items disappearing in Grid when doing a weird combination of inputs.\u003c/li\u003e\n\u003cli\u003eFixed Solderer not stacking items.\u003c/li\u003e\n\u003cli\u003eFixed Importer voiding Storage Disks from the Disk Drive.\u003c/li\u003e\n\u003cli\u003eFixed Controller not saving energy.\u003c/li\u003e\n\u003cli\u003eMassive performance improvements which reduces lag and lets machines connect almost instantly.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "838cecbc595c8995864bfbc1ce9c307e92355cd6c95f875a1650397a53ac25521a3eb57a47a22b5b01561d0edacf5f8ba496d08e9d8a322613760c6a37ea0132",
+            "sha1": "db4b3299533268b238b8026c4c9524cb89e04954"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/FfIoyI6k/refinedstorage-0.6.jar",
+          "filename": "refinedstorage-0.6.jar",
+          "primary": true,
+          "size": 419285
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.0-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/FfIoyI6k",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "curseforge",
+        "downloads": 394
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 396
+  }
+}

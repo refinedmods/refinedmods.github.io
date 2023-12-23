@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.4-beta.json",
+  "name": "v0.8.4-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110999731,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTczMQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.4-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999731/assets",
+      "assets": [
+        {
+          "id": 115528752,
+          "nodeId": "RA_kwDOAtXBQM4G4tQw",
+          "name": "refinedstorage-0.8.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 480540,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.4-beta/refinedstorage-0.8.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999731/assets{?name,label}",
+      "tagName": "v0.8.4-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added a debug storage disk.\r\n- Added tooltip to solderer progress bar that shows progress percentage.\r\n- Added support for the Tesla energy system.\r\n- Added support for the IC2 (EU) energy system.\r\n- Added a Portuguese (Brazilian) translation.\r\n\r\n### Changed\r\n\r\n- Performance improvements.\r\n- Tweaked grid GUI.\r\n\r\n### Removed\r\n\r\n- Removed delay until grid items are visible.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:20:20Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.4-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.4-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999731",
+      "createdAt": "2016-07-04T18:44:35Z"
+    },
+    {
+      "id": 2313237,
+      "dateModified": "2023-07-04T10:49:01Z",
+      "fileLength": 480540,
+      "fileName": "refinedstorage-0.8.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2313237",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2313237",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2313237",
+      "createdAt": "2016-07-04T19:08:52Z"
+    },
+    {
+      "id": "YSl9RdcK",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.4-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded a debug storage disk.\u003c/li\u003e\n\u003cli\u003eAdded tooltip to solderer progress bar that shows progress percentage.\u003c/li\u003e\n\u003cli\u003eAdded support for the Tesla energy system.\u003c/li\u003e\n\u003cli\u003eAdded support for the IC2 (EU) energy system.\u003c/li\u003e\n\u003cli\u003eAdded a Portuguese (Brazilian) translation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePerformance improvements.\u003c/li\u003e\n\u003cli\u003eTweaked grid GUI.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved delay until grid items are visible.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "0bde5770f6c343e6c08c7d079aeb6ed45bb26dac58b8cd257bde3eefddd67c8728862ba4fa8aa8746bdcce2cc0e4a9384f992ac0defc0919f13ad8bf16f0bc63",
+            "sha1": "ed01ba5fc894001916e04a0c36a4e6090a24e9d9"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/YSl9RdcK/refinedstorage-0.8.4.jar",
+          "filename": "refinedstorage-0.8.4.jar",
+          "primary": true,
+          "size": 480540
+        }
+      ],
+      "gameVersions": [
+        "1.10",
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.4-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/YSl9RdcK",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 384
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 387
+  }
+}

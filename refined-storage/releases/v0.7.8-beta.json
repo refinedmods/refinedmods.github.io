@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.8-beta.json",
+  "name": "v0.7.8-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000901,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDkwMQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.8-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000901/assets",
+      "assets": [
+        {
+          "id": 115529705,
+          "nodeId": "RA_kwDOAtXBQM4G4tfp",
+          "name": "refinedstorage-0.7.8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 422778,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.8-beta/refinedstorage-0.7.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000901/assets{?name,label}",
+      "tagName": "v0.7.8-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated to Forge 1951.\r\n\r\n### Fixed\r\n\r\n- Fixed crash on some worlds.\r\n- Improved Grid performance when sorting on quantity.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:28:46Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.8-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.8-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000901",
+      "createdAt": "2016-06-04T22:11:57Z"
+    },
+    {
+      "id": 2305270,
+      "dateModified": "2023-07-04T13:59:02Z",
+      "fileLength": 422778,
+      "fileName": "refinedstorage-0.7.8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2305270",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2305270",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2305270",
+      "createdAt": "2016-06-04T22:15:03Z"
+    },
+    {
+      "id": "ZWIMoEm4",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.8-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated to Forge 1951.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash on some worlds.\u003c/li\u003e\n\u003cli\u003eImproved Grid performance when sorting on quantity.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "26200cd49f6f32bb967e390f9a5d7127fad5d71a5b5c8ba2418f4f7c23a412555da1e8faff67857b90e6f73df88a83260a4a4099a81a36039ae44773d22a849d",
+            "sha1": "7a400cb583eac7d7e348b3d56dde5c5f4378cce2"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ZWIMoEm4/refinedstorage-0.7.8.jar",
+          "filename": "refinedstorage-0.7.8.jar",
+          "primary": true,
+          "size": 422778
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.8-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ZWIMoEm4",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 11778
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 11780
+  }
+}

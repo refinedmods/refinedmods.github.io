@@ -1,0 +1,116 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.24.json",
+  "name": "v1.5.24",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110470623,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDYyMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.24",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470623/assets",
+      "assets": [
+        {
+          "id": 114987340,
+          "nodeId": "RA_kwDOAtXBQM4G2pFM",
+          "name": "refinedstorage-1.5.24.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1832881,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.24/refinedstorage-1.5.24.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470623/assets{?name,label}",
+      "tagName": "v1.5.24",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added \"Last modified\" sorting option in the Grid.\r\n- Added a \"detailed\" variant for every Grid view type option, to disable the modified information on the tooltip.\r\n\r\n### Changed\r\n\r\n- The Grid now displays last modified information (player name and date) and size on tooltips of stacks.\r\n\r\n### Fixed\r\n\r\n- Fixed Exporter with Stack Upgrade not working correctly in Regulator Mode.\r\n- Fixed crash with the Constructor.\r\n- Fixed patterns being able to crash when no inputs are provided.\r\n- Fixed possible crash with network scanning.\r\n\r\n### Removed\r\n\r\n- Removed craft-only mode for the Exporter.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T08:59:07Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.24",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.24",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470623",
+      "createdAt": "2017-11-26T11:20:43Z"
+    },
+    {
+      "id": 2503690,
+      "dateModified": "2023-06-30T09:19:47Z",
+      "fileLength": 1832881,
+      "fileName": "refinedstorage-1.5.24.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2503690",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2503690",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2503690",
+      "createdAt": "2017-11-26T11:36:41Z"
+    },
+    {
+      "id": "MXhJ6DEx",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.24",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded \u0026quot;Last modified\u0026quot; sorting option in the Grid.\u003c/li\u003e\n\u003cli\u003eAdded a \u0026quot;detailed\u0026quot; variant for every Grid view type option, to disable the modified information on the tooltip.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Grid now displays last modified information (player name and date) and size on tooltips of stacks.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Exporter with Stack Upgrade not working correctly in Regulator Mode.\u003c/li\u003e\n\u003cli\u003eFixed crash with the Constructor.\u003c/li\u003e\n\u003cli\u003eFixed patterns being able to crash when no inputs are provided.\u003c/li\u003e\n\u003cli\u003eFixed possible crash with network scanning.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved craft-only mode for the Exporter.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ef3485e821936232a8b971cc102f3b1c5b5197beaf13e1111e86174b970b922d68fb37337f5395d6bba302154086634aa3f5ec6c4d97df3ac15f7f2254ef3707",
+            "sha1": "8c638180bf60e9de2b2d05c00ce0488df6a44532"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/MXhJ6DEx/refinedstorage-1.5.24.jar",
+          "filename": "refinedstorage-1.5.24.jar",
+          "primary": true,
+          "size": 1832881
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.24",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/MXhJ6DEx",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 37400
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 37402
+  }
+}

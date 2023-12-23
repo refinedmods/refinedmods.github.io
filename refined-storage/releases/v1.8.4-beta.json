@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.8.4-beta.json",
+  "name": "v1.8.4-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 86566209,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2MjA5",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.8.4-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566209/assets",
+      "assets": [
+        {
+          "id": 88798117,
+          "nodeId": "RA_kwDOAtXBQM4FSvOl",
+          "name": "refinedstorage-1.8.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1890498,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.4-beta/refinedstorage-1.8.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566209/assets{?name,label}",
+      "tagName": "v1.8.4-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed autocrafting Crafting Monitor crash.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:51:02Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.4-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.4-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566209",
+      "createdAt": "2020-05-26T17:58:18Z"
+    },
+    {
+      "id": 2966220,
+      "dateModified": "2022-12-19T18:04:35Z",
+      "fileLength": 1890498,
+      "fileName": "refinedstorage-1.8.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2966220",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2966220",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2966220",
+      "createdAt": "2020-05-26T18:02:42Z"
+    },
+    {
+      "id": "mYiMojAz",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.8.4-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed autocrafting Crafting Monitor crash.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "afd70bc0a670fd1a663c72f43a8b515955daef67171f97dfdba17c870b937a92dbaa64be85fb55ad219104457b65b6efa0b8f4912b4cfbcb27392a0bfe308165",
+            "sha1": "ec689ac1606f5a65bd235258704ab96ca173b577"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/mYiMojAz/refinedstorage-1.8.4.jar",
+          "filename": "refinedstorage-1.8.4.jar",
+          "primary": true,
+          "size": 1890498
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.8.4-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/mYiMojAz",
+      "createdAt": "2023-07-04T19:58:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "curseforge",
+        "downloads": 136839
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 136842
+  }
+}

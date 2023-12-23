@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.9-beta.json",
+  "name": "v0.8.9-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110999485,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTQ4NQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.9-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999485/assets",
+      "assets": [
+        {
+          "id": 115528560,
+          "nodeId": "RA_kwDOAtXBQM4G4tNw",
+          "name": "refinedstorage-0.8.9.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 507638,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.9-beta/refinedstorage-0.8.9.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999485/assets{?name,label}",
+      "tagName": "v0.8.9-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added a model for the Constructor.\r\n- Added a model for the Destructor.\r\n\r\n### Changed\r\n\r\n- Wireless Transmitters next to each other without any cable or without being connected to a machine won\u0027t work anymore, they need to be explictly connected to a cable or other machine.\r\n- Some models / texture tweaks.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where Grid crafting doesn\u0027t handle remainder sometimes.\r\n- Fixed caching issues with External Storage.\r\n- Fixed possible crash with Disk Drives.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:18:28Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.9-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.9-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999485",
+      "createdAt": "2016-07-10T20:28:33Z"
+    },
+    {
+      "id": 2315000,
+      "dateModified": "2023-07-04T10:47:19Z",
+      "fileLength": 507638,
+      "fileName": "refinedstorage-0.8.9.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2315000",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2315000",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2315000",
+      "createdAt": "2016-07-10T20:32:03Z"
+    },
+    {
+      "id": "jZ84LrRR",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.9-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded a model for the Constructor.\u003c/li\u003e\n\u003cli\u003eAdded a model for the Destructor.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eWireless Transmitters next to each other without any cable or without being connected to a machine won\u0027t work anymore, they need to be explictly connected to a cable or other machine.\u003c/li\u003e\n\u003cli\u003eSome models / texture tweaks.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where Grid crafting doesn\u0027t handle remainder sometimes.\u003c/li\u003e\n\u003cli\u003eFixed caching issues with External Storage.\u003c/li\u003e\n\u003cli\u003eFixed possible crash with Disk Drives.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "58b50487a7dfac607b27a22c8c5df404dcd111f83a5070ec2874483023c37763b95889b8c8101944f7e0c8bd8152bf38f4cc713206de36c587972b9e5b689f41",
+            "sha1": "a75a333cb3c8acf45b3ec34e554a1e9facf90211"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/jZ84LrRR/refinedstorage-0.8.9.jar",
+          "filename": "refinedstorage-0.8.9.jar",
+          "primary": true,
+          "size": 507638
+        }
+      ],
+      "gameVersions": [
+        "1.10",
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.9-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/jZ84LrRR",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 8781
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 8782
+  }
+}

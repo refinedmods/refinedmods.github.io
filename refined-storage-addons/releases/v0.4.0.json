@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.0.json",
+  "name": "v0.4.0",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55283951,
+      "nodeId": "MDc6UmVsZWFzZTU1MjgzOTUx",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.4.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283951/assets",
+      "assets": [
+        {
+          "id": 51752246,
+          "nodeId": "RA_kwDOBc8fRM4DFa02",
+          "name": "refinedstorageaddons-0.4.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 39856,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.4.0/refinedstorageaddons-0.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55283951/assets{?name,label}",
+      "tagName": "v0.4.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Refined Storage 1.6 compatibility.\r\n\r\n### Removed\r\n\r\n- Network Bag.\r\n- Network Picker.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:17:21Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.4.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.4.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283951",
+      "createdAt": "2018-07-13T21:35:18Z"
+    },
+    {
+      "id": 2587378,
+      "dateModified": "2021-12-14T15:32:40Z",
+      "fileLength": 39856,
+      "fileName": "refinedstorageaddons-0.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2587378",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2587378",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2587378",
+      "createdAt": "2018-07-20T11:24:40Z"
+    },
+    {
+      "id": "2zGrfUVZ",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.4.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eRefined Storage 1.6 compatibility.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eRemoved\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eNetwork Bag.\u003c/li\u003e\r\n\u003cli\u003eNetwork Picker.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "713a9be1efbd036460cceee8386c218caddf65de59b9fe121508d53e74d32e7c86e700cea0cfda7151016d8b1b418a86822a5e0bf6b32bb29ab32b9028205c8e",
+            "sha1": "2512ba185ef01aff6f4eabd0597107588fd9da4d"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/2zGrfUVZ/refinedstorageaddons-0.4.jar",
+          "filename": "refinedstorageaddons-0.4.jar",
+          "primary": true,
+          "size": 39856
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.4.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/2zGrfUVZ",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 79652
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 79661
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.3.json",
+  "name": "v0.4.3",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284065,
+      "nodeId": "MDc6UmVsZWFzZTU1Mjg0MDY1",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.4.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284065/assets",
+      "assets": [
+        {
+          "id": 51752356,
+          "nodeId": "RA_kwDOBc8fRM4DFa2k",
+          "name": "refinedstorageaddons-0.4.3.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 26075,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.4.3/refinedstorageaddons-0.4.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284065/assets{?name,label}",
+      "tagName": "v0.4.3",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Client FPS stuttering when opening a Wireless Crafting Grid.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:18:27Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.4.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.4.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284065",
+      "createdAt": "2018-10-27T18:30:16Z"
+    },
+    {
+      "id": 2632402,
+      "dateModified": "2021-12-14T15:33:50Z",
+      "fileLength": 26075,
+      "fileName": "refinedstorageaddons-0.4.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2632402",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2632402",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2632402",
+      "createdAt": "2018-10-27T18:32:06Z"
+    },
+    {
+      "id": "6nBHG0y1",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.4.3",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eClient FPS stuttering when opening a Wireless Crafting Grid.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4d4481096904a9a0d73941949abf1835e342d2811857d812d09f42ab7059fe1991f4d4f766d7f0ea9078da1926711a83c38d3dbe628c5d87711e7d217566ed14",
+            "sha1": "f0ac17cab8c26131efeb8223c9ae85f2536cef7c"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/6nBHG0y1/refinedstorageaddons-0.4.3.jar",
+          "filename": "refinedstorageaddons-0.4.3.jar",
+          "primary": true,
+          "size": 26075
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.4.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/6nBHG0y1",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3271531
+      },
+      {
+        "source": "modrinth",
+        "downloads": 15
+      }
+    ],
+    "totalDownloads": 3271547
+  }
+}

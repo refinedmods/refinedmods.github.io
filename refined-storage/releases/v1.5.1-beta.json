@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.1-beta.json",
+  "name": "v1.5.1-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110472055,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MjA1NQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.1-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110472055/assets",
+      "assets": [
+        {
+          "id": 114988761,
+          "nodeId": "RA_kwDOAtXBQM4G2pbZ",
+          "name": "refinedstorage-1.5.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1666038,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.1-beta/refinedstorage-1.5.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110472055/assets{?name,label}",
+      "tagName": "v1.5.1-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added MCMultiPart support.\r\n- Added back crafting recipes.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2340.\r\n- Changed Grid recipe.\r\n- Changed Crafting Monitor recipe.\r\n\r\n### Fixed\r\n\r\n- Fixed Filters not persisting correctly in Wireless Grid and Wireless Crafting Monitor.\r\n- Fixed Disk Drive recipe not using ore dictionary for chest.\r\n- Fixed crash when getting tooltip for grid item.\r\n\r\n### Removed\r\n\r\n- Removed Tesla integration.\r\n- Removed RS energy units, the entire mod is powered with Forge Energy now.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:11:39Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.1-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.1-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110472055",
+      "createdAt": "2017-06-20T14:20:46Z"
+    },
+    {
+      "id": 2437533,
+      "dateModified": "2023-06-30T09:29:11Z",
+      "fileLength": 1666038,
+      "fileName": "refinedstorage-1.5.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2437533",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2437533",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2437533",
+      "createdAt": "2017-06-20T14:43:17Z"
+    },
+    {
+      "id": "E1cAiFLP",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.1-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRe-added MCMultiPart support.\u003c/li\u003e\n\u003cli\u003eAdded back crafting recipes.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2340.\u003c/li\u003e\n\u003cli\u003eChanged Grid recipe.\u003c/li\u003e\n\u003cli\u003eChanged Crafting Monitor recipe.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Filters not persisting correctly in Wireless Grid and Wireless Crafting Monitor.\u003c/li\u003e\n\u003cli\u003eFixed Disk Drive recipe not using ore dictionary for chest.\u003c/li\u003e\n\u003cli\u003eFixed crash when getting tooltip for grid item.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved Tesla integration.\u003c/li\u003e\n\u003cli\u003eRemoved RS energy units, the entire mod is powered with Forge Energy now.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e38073489709615fb9d2e1f7338256cea6523588949aadcd86df2b793151a579134753ce90b089cab4a01e295c0a24989c775fc43a898744606dc9406a681c28",
+            "sha1": "6f88e1a532b4e0e56d87bbebf4dadc7d395958d0"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/E1cAiFLP/refinedstorage-1.5.1.jar",
+          "filename": "refinedstorage-1.5.1.jar",
+          "primary": true,
+          "size": 1666038
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.1-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/E1cAiFLP",
+      "createdAt": "2023-07-04T19:58:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 677
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 679
+  }
+}

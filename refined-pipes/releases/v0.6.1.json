@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.6.1.json",
+  "name": "v0.6.1",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 58279304,
+      "nodeId": "RE_kwDODcjNAM4DeUWI",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.6.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/58279304/assets",
+      "assets": [
+        {
+          "id": 55348273,
+          "nodeId": "RA_kwDODcjNAM4DTIwx",
+          "name": "refinedpipes-0.6.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 323698,
+          "downloadCount": 28,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.6.1/refinedpipes-0.6.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/58279304/assets{?name,label}",
+      "tagName": "v0.6.1",
+      "targetCommitish": "develop",
+      "body": "\n### Added\n\n- Added German translation by [@Wizqok](https://github.com/Wizqok).\n- Added Korean translation by [@mindy15963](https://github.com/mindy15963).\n\n### Fixed\n\n- Fixed random client crashes by [@malte0811](https://github.com/malte0811).\n- Fixed crash when Extractor Attachment is interacting with inventories that have no slots.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-01-30T11:52:17Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.6.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.6.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/58279304",
+      "createdAt": "2022-01-30T11:48:17Z"
+    },
+    {
+      "id": 3630140,
+      "dateModified": "2022-01-30T11:53:40Z",
+      "fileLength": 323697,
+      "fileName": "refinedpipes-0.6.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/3630140",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/3630140",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/3630140",
+      "createdAt": "2022-01-30T11:52:28Z"
+    },
+    {
+      "id": "cCOGwPOG",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.6.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded German translation by \u003ca href\u003d\"https://github.com/Wizqok\" rel\u003d\"nofollow\"\u003e@Wizqok\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eAdded Korean translation by \u003ca href\u003d\"https://github.com/mindy15963\" rel\u003d\"nofollow\"\u003e@mindy15963\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed random client crashes by \u003ca href\u003d\"https://github.com/malte0811\" rel\u003d\"nofollow\"\u003e@malte0811\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eFixed crash when Extractor Attachment is interacting with inventories that have no slots.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ddf06befdc2c61673d5bb9978a8dc73b7a617118207eddcdcc204dccfdf404619bb8ecbe9f7a6d60f1aa358284a8e278646863deed548d2081fde5b645d2ff98",
+            "sha1": "ac363c2dfa710fae4d96b2a178ec2aebb13805f0"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/cCOGwPOG/refinedpipes-0.6.1.jar",
+          "filename": "refinedpipes-0.6.1.jar",
+          "primary": true,
+          "size": 323697
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.6.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/cCOGwPOG",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 28
+      },
+      {
+        "source": "curseforge",
+        "downloads": 59519
+      },
+      {
+        "source": "modrinth",
+        "downloads": 4
+      }
+    ],
+    "totalDownloads": 59551
+  }
+}

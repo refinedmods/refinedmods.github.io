@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.20.json",
+  "name": "v1.2.20",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513155,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzE1NQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.20",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513155/assets",
+      "assets": [
+        {
+          "id": 115028795,
+          "nodeId": "RA_kwDOAtXBQM4G2zM7",
+          "name": "refinedstorage-1.2.20.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1407217,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.20/refinedstorage-1.2.20.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513155/assets{?name,label}",
+      "tagName": "v1.2.20",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Solderer particles.\r\n- Added Grid sorting by ID.\r\n\r\n### Fixed\r\n\r\n- Fixed client side crash with cables.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:48:28Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.20",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.20",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513155",
+      "createdAt": "2017-02-02T14:28:02Z"
+    },
+    {
+      "id": 2377058,
+      "dateModified": "2023-06-30T15:06:29Z",
+      "fileLength": 1407217,
+      "fileName": "refinedstorage-1.2.20.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2377058",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2377058",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2377058",
+      "createdAt": "2017-02-02T18:35:15Z"
+    },
+    {
+      "id": "OCkiDRqI",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.20",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Solderer particles.\u003c/li\u003e\n\u003cli\u003eAdded Grid sorting by ID.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed client side crash with cables.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "86ce88e8b5923474051735cce7809915134f1b95a654aa539b958dd6cba223dac34edf5888cb67f99cc64bce5023272364936f4843bf0080e1640372008676ba",
+            "sha1": "4bec2d45bd345e45b26ab23f43ec94e4221d84b1"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/OCkiDRqI/refinedstorage-1.2.20.jar",
+          "filename": "refinedstorage-1.2.20.jar",
+          "primary": true,
+          "size": 1407217
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.20",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/OCkiDRqI",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 94835
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 94837
+  }
+}

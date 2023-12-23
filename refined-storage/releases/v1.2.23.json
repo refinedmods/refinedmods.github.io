@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.23.json",
+  "name": "v1.2.23",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2391574,
+      "dateModified": "2023-06-30T15:05:33Z",
+      "fileLength": 1409455,
+      "fileName": "refinedstorage-1.2.23.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2391574",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2391574",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2391574",
+      "createdAt": "2017-03-11T12:56:04Z"
+    },
+    {
+      "id": 110512928,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMjkyOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.23",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512928/assets",
+      "assets": [
+        {
+          "id": 115028606,
+          "nodeId": "RA_kwDOAtXBQM4G2zJ-",
+          "name": "refinedstorage-1.2.23.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1409455,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.23/refinedstorage-1.2.23.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110512928/assets{?name,label}",
+      "tagName": "v1.2.23",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Implemented support for the Forge update JSON system.\r\n\r\n### Changed\r\n\r\n- The Detector no longer outputs a strong redstone signal.\r\n\r\n### Fixed\r\n\r\n- Fixed crash in storage cache.\r\n- Fixed Crafting Pattern model.\r\n- Fixed Constructor not working on Botania flowers.\r\n- Fixed Disk Manipulator crash.\r\n- Fixed slow oredict comparisons causing TPS lag.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:46:54Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.23",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.23",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512928",
+      "createdAt": "2017-03-11T13:02:52Z"
+    },
+    {
+      "id": "lduq40MS",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.23",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImplemented support for the Forge update JSON system.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Detector no longer outputs a strong redstone signal.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash in storage cache.\u003c/li\u003e\n\u003cli\u003eFixed Crafting Pattern model.\u003c/li\u003e\n\u003cli\u003eFixed Constructor not working on Botania flowers.\u003c/li\u003e\n\u003cli\u003eFixed Disk Manipulator crash.\u003c/li\u003e\n\u003cli\u003eFixed slow oredict comparisons causing TPS lag.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d372cc46628bd20ffa6d396398f69fd01ed63035b022f984be38a07194c5665734b541a76797311667dce25e5bd6eec59f7bbccbb2c093ab3d2b9084ec0874aa",
+            "sha1": "01fda5621b048181ed045e1a19c624ec4f701bc2"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/lduq40MS/refinedstorage-1.2.23.jar",
+          "filename": "refinedstorage-1.2.23.jar",
+          "primary": true,
+          "size": 1409455
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.23",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/lduq40MS",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 288441
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 288442
+  }
+}

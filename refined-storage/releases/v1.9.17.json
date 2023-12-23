@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.17.json",
+  "name": "v1.9.17",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 58277921,
+      "nodeId": "RE_kwDOAtXBQM4DeUAh",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.17",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/58277921/assets",
+      "assets": [
+        {
+          "id": 55344450,
+          "nodeId": "RA_kwDOAtXBQM4DTH1C",
+          "name": "refinedstorage-1.9.17.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3224062,
+          "downloadCount": 50,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.17/refinedstorage-1.9.17.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/58277921/assets{?name,label}",
+      "tagName": "v1.9.17",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- More slots for the Pattern Grid.\r\n\r\n### Changed\r\n\r\n- Combined fluid and item view in the Pattern Grid.\r\n- Processing patterns now use the order of items/fluids specified in the pattern.\r\n- Amount specifying screen is now limited to valid values.\r\n\r\n### Fixed\r\n\r\n- Fixed Relay not working.\r\n- Fixed Wireless Transmitter only working upright.\r\n- Fixed Portable Grid not opening when pointing at a block.\r\n- Fixed being able to circumvent locked slots by scrolling.\r\n- Fixed multiple bugs related to transferring recipes into the crafting grid.\r\n- Fixed autocrafting task getting stuck if two tasks fulfilled each others requirements.\r\n- Fixed fluid autocrafting breaking when using 2 stacks of the same fluid in a pattern.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-01-30T10:24:23Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.17",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.17",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/58277921",
+      "createdAt": "2022-01-22T17:58:09Z"
+    },
+    {
+      "id": 3630064,
+      "dateModified": "2022-12-10T19:13:31Z",
+      "fileLength": 3224062,
+      "fileName": "refinedstorage-1.9.17.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3630064",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3630064",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3630064",
+      "createdAt": "2022-01-30T10:26:05Z"
+    },
+    {
+      "id": "CwaJX9mJ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.17",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMore slots for the Pattern Grid.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eCombined fluid and item view in the Pattern Grid.\u003c/li\u003e\n\u003cli\u003eProcessing patterns now use the order of items/fluids specified in the pattern.\u003c/li\u003e\n\u003cli\u003eAmount specifying screen is now limited to valid values.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Relay not working.\u003c/li\u003e\n\u003cli\u003eFixed Wireless Transmitter only working upright.\u003c/li\u003e\n\u003cli\u003eFixed Portable Grid not opening when pointing at a block.\u003c/li\u003e\n\u003cli\u003eFixed being able to circumvent locked slots by scrolling.\u003c/li\u003e\n\u003cli\u003eFixed multiple bugs related to transferring recipes into the crafting grid.\u003c/li\u003e\n\u003cli\u003eFixed autocrafting task getting stuck if two tasks fulfilled each others requirements.\u003c/li\u003e\n\u003cli\u003eFixed fluid autocrafting breaking when using 2 stacks of the same fluid in a pattern.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e4e972bd0512f0d95dbdf079f7e1d7764b63a40a3ddc1546cb9008aa6e3ad7e45988e156b794d78835395cac3d2bee8550a79b563d59485eb635bc82a8b5855b",
+            "sha1": "b480bd6ceff58d3cfa1a0372b8eb75c55b4afd79"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/CwaJX9mJ/refinedstorage-1.9.17.jar",
+          "filename": "refinedstorage-1.9.17.jar",
+          "primary": true,
+          "size": 3224062
+        }
+      ],
+      "gameVersions": [
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.17",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/CwaJX9mJ",
+      "createdAt": "2023-07-04T19:59:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 50
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3153168
+      },
+      {
+        "source": "modrinth",
+        "downloads": 113
+      }
+    ],
+    "totalDownloads": 3153331
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.8.1.json",
+  "name": "v0.8.1",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55596140,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk2MTQw",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.8.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596140/assets",
+      "assets": [
+        {
+          "id": 52081246,
+          "nodeId": "RA_kwDOA8bqCc4DGrJe",
+          "name": "rangedpumps-0.8.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 26032,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.8.1/rangedpumps-0.8.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596140/assets{?name,label}",
+      "tagName": "v0.8.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.16.2.\r\n- Simplified Chinese translation by [@a5161655](https://github.com/a5161655).\r\n- Hungarian translation by [@excodex](https://github.com/excodex).\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T12:52:20Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.8.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.8.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596140",
+      "createdAt": "2020-08-30T18:21:15Z"
+    },
+    {
+      "id": 3045918,
+      "dateModified": "2021-12-18T13:03:34Z",
+      "fileLength": 26032,
+      "fileName": "rangedpumps-0.8.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/3045918",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/3045918",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/3045918",
+      "createdAt": "2020-08-30T18:22:42Z"
+    },
+    {
+      "id": "Q6BIiUvR",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.8.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.16.2.\u003c/li\u003e\n\u003cli\u003eSimplified Chinese translation by \u003ca href\u003d\"https://github.com/a5161655\" rel\u003d\"nofollow\"\u003e@a5161655\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eHungarian translation by \u003ca href\u003d\"https://github.com/excodex\" rel\u003d\"nofollow\"\u003e@excodex\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "a897dd3e60904dfa5a8298fc107692635a24ed5cb64f0220235f1d15cf413df614bfe18562135a52643fe066e8bd1e3a03cfdf76d4460853c4e30456c5672291",
+            "sha1": "00ba684c7e99aa3cb9e6b49f2f4a482af6f2fd92"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/Q6BIiUvR/rangedpumps-0.8.1.jar",
+          "filename": "rangedpumps-0.8.1.jar",
+          "primary": true,
+          "size": 26032
+        }
+      ],
+      "gameVersions": [
+        "1.16.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.8.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/Q6BIiUvR",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 15920
+      },
+      {
+        "source": "modrinth",
+        "downloads": 9
+      }
+    ],
+    "totalDownloads": 15935
+  }
+}

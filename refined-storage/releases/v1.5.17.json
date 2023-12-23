@@ -1,0 +1,114 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.17.json",
+  "name": "v1.5.17",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110471003,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTAwMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.17",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471003/assets",
+      "assets": [
+        {
+          "id": 114987748,
+          "nodeId": "RA_kwDOAtXBQM4G2pLk",
+          "name": "refinedstorage-1.5.17.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1716574,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.17/refinedstorage-1.5.17.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471003/assets{?name,label}",
+      "tagName": "v1.5.17",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added support for OpenComputers.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:02:27Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.17",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.17",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471003",
+      "createdAt": "2017-08-19T13:02:14Z"
+    },
+    {
+      "id": 2466588,
+      "dateModified": "2023-06-30T09:21:45Z",
+      "fileLength": 1716574,
+      "fileName": "refinedstorage-1.5.17.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2466588",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2466588",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2466588",
+      "createdAt": "2017-08-19T13:15:10Z"
+    },
+    {
+      "id": "otvP5RZZ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.17",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRe-added support for OpenComputers.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash with Grid.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "46238076260fc93203f67ae2799aea1ab16a2a879d60b7964052feda4b840988c4300ba3c33e6b58d76d2a62678175473c1629660fa0ef4728b1a0b749953bb3",
+            "sha1": "495711002f8a8e2fb8eeb85d2876f6ee5d723355"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/otvP5RZZ/refinedstorage-1.5.17.jar",
+          "filename": "refinedstorage-1.5.17.jar",
+          "primary": true,
+          "size": 1716574
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.17",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/otvP5RZZ",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 64491
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 64492
+  }
+}

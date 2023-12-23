@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.9.1-beta.json",
+  "name": "v0.9.1-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110521195,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMTE5NQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.9.1-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521195/assets",
+      "assets": [
+        {
+          "id": 115035996,
+          "nodeId": "RA_kwDOAtXBQM4G209c",
+          "name": "refinedstorage-0.9.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 713316,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.9.1-beta/refinedstorage-0.9.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110521195/assets{?name,label}",
+      "tagName": "v0.9.1-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed server crash with Grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:46:27Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.9.1-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.9.1-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521195",
+      "createdAt": "2016-08-24T20:27:15Z"
+    },
+    {
+      "id": 2326038,
+      "dateModified": "2023-06-30T15:54:07Z",
+      "fileLength": 713316,
+      "fileName": "refinedstorage-0.9.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2326038",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2326038",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2326038",
+      "createdAt": "2016-08-24T20:30:08Z"
+    },
+    {
+      "id": "Eq7JaN60",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.9.1-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed server crash with Grid.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "65fece8c13d576d1fe04102f0c5c0e7937bcfd413d5db7c0e58cbdb0fdb32de834f38057014d269e7a70b14e26b6acf5b14393aaf466d818fc8f4365ef67a2fa",
+            "sha1": "d9dae560cb63ef8004cb158f9f9c7e3f73ff1554"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/Eq7JaN60/refinedstorage-0.9.1.jar",
+          "filename": "refinedstorage-0.9.1.jar",
+          "primary": true,
+          "size": 713316
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.9.1-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/Eq7JaN60",
+      "createdAt": "2023-07-04T19:57:14Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1483
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 1484
+  }
+}

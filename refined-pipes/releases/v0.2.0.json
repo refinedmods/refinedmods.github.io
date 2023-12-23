@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.2.0.json",
+  "name": "v0.2.0",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 54192370,
+      "nodeId": "MDc6UmVsZWFzZTU0MTkyMzcw",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.2.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192370/assets",
+      "assets": [
+        {
+          "id": 50488166,
+          "nodeId": "RA_kwDODcjNAM4DAmNm",
+          "name": "refinedpipes-0.2.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 178384,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.2.0/refinedpipes-0.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/54192370/assets{?name,label}",
+      "tagName": "v0.2.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added fluid pipes.\r\n\r\n### Changed\r\n\r\n- Improved tooltips.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-11-28T13:08:48Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.2.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.2.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192370",
+      "createdAt": "2020-03-29T19:09:48Z"
+    },
+    {
+      "id": 2915922,
+      "dateModified": "2021-11-28T13:00:08Z",
+      "fileLength": 178384,
+      "fileName": "refinedpipes-0.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/2915922",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/2915922",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/2915922",
+      "createdAt": "2020-03-29T19:34:48Z"
+    },
+    {
+      "id": "Nvu6g3aG",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.2.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eAdded fluid pipes.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eChanged\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eImproved tooltips.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "eda2ff8f6315eb01b5286e107e9556b9c92c129fe5f2e2b81f45cbdad1d404e0ab09b97eb5a893c9a7948666bbdc0ca9c9c727fe598a820f619e602f2076d0b3",
+            "sha1": "c7fa11a08705924d2f7e50f8ae9446cb29744cf1"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/Nvu6g3aG/refinedpipes-0.2.jar",
+          "filename": "refinedpipes-0.2.jar",
+          "primary": true,
+          "size": 178384
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.2.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/Nvu6g3aG",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 5
+      },
+      {
+        "source": "curseforge",
+        "downloads": 79
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 90
+  }
+}

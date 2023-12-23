@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.8.5-beta.json",
+  "name": "v1.8.5-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 86566169,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2MTY5",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.8.5-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566169/assets",
+      "assets": [
+        {
+          "id": 88798072,
+          "nodeId": "RA_kwDOAtXBQM4FSvN4",
+          "name": "refinedstorage-1.8.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1910986,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.5-beta/refinedstorage-1.8.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566169/assets{?name,label}",
+      "tagName": "v1.8.5-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added all the language files.\r\n- Japanese translations.\r\n\r\n### Fixed\r\n\r\n- Fixed Portable Grid voiding the disk when extracting with full inventory.\r\n- Fixed Constructor extracting 2 buckets when placing fluid.\r\n- Fixed Stack Overflow error with regulator upgrades.\r\n- Fixed visual bug with the Detector not updating its values.\r\n- Fixed Constructor placing the filtered item instead of the extracted.\r\n- Fixed duplication bug with filter slots.\r\n- Fixed shift crafting in a Grid not using the player.\r\n- Fixed bug where shift clicking gives too many items.\r\n\r\n### Changed\r\n\r\n- Cancelling a crafting task now also unlocks all Crafters related to that task.\r\n- External Storage will now always show the exact maximum capacity as reported by the attached inventory.\r\n- Crafters no longer expose their inventory to the side they are facing.\r\n- Changed package name to `com.refinedmods.refinedstorage`, this is a breaking change for addons.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:50:31Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.5-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.5-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566169",
+      "createdAt": "2020-06-18T11:32:48Z"
+    },
+    {
+      "id": 2982967,
+      "dateModified": "2022-12-19T18:04:13Z",
+      "fileLength": 1910986,
+      "fileName": "refinedstorage-1.8.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2982967",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2982967",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2982967",
+      "createdAt": "2020-06-18T11:34:30Z"
+    },
+    {
+      "id": "rBWghJM3",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.8.5-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRe-added all the language files.\u003c/li\u003e\n\u003cli\u003eJapanese translations.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Portable Grid voiding the disk when extracting with full inventory.\u003c/li\u003e\n\u003cli\u003eFixed Constructor extracting 2 buckets when placing fluid.\u003c/li\u003e\n\u003cli\u003eFixed Stack Overflow error with regulator upgrades.\u003c/li\u003e\n\u003cli\u003eFixed visual bug with the Detector not updating its values.\u003c/li\u003e\n\u003cli\u003eFixed Constructor placing the filtered item instead of the extracted.\u003c/li\u003e\n\u003cli\u003eFixed duplication bug with filter slots.\u003c/li\u003e\n\u003cli\u003eFixed shift crafting in a Grid not using the player.\u003c/li\u003e\n\u003cli\u003eFixed bug where shift clicking gives too many items.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eCancelling a crafting task now also unlocks all Crafters related to that task.\u003c/li\u003e\n\u003cli\u003eExternal Storage will now always show the exact maximum capacity as reported by the attached inventory.\u003c/li\u003e\n\u003cli\u003eCrafters no longer expose their inventory to the side they are facing.\u003c/li\u003e\n\u003cli\u003eChanged package name to \u003ccode\u003ecom.refinedmods.refinedstorage\u003c/code\u003e, this is a breaking change for addons.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "9712daf96ed8e1f98648978a497f9d0af0239cf5772cb630a67545a183c9c0d8da9c97547d9756d66aab385ed195114e085a7b9830f9bb418c528667852a9b8e",
+            "sha1": "c24f489e78e82dd428ef390a622333a0e72e57ac"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/rBWghJM3/refinedstorage-1.8.5.jar",
+          "filename": "refinedstorage-1.8.5.jar",
+          "primary": true,
+          "size": 1910986
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.8.5-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/rBWghJM3",
+      "createdAt": "2023-07-04T19:58:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 87271
+      },
+      {
+        "source": "modrinth",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 87271
+  }
+}

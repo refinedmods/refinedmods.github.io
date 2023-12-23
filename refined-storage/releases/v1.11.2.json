@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.11.2.json",
+  "name": "v1.11.2",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86400648,
+      "nodeId": "RE_kwDOAtXBQM4FJl6I",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.11.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86400648/assets",
+      "assets": [
+        {
+          "id": 88570005,
+          "nodeId": "RA_kwDOAtXBQM4FR3iV",
+          "name": "refinedstorage-1.11.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3269382,
+          "downloadCount": 13,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.11.2/refinedstorage-1.11.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86400648/assets{?name,label}",
+      "tagName": "v1.11.2",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Available items indicator in JEI now updates while JEI is open.\r\n\r\n### Fixed\r\n\r\n- Fixed chained crafters not taking over the name of the root crafter.\r\n- Fixed lag when opening JEI in large systems.\r\n- Made Refined Storage more robust against crashes when moving network blocks by unconventional means.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-17T11:23:17Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86400648",
+      "createdAt": "2022-12-17T11:16:08Z"
+    },
+    {
+      "id": 4183630,
+      "dateModified": "2022-12-19T17:44:25Z",
+      "fileLength": 3269382,
+      "fileName": "refinedstorage-1.11.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.19.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4183630",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4183630",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4183630",
+      "createdAt": "2022-12-17T11:23:37Z"
+    },
+    {
+      "id": "F1AuMcg9",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.11.2",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAvailable items indicator in JEI now updates while JEI is open.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed chained crafters not taking over the name of the root crafter.\u003c/li\u003e\n\u003cli\u003eFixed lag when opening JEI in large systems.\u003c/li\u003e\n\u003cli\u003eMade Refined Storage more robust against crashes when moving network blocks by unconventional means.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7ee477ddb8401bb742e8486b8ff3b6e6f1fb34a49d1e848f87bdd141035f3a7044e6e20a0a7dc5642989f271186db69c839220125957830caa57ea02fde9569d",
+            "sha1": "e5d54b33ec64823d52709d2381a22f094268be8c"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/F1AuMcg9/refinedstorage-1.11.2.jar",
+          "filename": "refinedstorage-1.11.2.jar",
+          "primary": true,
+          "size": 3269382
+        }
+      ],
+      "gameVersions": [
+        "1.19.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.11.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/F1AuMcg9",
+      "createdAt": "2023-07-04T19:59:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 13
+      },
+      {
+        "source": "curseforge",
+        "downloads": 12508
+      },
+      {
+        "source": "modrinth",
+        "downloads": 9
+      }
+    ],
+    "totalDownloads": 12530
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.11-beta.json",
+  "name": "v0.8.11-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110999290,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTI5MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.11-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999290/assets",
+      "assets": [
+        {
+          "id": 115528316,
+          "nodeId": "RA_kwDOAtXBQM4G4tJ8",
+          "name": "refinedstorage-0.8.11.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 514424,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.11-beta/refinedstorage-0.8.11.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999290/assets{?name,label}",
+      "tagName": "v0.8.11-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added X button to Processing Pattern Encoder to clear configuration of inputs and outputs.\r\n- Added Grid view toggle buttons (regular, craftable items only, no craftable items).\r\n- Added ability to shift click items into Importer, Exporter, Constructor, Destructor and Detector to set up whitelist / blacklist configurations easier.\r\n- Re-added opposite facing on shift click functionality.\r\n\r\n### Changed\r\n\r\n- Solderer upgrades go to upgrades slots first now when shift clicking.\r\n- Updated to Forge 2014.\r\n\r\n### Fixed\r\n\r\n- Fixed minor dupe bug with JEI transferring.\r\n- Fixed exporter crafting upgrades taking priority over other tasks.\r\n- Fixed NPE with incorrectly initialized disks.\r\n- Fixed not being able to take out items of Grid 2K16.\r\n- Fixed not being able to start autocrafting for certain items (most notably IC2 items).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:17:11Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.11-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.11-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999290",
+      "createdAt": "2016-07-19T12:52:21Z"
+    },
+    {
+      "id": 2317123,
+      "dateModified": "2023-07-04T10:46:38Z",
+      "fileLength": 514424,
+      "fileName": "refinedstorage-0.8.11.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2317123",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2317123",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2317123",
+      "createdAt": "2016-07-19T12:57:15Z"
+    },
+    {
+      "id": "WiGHtCXv",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.11-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded X button to Processing Pattern Encoder to clear configuration of inputs and outputs.\u003c/li\u003e\n\u003cli\u003eAdded Grid view toggle buttons (regular, craftable items only, no craftable items).\u003c/li\u003e\n\u003cli\u003eAdded ability to shift click items into Importer, Exporter, Constructor, Destructor and Detector to set up whitelist / blacklist configurations easier.\u003c/li\u003e\n\u003cli\u003eRe-added opposite facing on shift click functionality.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eSolderer upgrades go to upgrades slots first now when shift clicking.\u003c/li\u003e\n\u003cli\u003eUpdated to Forge 2014.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed minor dupe bug with JEI transferring.\u003c/li\u003e\n\u003cli\u003eFixed exporter crafting upgrades taking priority over other tasks.\u003c/li\u003e\n\u003cli\u003eFixed NPE with incorrectly initialized disks.\u003c/li\u003e\n\u003cli\u003eFixed not being able to take out items of Grid 2K16.\u003c/li\u003e\n\u003cli\u003eFixed not being able to start autocrafting for certain items (most notably IC2 items).\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "0cbd1e28b717526e3e944ba755fb0e6057c4e05d24ab06728a211287add993b85d126dc33ea73d595f458ca7074f60290ea5332d47d4d3b5518db9e0da073ddd",
+            "sha1": "3419adb6bceaa65142476af196ea283a6d4fafcc"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/WiGHtCXv/refinedstorage-0.8.11.jar",
+          "filename": "refinedstorage-0.8.11.jar",
+          "primary": true,
+          "size": 514424
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.11-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/WiGHtCXv",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 939
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 940
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.18-beta.json",
+  "name": "v0.7.18-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000159,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDE1OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.18-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000159/assets",
+      "assets": [
+        {
+          "id": 115529116,
+          "nodeId": "RA_kwDOAtXBQM4G4tWc",
+          "name": "refinedstorage-0.7.18.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 461038,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.18-beta/refinedstorage-0.7.18.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000159/assets{?name,label}",
+      "tagName": "v0.7.18-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed cables sending updates when not needed.\r\n- Fixed cables not connecting to foreign machines that implement the API.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:23:14Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.18-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.18-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000159",
+      "createdAt": "2016-06-24T18:01:24Z"
+    },
+    {
+      "id": 2310163,
+      "dateModified": "2023-07-04T13:48:22Z",
+      "fileLength": 461038,
+      "fileName": "refinedstorage-0.7.18.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2310163",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2310163",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2310163",
+      "createdAt": "2016-06-24T18:03:05Z"
+    },
+    {
+      "id": "wmpOUSBT",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.18-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed cables sending updates when not needed.\u003c/li\u003e\n\u003cli\u003eFixed cables not connecting to foreign machines that implement the API.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "f0054e9efcddcfe565ae19a84a2acdeb4cb83eacd2a34c26b8dd25e3cd6fe883e16c1e45f860742f0abaa81b9eba227c27ef1ba978567892b52726f49f8bd2c5",
+            "sha1": "22ebf867955e273ccc44fbf06c8e2a331fccc57b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/wmpOUSBT/refinedstorage-0.7.18.jar",
+          "filename": "refinedstorage-0.7.18.jar",
+          "primary": true,
+          "size": 461038
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.18-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/wmpOUSBT",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 950
+      },
+      {
+        "source": "modrinth",
+        "downloads": 50
+      }
+    ],
+    "totalDownloads": 1000
+  }
+}

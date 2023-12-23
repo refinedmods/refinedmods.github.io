@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.11-alpha.json",
+  "name": "v0.6.11-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111007018,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNzAxOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.11-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007018/assets",
+      "assets": [
+        {
+          "id": 115535623,
+          "nodeId": "RA_kwDOAtXBQM4G4u8H",
+          "name": "refinedstorage-0.6.11.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 413888,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.11-alpha/refinedstorage-0.6.11.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111007018/assets{?name,label}",
+      "tagName": "v0.6.11-alpha",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Converted all inventories in the mod to Forge\u0027s item handler capability system.\r\n\r\n### Fixed\r\n\r\n- Fixed crafting patterns crashing when item of an input or output no longer exists.\r\n- Fixed Grid letting the current held item flicker.\r\n- Fixed Importer / Exporter / External Storage not being able to push or pull out of the other side of a double chest.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:15:49Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.11-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.11-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007018",
+      "createdAt": "2016-05-23T16:32:25Z"
+    },
+    {
+      "id": 2302344,
+      "dateModified": "2023-07-04T15:08:26Z",
+      "fileLength": 413888,
+      "fileName": "refinedstorage-0.6.11.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2302344",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2302344",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2302344",
+      "createdAt": "2016-05-23T16:33:44Z"
+    },
+    {
+      "id": "MQWT9X6A",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.11-alpha",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eConverted all inventories in the mod to Forge\u0027s item handler capability system.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crafting patterns crashing when item of an input or output no longer exists.\u003c/li\u003e\n\u003cli\u003eFixed Grid letting the current held item flicker.\u003c/li\u003e\n\u003cli\u003eFixed Importer / Exporter / External Storage not being able to push or pull out of the other side of a double chest.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "b7d3ceabcee1a4d291ae6d14a64517bb949c2d5d8ac0ac3f55f88e4a8a94d69b73be01863372a326ea57803e8f032da2d7248a14a9e280c67e064d2ccbdb1547",
+            "sha1": "907865befa2ae722d4e65e253d20b8ab5f325f2a"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/MQWT9X6A/refinedstorage-0.6.11.jar",
+          "filename": "refinedstorage-0.6.11.jar",
+          "primary": true,
+          "size": 413888
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.11-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/MQWT9X6A",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 413
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 415
+  }
+}

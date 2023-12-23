@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.14.json",
+  "name": "v1.2.14",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513412,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzQxMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.14",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513412/assets",
+      "assets": [
+        {
+          "id": 115029048,
+          "nodeId": "RA_kwDOAtXBQM4G2zQ4",
+          "name": "refinedstorage-1.2.14.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1390463,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.14/refinedstorage-1.2.14.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513412/assets{?name,label}",
+      "tagName": "v1.2.14",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed server crash.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:50:26Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.14",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.14",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513412",
+      "createdAt": "2016-12-24T13:13:06Z"
+    },
+    {
+      "id": 2359886,
+      "dateModified": "2023-06-30T15:08:24Z",
+      "fileLength": 1390463,
+      "fileName": "refinedstorage-1.2.14.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2359886",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2359886",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2359886",
+      "createdAt": "2016-12-24T13:16:41Z"
+    },
+    {
+      "id": "9A44DGnE",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.14",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed server crash.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "71455720d66933de83435662ff88daae00cd3c62881b4ba3f0584491bfa3eef340173e459bdb748b3aa2d21bb9d72bc977ea1cf33165d899ffd6e43df72d22dc",
+            "sha1": "3a6a7eeff9d6f4a40128f2a774967a87641ea000"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/9A44DGnE/refinedstorage-1.2.14.jar",
+          "filename": "refinedstorage-1.2.14.jar",
+          "primary": true,
+          "size": 1390463
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.14",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/9A44DGnE",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 288428
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 288431
+  }
+}

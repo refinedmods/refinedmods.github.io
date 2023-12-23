@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.10.0.json",
+  "name": "v0.10.0",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 111095704,
+      "nodeId": "RE_kwDOBc8fRM4Gny-Y",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.10.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/111095704/assets",
+      "assets": [
+        {
+          "id": 115655305,
+          "nodeId": "RA_kwDOBc8fRM4G5MKJ",
+          "name": "refinedstorageaddons-0.10.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33771,
+          "downloadCount": 17,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.10.0/refinedstorageaddons-0.10.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/111095704/assets{?name,label}",
+      "tagName": "v0.10.0",
+      "targetCommitish": "d1cb8c29dd5e2fb20395a388dd0ddff1c4602a30",
+      "body": "### Added\r\n\r\n-   Brazilian Portuguese translation.\r\n\r\n### Changed\r\n\r\n-   Ported to Minecraft 1.20.1.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-05T11:07:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.10.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.10.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/111095704",
+      "createdAt": "2023-07-05T11:06:00Z"
+    },
+    {
+      "id": 4626171,
+      "dateModified": "2023-07-05T11:13:24Z",
+      "fileLength": 33771,
+      "fileName": "refinedstorageaddons-0.10.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "Java 17",
+        "1.20.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/4626171",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/4626171",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/4626171",
+      "createdAt": "2023-07-05T11:08:13Z"
+    },
+    {
+      "id": "tdH61AWD",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "0.10.0",
+      "changelog": "### Added\n\n-   Brazilian Portuguese translation.\n\n### Changed\n\n-   Ported to Minecraft 1.20.1.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "19730e347b7d7252f9ff0f91ab79d952760be5b4973d20ffd5dec2a6311073d69d8606b45c151f04aa3c688de109bffa76c9e550baf9a65a17e30a3f73a768b7",
+            "sha1": "cdf4cee3f012bff3c3307b71992970b33bd726e4"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/tdH61AWD/refinedstorageaddons-0.10.0.jar",
+          "filename": "refinedstorageaddons-0.10.0.jar",
+          "primary": true,
+          "size": 33771
+        }
+      ],
+      "gameVersions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.10.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/tdH61AWD",
+      "createdAt": "2023-07-05T11:08:24Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 17
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1985417
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3041
+      }
+    ],
+    "totalDownloads": 1988475
+  }
+}

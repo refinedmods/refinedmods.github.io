@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.11.7.json",
+  "name": "v1.11.7",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 129052087,
+      "nodeId": "RE_kwDOAtXBQM4HsS23",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.11.7",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/129052087/assets",
+      "assets": [
+        {
+          "id": 135165438,
+          "nodeId": "RA_kwDOAtXBQM4IDnX-",
+          "name": "refinedstorage-1.11.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3271319,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.11.7/refinedstorage-1.11.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/129052087/assets{?name,label}",
+      "tagName": "v1.11.7",
+      "targetCommitish": "develop",
+      "body": "### Fixed\n\n-   Various world corruption issues if Refined Storage blocks were removed unexpectedly or with another mod.\n-   Fixed JEI transfer crash for larger processing recipes.\n-   Fixed rare autocrafting crash.\n-   Fixed duplication bug with the Crafting Grid.\n-   Fixed fluid duplication bug with the Importer and GregTechCEu machines.\n-   Attempted to fix issue where Grid doesn\u0027t load items and requires a client restart.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-11-12T13:00:41Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.7",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.7",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/129052087",
+      "createdAt": "2023-11-12T12:56:02Z"
+    },
+    {
+      "id": 4861827,
+      "dateModified": "2023-11-12T13:03:55Z",
+      "fileLength": 3271320,
+      "fileName": "refinedstorage-1.11.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.19.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4861827",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4861827",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4861827",
+      "createdAt": "2023-11-12T13:00:56Z"
+    },
+    {
+      "id": "q3LiZwUb",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.11.7",
+      "changelog": "### Fixed\n\n-   Various world corruption issues if Refined Storage blocks were removed unexpectedly or with another mod.\n-   Fixed JEI transfer crash for larger processing recipes.\n-   Fixed rare autocrafting crash.\n-   Fixed duplication bug with the Crafting Grid.\n-   Fixed fluid duplication bug with the Importer and GregTechCEu machines.\n-   Attempted to fix issue where Grid doesn\u0027t load items and requires a client restart.\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "dc454596d66e5b0be4019ee4f61d2f6f9816098d249924851ae0717b28d570eb8f2251b7f5c5f468fbdef1090c7eb32481f5267e111b1e4ac058c9bc1128a94c",
+            "sha1": "cc81064ecf2e703a48fb82db1e842772921ed1fb"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/q3LiZwUb/refinedstorage-1.11.7.jar",
+          "filename": "refinedstorage-1.11.7.jar",
+          "primary": true,
+          "size": 3271320
+        }
+      ],
+      "gameVersions": [
+        "1.19.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.11.7",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/q3LiZwUb",
+      "createdAt": "2023-11-12T13:08:06Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 9
+      },
+      {
+        "source": "curseforge",
+        "downloads": 255340
+      },
+      {
+        "source": "modrinth",
+        "downloads": 944
+      }
+    ],
+    "totalDownloads": 256293
+  }
+}

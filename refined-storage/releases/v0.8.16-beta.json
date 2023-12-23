@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.16-beta.json",
+  "name": "v0.8.16-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110998456,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5ODQ1Ng\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.16-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998456/assets",
+      "assets": [
+        {
+          "id": 115526954,
+          "nodeId": "RA_kwDOAtXBQM4G4s0q",
+          "name": "refinedstorage-0.8.16.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 608247,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.16-beta/refinedstorage-0.8.16.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998456/assets{?name,label}",
+      "tagName": "v0.8.16-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added German translation by ChillUpX.\r\n- Added MCMultiPart integration for Cable Parts.\r\n\r\n### Changed\r\n\r\n- You now have to click the actual cable part head in order to get the GUI open.\r\n- Grid Filters can now only filter 9 items, but, Grids take 4 filters now instead.\r\n- Grid Filters can now be configured to compare on NBT and/ or damage.\r\n- It is now possible to shift click items to the Storage Device filters.\r\n- Updated to Forge 2046.\r\n- Updated Tesla.\r\n- Java 8 is now a requirement.\r\n- Slight performance increase and network efficiency improvement in all GUI\u0027s.\r\n- Slight performance increase in Grid GUI.\r\n- Improved collisions of Cable parts.\r\n\r\n### Fixed\r\n\r\n- Fixed issue with IC2 integration causing console spam.\r\n- Fixed not being able to change some configs in blocks.\r\n- Fixed serverside configs not syncing up with clientside.\r\n- Fixed not being able to move inventory items in Grid GUI\u0027s to hotbar via the number keys.\r\n- Fixed Relays when being in \"Ignore Redstone\" mode using up energy.\r\n- Fixed Crafter facing bottom side on placement.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:10:57Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.16-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.16-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998456",
+      "createdAt": "2016-08-09T14:14:40Z"
+    },
+    {
+      "id": 2321953,
+      "dateModified": "2023-07-04T14:11:15Z",
+      "fileLength": 608247,
+      "fileName": "refinedstorage-0.8.16.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2321953",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2321953",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2321953",
+      "createdAt": "2016-08-09T14:25:54Z"
+    },
+    {
+      "id": "ScUf0R8q",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.16-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded German translation by ChillUpX.\u003c/li\u003e\n\u003cli\u003eAdded MCMultiPart integration for Cable Parts.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eYou now have to click the actual cable part head in order to get the GUI open.\u003c/li\u003e\n\u003cli\u003eGrid Filters can now only filter 9 items, but, Grids take 4 filters now instead.\u003c/li\u003e\n\u003cli\u003eGrid Filters can now be configured to compare on NBT and/ or damage.\u003c/li\u003e\n\u003cli\u003eIt is now possible to shift click items to the Storage Device filters.\u003c/li\u003e\n\u003cli\u003eUpdated to Forge 2046.\u003c/li\u003e\n\u003cli\u003eUpdated Tesla.\u003c/li\u003e\n\u003cli\u003eJava 8 is now a requirement.\u003c/li\u003e\n\u003cli\u003eSlight performance increase and network efficiency improvement in all GUI\u0027s.\u003c/li\u003e\n\u003cli\u003eSlight performance increase in Grid GUI.\u003c/li\u003e\n\u003cli\u003eImproved collisions of Cable parts.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed issue with IC2 integration causing console spam.\u003c/li\u003e\n\u003cli\u003eFixed not being able to change some configs in blocks.\u003c/li\u003e\n\u003cli\u003eFixed serverside configs not syncing up with clientside.\u003c/li\u003e\n\u003cli\u003eFixed not being able to move inventory items in Grid GUI\u0027s to hotbar via the number keys.\u003c/li\u003e\n\u003cli\u003eFixed Relays when being in \u0026quot;Ignore Redstone\u0026quot; mode using up energy.\u003c/li\u003e\n\u003cli\u003eFixed Crafter facing bottom side on placement.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c4394fcd0ad1db42bd6013980e7991bcaeba26443255f8677fedf7888a4025cc4d04d2b28f9fbdc6d73decad7fab0bb178c1d3e21f1f776e7d16a490ce036333",
+            "sha1": "c272ed68850e8b0a4517548252b568f741db454d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ScUf0R8q/refinedstorage-0.8.16.jar",
+          "filename": "refinedstorage-0.8.16.jar",
+          "primary": true,
+          "size": 608247
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.16-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ScUf0R8q",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 692
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 694
+  }
+}

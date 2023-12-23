@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.26.json",
+  "name": "v1.2.26",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2431884,
+      "dateModified": "2023-06-30T15:04:47Z",
+      "fileLength": 1412278,
+      "fileName": "refinedstorage-1.2.26.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2431884",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2431884",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2431884",
+      "createdAt": "2017-06-10T20:05:10Z"
+    },
+    {
+      "id": 110512830,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMjgzMA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.26",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512830/assets",
+      "assets": [
+        {
+          "id": 115028532,
+          "nodeId": "RA_kwDOAtXBQM4G2zI0",
+          "name": "refinedstorage-1.2.26.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1412278,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.26/refinedstorage-1.2.26.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110512830/assets{?name,label}",
+      "tagName": "v1.2.26",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Interface duping items on extract-only storages.\r\n- Fixed calculating crafting resources for more than 9 unique items, for addon mods.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:45:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.26",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.26",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512830",
+      "createdAt": "2017-06-10T20:08:49Z"
+    },
+    {
+      "id": "Map4zjlx",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.26",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Interface duping items on extract-only storages.\u003c/li\u003e\n\u003cli\u003eFixed calculating crafting resources for more than 9 unique items, for addon mods.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d647b4efa542260023a4d0f1be59329efcb2977ee9fe286da3b3b7f2dbbcebb8c76768775aff3e98a044955f878e7887da6bbdc5520cc5e028062771e6ca4306",
+            "sha1": "74170b4fb2667e5f000a29311a455804cc6a932d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/Map4zjlx/refinedstorage-1.2.26.jar",
+          "filename": "refinedstorage-1.2.26.jar",
+          "primary": true,
+          "size": 1412278
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.26",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/Map4zjlx",
+      "createdAt": "2023-07-04T19:58:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 9058678
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 47
+      }
+    ],
+    "totalDownloads": 9058725
+  }
+}

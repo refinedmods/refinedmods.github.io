@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.17.json",
+  "name": "v1.4.17",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110492133,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjEzMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.17",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492133/assets",
+      "assets": [
+        {
+          "id": 115010185,
+          "nodeId": "RA_kwDOAtXBQM4G2uqJ",
+          "name": "refinedstorage-1.4.17.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1628899,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.17/refinedstorage-1.4.17.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492133/assets{?name,label}",
+      "tagName": "v1.4.17",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Filters not persisting correctly in Wireless Grid, Wireless Crafting Monitor and Portable Grid.\r\n- Fixed Disk Drive recipe not using ore dictionary for chest.\r\n- Fixed a bug where loading nodes would abort when a single node has an error while reading.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:17:00Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.17",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.17",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492133",
+      "createdAt": "2017-06-20T22:35:08Z"
+    },
+    {
+      "id": 2437759,
+      "dateModified": "2023-06-30T12:55:59Z",
+      "fileLength": 1628899,
+      "fileName": "refinedstorage-1.4.17.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2437759",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2437759",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2437759",
+      "createdAt": "2017-06-20T22:43:08Z"
+    },
+    {
+      "id": "AdgoNEer",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.17",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Filters not persisting correctly in Wireless Grid, Wireless Crafting Monitor and Portable Grid.\u003c/li\u003e\n\u003cli\u003eFixed Disk Drive recipe not using ore dictionary for chest.\u003c/li\u003e\n\u003cli\u003eFixed a bug where loading nodes would abort when a single node has an error while reading.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "2a4649f5643e550ae459ad884863adea423393f82db1cc2ad42a06391e3f98dd1851d9488e2447ee217b820e63a2ac3382208f7e4e7fa5483ad57be3af3b3868",
+            "sha1": "84f2cef16588ccaab3c41135bdb813f4e8ed4448"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/AdgoNEer/refinedstorage-1.4.17.jar",
+          "filename": "refinedstorage-1.4.17.jar",
+          "primary": true,
+          "size": 1628899
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.17",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/AdgoNEer",
+      "createdAt": "2023-07-04T19:58:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 12346
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 12347
+  }
+}

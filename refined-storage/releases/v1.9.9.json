@@ -1,0 +1,114 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.9.json",
+  "name": "v1.9.9",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 85636247,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2MjQ3",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.9",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636247/assets",
+      "assets": [
+        {
+          "id": 87724976,
+          "nodeId": "RA_kwDOAtXBQM4FOpOw",
+          "name": "refinedstorage-1.9.9.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3133091,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.9/refinedstorage-1.9.9.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636247/assets{?name,label}",
+      "tagName": "v1.9.9",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Refined Storage sidebuttons displaying over the JEI bookmark pagination buttons.\r\n- Fixed issue where Crafters may fail to recognize an inventory/tank for some patterns.\r\n- Fixed issue where the Crafter Manager can crash on invalid patterns.\r\n- Fixed issue where alternatives in the Pattern Grid weren\u0027t being saved properly.\r\n- Fixed not being able to change the Exporter filter slot count with regulator mode without closing and re-opening the\r\n  container.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T20:00:40Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.9",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.9",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636247",
+      "createdAt": "2020-11-11T19:06:05Z"
+    },
+    {
+      "id": 3111240,
+      "dateModified": "2022-12-10T20:09:32Z",
+      "fileLength": 3133091,
+      "fileName": "refinedstorage-1.9.9.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.3",
+        "1.16.4"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3111240",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3111240",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3111240",
+      "createdAt": "2020-11-14T10:16:20Z"
+    },
+    {
+      "id": "eXbe0Vzy",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.9",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Refined Storage sidebuttons displaying over the JEI bookmark pagination buttons.\u003c/li\u003e\n\u003cli\u003eFixed issue where Crafters may fail to recognize an inventory/tank for some patterns.\u003c/li\u003e\n\u003cli\u003eFixed issue where the Crafter Manager can crash on invalid patterns.\u003c/li\u003e\n\u003cli\u003eFixed issue where alternatives in the Pattern Grid weren\u0027t being saved properly.\u003c/li\u003e\n\u003cli\u003eFixed not being able to change the Exporter filter slot count with regulator mode without closing and re-opening the\r\n  container.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "0cab9f0242faeef2531341eb0c001af129708c3914b1c200922d05b2bb6e9a34e5faedc64e54218b84f559314daf545425a8c98c1a49d1e60b9c1115dbc73624",
+            "sha1": "b3963402d8b5d4781448e8009176a56b8c21270d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/eXbe0Vzy/refinedstorage-1.9.9.jar",
+          "filename": "refinedstorage-1.9.9.jar",
+          "primary": true,
+          "size": 3133091
+        }
+      ],
+      "gameVersions": [
+        "1.16.3",
+        "1.16.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.9",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/eXbe0Vzy",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 757738
+      },
+      {
+        "source": "modrinth",
+        "downloads": 7
+      }
+    ],
+    "totalDownloads": 757745
+  }
+}

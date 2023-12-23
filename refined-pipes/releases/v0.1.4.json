@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.1.4.json",
+  "name": "v0.1.4",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 54192361,
+      "nodeId": "MDc6UmVsZWFzZTU0MTkyMzYx",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.1.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192361/assets",
+      "assets": [
+        {
+          "id": 50488074,
+          "nodeId": "RA_kwDODcjNAM4DAmMK",
+          "name": "refinedpipes-0.1.4.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 134468,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.1.4/refinedpipes-0.1.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/54192361/assets{?name,label}",
+      "tagName": "v0.1.4",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added hitboxes for the attachments on pipes.\r\n- Added a config file.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-11-28T13:08:19Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.1.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.1.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192361",
+      "createdAt": "2020-03-27T20:51:44Z"
+    },
+    {
+      "id": 2914356,
+      "dateModified": "2021-11-28T12:58:29Z",
+      "fileLength": 134468,
+      "fileName": "refinedpipes-0.1.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/2914356",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/2914356",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/2914356",
+      "createdAt": "2020-03-27T21:00:30Z"
+    },
+    {
+      "id": "ra4o4RM1",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.1.4",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eAdded hitboxes for the attachments on pipes.\u003c/li\u003e\r\n\u003cli\u003eAdded a config file.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "46697b7dcf2da6f769e446957137839d40369cee4b4554183cd8f555fbbc7e5d41fe6edde35be1879b578cb2f902fa1d81286e089336134da0f75c35b5509c57",
+            "sha1": "366b6ccb04db1815aacf13780c988b130b2668c7"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/ra4o4RM1/refinedpipes-0.1.4.jar",
+          "filename": "refinedpipes-0.1.4.jar",
+          "primary": true,
+          "size": 134468
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.1.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/ra4o4RM1",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 5
+      },
+      {
+        "source": "curseforge",
+        "downloads": 65
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 73
+  }
+}

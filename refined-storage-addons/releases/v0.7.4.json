@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.7.4.json",
+  "name": "v0.7.4",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284651,
+      "nodeId": "RE_kwDOBc8fRM4DS5Or",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.7.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284651/assets",
+      "assets": [
+        {
+          "id": 51752759,
+          "nodeId": "RA_kwDOBc8fRM4DFa83",
+          "name": "refinedstorageaddons-0.7.4.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 32634,
+          "downloadCount": 15,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.7.4/refinedstorageaddons-0.7.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284651/assets{?name,label}",
+      "tagName": "v0.7.4",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n- Refined Storage 1.9.16 compatibility.\r\n- Italian translation by [@maicol07](https://github.com/maicol07).\r\n- Polish translation by [@joker876](https://github.com/joker876).\r\n\r\n### Changed\r\n- Fixes to Russian translation by [@Bytegm](https://github.com/Bytegm).\r\n\r\n### Fixed\r\n\r\n- Fixed a bug where items could be duplicated or voided.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:24:43Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.7.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.7.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284651",
+      "createdAt": "2021-11-16T10:13:06Z"
+    },
+    {
+      "id": 3527508,
+      "dateModified": "2021-12-14T15:39:20Z",
+      "fileLength": 32634,
+      "fileName": "refinedstorageaddons-0.7.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/3527508",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/3527508",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/3527508",
+      "createdAt": "2021-11-16T10:15:26Z"
+    },
+    {
+      "id": "bRfqZhvx",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.7.4",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eRefined Storage 1.9.16 compatibility.\u003c/li\u003e\r\n\u003cli\u003eItalian translation by\u0026nbsp;\u003ca href\u003d\"https://github.com/maicol07\" rel\u003d\"nofollow\"\u003e@maicol07\u003c/a\u003e.\u003c/li\u003e\r\n\u003cli\u003ePolish translation by\u0026nbsp;\u003ca href\u003d\"https://github.com/joker876\" rel\u003d\"nofollow\"\u003e@joker876\u003c/a\u003e.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eChanged\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eFixes to Russian translation by\u0026nbsp;\u003ca href\u003d\"https://github.com/Bytegm\" rel\u003d\"nofollow\"\u003e@Bytegm\u003c/a\u003e.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eFixed\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eFixed a bug where items could be duplicated or voided.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "f4ff7010faee70e3893fd63a17a23be965c5af1470c27dfb87df378dc2d84348127ed279509bc430ee8476f2a4afc31298f7283952a3154a3ee951492bb2d2e0",
+            "sha1": "5962c3fcbf3c17f9113d572a0901e5cb239bd488"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/bRfqZhvx/refinedstorageaddons-0.7.4.jar",
+          "filename": "refinedstorageaddons-0.7.4.jar",
+          "primary": true,
+          "size": 32634
+        }
+      ],
+      "gameVersions": [
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.7.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/bRfqZhvx",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 15
+      },
+      {
+        "source": "curseforge",
+        "downloads": 7287938
+      },
+      {
+        "source": "modrinth",
+        "downloads": 527
+      }
+    ],
+    "totalDownloads": 7288480
+  }
+}

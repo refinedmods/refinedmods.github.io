@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.5.json",
+  "name": "v1.9.5",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 3050769,
+      "dateModified": "2022-12-10T20:11:06Z",
+      "fileLength": 1928746,
+      "fileName": "refinedstorage-1.9.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3050769",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3050769",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3050769",
+      "createdAt": "2020-09-06T08:31:38Z"
+    },
+    {
+      "id": 85636287,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2Mjg3",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636287/assets",
+      "assets": [
+        {
+          "id": 87725054,
+          "nodeId": "RA_kwDOAtXBQM4FOpP-",
+          "name": "refinedstorage-1.9.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1928746,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.5/refinedstorage-1.9.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636287/assets{?name,label}",
+      "tagName": "v1.9.5",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added the `/refinedstorage disk create \u003cplayer\u003e \u003cid\u003e` command.\r\n- Added the `/refinedstorage disk list` command.\r\n- Added the `/refinedstorage disk list \u003cplayer\u003e` command.\r\n- Added the `/refinedstorage network list \u003cdimension\u003e` command.\r\n- Added the `/refinedstorage network get \u003cdimension\u003e \u003cpos\u003e` command.\r\n- Added the `/refinedstorage network get \u003cdimension\u003e \u003cpos\u003e autocrafting list` command.\r\n- Added the `/refinedstorage network get \u003cdimension\u003e \u003cpos\u003e autocrafting get \u003cid\u003e` command.\r\n- Added the `/refinedstorage network get \u003cdimension\u003e \u003cpos\u003e autocrafting cancel` command.\r\n- Added the `/refinedstorage network get \u003cdimension\u003e \u003cpos\u003e autocrafting cancel \u003cid\u003e` command.\r\n- Added JEI ghost ingredient dragging support.\r\n\r\n### Fixed\r\n\r\n- Fixed text field not being focused in amount specifying screens.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T20:02:21Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636287",
+      "createdAt": "2020-09-11T20:33:27Z"
+    },
+    {
+      "id": "gbf0Byhx",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.5",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRe-added the \u003ccode\u003e/refinedstorage disk create \u0026amp;lt;player\u0026amp;gt; \u0026amp;lt;id\u0026amp;gt;\u003c/code\u003e command.\u003c/li\u003e\n\u003cli\u003eAdded the \u003ccode\u003e/refinedstorage disk list\u003c/code\u003e command.\u003c/li\u003e\n\u003cli\u003eAdded the \u003ccode\u003e/refinedstorage disk list \u0026amp;lt;player\u0026amp;gt;\u003c/code\u003e command.\u003c/li\u003e\n\u003cli\u003eAdded the \u003ccode\u003e/refinedstorage network list \u0026amp;lt;dimension\u0026amp;gt;\u003c/code\u003e command.\u003c/li\u003e\n\u003cli\u003eAdded the \u003ccode\u003e/refinedstorage network get \u0026amp;lt;dimension\u0026amp;gt; \u0026amp;lt;pos\u0026amp;gt;\u003c/code\u003e command.\u003c/li\u003e\n\u003cli\u003eAdded the \u003ccode\u003e/refinedstorage network get \u0026amp;lt;dimension\u0026amp;gt; \u0026amp;lt;pos\u0026amp;gt; autocrafting list\u003c/code\u003e command.\u003c/li\u003e\n\u003cli\u003eAdded the \u003ccode\u003e/refinedstorage network get \u0026amp;lt;dimension\u0026amp;gt; \u0026amp;lt;pos\u0026amp;gt; autocrafting get \u0026amp;lt;id\u0026amp;gt;\u003c/code\u003e command.\u003c/li\u003e\n\u003cli\u003eAdded the \u003ccode\u003e/refinedstorage network get \u0026amp;lt;dimension\u0026amp;gt; \u0026amp;lt;pos\u0026amp;gt; autocrafting cancel\u003c/code\u003e command.\u003c/li\u003e\n\u003cli\u003eAdded the \u003ccode\u003e/refinedstorage network get \u0026amp;lt;dimension\u0026amp;gt; \u0026amp;lt;pos\u0026amp;gt; autocrafting cancel \u0026amp;lt;id\u0026amp;gt;\u003c/code\u003e command.\u003c/li\u003e\n\u003cli\u003eAdded JEI ghost ingredient dragging support.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed text field not being focused in amount specifying screens.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4330b3046b8a289fba383d8dabd93acaa58132ae53ac46a21a741b4e2f5d9c096ca71bcd72336100336078036ab48ea13a554e66e81a5a4fc74ab70ac1ab8d9d",
+            "sha1": "aeb3557969e049c5e6aa8a58122ddef581f37041"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/gbf0Byhx/refinedstorage-1.9.5.jar",
+          "filename": "refinedstorage-1.9.5.jar",
+          "primary": true,
+          "size": 1928746
+        }
+      ],
+      "gameVersions": [
+        "1.16.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.5",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/gbf0Byhx",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 22803
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 4
+      }
+    ],
+    "totalDownloads": 22807
+  }
+}

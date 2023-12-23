@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.10.json",
+  "name": "v1.6.10",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110330835,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDgzNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.10",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330835/assets",
+      "assets": [
+        {
+          "id": 114836729,
+          "nodeId": "RA_kwDOAtXBQM4G2ET5",
+          "name": "refinedstorage-1.6.10.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1893567,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.10/refinedstorage-1.6.10.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330835/assets{?name,label}",
+      "tagName": "v1.6.10",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added fluid functions for the fluid autocrafting to the OpenComputers integration.\r\n\r\n### Changed\r\n\r\n- Updated Russian translation.\r\n- Slightly increased performance of the External Storage.\r\n\r\n### Fixed\r\n\r\n- Fixed client FPS stalling when using \"@\" mod search in the Grid.\r\n- Fixed client FPS stalling when using \"#\" tooltip search in the Grid.\r\n- Fixed fluid inputs/outputs in the Pattern Grid not being set when you re-insert a Pattern with fluid inputs/outputs.\r\n- Fixed bug where the Pattern Grid doesn\u0027t update it\u0027s output slot when manually configuring a crafting pattern.\r\n- Fixed network node scanning allowing multiple controllers in some cases.\r\n- Fixed OpenComputers integration not giving back a crafting task instance in the schedule task API.\r\n- Fixed OpenComputers integration causing log spam when getting processing patterns.\r\n- Fixed OpenComputers voiding items with extract item API when there is no inventory space.\r\n- Fixed CraftingTweaks buttons resetting sometimes in the Crafting Grid.\r\n- Fixed Refined Storage jars not being signed.\r\n- Fixed crafting task stalling when there\u0027s not enough space in the inventory.\r\n- Fixed another duplication bug with a disconnected Crafting Grid.\r\n- Fixed oredict mode in autocrafting not working at all.\r\n\r\n### Removed\r\n\r\n- Removed getMissingItem.\r\n- Removed the Interdimensional Upgrade, Network Transmitters are now cross dimensional by default.\r\n- Removed the per block FE cost of the Network Transmitter, it draws a fixed amount of FE/t now.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:33:38Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.10",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.10",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330835",
+      "createdAt": "2018-11-23T17:00:08Z"
+    },
+    {
+      "id": 2640593,
+      "dateModified": "2023-06-29T09:43:07Z",
+      "fileLength": 1893567,
+      "fileName": "refinedstorage-1.6.10.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2640593",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2640593",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2640593",
+      "createdAt": "2018-11-23T17:10:03Z"
+    },
+    {
+      "id": "2B7oLBNz",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.10",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded fluid functions for the fluid autocrafting to the OpenComputers integration.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Russian translation.\u003c/li\u003e\n\u003cli\u003eSlightly increased performance of the External Storage.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed client FPS stalling when using \u0026quot;@\u0026quot; mod search in the Grid.\u003c/li\u003e\n\u003cli\u003eFixed client FPS stalling when using \u0026quot;#\u0026quot; tooltip search in the Grid.\u003c/li\u003e\n\u003cli\u003eFixed fluid inputs/outputs in the Pattern Grid not being set when you re-insert a Pattern with fluid inputs/outputs.\u003c/li\u003e\n\u003cli\u003eFixed bug where the Pattern Grid doesn\u0027t update it\u0027s output slot when manually configuring a crafting pattern.\u003c/li\u003e\n\u003cli\u003eFixed network node scanning allowing multiple controllers in some cases.\u003c/li\u003e\n\u003cli\u003eFixed OpenComputers integration not giving back a crafting task instance in the schedule task API.\u003c/li\u003e\n\u003cli\u003eFixed OpenComputers integration causing log spam when getting processing patterns.\u003c/li\u003e\n\u003cli\u003eFixed OpenComputers voiding items with extract item API when there is no inventory space.\u003c/li\u003e\n\u003cli\u003eFixed CraftingTweaks buttons resetting sometimes in the Crafting Grid.\u003c/li\u003e\n\u003cli\u003eFixed Refined Storage jars not being signed.\u003c/li\u003e\n\u003cli\u003eFixed crafting task stalling when there\u0027s not enough space in the inventory.\u003c/li\u003e\n\u003cli\u003eFixed another duplication bug with a disconnected Crafting Grid.\u003c/li\u003e\n\u003cli\u003eFixed oredict mode in autocrafting not working at all.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved getMissingItem.\u003c/li\u003e\n\u003cli\u003eRemoved the Interdimensional Upgrade, Network Transmitters are now cross dimensional by default.\u003c/li\u003e\n\u003cli\u003eRemoved the per block FE cost of the Network Transmitter, it draws a fixed amount of FE/t now.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "48426293a6b1d45febfa3454140138cd6a36ef23a19d876bd565792de9bcc391d05ddf89064b0394495b7fb65819623a122147c654f18e0aa10f0f26c89f3e2d",
+            "sha1": "c4c7af02ce7461c69080542cf40a2318eddc6f90"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/2B7oLBNz/refinedstorage-1.6.10.jar",
+          "filename": "refinedstorage-1.6.10.jar",
+          "primary": true,
+          "size": 1893567
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.10",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/2B7oLBNz",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 23566
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 23569
+  }
+}

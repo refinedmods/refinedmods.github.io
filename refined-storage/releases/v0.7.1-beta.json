@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.1-beta.json",
+  "name": "v0.7.1-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111001194,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMTE5NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.1-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001194/assets",
+      "assets": [
+        {
+          "id": 115529956,
+          "nodeId": "RA_kwDOAtXBQM4G4tjk",
+          "name": "refinedstorage-0.7.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 417685,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.1-beta/refinedstorage-0.7.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111001194/assets{?name,label}",
+      "tagName": "v0.7.1-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed NPE in some tiles.\r\n- Fixed going out of crafting GUI not restoring state (scrollbar and search term).\r\n- Fixed not being able to create a pattern in disconnected Pattern Grid.\r\n- Fixed not being able to place cake or string.\r\n- Performance improvement to Grids.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:30:52Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.1-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.1-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001194",
+      "createdAt": "2016-05-24T21:37:26Z"
+    },
+    {
+      "id": 2302620,
+      "dateModified": "2023-07-04T14:02:54Z",
+      "fileLength": 417685,
+      "fileName": "refinedstorage-0.7.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2302620",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2302620",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2302620",
+      "createdAt": "2016-05-24T21:40:36Z"
+    },
+    {
+      "id": "VT4IJBdn",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.1-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed NPE in some tiles.\u003c/li\u003e\n\u003cli\u003eFixed going out of crafting GUI not restoring state (scrollbar and search term).\u003c/li\u003e\n\u003cli\u003eFixed not being able to create a pattern in disconnected Pattern Grid.\u003c/li\u003e\n\u003cli\u003eFixed not being able to place cake or string.\u003c/li\u003e\n\u003cli\u003ePerformance improvement to Grids.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "211d9d1437ef7a0b23d8a6d7da9816e4f6151ff0a8bfdaf71b761bd4b7fdfbd5ef15c7459cffc39778becab8c2adab0be37befb94ae76e5bc94d729a999792a1",
+            "sha1": "b889eea00c02ea4051748f4620735c5c425937ee"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/VT4IJBdn/refinedstorage-0.7.1.jar",
+          "filename": "refinedstorage-0.7.1.jar",
+          "primary": true,
+          "size": 417685
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.1-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/VT4IJBdn",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1059
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 1060
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.6.json",
+  "name": "v1.9.6",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 85636278,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2Mjc4",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.6",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636278/assets",
+      "assets": [
+        {
+          "id": 87725046,
+          "nodeId": "RA_kwDOAtXBQM4FOpP2",
+          "name": "refinedstorage-1.9.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3119019,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.6/refinedstorage-1.9.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636278/assets{?name,label}",
+      "tagName": "v1.9.6",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.16.3.\r\n- Added colored block variants.\r\n- Added functionality to show missing items in the JEI transfer screen.\r\n- Added functionality to request missing items from autocrafting in the JEI transfer screen.\r\n- Added client config option to remember the Grid search query.\r\n\r\n### Fixed\r\n\r\n- Fixed Portable Grid losing enchantments when placing and breaking.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T20:01:55Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.6",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.6",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636278",
+      "createdAt": "2020-09-25T19:17:05Z"
+    },
+    {
+      "id": 3065675,
+      "dateModified": "2022-12-10T20:10:30Z",
+      "fileLength": 3119019,
+      "fileName": "refinedstorage-1.9.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.3"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3065675",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3065675",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3065675",
+      "createdAt": "2020-09-25T19:18:49Z"
+    },
+    {
+      "id": "i4l5Nhss",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.6",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.16.3.\u003c/li\u003e\n\u003cli\u003eAdded colored block variants.\u003c/li\u003e\n\u003cli\u003eAdded functionality to show missing items in the JEI transfer screen.\u003c/li\u003e\n\u003cli\u003eAdded functionality to request missing items from autocrafting in the JEI transfer screen.\u003c/li\u003e\n\u003cli\u003eAdded client config option to remember the Grid search query.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Portable Grid losing enchantments when placing and breaking.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "8eb87302e700d0cda93b621069d1901a703469b7dced683d640eb0b9a345a5a667f2d97bed5bba31ba978551323f25d693ca6ac3460eda6bd7de9af6aada93cc",
+            "sha1": "9ee177859604e3bb70a6f1240d845969bb8017d1"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/i4l5Nhss/refinedstorage-1.9.6.jar",
+          "filename": "refinedstorage-1.9.6.jar",
+          "primary": true,
+          "size": 3119019
+        }
+      ],
+      "gameVersions": [
+        "1.16.3"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.6",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/i4l5Nhss",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3990
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 3993
+  }
+}

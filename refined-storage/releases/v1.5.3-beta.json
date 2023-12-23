@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.3-beta.json",
+  "name": "v1.5.3-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110471894,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTg5NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.3-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471894/assets",
+      "assets": [
+        {
+          "id": 114988563,
+          "nodeId": "RA_kwDOAtXBQM4G2pYT",
+          "name": "refinedstorage-1.5.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1675272,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.3-beta/refinedstorage-1.5.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471894/assets{?name,label}",
+      "tagName": "v1.5.3-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- The Portable Grid now exposes an inventory for interaction with other mods or vanilla.\r\n- The Interface now exposes the entire storage inventory (if no slots are set for exporting) for interaction with other mods or vanilla.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2359.\r\n- Updated MCMultiPart to 2.2.1.\r\n\r\n### Fixed\r\n\r\n- Fixed Solderer crashing.\r\n- Fixed Solderer being able to work with insufficient ingredients.\r\n- Fixed Interface extracting from itself when trying to keep items in stock.\r\n- Fixed Quartz Enriched Iron recipe only giving 1 instead of 4.\r\n- Fixed Debug Storage disks not working correctly.\r\n- Fixed Disk Drive giving incorrect capacity for creative and debug storage disks.\r\n\r\n### Removed\r\n\r\n- The Relay now reacts instantly to a redstone signal again, removed throttling for it.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:10:17Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.3-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.3-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471894",
+      "createdAt": "2017-06-24T11:59:42Z"
+    },
+    {
+      "id": 2440710,
+      "dateModified": "2023-06-30T09:25:56Z",
+      "fileLength": 1675272,
+      "fileName": "refinedstorage-1.5.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2440710",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2440710",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2440710",
+      "createdAt": "2017-06-24T12:03:25Z"
+    },
+    {
+      "id": "OOG4TZdH",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.3-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Portable Grid now exposes an inventory for interaction with other mods or vanilla.\u003c/li\u003e\n\u003cli\u003eThe Interface now exposes the entire storage inventory (if no slots are set for exporting) for interaction with other mods or vanilla.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2359.\u003c/li\u003e\n\u003cli\u003eUpdated MCMultiPart to 2.2.1.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Solderer crashing.\u003c/li\u003e\n\u003cli\u003eFixed Solderer being able to work with insufficient ingredients.\u003c/li\u003e\n\u003cli\u003eFixed Interface extracting from itself when trying to keep items in stock.\u003c/li\u003e\n\u003cli\u003eFixed Quartz Enriched Iron recipe only giving 1 instead of 4.\u003c/li\u003e\n\u003cli\u003eFixed Debug Storage disks not working correctly.\u003c/li\u003e\n\u003cli\u003eFixed Disk Drive giving incorrect capacity for creative and debug storage disks.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Relay now reacts instantly to a redstone signal again, removed throttling for it.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "884bfb5d75c0340debc57b5c2098be665616528c84e329862aa0650a47dcf7ddbd3493a8a421f016e2ce1bfa2399a91eca459352b24dc7f31a9d221cb34ff769",
+            "sha1": "3adc3519e61db9ae82be9c7696c761aea6af78ed"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/OOG4TZdH/refinedstorage-1.5.3.jar",
+          "filename": "refinedstorage-1.5.3.jar",
+          "primary": true,
+          "size": 1675272
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.3-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/OOG4TZdH",
+      "createdAt": "2023-07-04T19:58:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 618
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 619
+  }
+}

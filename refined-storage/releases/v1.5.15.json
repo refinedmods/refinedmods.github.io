@@ -1,0 +1,114 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.15.json",
+  "name": "v1.5.15",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110471097,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTA5Nw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.15",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471097/assets",
+      "assets": [
+        {
+          "id": 114987806,
+          "nodeId": "RA_kwDOAtXBQM4G2pMe",
+          "name": "refinedstorage-1.5.15.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1708299,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.15/refinedstorage-1.5.15.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471097/assets{?name,label}",
+      "tagName": "v1.5.15",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added InventoryTweaks Grid sorting.\r\n- Added InventoryTweaks inventory sort ability in Refined Storage GUIs.\r\n- Added CTM integration for Disk Manipulator.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2444 (MC 1.12.1).\r\n\r\n### Fixed\r\n\r\n- Fixed possible rare dupe bug with Importer.\r\n- Fixed Shulker Box dupe bug with Destructor.\r\n- Fixed Grid crash with search history.\r\n- Fixed Grid crash with search field.\r\n- Fixed External Storage not working without Storage Drawers.\r\n- Fixed External Storage not calculating max stack size in the calculation of it\u0027s capacity display in the GUI.\r\n- Fixed Refined Storage not drawing small text correctly with Unicode font.\r\n- Fixed dupe bug with External Storage connected to an item handler.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:03:14Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.15",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.15",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471097",
+      "createdAt": "2017-08-09T18:41:37Z"
+    },
+    {
+      "id": 2462454,
+      "dateModified": "2023-06-30T09:22:26Z",
+      "fileLength": 1708299,
+      "fileName": "refinedstorage-1.5.15.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2462454",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2462454",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2462454",
+      "createdAt": "2017-08-09T18:44:26Z"
+    },
+    {
+      "id": "1j5w4uTI",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.15",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded InventoryTweaks Grid sorting.\u003c/li\u003e\n\u003cli\u003eAdded InventoryTweaks inventory sort ability in Refined Storage GUIs.\u003c/li\u003e\n\u003cli\u003eAdded CTM integration for Disk Manipulator.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2444 (MC 1.12.1).\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed possible rare dupe bug with Importer.\u003c/li\u003e\n\u003cli\u003eFixed Shulker Box dupe bug with Destructor.\u003c/li\u003e\n\u003cli\u003eFixed Grid crash with search history.\u003c/li\u003e\n\u003cli\u003eFixed Grid crash with search field.\u003c/li\u003e\n\u003cli\u003eFixed External Storage not working without Storage Drawers.\u003c/li\u003e\n\u003cli\u003eFixed External Storage not calculating max stack size in the calculation of it\u0027s capacity display in the GUI.\u003c/li\u003e\n\u003cli\u003eFixed Refined Storage not drawing small text correctly with Unicode font.\u003c/li\u003e\n\u003cli\u003eFixed dupe bug with External Storage connected to an item handler.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "5ce9a2eada396d82fe8d2d965b495e7d9627a92126f48b1a10a2a2a96f4b685a9298f4fba35a61897c04997cbdd64856574ae4e9add325454efe045cbe32a9af",
+            "sha1": "d795832940308210081a30102df092a7f3fca181"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/1j5w4uTI/refinedstorage-1.5.15.jar",
+          "filename": "refinedstorage-1.5.15.jar",
+          "primary": true,
+          "size": 1708299
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.15",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/1j5w4uTI",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 546
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 547
+  }
+}

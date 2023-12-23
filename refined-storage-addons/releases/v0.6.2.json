@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.6.2.json",
+  "name": "v0.6.2",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284398,
+      "nodeId": "MDc6UmVsZWFzZTU1Mjg0Mzk4",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.6.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284398/assets",
+      "assets": [
+        {
+          "id": 51752568,
+          "nodeId": "RA_kwDOBc8fRM4DFa54",
+          "name": "refinedstorageaddons-0.6.2.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28677,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.6.2/refinedstorageaddons-0.6.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284398/assets{?name,label}",
+      "tagName": "v0.6.2",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Taiwanese translation by [@ForFunPenguin](https://github.com/ForFunPenguin).\r\n- Refined Storage 1.8.5 compatibility.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:22:16Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.6.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.6.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284398",
+      "createdAt": "2020-06-18T11:39:48Z"
+    },
+    {
+      "id": 2982968,
+      "dateModified": "2021-12-14T15:37:00Z",
+      "fileLength": 28677,
+      "fileName": "refinedstorageaddons-0.6.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2982968",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2982968",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2982968",
+      "createdAt": "2020-06-18T11:41:04Z"
+    },
+    {
+      "id": "KCRXB3lV",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.6.2",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eAdded Taiwanese translation by\u0026nbsp;\u003ca href\u003d\"https://github.com/ForFunPenguin\" rel\u003d\"nofollow\"\u003e@ForFunPenguin\u003c/a\u003e.\u003c/li\u003e\r\n\u003cli\u003eRefined Storage 1.8.5 compatibility.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "2485393de196e3b9f6ef3c55323567e4edff189d4149883b91f2b0ba5892aebcbfebf4bbb78025502279c21f199038cdb42312565882ccf9b29ad233de754602",
+            "sha1": "8ba3773f6cf346e897567f77ebb97ffcbf2e5025"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/KCRXB3lV/refinedstorageaddons-0.6.2.jar",
+          "filename": "refinedstorageaddons-0.6.2.jar",
+          "primary": true,
+          "size": 28677
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.6.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/KCRXB3lV",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 305543
+      },
+      {
+        "source": "modrinth",
+        "downloads": 7
+      }
+    ],
+    "totalDownloads": 305556
+  }
+}

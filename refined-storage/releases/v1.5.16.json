@@ -1,0 +1,114 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.16.json",
+  "name": "v1.5.16",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110471048,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTA0OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.16",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471048/assets",
+      "assets": [
+        {
+          "id": 114987792,
+          "nodeId": "RA_kwDOAtXBQM4G2pMQ",
+          "name": "refinedstorage-1.5.16.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1708318,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.16/refinedstorage-1.5.16.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471048/assets{?name,label}",
+      "tagName": "v1.5.16",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed crash when placing a Controller.\r\n- Fixed crash when configuring an Exporter.\r\n- Fixed Refined Storage not running in MC 1.12 and only on MC 1.12.1.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:02:50Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.16",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.16",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471048",
+      "createdAt": "2017-08-09T22:46:59Z"
+    },
+    {
+      "id": 2462556,
+      "dateModified": "2023-06-30T09:22:01Z",
+      "fileLength": 1708318,
+      "fileName": "refinedstorage-1.5.16.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2462556",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2462556",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2462556",
+      "createdAt": "2017-08-09T22:53:43Z"
+    },
+    {
+      "id": "o7aP9aNA",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.16",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash when placing a Controller.\u003c/li\u003e\n\u003cli\u003eFixed crash when configuring an Exporter.\u003c/li\u003e\n\u003cli\u003eFixed Refined Storage not running in MC 1.12 and only on MC 1.12.1.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d2368a6dbd445a35240b63c9b2afa88892cb149f6362ffd79c88d908dc694d0d6b1595a38f714243cb9aa3913c73a405abdc35b875bc65d5acca686914653d26",
+            "sha1": "0db15a3121fd6d8bbc58a493935f863285345743"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/o7aP9aNA/refinedstorage-1.5.16.jar",
+          "filename": "refinedstorage-1.5.16.jar",
+          "primary": true,
+          "size": 1708318
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.16",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/o7aP9aNA",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 32897
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 32900
+  }
+}

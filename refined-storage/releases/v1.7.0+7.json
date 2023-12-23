@@ -1,0 +1,47 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.7.0+7.json",
+  "name": "v1.7.0+7",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86566792,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2Nzky",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.0%2B7",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566792/assets",
+      "assets": [
+        {
+          "id": 88798572,
+          "nodeId": "RA_kwDOAtXBQM4FSvVs",
+          "name": "refinedstorage-1.7.0+7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1692319,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.0%2B7/refinedstorage-1.7.0%2B7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566792/assets{?name,label}",
+      "tagName": "v1.7.0+7",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed a crash that can happen when opening a world.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:57:03Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.0+7",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.0+7",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566792",
+      "createdAt": "2019-10-22T15:54:29Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 0
+  }
+}

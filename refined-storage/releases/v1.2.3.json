@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.3.json",
+  "name": "v1.2.3",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110514076,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDA3Ng\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514076/assets",
+      "assets": [
+        {
+          "id": 115029324,
+          "nodeId": "RA_kwDOAtXBQM4G2zVM",
+          "name": "refinedstorage-1.2.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1339183,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.3/refinedstorage-1.2.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514076/assets{?name,label}",
+      "tagName": "v1.2.3",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed fluid cache updating wrongly.\r\n- Fixed Exporter scheduling too many crafting tasks.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:53:56Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514076",
+      "createdAt": "2016-11-06T00:45:12Z"
+    },
+    {
+      "id": 2342285,
+      "dateModified": "2023-06-30T15:12:12Z",
+      "fileLength": 1339183,
+      "fileName": "refinedstorage-1.2.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2342285",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2342285",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2342285",
+      "createdAt": "2016-11-06T00:45:23Z"
+    },
+    {
+      "id": "ObjqCEtC",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.3",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed fluid cache updating wrongly.\u003c/li\u003e\n\u003cli\u003eFixed Exporter scheduling too many crafting tasks.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "f9d1800314e9958ad51c9b4ddb447f2abc39cfcf478b0df2d73dd8556b18d56738bbc1022b1aaf36c79a7fc057b7007f7b721f225f23714db309c1d74902a557",
+            "sha1": "7a521800296e291f0b363a5abcb80db44bf45d93"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ObjqCEtC/refinedstorage-1.2.3.jar",
+          "filename": "refinedstorage-1.2.3.jar",
+          "primary": true,
+          "size": 1339183
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ObjqCEtC",
+      "createdAt": "2023-07-04T19:57:37Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 9360
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 9361
+  }
+}

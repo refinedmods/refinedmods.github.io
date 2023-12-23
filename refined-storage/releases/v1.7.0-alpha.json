@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.7.0-alpha.json",
+  "name": "v1.7.0-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 2820669,
+      "dateModified": "2022-12-19T18:07:57Z",
+      "fileLength": 1814621,
+      "fileName": "refinedstorage-1.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.14.4",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2820669",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2820669",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2820669",
+      "createdAt": "2019-11-02T12:45:38Z"
+    },
+    {
+      "id": 86566640,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2NjQw",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.0-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566640/assets",
+      "assets": [
+        {
+          "id": 88798444,
+          "nodeId": "RA_kwDOAtXBQM4FSvTs",
+          "name": "refinedstorage-1.7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1814621,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.0-alpha/refinedstorage-1.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566640/assets{?name,label}",
+      "tagName": "v1.7.0-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.14.\r\n\r\n### Fixed\r\n\r\n- Fixed the Fluid Grid not having a View type setting.\r\n\r\n### Changed\r\n\r\n- Oredict mode for Patterns has been replaced with \"Exact mode\" (by default on). When exact mode is off, Refined Storage\r\n  will use equivalent items or fluids from the Minecraft item/fluid tag system.\r\n- Grid filtering with \"$\" now does filtering based on item/fluid tag name instead of oredict name.\r\n- When binding a network item to a network you can now bind to any network block, not only the Controller.\r\n\r\n### Removed\r\n\r\n- The Reader and Writer, this will return later in an addon mod.\r\n- Cross dimensional functionality on the Network Transmitter for the moment, this will return later.\r\n- Covers.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:55:38Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.0-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.0-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566640",
+      "createdAt": "2019-11-02T13:30:03Z"
+    },
+    {
+      "id": "PrJ56qWO",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.7.0-alpha",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.14.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed the Fluid Grid not having a View type setting.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eOredict mode for Patterns has been replaced with \u0026quot;Exact mode\u0026quot; (by default on). When exact mode is off, Refined Storage\r\n  will use equivalent items or fluids from the Minecraft item/fluid tag system.\u003c/li\u003e\n\u003cli\u003eGrid filtering with \u0026quot;$\u0026quot; now does filtering based on item/fluid tag name instead of oredict name.\u003c/li\u003e\n\u003cli\u003eWhen binding a network item to a network you can now bind to any network block, not only the Controller.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Reader and Writer, this will return later in an addon mod.\u003c/li\u003e\n\u003cli\u003eCross dimensional functionality on the Network Transmitter for the moment, this will return later.\u003c/li\u003e\n\u003cli\u003eCovers.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4d22ae6acf6ccf91db67895c4de5df4e53e01fb01f81fee914a845773e7fddb4313be71803a981eb7ad4ab7f5cb9404f948be77689fefc9530fb65a2cd106c91",
+            "sha1": "56e874fbf9628365e1e608d97dedb1858fc79f2d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/PrJ56qWO/refinedstorage-1.7.jar",
+          "filename": "refinedstorage-1.7.jar",
+          "primary": true,
+          "size": 1814621
+        }
+      ],
+      "gameVersions": [
+        "1.14.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.7.0-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/PrJ56qWO",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 51994
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 22
+      }
+    ],
+    "totalDownloads": 52016
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.18-beta.json",
+  "name": "v0.8.18-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110998369,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5ODM2OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.18-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998369/assets",
+      "assets": [
+        {
+          "id": 115526874,
+          "nodeId": "RA_kwDOAtXBQM4G4sza",
+          "name": "refinedstorage-0.8.18.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 609145,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.18-beta/refinedstorage-0.8.18.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998369/assets{?name,label}",
+      "tagName": "v0.8.18-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Detector mode not persisting.\r\n- Fixed bug where scrollbar didn\u0027t scroll correctly and thus hiding some items.\r\n- Fixed Network Transmitter not dropping inventory when broken.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:10:14Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.18-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.18-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998369",
+      "createdAt": "2016-08-11T10:43:15Z"
+    },
+    {
+      "id": 2322335,
+      "dateModified": "2023-07-04T10:43:59Z",
+      "fileLength": 609145,
+      "fileName": "refinedstorage-0.8.18.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2322335",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2322335",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2322335",
+      "createdAt": "2016-08-11T10:51:17Z"
+    },
+    {
+      "id": "JCjhS9wH",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.18-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Detector mode not persisting.\u003c/li\u003e\n\u003cli\u003eFixed bug where scrollbar didn\u0027t scroll correctly and thus hiding some items.\u003c/li\u003e\n\u003cli\u003eFixed Network Transmitter not dropping inventory when broken.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "5a0fd23a7154ef6631014804a0c49b1f4a2ad818e40fb7f6b5bf3fdcf439239e5848b79d44966972af8ded1f68b27f31df39016ccfe746c0a14b60cb6d230043",
+            "sha1": "0948ef24e0b15121be2e3072c3c9468c51720719"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/JCjhS9wH/refinedstorage-0.8.18.jar",
+          "filename": "refinedstorage-0.8.18.jar",
+          "primary": true,
+          "size": 609145
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.18-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/JCjhS9wH",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 10270
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 10273
+  }
+}

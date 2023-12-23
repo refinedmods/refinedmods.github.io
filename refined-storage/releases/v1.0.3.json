@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.0.3.json",
+  "name": "v1.0.3",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2330647,
+      "dateModified": "2023-06-30T15:51:37Z",
+      "fileLength": 755334,
+      "fileName": "refinedstorage-1.0.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2330647",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2330647",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2330647",
+      "createdAt": "2016-09-17T10:52:43Z"
+    },
+    {
+      "id": 110520909,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMDkwOQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520909/assets",
+      "assets": [
+        {
+          "id": 115035642,
+          "nodeId": "RA_kwDOAtXBQM4G2036",
+          "name": "refinedstorage-1.0.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 755334,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.3/refinedstorage-1.0.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520909/assets{?name,label}",
+      "tagName": "v1.0.3",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added integration for Forge energy.\r\n\r\n### Changed\r\n\r\n- Solderer now accepts items from any side, allowing easier automation.\r\n- Solderer is now intelligent about items in slots, and will only accept an item if it is part of a recipe.\r\n- Changed recipe for upgrades in the Solderer, they now just take 1 of the unique item instead of 2, using redstone instead.\r\n- Updated to Forge 2088.\r\n\r\n### Fixed\r\n\r\n- Fixed item loading issue.\r\n- Fixed fluid autocrafting scheduling too much crafting tasks for buckets.\r\n- Fixed blocks in hand facing wrong direction.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:44:18Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520909",
+      "createdAt": "2016-09-17T11:09:08Z"
+    },
+    {
+      "id": "iR6GHjuH",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.0.3",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded integration for Forge energy.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eSolderer now accepts items from any side, allowing easier automation.\u003c/li\u003e\n\u003cli\u003eSolderer is now intelligent about items in slots, and will only accept an item if it is part of a recipe.\u003c/li\u003e\n\u003cli\u003eChanged recipe for upgrades in the Solderer, they now just take 1 of the unique item instead of 2, using redstone instead.\u003c/li\u003e\n\u003cli\u003eUpdated to Forge 2088.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed item loading issue.\u003c/li\u003e\n\u003cli\u003eFixed fluid autocrafting scheduling too much crafting tasks for buckets.\u003c/li\u003e\n\u003cli\u003eFixed blocks in hand facing wrong direction.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4511a11b7b01c5a2f7825977549c1be92691b0e5d55ed417e913bc7175d259e66d83ff00207e483840364207a8b43ed1914108ae83c13b8614ba175bfb312a80",
+            "sha1": "a8edc86eff6dac7d2ccbe623b7d6881a529f20bc"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/iR6GHjuH/refinedstorage-1.0.3.jar",
+          "filename": "refinedstorage-1.0.3.jar",
+          "primary": true,
+          "size": 755334
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.0.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/iR6GHjuH",
+      "createdAt": "2023-07-04T19:57:15Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 491
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 492
+  }
+}

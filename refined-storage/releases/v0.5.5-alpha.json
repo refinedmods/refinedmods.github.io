@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.5.5-alpha.json",
+  "name": "v0.5.5-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111010824,
+      "nodeId": "MDc6UmVsZWFzZTExMTAxMDgyNA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.5.5-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010824/assets",
+      "assets": [
+        {
+          "id": 115539589,
+          "nodeId": "RA_kwDOAtXBQM4G4v6F",
+          "name": "refinedstorage-0.5.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 375738,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.5.5-alpha/refinedstorage-0.5.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111010824/assets{?name,label}",
+      "tagName": "v0.5.5-alpha",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated to Forge 1859.\r\n\r\n### Fixed\r\n\r\n- Fixed several crashes.\r\n- Energy level on Controller is maintained.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:51:00Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.5.5-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.5.5-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010824",
+      "createdAt": "2016-04-09T15:39:27Z"
+    },
+    {
+      "id": 2293249,
+      "dateModified": "2023-07-04T15:46:06Z",
+      "fileLength": 375738,
+      "fileName": "refinedstorage-0.5.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2293249",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2293249",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2293249",
+      "createdAt": "2016-04-09T16:27:00Z"
+    },
+    {
+      "id": "6XyJwQKE",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.5.5-alpha",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated to Forge 1859.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed several crashes.\u003c/li\u003e\n\u003cli\u003eEnergy level on Controller is maintained.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ce44a44a7d0b40775d5c69c43ae763d264c9c61fb67158b4c872829cf7c9b4f03fe752dce82da4e15fccfb0529a167497de92e768efb25f052eb8c46b60f8d30",
+            "sha1": "25ad0048204a73ae319d4a18d5b7a176754e076d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/6XyJwQKE/refinedstorage-0.5.5.jar",
+          "filename": "refinedstorage-0.5.5.jar",
+          "primary": true,
+          "size": 375738
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.5.5-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/6XyJwQKE",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 7178
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 7179
+  }
+}

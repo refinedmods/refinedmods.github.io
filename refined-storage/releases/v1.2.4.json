@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.4.json",
+  "name": "v1.2.4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110514002,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDAwMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514002/assets",
+      "assets": [
+        {
+          "id": 115029303,
+          "nodeId": "RA_kwDOAtXBQM4G2zU3",
+          "name": "refinedstorage-1.2.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1347605,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.4/refinedstorage-1.2.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514002/assets{?name,label}",
+      "tagName": "v1.2.4",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added tooltip search with #.\r\n\r\n### Changed\r\n\r\n- Mod search can now also take mod name instead of just id.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where Disk Manipulator doesn\u0027t save disks.\r\n- Fixed Disk Drive stored quantity GUI text hovering over other text.\r\n- Fixed External Storage being in item and fluid mode at the same time.\r\n- Fixed Wrench working when player is not sneaking.\r\n- Fixed External Storage cache counting items up when extracting.\r\n- Fixed External Storage cache not working properly on Compacting Drawers.\r\n\r\n### Removed\r\n\r\n- Removed ability to put External Storages on Refined Storage network blocks.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:53:36Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514002",
+      "createdAt": "2016-11-10T21:14:07Z"
+    },
+    {
+      "id": 2343393,
+      "dateModified": "2023-06-30T15:11:51Z",
+      "fileLength": 1347605,
+      "fileName": "refinedstorage-1.2.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2343393",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2343393",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2343393",
+      "createdAt": "2016-11-10T21:18:42Z"
+    },
+    {
+      "id": "ei75WFFQ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.4",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded tooltip search with #.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMod search can now also take mod name instead of just id.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where Disk Manipulator doesn\u0027t save disks.\u003c/li\u003e\n\u003cli\u003eFixed Disk Drive stored quantity GUI text hovering over other text.\u003c/li\u003e\n\u003cli\u003eFixed External Storage being in item and fluid mode at the same time.\u003c/li\u003e\n\u003cli\u003eFixed Wrench working when player is not sneaking.\u003c/li\u003e\n\u003cli\u003eFixed External Storage cache counting items up when extracting.\u003c/li\u003e\n\u003cli\u003eFixed External Storage cache not working properly on Compacting Drawers.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved ability to put External Storages on Refined Storage network blocks.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "eaea5ca3ed044913ce5b3acefd53ddb85c84eb4b6547938a55d6c68c4c80c78a11082d4f9a71a7e09e1d1477cbcc60979caa80b90328b53aefc1cdb08caa02c6",
+            "sha1": "d55db00428fcb67a6b0e586b72b33acc3aacfd35"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ei75WFFQ/refinedstorage-1.2.4.jar",
+          "filename": "refinedstorage-1.2.4.jar",
+          "primary": true,
+          "size": 1347605
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ei75WFFQ",
+      "createdAt": "2023-07-04T19:57:37Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 238268
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 238270
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.7.0+4.json",
+  "name": "v1.7.0+4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86566898,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2ODk4",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.0%2B4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566898/assets",
+      "assets": [
+        {
+          "id": 88798649,
+          "nodeId": "RA_kwDOAtXBQM4FSvW5",
+          "name": "refinedstorage-1.7.0+4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1681874,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.0%2B4/refinedstorage-1.7.0%2B4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566898/assets{?name,label}",
+      "tagName": "v1.7.0+4",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added all the storage blocks.\r\n- Re-added JEI integration.\r\n\r\n### Fixed\r\n\r\n- Misc bugfixes and crash fixes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:58:17Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.0+4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.0+4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566898",
+      "createdAt": "2019-10-15T17:20:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 0
+  }
+}

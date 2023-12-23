@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.0.4.json",
+  "name": "v1.0.4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110520878,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMDg3OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520878/assets",
+      "assets": [
+        {
+          "id": 115035585,
+          "nodeId": "RA_kwDOAtXBQM4G203B",
+          "name": "refinedstorage-1.0.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 755409,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.4/refinedstorage-1.0.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520878/assets{?name,label}",
+      "tagName": "v1.0.4",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed lag caused by Crafter.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:43:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520878",
+      "createdAt": "2016-09-17T13:04:32Z"
+    },
+    {
+      "id": 2330662,
+      "dateModified": "2023-06-30T15:51:20Z",
+      "fileLength": 755409,
+      "fileName": "refinedstorage-1.0.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2330662",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2330662",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2330662",
+      "createdAt": "2016-09-17T13:08:55Z"
+    },
+    {
+      "id": "YEvBoSCx",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.0.4",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed lag caused by Crafter.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "07b57774e580bcf037e76c399f3d72ce87cb525b8e86ad60dcb6882b15c74ebd01d179d3bcff395dff50001e73d668abca51dc290a108c0d2174c2c77a68f2af",
+            "sha1": "5aa1650f813f48c3a777f6315a7865564b783434"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/YEvBoSCx/refinedstorage-1.0.4.jar",
+          "filename": "refinedstorage-1.0.4.jar",
+          "primary": true,
+          "size": 755409
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.0.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/YEvBoSCx",
+      "createdAt": "2023-07-04T19:57:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 10563
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 10565
+  }
+}

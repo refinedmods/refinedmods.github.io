@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.5.1-alpha.json",
+  "name": "v0.5.1-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111010940,
+      "nodeId": "MDc6UmVsZWFzZTExMTAxMDk0MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.5.1-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010940/assets",
+      "assets": [
+        {
+          "id": 115539722,
+          "nodeId": "RA_kwDOAtXBQM4G4v8K",
+          "name": "refinedstorage-0.5.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 356053,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.5.1-alpha/refinedstorage-0.5.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111010940/assets{?name,label}",
+      "tagName": "v0.5.1-alpha",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Disk Drive crashing with an `AbstractMethodException`.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:52:09Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.5.1-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.5.1-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010940",
+      "createdAt": "2016-04-03T12:24:02Z"
+    },
+    {
+      "id": 2291869,
+      "dateModified": "2023-07-04T15:47:30Z",
+      "fileLength": 356053,
+      "fileName": "refinedstorage-0.5.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2291869",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2291869",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2291869",
+      "createdAt": "2016-04-03T12:28:05Z"
+    },
+    {
+      "id": "lSA2ilHm",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.5.1-alpha",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Disk Drive crashing with an \u003ccode\u003eAbstractMethodException\u003c/code\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "934a2cf5044677145756bbdbc9aca728e4fb4549584a89c4793ee7a9aaf6cbf1b70f847251ca88f3f44dfa89e7f76833df6eaa41f478f95f606d85ea905d9e77",
+            "sha1": "4b6e0e8b8cb960942836663953a6113ea737c79f"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/lSA2ilHm/refinedstorage-0.5.1.jar",
+          "filename": "refinedstorage-0.5.1.jar",
+          "primary": true,
+          "size": 356053
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.5.1-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/lSA2ilHm",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 338
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 339
+  }
+}

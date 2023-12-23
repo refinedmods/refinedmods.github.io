@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.5-beta.json",
+  "name": "v0.7.5-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111001042,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMTA0Mg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.5-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001042/assets",
+      "assets": [
+        {
+          "id": 115529829,
+          "nodeId": "RA_kwDOAtXBQM4G4thl",
+          "name": "refinedstorage-0.7.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 419418,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.5-beta/refinedstorage-0.7.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111001042/assets{?name,label}",
+      "tagName": "v0.7.5-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed wrong ascending / descending order in Grid.\r\n- Fixed autocrafting not giving back byproducts.\r\n- Fixed Solderer causing too many chunk updates.\r\n- Fixed Solderer slot sides being weird.\r\n- Performance improvements.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:29:46Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.5-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.5-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001042",
+      "createdAt": "2016-05-29T10:42:28Z"
+    },
+    {
+      "id": 2303629,
+      "dateModified": "2023-07-04T14:00:45Z",
+      "fileLength": 419418,
+      "fileName": "refinedstorage-0.7.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2303629",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2303629",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2303629",
+      "createdAt": "2016-05-29T10:46:10Z"
+    },
+    {
+      "id": "I4OZ1vjL",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.5-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed wrong ascending / descending order in Grid.\u003c/li\u003e\n\u003cli\u003eFixed autocrafting not giving back byproducts.\u003c/li\u003e\n\u003cli\u003eFixed Solderer causing too many chunk updates.\u003c/li\u003e\n\u003cli\u003eFixed Solderer slot sides being weird.\u003c/li\u003e\n\u003cli\u003ePerformance improvements.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "13e4e17810ab8b99f0da5c9f2631208620d423553915ccb9e7c063e4724b282f928506d81f2c0170c84b325d79d1bf6433117f030d12804054918a3c603ff537",
+            "sha1": "47e938c460001d48dc5fa6ced2f8521fcc3ff60b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/I4OZ1vjL/refinedstorage-0.7.5.jar",
+          "filename": "refinedstorage-0.7.5.jar",
+          "primary": true,
+          "size": 419418
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.5-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/I4OZ1vjL",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 674
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 676
+  }
+}

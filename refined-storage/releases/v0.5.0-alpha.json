@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.5.0-alpha.json",
+  "name": "v0.5.0-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111010957,
+      "nodeId": "MDc6UmVsZWFzZTExMTAxMDk1Nw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.5.0-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010957/assets",
+      "assets": [
+        {
+          "id": 115539740,
+          "nodeId": "RA_kwDOAtXBQM4G4v8c",
+          "name": "refinedstorage-0.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 356015,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.5.0-alpha/refinedstorage-0.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111010957/assets{?name,label}",
+      "tagName": "v0.5.0-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Deep Storage Unit integration (with this several barrel mods are now supported too!).\r\n- When placing Importer, Exporter or External Storage with SHIFT, it will have the opposite direction. This is for easy placement behind other blocks (furnaces for example).\r\n- Added mass crafting of items with shift in Crafting Grid.\r\n- Added JEI recipe transfering in Crafting Grid.\r\n- New textures.\r\n- Scrollbar in Grid and Crafting Grid.\r\n- Display of connected machines in the Controller GUI.\r\n- Nice formatting for items \u003e\u003d 1K (pressing shift while hovering over an item will still display the real item count).\r\n- Grid can now synchronize with JEI.\r\n\r\n### Changed\r\n\r\n- Updated to the latest Forge and JEI.\r\n- Renamed Drives to Disk Drives.\r\n- Renamed Storage Cells to Storage Disks.\r\n- Wireless Grid is now bound to a Controller instead of a Grid.\r\n- Drives have a better interface and there are now blacklist and whitelist filters for the Storage Disks in it too.\r\n- Destructors have the ability to whitelist and blacklist certain items now.\r\n- Side buttons in machine GUIs are now left, not right.\r\n- Shift clicking stuff in the Interface.\r\n- Made the normal Grid 1 row larger.\r\n- Machines don\u0027t need to be connected with cables anymore, they can be next to each other too.\r\n- Made the amount text in the Grid for items smaller.\r\n\r\n### Fixed\r\n\r\n- Fixed clicking sound in Grid.\r\n- Fixed a bunch of crashes.\r\n- Fixed Exporter not exporting is some cases.\r\n- Fixed Importer not importing in some cases.\r\n- Fixed Controller drawing RF every 20 ticks instead of every tick.\r\n- Fixed not being able to shift click from Crafting Grid crafting slots.\r\n- Fixed new items inserted after crafting in Grid being laggy.\r\n- Fixed flickering of items in Grid.\r\n- Fixed getting a stack of unstackable items from Grid.\r\n- Fixed Cable not having a collision box.\r\n- Check if the Constructor can actually place said block in the world.\r\n\r\n### Removed\r\n\r\n- Removed Wireless Transmitters.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:52:29Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.5.0-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.5.0-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010957",
+      "createdAt": "2016-04-03T11:40:35Z"
+    },
+    {
+      "id": 2291861,
+      "dateModified": "2023-07-04T15:48:08Z",
+      "fileLength": 356015,
+      "fileName": "refinedstorage-0.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2291861",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2291861",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2291861",
+      "createdAt": "2016-04-03T11:46:20Z"
+    },
+    {
+      "id": "aCrAVeyn",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.5.0-alpha",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDeep Storage Unit integration (with this several barrel mods are now supported too!).\u003c/li\u003e\n\u003cli\u003eWhen placing Importer, Exporter or External Storage with SHIFT, it will have the opposite direction. This is for easy placement behind other blocks (furnaces for example).\u003c/li\u003e\n\u003cli\u003eAdded mass crafting of items with shift in Crafting Grid.\u003c/li\u003e\n\u003cli\u003eAdded JEI recipe transfering in Crafting Grid.\u003c/li\u003e\n\u003cli\u003eNew textures.\u003c/li\u003e\n\u003cli\u003eScrollbar in Grid and Crafting Grid.\u003c/li\u003e\n\u003cli\u003eDisplay of connected machines in the Controller GUI.\u003c/li\u003e\n\u003cli\u003eNice formatting for items \u0026gt;\u003d 1K (pressing shift while hovering over an item will still display the real item count).\u003c/li\u003e\n\u003cli\u003eGrid can now synchronize with JEI.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated to the latest Forge and JEI.\u003c/li\u003e\n\u003cli\u003eRenamed Drives to Disk Drives.\u003c/li\u003e\n\u003cli\u003eRenamed Storage Cells to Storage Disks.\u003c/li\u003e\n\u003cli\u003eWireless Grid is now bound to a Controller instead of a Grid.\u003c/li\u003e\n\u003cli\u003eDrives have a better interface and there are now blacklist and whitelist filters for the Storage Disks in it too.\u003c/li\u003e\n\u003cli\u003eDestructors have the ability to whitelist and blacklist certain items now.\u003c/li\u003e\n\u003cli\u003eSide buttons in machine GUIs are now left, not right.\u003c/li\u003e\n\u003cli\u003eShift clicking stuff in the Interface.\u003c/li\u003e\n\u003cli\u003eMade the normal Grid 1 row larger.\u003c/li\u003e\n\u003cli\u003eMachines don\u0027t need to be connected with cables anymore, they can be next to each other too.\u003c/li\u003e\n\u003cli\u003eMade the amount text in the Grid for items smaller.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed clicking sound in Grid.\u003c/li\u003e\n\u003cli\u003eFixed a bunch of crashes.\u003c/li\u003e\n\u003cli\u003eFixed Exporter not exporting is some cases.\u003c/li\u003e\n\u003cli\u003eFixed Importer not importing in some cases.\u003c/li\u003e\n\u003cli\u003eFixed Controller drawing RF every 20 ticks instead of every tick.\u003c/li\u003e\n\u003cli\u003eFixed not being able to shift click from Crafting Grid crafting slots.\u003c/li\u003e\n\u003cli\u003eFixed new items inserted after crafting in Grid being laggy.\u003c/li\u003e\n\u003cli\u003eFixed flickering of items in Grid.\u003c/li\u003e\n\u003cli\u003eFixed getting a stack of unstackable items from Grid.\u003c/li\u003e\n\u003cli\u003eFixed Cable not having a collision box.\u003c/li\u003e\n\u003cli\u003eCheck if the Constructor can actually place said block in the world.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved Wireless Transmitters.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "1e776debc21ac38b3382c633be24707ef25da9187112d62c66d49cea170d47dde53b2d0226965b017e77e4feb4189ada3933ed6b6a9388b64f1360d02d87d295",
+            "sha1": "d26a25e636342d6458ad29154ecb56b3375c3223"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/aCrAVeyn/refinedstorage-0.5.jar",
+          "filename": "refinedstorage-0.5.jar",
+          "primary": true,
+          "size": 356015
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.5.0-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/aCrAVeyn",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 267
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 268
+  }
+}

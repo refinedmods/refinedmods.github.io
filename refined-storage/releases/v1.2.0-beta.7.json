@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.7.json",
+  "name": "v1.2.0-beta.7",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110514312,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDMxMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.7",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514312/assets",
+      "assets": [
+        {
+          "id": 115029555,
+          "nodeId": "RA_kwDOAtXBQM4G2zYz",
+          "name": "refinedstorage-1.2-beta7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1153405,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.7/refinedstorage-1.2-beta7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514312/assets{?name,label}",
+      "tagName": "v1.2.0-beta.7",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- More autocrafting issues.\r\n- External Storage crashes and TPS lag issues.\r\n- Mekanism recipes are autocraftable again.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:55:38Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.7",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.7",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514312",
+      "createdAt": "2016-11-03T15:27:47Z"
+    },
+    {
+      "id": 2341533,
+      "dateModified": "2023-06-30T15:13:52Z",
+      "fileLength": 1153405,
+      "fileName": "refinedstorage-1.2-beta7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2341533",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2341533",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2341533",
+      "createdAt": "2016-11-03T18:26:19Z"
+    },
+    {
+      "id": "N7kjrUuq",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.0-beta.7",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMore autocrafting issues.\u003c/li\u003e\n\u003cli\u003eExternal Storage crashes and TPS lag issues.\u003c/li\u003e\n\u003cli\u003eMekanism recipes are autocraftable again.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "05dd9fb4e5825e75a1e7801bb46daa27c53178321f8e669618e9ca86734eb13e7960c84014effd9516034fb852439d78d86cbe19e247283097ba6dc65c9d9680",
+            "sha1": "12981b52e0f56c976e6836ffbdc96b0e484d555f"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/N7kjrUuq/refinedstorage-1.2-beta7.jar",
+          "filename": "refinedstorage-1.2-beta7.jar",
+          "primary": true,
+          "size": 1153405
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.0-beta.7",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/N7kjrUuq",
+      "createdAt": "2023-07-04T19:57:35Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 74
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 75
+  }
+}

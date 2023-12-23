@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.19.json",
+  "name": "v1.4.19",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110492048,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjA0OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.19",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492048/assets",
+      "assets": [
+        {
+          "id": 115010121,
+          "nodeId": "RA_kwDOAtXBQM4G2upJ",
+          "name": "refinedstorage-1.4.19.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1631166,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.19/refinedstorage-1.4.19.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492048/assets{?name,label}",
+      "tagName": "v1.4.19",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Implemented controller update throttling, should fix lag issues with controllers that constantly turn off and on.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where players couldn\u0027t place regular blocks next to secured networks.\r\n- Fixed crashes relating to scrollbar in GUIs.\r\n- Fixed bug where disks have to be re-inserted in the Disk Drive in order to work again after rejoining a chunk.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:16:27Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.19",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.19",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492048",
+      "createdAt": "2017-07-15T08:49:42Z"
+    },
+    {
+      "id": 2450951,
+      "dateModified": "2023-06-30T12:55:11Z",
+      "fileLength": 1631166,
+      "fileName": "refinedstorage-1.4.19.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2450951",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2450951",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2450951",
+      "createdAt": "2017-07-15T09:06:22Z"
+    },
+    {
+      "id": "Y1Spkg9x",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.19",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImplemented controller update throttling, should fix lag issues with controllers that constantly turn off and on.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where players couldn\u0027t place regular blocks next to secured networks.\u003c/li\u003e\n\u003cli\u003eFixed crashes relating to scrollbar in GUIs.\u003c/li\u003e\n\u003cli\u003eFixed bug where disks have to be re-inserted in the Disk Drive in order to work again after rejoining a chunk.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "47693eec3bd8ed563d6f8656a351589141f196d0bfda572400d1f34f592a32e9fd0fba5803e86aa9d7e108d7e190ec32ff13a59bfe37affcf80a9b5443b37518",
+            "sha1": "a14cded7cbc7f5db70fd446cb586961477c5b3c0"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/Y1Spkg9x/refinedstorage-1.4.19.jar",
+          "filename": "refinedstorage-1.4.19.jar",
+          "primary": true,
+          "size": 1631166
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.19",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/Y1Spkg9x",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 569
+      },
+      {
+        "source": "modrinth",
+        "downloads": 12
+      }
+    ],
+    "totalDownloads": 581
+  }
+}

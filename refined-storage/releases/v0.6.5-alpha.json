@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.5-alpha.json",
+  "name": "v0.6.5-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111007218,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNzIxOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.5-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007218/assets",
+      "assets": [
+        {
+          "id": 115535822,
+          "nodeId": "RA_kwDOAtXBQM4G4u_O",
+          "name": "refinedstorage-0.6.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 419458,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.5-alpha/refinedstorage-0.6.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111007218/assets{?name,label}",
+      "tagName": "v0.6.5-alpha",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated Forge to build 1907.\r\n\r\n### Fixed\r\n\r\n- Performance improvements for servers.\r\n- Performance improvements for client scrollbars.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:17:39Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.5-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.5-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007218",
+      "createdAt": "2016-05-18T20:29:27Z"
+    },
+    {
+      "id": 2301007,
+      "dateModified": "2023-07-04T15:10:51Z",
+      "fileLength": 419458,
+      "fileName": "refinedstorage-0.6.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2301007",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2301007",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2301007",
+      "createdAt": "2016-05-18T20:33:31Z"
+    },
+    {
+      "id": "awgGK8og",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.5-alpha",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to build 1907.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePerformance improvements for servers.\u003c/li\u003e\n\u003cli\u003ePerformance improvements for client scrollbars.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "b021a19acf7e3dfdaa4c2f7d10457796936a45a96523f2a9741ad52e6f0aa83b393d9db86b60d0923f4d16932f809e7e930f83e54fc68849810479063a1ed3ed",
+            "sha1": "6f7d1850c65946d6619257fdcd63605c9a7ef750"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/awgGK8og/refinedstorage-0.6.5.jar",
+          "filename": "refinedstorage-0.6.5.jar",
+          "primary": true,
+          "size": 419458
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.5-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/awgGK8og",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 257
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 259
+  }
+}

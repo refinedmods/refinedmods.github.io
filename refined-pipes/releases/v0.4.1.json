@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.4.1.json",
+  "name": "v0.4.1",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 54192420,
+      "nodeId": "MDc6UmVsZWFzZTU0MTkyNDIw",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.4.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192420/assets",
+      "assets": [
+        {
+          "id": 50488316,
+          "nodeId": "RA_kwDODcjNAM4DAmP8",
+          "name": "refinedpipes-0.4.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 317585,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.4.1/refinedpipes-0.4.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/54192420/assets{?name,label}",
+      "tagName": "v0.4.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added formatting to quantities in the tooltips.\r\n\r\n### Fixed\r\n\r\n- Fixed invalid cast server crash.\r\n- Fixed log spamming when destination for items are not found.\r\n- Fixed crash when item pipe in round robin mode no longer has any destination.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-11-28T13:11:28Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.4.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.4.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192420",
+      "createdAt": "2020-05-09T13:37:19Z"
+    },
+    {
+      "id": 2952347,
+      "dateModified": "2021-11-28T13:01:59Z",
+      "fileLength": 317585,
+      "fileName": "refinedpipes-0.4.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/2952347",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/2952347",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/2952347",
+      "createdAt": "2020-05-09T13:39:57Z"
+    },
+    {
+      "id": "IrBbjxLs",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.4.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eAdded formatting to quantities in the tooltips.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eFixed\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eFixed invalid cast server crash.\u003c/li\u003e\r\n\u003cli\u003eFixed log spamming when destination for items are not found.\u003c/li\u003e\r\n\u003cli\u003eFixed crash when item pipe in round robin mode no longer has any destination.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ec85e6aa03349179ff03a518665b7b1768d2d0aa957dc8bb501c895186ab1b2162abe0dadf6c1a5ff50cd0ff4ce74b626182571b4c345cb031551079bab1e61e",
+            "sha1": "0b9974b00d8266641c02650427beeeba5bfa3c97"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/IrBbjxLs/refinedpipes-0.4.1.jar",
+          "filename": "refinedpipes-0.4.1.jar",
+          "primary": true,
+          "size": 317585
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.4.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/IrBbjxLs",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 5
+      },
+      {
+        "source": "curseforge",
+        "downloads": 204398
+      },
+      {
+        "source": "modrinth",
+        "downloads": 5
+      }
+    ],
+    "totalDownloads": 204408
+  }
+}

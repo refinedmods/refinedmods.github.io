@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.6-beta.json",
+  "name": "v0.8.6-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110999654,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTY1NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.6-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999654/assets",
+      "assets": [
+        {
+          "id": 115528682,
+          "nodeId": "RA_kwDOAtXBQM4G4tPq",
+          "name": "refinedstorage-0.8.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 487659,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.6-beta/refinedstorage-0.8.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999654/assets{?name,label}",
+      "tagName": "v0.8.6-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added Controllers exploding when two of them are connected to the same network.\r\n- Added new textures.\r\n- Added model for External Storage.\r\n- Added model for Importer.\r\n- Added model for Exporter.\r\n- Added model for Detector.\r\n\r\n### Changed\r\n\r\n- Huge performance improvements to large storage networks.\r\n- Limited some blocks to only have a direction on the x-axis.\r\n- Decreased amount of block updates significantly.\r\n\r\n### Fixed\r\n\r\n- Fixed External Storage disconnecting on world reload.\r\n- Fixed External Storage not updating correctly.\r\n- Fixed wireless signal starting from Controller instead of per Wireless Transmitter individually.\r\n- Fixed Controller\u0027s redstone state not saving.\r\n- Fixed crafting tasks not saving properly.\r\n\r\n### Removed\r\n\r\n- Removed opposite facing on placement mechanic.\r\n- Removed Quartz Enriched Iron Block.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:19:44Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.6-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.6-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999654",
+      "createdAt": "2016-07-09T18:11:26Z"
+    },
+    {
+      "id": 2314696,
+      "dateModified": "2023-07-04T10:48:25Z",
+      "fileLength": 487659,
+      "fileName": "refinedstorage-0.8.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2314696",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2314696",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2314696",
+      "createdAt": "2016-07-09T18:14:41Z"
+    },
+    {
+      "id": "JBciyoWo",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.6-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRe-added Controllers exploding when two of them are connected to the same network.\u003c/li\u003e\n\u003cli\u003eAdded new textures.\u003c/li\u003e\n\u003cli\u003eAdded model for External Storage.\u003c/li\u003e\n\u003cli\u003eAdded model for Importer.\u003c/li\u003e\n\u003cli\u003eAdded model for Exporter.\u003c/li\u003e\n\u003cli\u003eAdded model for Detector.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eHuge performance improvements to large storage networks.\u003c/li\u003e\n\u003cli\u003eLimited some blocks to only have a direction on the x-axis.\u003c/li\u003e\n\u003cli\u003eDecreased amount of block updates significantly.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed External Storage disconnecting on world reload.\u003c/li\u003e\n\u003cli\u003eFixed External Storage not updating correctly.\u003c/li\u003e\n\u003cli\u003eFixed wireless signal starting from Controller instead of per Wireless Transmitter individually.\u003c/li\u003e\n\u003cli\u003eFixed Controller\u0027s redstone state not saving.\u003c/li\u003e\n\u003cli\u003eFixed crafting tasks not saving properly.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved opposite facing on placement mechanic.\u003c/li\u003e\n\u003cli\u003eRemoved Quartz Enriched Iron Block.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "f421d26938193ee51d1604d40898ef85238c142a65a2b316d848bd51e8fb9bd5da42d9a6e6f6bd7de3c210dd905336b35a2547a36464fa2b7c7abb12d5727913",
+            "sha1": "f24ac760f8ebf0be92042202b36a09ae4916789e"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/JBciyoWo/refinedstorage-0.8.6.jar",
+          "filename": "refinedstorage-0.8.6.jar",
+          "primary": true,
+          "size": 487659
+        }
+      ],
+      "gameVersions": [
+        "1.10",
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.6-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/JBciyoWo",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1064
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1066
+  }
+}

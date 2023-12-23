@@ -1,0 +1,115 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.1.1.json",
+  "name": "v0.1.1",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55283791,
+      "nodeId": "MDc6UmVsZWFzZTU1MjgzNzkx",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.1.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283791/assets",
+      "assets": [
+        {
+          "id": 51752119,
+          "nodeId": "RA_kwDOBc8fRM4DFay3",
+          "name": "refinedstorageaddons-0.1.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 22734,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.1.1/refinedstorageaddons-0.1.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55283791/assets{?name,label}",
+      "tagName": "v0.1.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Refined Storage 1.5.13 compatibility.\r\n- Chinese translation by [@TartaricAcid](https://github.com/TartaricAcid).\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:15:36Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.1.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.1.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283791",
+      "createdAt": "2017-07-20T13:45:59Z"
+    },
+    {
+      "id": 2453535,
+      "dateModified": "2021-12-14T15:27:05Z",
+      "fileLength": 22734,
+      "fileName": "refinedstorageaddons-0.1.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2453535",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2453535",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2453535",
+      "createdAt": "2017-07-20T13:50:28Z"
+    },
+    {
+      "id": "Bs7lOtWh",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.1.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eRefined Storage 1.5.13 compatibility.\u003c/li\u003e\r\n\u003cli\u003eChinese translation by\u0026nbsp;\u003ca href\u003d\"https://github.com/TartaricAcid\" rel\u003d\"nofollow\"\u003e@TartaricAcid\u003c/a\u003e.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "440d28e8ee22fedb190d3d30dc67218bd2fe6ea25d18a5f025d8aafdb39f532123e7e2b13ac166521df8b4d46a39b79c175ad439ab6fb10da9e3fb9153b35a3a",
+            "sha1": "b59d993e52dadc9541fa0c29c2a69e49d1e36147"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/Bs7lOtWh/refinedstorageaddons-0.1.1.jar",
+          "filename": "refinedstorageaddons-0.1.1.jar",
+          "primary": true,
+          "size": 22734
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.1.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/Bs7lOtWh",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 240782
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 240790
+  }
+}

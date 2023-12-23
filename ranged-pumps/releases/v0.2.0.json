@@ -1,0 +1,110 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.2.0.json",
+  "name": "v0.2.0",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55595986,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk1OTg2",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.2.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55595986/assets",
+      "assets": [
+        {
+          "id": 52081116,
+          "nodeId": "RA_kwDOA8bqCc4DGrHc",
+          "name": "rangedpumps-0.2.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 18061,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.2.0/rangedpumps-0.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55595986/assets{?name,label}",
+      "tagName": "v0.2.0",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Increased default speed from 2 to 8 (which means it will run slower).\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T12:46:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.2.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.2.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55595986",
+      "createdAt": "2016-07-15T00:40:27Z"
+    },
+    {
+      "id": 2316008,
+      "dateModified": "2021-12-18T12:59:00Z",
+      "fileLength": 18061,
+      "fileName": "rangedpumps-0.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/2316008",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/2316008",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/2316008",
+      "createdAt": "2016-07-15T00:41:26Z"
+    },
+    {
+      "id": "1cPLw2DI",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.2.0",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIncreased default speed from 2 to 8 (which means it will run slower).\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e428c71ab9a64cf5778afbd6c7136b3f368cf35bab49653c5a8c3e61dd6806b5e17b7ca35ce79e401d60cf141dc8f72f21b143584e08f063a6060f89d9ad760d",
+            "sha1": "57da6cbd2a98373577df13bb1dbcf4af066b25f9"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/1cPLw2DI/rangedpumps-0.2.jar",
+          "filename": "rangedpumps-0.2.jar",
+          "primary": true,
+          "size": 18061
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.2.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/1cPLw2DI",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 5
+      },
+      {
+        "source": "curseforge",
+        "downloads": 7632
+      },
+      {
+        "source": "modrinth",
+        "downloads": 12
+      }
+    ],
+    "totalDownloads": 7649
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.10.json",
+  "name": "v1.2.10",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513773,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzc3Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.10",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513773/assets",
+      "assets": [
+        {
+          "id": 115029182,
+          "nodeId": "RA_kwDOAtXBQM4G2zS-",
+          "name": "refinedstorage-1.2.10.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1383645,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.10/refinedstorage-1.2.10.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513773/assets{?name,label}",
+      "tagName": "v1.2.10",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Made Solderer tooltip less big.\r\n\r\n### Fixed\r\n\r\n- Fixed a crash with the Disk Manipulator.\r\n- Fixed not respecting \"Extract only\" option for storages.\r\n- Fixed bug with opening a network item with food in offhand.\r\n- Fixed other fluid storages going negative when using void excess fluids option.\r\n- A few autocrafting bugfixes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:51:48Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.10",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.10",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513773",
+      "createdAt": "2016-12-09T22:14:32Z"
+    },
+    {
+      "id": 2354160,
+      "dateModified": "2023-06-30T15:09:54Z",
+      "fileLength": 1383645,
+      "fileName": "refinedstorage-1.2.10.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2354160",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2354160",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2354160",
+      "createdAt": "2016-12-09T22:17:36Z"
+    },
+    {
+      "id": "9FdMY5Uh",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.10",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMade Solderer tooltip less big.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed a crash with the Disk Manipulator.\u003c/li\u003e\n\u003cli\u003eFixed not respecting \u0026quot;Extract only\u0026quot; option for storages.\u003c/li\u003e\n\u003cli\u003eFixed bug with opening a network item with food in offhand.\u003c/li\u003e\n\u003cli\u003eFixed other fluid storages going negative when using void excess fluids option.\u003c/li\u003e\n\u003cli\u003eA few autocrafting bugfixes.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "1fa02bf2cf8489e2eabdd5f8ceed43141e904aca86217e445cda0c68e6a81e0d80fbfd051105ea8e58961906e3c51f99ef0fdae1987acb37aa24def13b3496de",
+            "sha1": "ad264900807715bab0e0b97a4a475749b85a11b7"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/9FdMY5Uh/refinedstorage-1.2.10.jar",
+          "filename": "refinedstorage-1.2.10.jar",
+          "primary": true,
+          "size": 1383645
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.10",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/9FdMY5Uh",
+      "createdAt": "2023-07-04T19:57:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2114
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 2115
+  }
+}

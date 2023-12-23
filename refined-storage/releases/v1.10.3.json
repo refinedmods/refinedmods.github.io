@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.10.3.json",
+  "name": "v1.10.3",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 73811679,
+      "nodeId": "RE_kwDOAtXBQM4EZkbf",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.10.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/73811679/assets",
+      "assets": [
+        {
+          "id": 73892222,
+          "nodeId": "RA_kwDOAtXBQM4EZ4F-",
+          "name": "refinedstorage-1.10.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3249444,
+          "downloadCount": 132,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.10.3/refinedstorage-1.10.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/73811679/assets{?name,label}",
+      "tagName": "v1.10.3",
+      "targetCommitish": "develop",
+      "body": "### Fixed\n\n- Fixed Destructor dupe bug\n- Fixed being unable to insert items into the Storage Monitor\n- Fixed Storage Monitor not showing all matching items in non-exact mode\n- Fixed items getting lost on Creative Disk when more than 2,147,483,647 of one type is stored\n- Fixed incorrect autocrafting keybind prompt on macOS\n- Fixed crashing the game when a network block was removed in a bad way\n- Fixed duplication bug with Constructors and Shulker Boxes\n- Fixed breaking blocks with pickaxe taking too much time\n\n### Changed\n\n- Improved performance for grid updates\n- Improved waterlogging to behave more like vanilla\n- JEI version 9.7.1 or higher is now required\n\n### Added\n\n- Forge relocation and Packing Tape blacklist tag entries to prevent block movement\n- Japanese translations for certain autocrafting actions",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-08-06T15:46:25Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/73811679",
+      "createdAt": "2022-08-06T15:38:39Z"
+    },
+    {
+      "id": 3921390,
+      "dateModified": "2022-08-06T16:05:30Z",
+      "fileLength": 3249444,
+      "fileName": "refinedstorage-1.10.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3921390",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3921390",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3921390",
+      "createdAt": "2022-08-06T15:46:42Z"
+    },
+    {
+      "id": "hAfmTW4i",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.10.3",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Destructor dupe bug\u003c/li\u003e\n\u003cli\u003eFixed being unable to insert items into the Storage Monitor\u003c/li\u003e\n\u003cli\u003eFixed Storage Monitor not showing all matching items in non-exact mode\u003c/li\u003e\n\u003cli\u003eFixed items getting lost on Creative Disk when more than 2,147,483,647 of one type is stored\u003c/li\u003e\n\u003cli\u003eFixed incorrect autocrafting keybind prompt on macOS\u003c/li\u003e\n\u003cli\u003eFixed crashing the game when a network block was removed in a bad way\u003c/li\u003e\n\u003cli\u003eFixed duplication bug with Constructors and Shulker Boxes\u003c/li\u003e\n\u003cli\u003eFixed breaking blocks with pickaxe taking too much time\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImproved performance for grid updates\u003c/li\u003e\n\u003cli\u003eImproved waterlogging to behave more like vanilla\u003c/li\u003e\n\u003cli\u003eJEI version 9.7.1 or higher is now required\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eForge relocation and Packing Tape blacklist tag entries to prevent block movement\u003c/li\u003e\n\u003cli\u003eJapanese translations for certain autocrafting actions\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "fa3b800addc17496477bf437b4c9630972866154b50422fcedc91b9730d1303e7dfc76152d73b048637b210aeee6f2b41e1f6595549f1ded95d011c521e4b2d9",
+            "sha1": "9c00dd39d8243aab84aa0575b2b66cb40089900b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/hAfmTW4i/refinedstorage-1.10.3.jar",
+          "filename": "refinedstorage-1.10.3.jar",
+          "primary": true,
+          "size": 3249444
+        }
+      ],
+      "gameVersions": [
+        "1.18.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.10.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/hAfmTW4i",
+      "createdAt": "2023-07-04T19:59:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 132
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1311769
+      },
+      {
+        "source": "modrinth",
+        "downloads": 14
+      }
+    ],
+    "totalDownloads": 1311915
+  }
+}

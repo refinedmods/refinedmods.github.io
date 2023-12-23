@@ -1,0 +1,116 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.5.0.json",
+  "name": "v0.5.0",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 54192446,
+      "nodeId": "MDc6UmVsZWFzZTU0MTkyNDQ2",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.5.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192446/assets",
+      "assets": [
+        {
+          "id": 50488355,
+          "nodeId": "RA_kwDODcjNAM4DAmQj",
+          "name": "refinedpipes-0.5.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 313797,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.5.0/refinedpipes-0.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/54192446/assets{?name,label}",
+      "tagName": "v0.5.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Russian translation by [@KhottyManatee55](https://github.com/KhottyManatee55).\r\n- Added Chinese translation [@liuseniubi](https://github.com/liuseniubi).\r\n\r\n### Changed\r\n\r\n- Ported to Minecraft 1.16.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-11-28T13:12:41Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.5.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.5.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192446",
+      "createdAt": "2020-11-16T18:56:20Z"
+    },
+    {
+      "id": 3113506,
+      "dateModified": "2021-11-28T15:56:17Z",
+      "fileLength": 313797,
+      "fileName": "refinedpipes-0.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.3",
+        "1.16.4",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/3113506",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/3113506",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/3113506",
+      "createdAt": "2020-11-16T18:57:32Z"
+    },
+    {
+      "id": "O9r2I8gK",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.5.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eAdded Russian translation by\u0026nbsp;\u003ca href\u003d\"https://github.com/KhottyManatee55\" rel\u003d\"nofollow\"\u003e@KhottyManatee55\u003c/a\u003e.\u003c/li\u003e\r\n\u003cli\u003eAdded Chinese translation\u0026nbsp;\u003ca href\u003d\"https://github.com/liuseniubi\" rel\u003d\"nofollow\"\u003e@liuseniubi\u003c/a\u003e.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eChanged\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003ePorted to Minecraft 1.16.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "283bd4ee7065a33a79375abc136368768ff9177ebf351596afd42eacdfff982b4b562266a6e2df3ee8df9050fda532e2a09e8583995a1310075264ae43b423ac",
+            "sha1": "cd0054160a9e82f329803c8e3bf4a06abcc1281d"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/O9r2I8gK/refinedpipes-0.5.jar",
+          "filename": "refinedpipes-0.5.jar",
+          "primary": true,
+          "size": 313797
+        }
+      ],
+      "gameVersions": [
+        "1.16.3",
+        "1.16.4",
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.5.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/O9r2I8gK",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 9
+      },
+      {
+        "source": "curseforge",
+        "downloads": 944517
+      },
+      {
+        "source": "modrinth",
+        "downloads": 8
+      }
+    ],
+    "totalDownloads": 944534
+  }
+}

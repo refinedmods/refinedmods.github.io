@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.12.3.json",
+  "name": "v1.12.3",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 111452940,
+      "nodeId": "RE_kwDOAtXBQM4GpKMM",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.12.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111452940/assets",
+      "assets": [
+        {
+          "id": 116017389,
+          "nodeId": "RA_kwDOAtXBQM4G6kjt",
+          "name": "refinedstorage-1.12.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3291779,
+          "downloadCount": 92,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.12.3/refinedstorage-1.12.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111452940/assets{?name,label}",
+      "tagName": "v1.12.3",
+      "targetCommitish": "0f83b3ae9582024663eec53d50d5531b684c160d",
+      "body": "### Fixed\n\n-   Fixed not being able to type \"e\" in Grid search box.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-07T19:28:20Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.12.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.12.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111452940",
+      "createdAt": "2023-07-07T19:24:05Z"
+    },
+    {
+      "id": 4630564,
+      "dateModified": "2023-07-07T19:38:23Z",
+      "fileLength": 3291779,
+      "fileName": "refinedstorage-1.12.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "Java 17",
+        "1.20.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4630564",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4630564",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4630564",
+      "createdAt": "2023-07-07T19:29:47Z"
+    },
+    {
+      "id": "DiI2vAev",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.12.3",
+      "changelog": "### Fixed\n\n-   Fixed not being able to type \"e\" in Grid search box.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "5678ce7e5395503732449662680ef140a64a67bb28da2a298a9490567c057c5c68adbaae5912b70b436f8fef8922ab9adda38498a87cc9b44e99dde85a76b286",
+            "sha1": "d0f0ae4cf0e9f909183d7d6a22e0c4554f590a68"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/DiI2vAev/refinedstorage-1.12.3.jar",
+          "filename": "refinedstorage-1.12.3.jar",
+          "primary": true,
+          "size": 3291779
+        }
+      ],
+      "gameVersions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.12.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/DiI2vAev",
+      "createdAt": "2023-07-07T19:29:59Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 92
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1351563
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3898
+      }
+    ],
+    "totalDownloads": 1355553
+  }
+}

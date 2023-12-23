@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.7.3.json",
+  "name": "v0.7.3",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284617,
+      "nodeId": "MDc6UmVsZWFzZTU1Mjg0NjE3",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.7.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284617/assets",
+      "assets": [
+        {
+          "id": 51752734,
+          "nodeId": "RA_kwDOBc8fRM4DFa8e",
+          "name": "refinedstorageaddons-0.7.3.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 30393,
+          "downloadCount": 11,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.7.3/refinedstorageaddons-0.7.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284617/assets{?name,label}",
+      "tagName": "v0.7.3",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Curio support.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:24:23Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.7.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.7.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284617",
+      "createdAt": "2021-07-25T13:28:52Z"
+    },
+    {
+      "id": 3400591,
+      "dateModified": "2021-12-14T15:38:57Z",
+      "fileLength": 30393,
+      "fileName": "refinedstorageaddons-0.7.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/3400591",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/3400591",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/3400591",
+      "createdAt": "2021-07-25T15:08:56Z"
+    },
+    {
+      "id": "kAIfKRxj",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.7.3",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eCurio support.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7e415500b9dccf7de7a595ec7f7012e44f98a8c8fbfbeff2c48268b77d5bdc3ac008aa715f04d344425c80c11746a22c4bcea411aee5334e50be560475ff0b1c",
+            "sha1": "4d7ae65c1e907bbdab522cd79f94be32440591f5"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/kAIfKRxj/refinedstorageaddons-0.7.3.jar",
+          "filename": "refinedstorageaddons-0.7.3.jar",
+          "primary": true,
+          "size": 30393
+        }
+      ],
+      "gameVersions": [
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.7.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/kAIfKRxj",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 11
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3555037
+      },
+      {
+        "source": "modrinth",
+        "downloads": 17
+      }
+    ],
+    "totalDownloads": 3555065
+  }
+}

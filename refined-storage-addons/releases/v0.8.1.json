@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.8.1.json",
+  "name": "v0.8.1",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 56107713,
+      "nodeId": "RE_kwDOBc8fRM4DWCLB",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.8.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/56107713/assets",
+      "assets": [
+        {
+          "id": 52747709,
+          "nodeId": "RA_kwDOBc8fRM4DJN29",
+          "name": "refinedstorageaddons-0.8.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 32058,
+          "downloadCount": 27,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.8.1/refinedstorageaddons-0.8.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/56107713/assets{?name,label}",
+      "tagName": "v0.8.1",
+      "targetCommitish": "develop",
+      "body": "\n### Added\n\n- Added support for Refined Storage v1.10.0-beta.4.\n- Added Korean translation by [@mindy15963](https://github.com/mindy15963).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-28T21:45:03Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.8.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.8.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/56107713",
+      "createdAt": "2021-12-28T21:41:28Z"
+    },
+    {
+      "id": 3583694,
+      "dateModified": "2021-12-28T21:49:13Z",
+      "fileLength": 32059,
+      "fileName": "refinedstorageaddons-0.8.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/3583694",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/3583694",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/3583694",
+      "createdAt": "2021-12-28T21:45:13Z"
+    },
+    {
+      "id": "5YunVwUY",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.8.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded support for Refined Storage v1.10.0-beta.4.\u003c/li\u003e\n\u003cli\u003eAdded Korean translation by \u003ca href\u003d\"https://github.com/mindy15963\" rel\u003d\"nofollow\"\u003e@mindy15963\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "fa41710c17115751074394887b03bdee5b48748fd8291375243592c8bb5534b6be47818db77733c7b18c72d9975f09969a2e3b712fd70756491f9b2968485d40",
+            "sha1": "983d00370486ce7a504eb1f1389701514eeb6717"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/5YunVwUY/refinedstorageaddons-0.8.1.jar",
+          "filename": "refinedstorageaddons-0.8.1.jar",
+          "primary": true,
+          "size": 32059
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.8.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/5YunVwUY",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 27
+      },
+      {
+        "source": "curseforge",
+        "downloads": 663508
+      },
+      {
+        "source": "modrinth",
+        "downloads": 14
+      }
+    ],
+    "totalDownloads": 663549
+  }
+}

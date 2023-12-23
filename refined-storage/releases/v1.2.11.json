@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.11.json",
+  "name": "v1.2.11",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513730,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzczMA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.11",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513730/assets",
+      "assets": [
+        {
+          "id": 115029163,
+          "nodeId": "RA_kwDOAtXBQM4G2zSr",
+          "name": "refinedstorage-1.2.11.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1386150,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.11/refinedstorage-1.2.11.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513730/assets{?name,label}",
+      "tagName": "v1.2.11",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added configuration option to enable large fonts in Grid.\r\n\r\n### Changed\r\n\r\n- The Grid now resizes based on screen size (max rows can be configured).\r\n- Made the Interface sideless, you can just insert or extract from any side.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:51:32Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.11",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.11",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513730",
+      "createdAt": "2016-12-10T19:23:12Z"
+    },
+    {
+      "id": 2354564,
+      "dateModified": "2023-06-30T15:09:32Z",
+      "fileLength": 1386150,
+      "fileName": "refinedstorage-1.2.11.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2354564",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2354564",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2354564",
+      "createdAt": "2016-12-10T19:32:19Z"
+    },
+    {
+      "id": "JtP0PfDW",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.11",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded configuration option to enable large fonts in Grid.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Grid now resizes based on screen size (max rows can be configured).\u003c/li\u003e\n\u003cli\u003eMade the Interface sideless, you can just insert or extract from any side.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "9f9926d7027371b1178300b18eedfabd09e138c3e140c708ddf8c272a0a23b23f7a1b8aa05777693216bcbccf33e62370e53fc13ee35dbded3b60454b9a06a6b",
+            "sha1": "3326a639c66282bd25353c032f3a2a1386bfbb6a"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/JtP0PfDW/refinedstorage-1.2.11.jar",
+          "filename": "refinedstorage-1.2.11.jar",
+          "primary": true,
+          "size": 1386150
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.11",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/JtP0PfDW",
+      "createdAt": "2023-07-04T19:57:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 23630
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 23632
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.13-beta.json",
+  "name": "v0.8.13-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 2320042,
+      "dateModified": "2023-07-04T10:45:58Z",
+      "fileLength": 543233,
+      "fileName": "refinedstorage-0.8.13.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2320042",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2320042",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2320042",
+      "createdAt": "2016-07-31T17:04:03Z"
+    },
+    {
+      "id": 110998653,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5ODY1Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.13-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998653/assets",
+      "assets": [
+        {
+          "id": 115527331,
+          "nodeId": "RA_kwDOAtXBQM4G4s6j",
+          "name": "refinedstorage-0.8.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 543233,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.13-beta/refinedstorage-0.8.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998653/assets{?name,label}",
+      "tagName": "v0.8.13-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added config option to set the base energy usage of the Controller (default is 0).\r\n- Added Grid Filter item to filter items in any Grid.\r\n- Added support for processing patterns with big stacksizes.\r\n- Added Network Transmitter, Network Receiver and Network Cards.\r\n\r\n### Changed\r\n\r\n- The slot where the Wireless Grid is in in the Wireless Grid GUI is now disabled, so the item can\u0027t be thrown out of the inventory by accident.\r\n- Changed Relay recipe to use redstone torch instead of Basic Processor.\r\n- Placed machines now face the block they are placed on, like hoppers.\r\n\r\n### Fixed\r\n\r\n- Fixed rendering crash with Disk Drive.\r\n- Fixed crash when quickly toggling sorting direction in Grid.\r\n- Fixed not being able to clear exporter row in interface.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:12:23Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.13-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.13-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998653",
+      "createdAt": "2016-07-31T17:10:44Z"
+    },
+    {
+      "id": "X4typAJg",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.13-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded config option to set the base energy usage of the Controller (default is 0).\u003c/li\u003e\n\u003cli\u003eAdded Grid Filter item to filter items in any Grid.\u003c/li\u003e\n\u003cli\u003eAdded support for processing patterns with big stacksizes.\u003c/li\u003e\n\u003cli\u003eAdded Network Transmitter, Network Receiver and Network Cards.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe slot where the Wireless Grid is in in the Wireless Grid GUI is now disabled, so the item can\u0027t be thrown out of the inventory by accident.\u003c/li\u003e\n\u003cli\u003eChanged Relay recipe to use redstone torch instead of Basic Processor.\u003c/li\u003e\n\u003cli\u003ePlaced machines now face the block they are placed on, like hoppers.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed rendering crash with Disk Drive.\u003c/li\u003e\n\u003cli\u003eFixed crash when quickly toggling sorting direction in Grid.\u003c/li\u003e\n\u003cli\u003eFixed not being able to clear exporter row in interface.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c246b60d2c0f86b0a5300744bc281be6b7eaf9df70cb6705025eefd55807a2f02c653b7e8a2dd94a4dfbbf453dd9c3bf44646b741bd353edc4912504f8c43eaf",
+            "sha1": "2716173d3e1db3538abebdb2daf1f389152f57e8"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/X4typAJg/refinedstorage-0.8.13.jar",
+          "filename": "refinedstorage-0.8.13.jar",
+          "primary": true,
+          "size": 543233
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.13-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/X4typAJg",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 1200
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1202
+  }
+}

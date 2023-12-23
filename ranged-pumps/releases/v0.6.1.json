@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.6.1.json",
+  "name": "v0.6.1",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55596056,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDU2",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.6.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596056/assets",
+      "assets": [
+        {
+          "id": 52081177,
+          "nodeId": "RA_kwDOA8bqCc4DGrIZ",
+          "name": "rangedpumps-0.6.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24616,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.6.1/rangedpumps-0.6.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596056/assets{?name,label}",
+      "tagName": "v0.6.1",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fix Pump not dropping when breaking.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T12:49:07Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.6.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.6.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596056",
+      "createdAt": "2019-11-07T12:33:44Z"
+    },
+    {
+      "id": 2823421,
+      "dateModified": "2021-12-18T13:00:59Z",
+      "fileLength": 24616,
+      "fileName": "rangedpumps-0.6.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.14.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/2823421",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/2823421",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/2823421",
+      "createdAt": "2019-11-07T12:35:37Z"
+    },
+    {
+      "id": "8WuqdR5r",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.6.1",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFix Pump not dropping when breaking.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "302b44afe4fe089250184748156514ed5f37096cb17732328b694d45d3e2f171bc7f46fe8bd64b693c9c48c40bc03b9b624cfe1e160805f78791ca8d6b0adeb0",
+            "sha1": "c1cffc5ae30ed1ed917eb9ffe54debfb57238448"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/8WuqdR5r/rangedpumps-0.6.1.jar",
+          "filename": "rangedpumps-0.6.1.jar",
+          "primary": true,
+          "size": 24616
+        }
+      ],
+      "gameVersions": [
+        "1.14.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.6.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/8WuqdR5r",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 7
+      },
+      {
+        "source": "curseforge",
+        "downloads": 551471
+      },
+      {
+        "source": "modrinth",
+        "downloads": 18
+      }
+    ],
+    "totalDownloads": 551496
+  }
+}

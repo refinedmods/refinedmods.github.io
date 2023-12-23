@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.6-beta.json",
+  "name": "v0.7.6-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 2303704,
+      "dateModified": "2023-07-04T14:00:23Z",
+      "fileLength": 419421,
+      "fileName": "refinedstorage-0.7.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2303704",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2303704",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2303704",
+      "createdAt": "2016-05-29T15:53:21Z"
+    },
+    {
+      "id": 111001005,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMTAwNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.6-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001005/assets",
+      "assets": [
+        {
+          "id": 115529788,
+          "nodeId": "RA_kwDOAtXBQM4G4tg8",
+          "name": "refinedstorage-0.7.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 419421,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.6-beta/refinedstorage-0.7.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111001005/assets{?name,label}",
+      "tagName": "v0.7.6-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated to Forge 1932.\r\n\r\n### Fixed\r\n\r\n- Fixed not being able to start an autocraft.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:29:30Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.6-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.6-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001005",
+      "createdAt": "2016-05-29T15:53:39Z"
+    },
+    {
+      "id": "4lAVcnxE",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.6-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated to Forge 1932.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed not being able to start an autocraft.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "cbfaee39306c5f844afe9ead14f28d8a83617046bd3e1edaa808affe818c6d44c346deb89976b9a9208d342dbbc35fc778459a44abe160b8a9bf7b263e10e51a",
+            "sha1": "f1049bb1f4c8f0a66411ea14099e624f15e371b6"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/4lAVcnxE/refinedstorage-0.7.6.jar",
+          "filename": "refinedstorage-0.7.6.jar",
+          "primary": true,
+          "size": 419421
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.6-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/4lAVcnxE",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 9386
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 9389
+  }
+}

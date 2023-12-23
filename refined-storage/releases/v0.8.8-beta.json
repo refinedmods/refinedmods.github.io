@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.8-beta.json",
+  "name": "v0.8.8-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 2314908,
+      "dateModified": "2023-07-04T10:47:39Z",
+      "fileLength": 502440,
+      "fileName": "refinedstorage-0.8.8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2314908",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2314908",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2314908",
+      "createdAt": "2016-07-10T14:05:23Z"
+    },
+    {
+      "id": 110999538,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTUzOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.8-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999538/assets",
+      "assets": [
+        {
+          "id": 115528604,
+          "nodeId": "RA_kwDOAtXBQM4G4tOc",
+          "name": "refinedstorage-0.8.8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 502440,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.8-beta/refinedstorage-0.8.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999538/assets{?name,label}",
+      "tagName": "v0.8.8-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Use ore dictionary for recipes with glass.\r\n- Texture tweaks.\r\n\r\n### Fixed\r\n\r\n- Fixed solderer not working with automation anymore.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:18:56Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.8-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.8-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999538",
+      "createdAt": "2016-07-10T14:16:49Z"
+    },
+    {
+      "id": "oYb3BY8l",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.8-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUse ore dictionary for recipes with glass.\u003c/li\u003e\n\u003cli\u003eTexture tweaks.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed solderer not working with automation anymore.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "3452d62b3f765d77b3052aeb813f63eb015f2121e4ad08108d32f0da86d2c1f2967b097830a467fa10963f2263ec84f472f2dd09ea7dad8796ef7dee610c926c",
+            "sha1": "23aa7842795c8ace3a80b784a9e12d1b86c86502"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/oYb3BY8l/refinedstorage-0.8.8.jar",
+          "filename": "refinedstorage-0.8.8.jar",
+          "primary": true,
+          "size": 502440
+        }
+      ],
+      "gameVersions": [
+        "1.10",
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.8-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/oYb3BY8l",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 611
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 613
+  }
+}

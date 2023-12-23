@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.3-beta.json",
+  "name": "v0.7.3-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111001112,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMTExMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.3-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001112/assets",
+      "assets": [
+        {
+          "id": 115529884,
+          "nodeId": "RA_kwDOAtXBQM4G4tic",
+          "name": "refinedstorage-0.7.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 418318,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.3-beta/refinedstorage-0.7.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111001112/assets{?name,label}",
+      "tagName": "v0.7.3-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Crafting tasks are now sorted from new to old in the Crafting Monitor.\r\n- Broke Interface block inventory compatibility: make sure to take all your items out of your Interface blocks before you apply the update.\r\n\r\n### Fixed\r\n\r\n- Fixed grid performance by not sending grid data so often.\r\n- Fixed silicon + quartz enriched iron not having oredict names.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:30:19Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.3-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.3-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001112",
+      "createdAt": "2016-05-25T19:00:09Z"
+    },
+    {
+      "id": 2302840,
+      "dateModified": "2023-07-04T14:01:55Z",
+      "fileLength": 418318,
+      "fileName": "refinedstorage-0.7.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2302840",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2302840",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2302840",
+      "createdAt": "2016-05-25T19:01:43Z"
+    },
+    {
+      "id": "ji5sIFmE",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.3-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eCrafting tasks are now sorted from new to old in the Crafting Monitor.\u003c/li\u003e\n\u003cli\u003eBroke Interface block inventory compatibility: make sure to take all your items out of your Interface blocks before you apply the update.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed grid performance by not sending grid data so often.\u003c/li\u003e\n\u003cli\u003eFixed silicon + quartz enriched iron not having oredict names.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "805da7b50f46c92e80817ba81205c28566b3f33d97e6499aca6cce74d499bbf5f0170c9b5ed8dc86cfe9a9383e936808ad157fc3d3234b2a12fc69c0ead33a83",
+            "sha1": "9789bedd050ece8b876e4b6d247d397c6dfcbe31"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ji5sIFmE/refinedstorage-0.7.3.jar",
+          "filename": "refinedstorage-0.7.3.jar",
+          "primary": true,
+          "size": 418318
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.3-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ji5sIFmE",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1151
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 1152
+  }
+}

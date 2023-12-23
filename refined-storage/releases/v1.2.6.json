@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.6.json",
+  "name": "v1.2.6",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513902,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzkwMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.6",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513902/assets",
+      "assets": [
+        {
+          "id": 115029240,
+          "nodeId": "RA_kwDOAtXBQM4G2zT4",
+          "name": "refinedstorage-1.2.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1383224,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.6/refinedstorage-1.2.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513902/assets{?name,label}",
+      "tagName": "v1.2.6",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Processing patterns can now insert buckets.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Exporters in fluid mode.\r\n\r\n### Removed\r\n\r\n- Removed Solderer progress percentage text.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:52:54Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.6",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.6",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513902",
+      "createdAt": "2016-11-26T12:38:33Z"
+    },
+    {
+      "id": 2349317,
+      "dateModified": "2023-06-30T15:11:02Z",
+      "fileLength": 1383224,
+      "fileName": "refinedstorage-1.2.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2349317",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2349317",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2349317",
+      "createdAt": "2016-11-26T12:55:17Z"
+    },
+    {
+      "id": "rxSPbKKz",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.6",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eProcessing patterns can now insert buckets.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash with Exporters in fluid mode.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved Solderer progress percentage text.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ae64734d504193268b7b50b5d0cbf6db3236e47046ae7bd00ffd2a2011d90f80f65e79efd76d6354bab0e24899e72784b5d5a9c2ec0a9561414844b927e7535a",
+            "sha1": "308a15f58c74ce87a8a859e9d6d7d53deb6e35fd"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/rxSPbKKz/refinedstorage-1.2.6.jar",
+          "filename": "refinedstorage-1.2.6.jar",
+          "primary": true,
+          "size": 1383224
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.6",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/rxSPbKKz",
+      "createdAt": "2023-07-04T19:57:37Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 15809
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 15810
+  }
+}

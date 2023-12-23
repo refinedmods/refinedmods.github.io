@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.2.json",
+  "name": "v1.6.2",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110331163,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMTE2Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331163/assets",
+      "assets": [
+        {
+          "id": 114837206,
+          "nodeId": "RA_kwDOAtXBQM4G2EbW",
+          "name": "refinedstorage-1.6.2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1883930,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.2/refinedstorage-1.6.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110331163/assets{?name,label}",
+      "tagName": "v1.6.2",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Grid searching not working.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:36:47Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331163",
+      "createdAt": "2018-07-30T18:25:21Z"
+    },
+    {
+      "id": 2595148,
+      "dateModified": "2023-06-29T09:45:41Z",
+      "fileLength": 1883930,
+      "fileName": "refinedstorage-1.6.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2595148",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2595148",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2595148",
+      "createdAt": "2018-07-30T18:27:46Z"
+    },
+    {
+      "id": "toGMhAa9",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.2",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Grid searching not working.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "da9bd57770d4ae1329e684b77b746cf901fed3b1b9ebf1417d8f13ff52a731cefec15742a20b9129830cf19b69df8f9c64e2df7da85ad859d7adb246ea8b993e",
+            "sha1": "01414a521f1c395af1cda09821a0b5b1f377f91c"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/toGMhAa9/refinedstorage-1.6.2.jar",
+          "filename": "refinedstorage-1.6.2.jar",
+          "primary": true,
+          "size": 1883930
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/toGMhAa9",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 11950
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 11953
+  }
+}

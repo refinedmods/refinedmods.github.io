@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.13.json",
+  "name": "v1.4.13",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110492325,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjMyNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.13",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492325/assets",
+      "assets": [
+        {
+          "id": 115010318,
+          "nodeId": "RA_kwDOAtXBQM4G2usO",
+          "name": "refinedstorage-1.4.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1656564,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.13/refinedstorage-1.4.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492325/assets{?name,label}",
+      "tagName": "v1.4.13",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- The Portable Grid now has an indicator whether it\u0027s connected or disconnected and shows the disk.\r\n\r\n### Fixed\r\n\r\n- Fixed Portable Grid model.\r\n- Fixed ore dictionary causing problems with Solderer.\r\n- Fixed ore dictionary items not showing up in JEI for the Solderer.\r\n\r\n### Removed\r\n\r\n- Removed Quartz Enriched Iron ore dictionary entry.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:18:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.13",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.13",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492325",
+      "createdAt": "2017-06-13T17:36:46Z"
+    },
+    {
+      "id": 2433540,
+      "dateModified": "2023-06-30T12:57:13Z",
+      "fileLength": 1656564,
+      "fileName": "refinedstorage-1.4.13.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2433540",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2433540",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2433540",
+      "createdAt": "2017-06-13T18:16:26Z"
+    },
+    {
+      "id": "dNBGpoJE",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.13",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Portable Grid now has an indicator whether it\u0027s connected or disconnected and shows the disk.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Portable Grid model.\u003c/li\u003e\n\u003cli\u003eFixed ore dictionary causing problems with Solderer.\u003c/li\u003e\n\u003cli\u003eFixed ore dictionary items not showing up in JEI for the Solderer.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved Quartz Enriched Iron ore dictionary entry.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "62cafa59788e1a40db2357c8b75bb53031f49efc015769f65ae785e4e149dc57711c30f5d936d949b13e1798bb6bae1ce3816e9f97a90d09804c5cb858c2d937",
+            "sha1": "7ac5e7e053d0e0cfe6072c9d745d35bcb9796dda"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/dNBGpoJE/refinedstorage-1.4.13.jar",
+          "filename": "refinedstorage-1.4.13.jar",
+          "primary": true,
+          "size": 1656564
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.13",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/dNBGpoJE",
+      "createdAt": "2023-07-04T19:58:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 508
+      },
+      {
+        "source": "modrinth",
+        "downloads": 4
+      }
+    ],
+    "totalDownloads": 512
+  }
+}

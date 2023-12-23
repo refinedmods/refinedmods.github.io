@@ -1,0 +1,116 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.26-beta.json",
+  "name": "v1.5.26-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 2507909,
+      "dateModified": "2023-06-30T09:19:09Z",
+      "fileLength": 1828870,
+      "fileName": "refinedstorage-1.5.26.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2507909",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2507909",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2507909",
+      "createdAt": "2017-12-09T11:28:25Z"
+    },
+    {
+      "id": 110470525,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDUyNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.26-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470525/assets",
+      "assets": [
+        {
+          "id": 114987276,
+          "nodeId": "RA_kwDOAtXBQM4G2pEM",
+          "name": "refinedstorage-1.5.26.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1828870,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.26-beta/refinedstorage-1.5.26.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470525/assets{?name,label}",
+      "tagName": "v1.5.26-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Funky Locomotion integration.\r\n\r\n### Fixed\r\n\r\n- Fixed Exporter in Regulator Mode not regulating properly when same item is specified multiple times.\r\n- Fixed air appearing in Grid.\r\n- Fixed config categories not correctly appearing in ingame config GUI.\r\n- Fixed craftable items showing \"1 total\" if not stored in system in Grid.\r\n- Minor fixes to autocrafting.\r\n\r\n### Removed\r\n\r\n- Removed \"detailed\" Grid view type variant, made detailed tooltips a config option instead.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T08:58:15Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.26-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.26-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470525",
+      "createdAt": "2017-12-09T11:33:50Z"
+    },
+    {
+      "id": "SybYrvdy",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.26-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Funky Locomotion integration.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Exporter in Regulator Mode not regulating properly when same item is specified multiple times.\u003c/li\u003e\n\u003cli\u003eFixed air appearing in Grid.\u003c/li\u003e\n\u003cli\u003eFixed config categories not correctly appearing in ingame config GUI.\u003c/li\u003e\n\u003cli\u003eFixed craftable items showing \u0026quot;1 total\u0026quot; if not stored in system in Grid.\u003c/li\u003e\n\u003cli\u003eMinor fixes to autocrafting.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved \u0026quot;detailed\u0026quot; Grid view type variant, made detailed tooltips a config option instead.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "60794111563f0d639ef899ccc91c183e552488920bec00d8b1612acb57976ba45efb465b189eb9758f5f32e2310c8c07642108fcbf6ec6fd126ea307d5bbcd2a",
+            "sha1": "c860a954e3e9b4dbb573ed9beb34737479438665"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/SybYrvdy/refinedstorage-1.5.26.jar",
+          "filename": "refinedstorage-1.5.26.jar",
+          "primary": true,
+          "size": 1828870
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.26-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/SybYrvdy",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 835
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 836
+  }
+}

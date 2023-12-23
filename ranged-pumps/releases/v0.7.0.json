@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.7.0.json",
+  "name": "v0.7.0",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55596064,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDY0",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.7.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596064/assets",
+      "assets": [
+        {
+          "id": 52081186,
+          "nodeId": "RA_kwDOA8bqCc4DGrIi",
+          "name": "rangedpumps-0.7.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 25083,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.7.0/rangedpumps-0.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596064/assets{?name,label}",
+      "tagName": "v0.7.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.15.\r\n- You can now configure the block that liquids have to be replaced with.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T12:49:24Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.7.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.7.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596064",
+      "createdAt": "2020-01-20T00:42:18Z"
+    },
+    {
+      "id": 2864306,
+      "dateModified": "2021-12-18T13:01:32Z",
+      "fileLength": 25083,
+      "fileName": "rangedpumps-0.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/2864306",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/2864306",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/2864306",
+      "createdAt": "2020-01-20T00:49:19Z"
+    },
+    {
+      "id": "QgSGEPAk",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.7.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.15.\u003c/li\u003e\n\u003cli\u003eYou can now configure the block that liquids have to be replaced with.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "bb3ea7de07c05022c8fdb58ad9814418a8e9e4d712c3c6bd191ceb0f982ef00070111b273424ab22ca112f9d32b4fb797a6cb106e76ea16c3e20edf80f6e3f8c",
+            "sha1": "e8ccfd2e4ef407fde02613ef52bd3c4c7eca4b03"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/QgSGEPAk/rangedpumps-0.7.jar",
+          "filename": "rangedpumps-0.7.jar",
+          "primary": true,
+          "size": 25083
+        }
+      ],
+      "gameVersions": [
+        "1.15.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.7.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/QgSGEPAk",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 26435
+      },
+      {
+        "source": "modrinth",
+        "downloads": 10
+      }
+    ],
+    "totalDownloads": 26451
+  }
+}

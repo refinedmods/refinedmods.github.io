@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.12.4.json",
+  "name": "v1.12.4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 128073382,
+      "nodeId": "RE_kwDOAtXBQM4Hoj6m",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.12.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/128073382/assets",
+      "assets": [
+        {
+          "id": 134143312,
+          "nodeId": "RA_kwDOAtXBQM4H_t1Q",
+          "name": "refinedstorage-1.12.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3300191,
+          "downloadCount": 31,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.12.4/refinedstorage-1.12.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/128073382/assets{?name,label}",
+      "tagName": "v1.12.4",
+      "targetCommitish": "8ed764669911a5e40c15075bb430d10e4eec483d",
+      "body": "### Added\r\n\r\n-   Re-added compatibility with Inventory Sorter.\r\n\r\n### Fixed\r\n\r\n-   Various world corruption issues if Refined Storage blocks were removed unexpectedly or with another mod.\r\n-   Fixed Grid search bar not being able to lose focus.\r\n-   Fixed JEI transfer crash for larger processing recipes.\r\n-   Fixed rare autocrafting crash.\r\n-   Fixed some models in inactive state being emissive.\r\n-   Fixed Controller item not rendering energy state correctly.\r\n-   Fixed duplication bug with the Crafting Grid.\r\n-   Fixed fluid duplication bug with the Importer and GregTechCEu machines.\r\n-   Attempted to fix issue where Grid doesn\u0027t load items and requires a client restart.\r\n-   Fixed Crafter Manager slots being able to sort with Inventory Sorter.\r\n-   Fixed duplication bug in the Crafter with Inventory Sorter.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-11-06T07:22:50Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.12.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.12.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/128073382",
+      "createdAt": "2023-11-06T07:18:14Z"
+    },
+    {
+      "id": 4844585,
+      "dateModified": "2023-11-06T07:31:00Z",
+      "fileLength": 3300191,
+      "fileName": "refinedstorage-1.12.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "Java 17",
+        "1.20.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4844585",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4844585",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4844585",
+      "createdAt": "2023-11-06T07:24:32Z"
+    },
+    {
+      "id": "ZITLFjjf",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.12.4",
+      "changelog": "### Added\n\n-   Re-added compatibility with Inventory Sorter.\n\n### Fixed\n\n-   Various world corruption issues if Refined Storage blocks were removed unexpectedly or with another mod.\n-   Fixed Grid search bar not being able to lose focus.\n-   Fixed JEI transfer crash for larger processing recipes.\n-   Fixed rare autocrafting crash.\n-   Fixed some models in inactive state being emissive.\n-   Fixed Controller item not rendering energy state correctly.\n-   Fixed duplication bug with the Crafting Grid.\n-   Fixed fluid duplication bug with the Importer and GregTechCEu machines.\n-   Attempted to fix issue where Grid doesn\u0027t load items and requires a client restart.\n-   Fixed Crafter Manager slots being able to sort with Inventory Sorter.\n-   Fixed duplication bug in the Crafter with Inventory Sorter.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "82b0f695cd360c46645e1587d254066ef1d3d0b6e5be31259604ed618f4ce6d686c579453c7b4fc7ea08d8d206b382b86280a3f49b5516a1094b314a08dbef0d",
+            "sha1": "014bf4de4975f6310d22a6ed06c6a7e1e0805641"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ZITLFjjf/refinedstorage-1.12.4.jar",
+          "filename": "refinedstorage-1.12.4.jar",
+          "primary": true,
+          "size": 3300191
+        }
+      ],
+      "gameVersions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.12.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ZITLFjjf",
+      "createdAt": "2023-11-06T12:01:21Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 31
+      },
+      {
+        "source": "curseforge",
+        "downloads": 810185
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2652
+      }
+    ],
+    "totalDownloads": 812868
+  }
+}

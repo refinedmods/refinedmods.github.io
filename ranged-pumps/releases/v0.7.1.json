@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.7.1.json",
+  "name": "v0.7.1",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55596075,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDc1",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.7.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596075/assets",
+      "assets": [
+        {
+          "id": 52081194,
+          "nodeId": "RA_kwDOA8bqCc4DGrIq",
+          "name": "rangedpumps-0.7.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 25086,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.7.1/rangedpumps-0.7.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596075/assets{?name,label}",
+      "tagName": "v0.7.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.15.2.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T12:49:44Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.7.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.7.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596075",
+      "createdAt": "2020-01-30T11:13:47Z"
+    },
+    {
+      "id": 2871857,
+      "dateModified": "2021-12-18T13:02:37Z",
+      "fileLength": 25086,
+      "fileName": "rangedpumps-0.7.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/2871857",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/2871857",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/2871857",
+      "createdAt": "2020-01-30T11:14:38Z"
+    },
+    {
+      "id": "lIUgWWxg",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.7.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.15.2.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "5ea77899d85799a9639377f480af091a1939d9898cadefb89aef09ce25118ee4b0c03586f4faab1920130a0f080a2ffd85061471f56e9e6e73c097746e9b6a5a",
+            "sha1": "92a5c617ef0f315cf5e46512637908ed69c96744"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/lIUgWWxg/rangedpumps-0.7.1.jar",
+          "filename": "rangedpumps-0.7.1.jar",
+          "primary": true,
+          "size": 25086
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.7.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/lIUgWWxg",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 942378
+      },
+      {
+        "source": "modrinth",
+        "downloads": 11
+      }
+    ],
+    "totalDownloads": 942395
+  }
+}

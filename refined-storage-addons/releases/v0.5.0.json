@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.5.0.json",
+  "name": "v0.5.0",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284284,
+      "nodeId": "MDc6UmVsZWFzZTU1Mjg0Mjg0",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.5.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284284/assets",
+      "assets": [
+        {
+          "id": 51752502,
+          "nodeId": "RA_kwDOBc8fRM4DFa42",
+          "name": "refinedstorageaddons-0.5.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28413,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.5.0/refinedstorageaddons-0.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284284/assets{?name,label}",
+      "tagName": "v0.5.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.14.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:21:10Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.5.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.5.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284284",
+      "createdAt": "2019-11-17T18:09:33Z"
+    },
+    {
+      "id": 2829733,
+      "dateModified": "2021-12-14T15:34:38Z",
+      "fileLength": 28413,
+      "fileName": "refinedstorageaddons-0.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.14.4",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2829733",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2829733",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2829733",
+      "createdAt": "2019-11-19T21:37:36Z"
+    },
+    {
+      "id": "mLPxGaGm",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.5.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003ePort to Minecraft 1.14.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "93e5b8c8d5155ef8f3787f395fc4a49d03b6ab5e68595a9b809663a902322c87492301bd85d0aaed2353a94daff1a2255a4fd109b8321ce4ec836e21b78d6769",
+            "sha1": "078fad58e2af301573b7a8ea6ffb5a7581b39e40"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/mLPxGaGm/refinedstorageaddons-0.5.jar",
+          "filename": "refinedstorageaddons-0.5.jar",
+          "primary": true,
+          "size": 28413
+        }
+      ],
+      "gameVersions": [
+        "1.14.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.5.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/mLPxGaGm",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 7
+      },
+      {
+        "source": "curseforge",
+        "downloads": 927850
+      },
+      {
+        "source": "modrinth",
+        "downloads": 15
+      }
+    ],
+    "totalDownloads": 927872
+  }
+}

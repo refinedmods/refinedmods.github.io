@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.7-beta.json",
+  "name": "v0.8.7-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110999596,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTU5Ng\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.7-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999596/assets",
+      "assets": [
+        {
+          "id": 115528649,
+          "nodeId": "RA_kwDOAtXBQM4G4tPJ",
+          "name": "refinedstorage-0.8.7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 488810,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.7-beta/refinedstorage-0.8.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999596/assets{?name,label}",
+      "tagName": "v0.8.7-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added better hitbox for the Solderer.\r\n\r\n### Changed\r\n\r\n- Wireless Transmitter is now only bright red when connected.\r\n- Improved detector model, add a better hitbox for it.\r\n- Improved the Wireless Transmitter texture.\r\n- Made the Solderer beams be bright red when they are working.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with External Storage.\r\n- Fixed Detector not unpowering when disconnected from the network.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:19:19Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.7-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.7-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999596",
+      "createdAt": "2016-07-09T23:02:47Z"
+    },
+    {
+      "id": 2314756,
+      "dateModified": "2023-07-04T10:48:04Z",
+      "fileLength": 488810,
+      "fileName": "refinedstorage-0.8.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2314756",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2314756",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2314756",
+      "createdAt": "2016-07-09T23:06:34Z"
+    },
+    {
+      "id": "DokWcz17",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.7-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded better hitbox for the Solderer.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eWireless Transmitter is now only bright red when connected.\u003c/li\u003e\n\u003cli\u003eImproved detector model, add a better hitbox for it.\u003c/li\u003e\n\u003cli\u003eImproved the Wireless Transmitter texture.\u003c/li\u003e\n\u003cli\u003eMade the Solderer beams be bright red when they are working.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash with External Storage.\u003c/li\u003e\n\u003cli\u003eFixed Detector not unpowering when disconnected from the network.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "46d188b2cd1c598d228f239e6ee323ea6e379800e44abe918cb7d6ced8de5cf6d95350b425e13563491a22e3ddb68a732b1868744ac5d2681a397e282d7f9c8a",
+            "sha1": "7374bb16ef8fdcb2662a395fc39b74129116a83b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/DokWcz17/refinedstorage-0.8.7.jar",
+          "filename": "refinedstorage-0.8.7.jar",
+          "primary": true,
+          "size": 488810
+        }
+      ],
+      "gameVersions": [
+        "1.10",
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.7-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/DokWcz17",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 759
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 760
+  }
+}

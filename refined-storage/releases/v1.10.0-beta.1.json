@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.10.0-beta.1.json",
+  "name": "v1.10.0-beta.1",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 55387617,
+      "nodeId": "RE_kwDOAtXBQM4DTSXh",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.10.0-beta.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/55387617/assets",
+      "assets": [
+        {
+          "id": 51850189,
+          "nodeId": "RA_kwDOAtXBQM4DFyvN",
+          "name": "refinedstorage-1.10.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3225929,
+          "downloadCount": 12,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.10.0-beta.1/refinedstorage-1.10.0-beta.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/55387617/assets{?name,label}",
+      "tagName": "v1.10.0-beta.1",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Relay not working.\r\n- Fixed Wireless Transmitter only working upright.\r\n- Fixed Portable Grid not opening when pointing at a block.\r\n- Fixed being able to circumvent locked slots by scrolling.\r\n\r\n### Changed\r\n\r\n- Added more slots to the Pattern Grid.\r\n- Combined fluid and item view in the Pattern Grid.\r\n- Ported to Minecraft 1.18.1.\r\n- Focused side buttons now display their tooltip properly.\r\n- Improved performance of retrieving patterns by [@metalshark](https://github.com/metalshark).\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-15T17:37:43Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.0-beta.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.0-beta.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/55387617",
+      "createdAt": "2021-12-15T17:32:25Z"
+    },
+    {
+      "id": 3567698,
+      "dateModified": "2021-12-16T01:41:31Z",
+      "fileLength": 3225930,
+      "fileName": "refinedstorage-1.10.0-beta.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3567698",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3567698",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3567698",
+      "createdAt": "2021-12-15T17:37:56Z"
+    },
+    {
+      "id": "HVJXQFgA",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.10.0-beta.1",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Relay not working.\u003c/li\u003e\n\u003cli\u003eFixed Wireless Transmitter only working upright.\u003c/li\u003e\n\u003cli\u003eFixed Portable Grid not opening when pointing at a block.\u003c/li\u003e\n\u003cli\u003eFixed being able to circumvent locked slots by scrolling.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded more slots to the Pattern Grid.\u003c/li\u003e\n\u003cli\u003eCombined fluid and item view in the Pattern Grid.\u003c/li\u003e\n\u003cli\u003ePorted to Minecraft 1.18.1.\u003c/li\u003e\n\u003cli\u003eFocused side buttons now display their tooltip properly.\u003c/li\u003e\n\u003cli\u003eImproved performance of retrieving patterns by \u003ca href\u003d\"https://github.com/metalshark\" rel\u003d\"nofollow\"\u003e@metalshark\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "13002964b2f45ab3a32550fa1f8806e7c97dc3c96c93210cf350882a723c7eb0f927a7adbf58757c262b43685802620d43e4d9a835bcec6de43ab6d837dafe81",
+            "sha1": "e96b430d2c54b81cd69877291ace2af30744847a"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/HVJXQFgA/refinedstorage-1.10.0-beta.1.jar",
+          "filename": "refinedstorage-1.10.0-beta.1.jar",
+          "primary": true,
+          "size": 3225930
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.10.0-beta.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/HVJXQFgA",
+      "createdAt": "2023-07-04T19:58:50Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 12
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1492
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1506
+  }
+}

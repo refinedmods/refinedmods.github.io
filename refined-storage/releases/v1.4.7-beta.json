@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.7-beta.json",
+  "name": "v1.4.7-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110492604,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjYwNA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.7-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492604/assets",
+      "assets": [
+        {
+          "id": 115010554,
+          "nodeId": "RA_kwDOAtXBQM4G2uv6",
+          "name": "refinedstorage-1.4.7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1651511,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.7-beta/refinedstorage-1.4.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492604/assets{?name,label}",
+      "tagName": "v1.4.7-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added config option \"debugLog\" that logs diagnostic info to help developers to fix the inventory loss bug, please enable it if you are experiencing this issue.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where Portable Grid would dupe in inventory.\r\n- Worked around an autocrafting bug to prevent crashes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:20:30Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.7-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.7-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492604",
+      "createdAt": "2017-05-23T16:57:08Z"
+    },
+    {
+      "id": 2423733,
+      "dateModified": "2023-06-30T13:38:51Z",
+      "fileLength": 1651511,
+      "fileName": "refinedstorage-1.4.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2423733",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2423733",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2423733",
+      "createdAt": "2017-05-23T16:57:49Z"
+    },
+    {
+      "id": "p2pc3XkZ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.7-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded config option \u0026quot;debugLog\u0026quot; that logs diagnostic info to help developers to fix the inventory loss bug, please enable it if you are experiencing this issue.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where Portable Grid would dupe in inventory.\u003c/li\u003e\n\u003cli\u003eWorked around an autocrafting bug to prevent crashes.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "b90ffe253e50b83c48e79e6e339978c013087145755e0ffe9c9ea500266975f172fdb6b7f733bfa588a5c03fe43b87a45941068d02bdc16c05105906c920349c",
+            "sha1": "76ee8e3c2037b6871bf3183a3460f7152c96e489"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/p2pc3XkZ/refinedstorage-1.4.7.jar",
+          "filename": "refinedstorage-1.4.7.jar",
+          "primary": true,
+          "size": 1651511
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.7-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/p2pc3XkZ",
+      "createdAt": "2023-07-04T19:57:47Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1186
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1188
+  }
+}

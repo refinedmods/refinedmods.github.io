@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.5-beta.json",
+  "name": "v1.4.5-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110492697,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjY5Nw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.5-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492697/assets",
+      "assets": [
+        {
+          "id": 115010639,
+          "nodeId": "RA_kwDOAtXBQM4G2uxP",
+          "name": "refinedstorage-1.4.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1647730,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.5-beta/refinedstorage-1.4.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492697/assets{?name,label}",
+      "tagName": "v1.4.5-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Portable Grid.\r\n- Added OpenComputers integration.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2296.\r\n- Removed ticking tile entities, every tile entity in RS is non-ticking now.\r\n\r\n### Fixed\r\n\r\n- Fixed Crafting Tweaks buttons positioned wrongly.\r\n- Fixed Crafting Tweaks keybindings interfering with RS keybindings.\r\n- Fixed crash when updating storages.\r\n- Fixed no tooltips for fluid filter slots.\r\n- Fixed Disk Manipulator in fluid mode not showing fluids.\r\n- Fixed dupe bug in the Interface.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:21:21Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.5-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.5-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492697",
+      "createdAt": "2017-05-14T11:55:47Z"
+    },
+    {
+      "id": 2419768,
+      "dateModified": "2023-06-30T13:39:28Z",
+      "fileLength": 1647730,
+      "fileName": "refinedstorage-1.4.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2419768",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2419768",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2419768",
+      "createdAt": "2017-05-14T18:58:58Z"
+    },
+    {
+      "id": "2PhMGrPC",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.5-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Portable Grid.\u003c/li\u003e\n\u003cli\u003eAdded OpenComputers integration.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2296.\u003c/li\u003e\n\u003cli\u003eRemoved ticking tile entities, every tile entity in RS is non-ticking now.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Crafting Tweaks buttons positioned wrongly.\u003c/li\u003e\n\u003cli\u003eFixed Crafting Tweaks keybindings interfering with RS keybindings.\u003c/li\u003e\n\u003cli\u003eFixed crash when updating storages.\u003c/li\u003e\n\u003cli\u003eFixed no tooltips for fluid filter slots.\u003c/li\u003e\n\u003cli\u003eFixed Disk Manipulator in fluid mode not showing fluids.\u003c/li\u003e\n\u003cli\u003eFixed dupe bug in the Interface.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "9a390971b0413c03880eca8112594c17891abcc2ad5fd1158bbf4e523bef806bfb90aa9477d31fad2ad8f718e609f146a124fd4a3cc0d8d86d8a3cfc26f32b54",
+            "sha1": "461c8b4801690ee3b411ec792f7125e2060f0c91"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/2PhMGrPC/refinedstorage-1.4.5.jar",
+          "filename": "refinedstorage-1.4.5.jar",
+          "primary": true,
+          "size": 1647730
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.5-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/2PhMGrPC",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 4508
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 4510
+  }
+}

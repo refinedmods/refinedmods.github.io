@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.0-beta.json",
+  "name": "v1.9.0-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 85636316,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2MzE2",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.0-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636316/assets",
+      "assets": [
+        {
+          "id": 87725146,
+          "nodeId": "RA_kwDOAtXBQM4FOpRa",
+          "name": "refinedstorage-1.9.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1876519,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.0-beta/refinedstorage-1.9.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636316/assets{?name,label}",
+      "tagName": "v1.9.0-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.16.\r\n\r\n### Fixed\r\n\r\n- Fixed wrench requiring shift click to rotate blocks.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T20:04:08Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.0-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.0-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636316",
+      "createdAt": "2020-07-14T14:55:23Z"
+    },
+    {
+      "id": 3004694,
+      "dateModified": "2022-12-10T20:13:06Z",
+      "fileLength": 1876519,
+      "fileName": "refinedstorage-1.9.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.1"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3004694",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3004694",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3004694",
+      "createdAt": "2020-07-14T15:13:22Z"
+    },
+    {
+      "id": "bNAyBCTf",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.0-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.16.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed wrench requiring shift click to rotate blocks.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7a20114eeaad9c2f89422c7ee0718eb3ddbff334aad817759724660474f29b2f32726cd06ed26b84ab78cab1ac6510cf6477eaf4d9cdc759817c5c2eb80d0fa4",
+            "sha1": "062904999bdf6d46bfb50ed905a1ae5359c56273"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/bNAyBCTf/refinedstorage-1.9.jar",
+          "filename": "refinedstorage-1.9.jar",
+          "primary": true,
+          "size": 1876519
+        }
+      ],
+      "gameVersions": [
+        "1.16.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.0-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/bNAyBCTf",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 382
+      },
+      {
+        "source": "modrinth",
+        "downloads": 4
+      }
+    ],
+    "totalDownloads": 386
+  }
+}

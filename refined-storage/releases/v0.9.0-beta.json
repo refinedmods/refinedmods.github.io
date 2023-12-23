@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.9.0-beta.json",
+  "name": "v0.9.0-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110521238,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMTIzOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.9.0-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521238/assets",
+      "assets": [
+        {
+          "id": 115036036,
+          "nodeId": "RA_kwDOAtXBQM4G20-E",
+          "name": "refinedstorage-0.9.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 713299,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.9.0-beta/refinedstorage-0.9.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110521238/assets{?name,label}",
+      "tagName": "v0.9.0-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added fluid storage.\r\n- Added Russian translation.\r\n\r\n### Changed\r\n\r\n- Energy usage of Wireless Grid is now configurable.\r\n- Wireless Transmitters can now only be placed on Cable.\r\n- Priority field and detector amount field can now display 4 digits at a time.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Grid.\r\n- Fixed Grid Filter only updating the Grid when reopening the GUI.\r\n- Fixed Wireless Grid not working cross dimensionally.\r\n- Fixed Grid not displaying items after changing redstone mode.\r\n- Fixed Wireless Transmitter crashing when it is transmitting to a removed dimension.\r\n- Fixed disassembling stacked Storage Blocks only returns 1 set of items.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:46:47Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.9.0-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.9.0-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521238",
+      "createdAt": "2016-08-24T19:08:37Z"
+    },
+    {
+      "id": 2326023,
+      "dateModified": "2023-06-30T15:54:37Z",
+      "fileLength": 713299,
+      "fileName": "refinedstorage-0.9.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2326023",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2326023",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2326023",
+      "createdAt": "2016-08-24T19:11:30Z"
+    },
+    {
+      "id": "PudOOyk9",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.9.0-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded fluid storage.\u003c/li\u003e\n\u003cli\u003eAdded Russian translation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eEnergy usage of Wireless Grid is now configurable.\u003c/li\u003e\n\u003cli\u003eWireless Transmitters can now only be placed on Cable.\u003c/li\u003e\n\u003cli\u003ePriority field and detector amount field can now display 4 digits at a time.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash with Grid.\u003c/li\u003e\n\u003cli\u003eFixed Grid Filter only updating the Grid when reopening the GUI.\u003c/li\u003e\n\u003cli\u003eFixed Wireless Grid not working cross dimensionally.\u003c/li\u003e\n\u003cli\u003eFixed Grid not displaying items after changing redstone mode.\u003c/li\u003e\n\u003cli\u003eFixed Wireless Transmitter crashing when it is transmitting to a removed dimension.\u003c/li\u003e\n\u003cli\u003eFixed disassembling stacked Storage Blocks only returns 1 set of items.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "aa1a2c76a9084334eecf20a659998aef9f7fd5ee8f6015556333da310747186759e8da9f7bfa4d90463b08e2fbc826b185487bebb99dfec4f1595c183c00af68",
+            "sha1": "fcc5d4f51f398726d1a8de30ed90092b15cd0690"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/PudOOyk9/refinedstorage-0.9.jar",
+          "filename": "refinedstorage-0.9.jar",
+          "primary": true,
+          "size": 713299
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.9.0-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/PudOOyk9",
+      "createdAt": "2023-07-04T19:57:14Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 340
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 342
+  }
+}

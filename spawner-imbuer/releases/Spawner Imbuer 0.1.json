@@ -1,0 +1,50 @@
+{
+  "url": "https://refinedmods.com/spawner-imbuer/releases/Spawner Imbuer 0.1.json",
+  "name": "Spawner Imbuer 0.1",
+  "indexedAt": "2023-12-23T23:53:29Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": "dxWW9iDw",
+      "projectId": "7c62iDL7",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.1",
+      "changelog": "\u003cp\u003eInitial release\u003c/p\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "50330a68100f889b23754fba600a44ca91d0c41c40eae9affd9d04acd570f7e8fe280e6ec7eaa5d9d9898cab0e6499459029e8df16056e6fe43602df7afe5382",
+            "sha1": "f77806d6adc6cf0c5ef2902114daae6a31ab3fd1"
+          },
+          "url": "https://cdn.modrinth.com/data/7c62iDL7/versions/dxWW9iDw/spawnerimbuer-0.1.jar",
+          "filename": "spawnerimbuer-0.1.jar",
+          "primary": true,
+          "size": 5896
+        }
+      ],
+      "gameVersions": [
+        "1.10.2",
+        "1.11.2",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/spawner-imbuer/version/0.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/spawner-imbuer/version/dxWW9iDw",
+      "createdAt": "2023-07-01T21:04:15Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "modrinth",
+        "downloads": 43
+      }
+    ],
+    "totalDownloads": 43
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.5.0.json",
+  "name": "v0.5.0",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55596030,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDMw",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.5.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596030/assets",
+      "assets": [
+        {
+          "id": 52081157,
+          "nodeId": "RA_kwDOA8bqCc4DGrIF",
+          "name": "rangedpumps-0.5.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 21519,
+          "downloadCount": 11,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.5.0/rangedpumps-0.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596030/assets{?name,label}",
+      "tagName": "v0.5.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.12.\r\n\r\n### Changed\r\n\r\n- Changed scanning system to scan nearest blocks first.\r\n- The pump no longer requires a redstone signal. If a redstone signal is given, the pump will pause instead.\r\n- The pump now auto-pushes liquids to neighboring tanks.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T12:48:30Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.5.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.5.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596030",
+      "createdAt": "2017-06-25T14:24:53Z"
+    },
+    {
+      "id": 2441326,
+      "dateModified": "2021-12-18T13:00:09Z",
+      "fileLength": 21519,
+      "fileName": "rangedpumps-0.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/2441326",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/2441326",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/2441326",
+      "createdAt": "2017-06-25T14:27:11Z"
+    },
+    {
+      "id": "OM1ewzNX",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.5.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.12.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eChanged scanning system to scan nearest blocks first.\u003c/li\u003e\n\u003cli\u003eThe pump no longer requires a redstone signal. If a redstone signal is given, the pump will pause instead.\u003c/li\u003e\n\u003cli\u003eThe pump now auto-pushes liquids to neighboring tanks.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e1b883e23dec90fbe9117ec395227e101110d5f5006b9335f6ffbfb6c6694a798a6a768ebc9bf92873faedb0a81ddc26a5d06e10c43cd6950cdf61e36b3f793e",
+            "sha1": "839d16b7fffaf5d3de561ca4356f08fb916b403a"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/OM1ewzNX/rangedpumps-0.5.jar",
+          "filename": "rangedpumps-0.5.jar",
+          "primary": true,
+          "size": 21519
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.5.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/OM1ewzNX",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 11
+      },
+      {
+        "source": "curseforge",
+        "downloads": 23531045
+      },
+      {
+        "source": "modrinth",
+        "downloads": 210
+      }
+    ],
+    "totalDownloads": 23531266
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.16.json",
+  "name": "v1.6.16",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110330044,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDA0NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.16",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330044/assets",
+      "assets": [
+        {
+          "id": 114835762,
+          "nodeId": "RA_kwDOAtXBQM4G2EEy",
+          "name": "refinedstorage-1.6.16.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1912377,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.16/refinedstorage-1.6.16.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330044/assets{?name,label}",
+      "tagName": "v1.6.16",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed erroring controller tile entity.\r\n- Fixed Inventory Tweaks sorting not respecting locked slots.\r\n- Fixed OpenComputers driver voiding excess fluids.\r\n- Fixed being able to move wireless items in inventory.\r\n\r\n### Changed\r\n\r\n- Updated Russian translation.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:27:24Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.16",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.16",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330044",
+      "createdAt": "2020-04-26T08:28:55Z"
+    },
+    {
+      "id": 2940914,
+      "dateModified": "2023-06-29T09:41:01Z",
+      "fileLength": 1912377,
+      "fileName": "refinedstorage-1.6.16.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2940914",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2940914",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2940914",
+      "createdAt": "2020-04-26T10:32:58Z"
+    },
+    {
+      "id": "wEzhu0F6",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.16",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed erroring controller tile entity.\u003c/li\u003e\n\u003cli\u003eFixed Inventory Tweaks sorting not respecting locked slots.\u003c/li\u003e\n\u003cli\u003eFixed OpenComputers driver voiding excess fluids.\u003c/li\u003e\n\u003cli\u003eFixed being able to move wireless items in inventory.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Russian translation.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "5322690fa9382d1a8254e7123473124ec0e2193ae822df76e924a3701c88059b4ffc820a35a5229d5b32def5e5d88f3bbb183945d1f68c9fb8dee5fc2881853b",
+            "sha1": "007c8fb5bcc2bb99b7bbb055440e20b276251d77"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/wEzhu0F6/refinedstorage-1.6.16.jar",
+          "filename": "refinedstorage-1.6.16.jar",
+          "primary": true,
+          "size": 1912377
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.16",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/wEzhu0F6",
+      "createdAt": "2023-07-04T19:58:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 7
+      },
+      {
+        "source": "curseforge",
+        "downloads": 12696112
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1836
+      }
+    ],
+    "totalDownloads": 12697955
+  }
+}

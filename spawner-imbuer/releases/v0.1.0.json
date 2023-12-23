@@ -1,0 +1,78 @@
+{
+  "url": "https://refinedmods.com/spawner-imbuer/releases/v0.1.0.json",
+  "name": "v0.1.0",
+  "indexedAt": "2023-12-23T23:53:29Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2387905,
+      "dateModified": "2023-10-22T18:09:58Z",
+      "fileLength": 5896,
+      "fileName": "spawnerimbuer-0.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10.2",
+        "1.11.2",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/spawner-imbuer/download/2387905",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/spawner-imbuer/files/2387905",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/261930/files/2387905",
+      "createdAt": "2017-03-02T12:15:15Z"
+    },
+    {
+      "id": 126198132,
+      "nodeId": "MDc6UmVsZWFzZTEyNjE5ODEzMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/spawnerimbuer/releases/tag/v0.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/spawnerimbuer/releases/126198132/assets",
+      "assets": [
+        {
+          "id": 131911473,
+          "nodeId": "RA_kwDOBPzFvc4H3M8x",
+          "name": "spawnerimbuer-0.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 5896,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/spawnerimbuer/releases/download/v0.1.0/spawnerimbuer-0.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/spawnerimbuer/releases/126198132/assets{?name,label}",
+      "tagName": "v0.1.0",
+      "targetCommitish": "master",
+      "body": "Initial release",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-10-23T08:08:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/spawnerimbuer/tarball/v0.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/spawnerimbuer/zipball/v0.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/spawnerimbuer/releases/126198132",
+      "createdAt": "2017-03-02T12:17:28Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 13697
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 13697
+  }
+}

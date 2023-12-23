@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.8.json",
+  "name": "v1.2.0-beta.8",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110514283,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDI4Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.8",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514283/assets",
+      "assets": [
+        {
+          "id": 115029504,
+          "nodeId": "RA_kwDOAtXBQM4G2zYA",
+          "name": "refinedstorage-1.2-beta8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1153407,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.8/refinedstorage-1.2-beta8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514283/assets{?name,label}",
+      "tagName": "v1.2.0-beta.8",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- More autocrafting issues.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:55:22Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.8",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.8",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514283",
+      "createdAt": "2016-11-03T19:25:49Z"
+    },
+    {
+      "id": 2341550,
+      "dateModified": "2023-06-30T15:13:33Z",
+      "fileLength": 1153407,
+      "fileName": "refinedstorage-1.2-beta8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2341550",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2341550",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2341550",
+      "createdAt": "2016-11-03T19:28:21Z"
+    },
+    {
+      "id": "gL1kQrec",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.0-beta.8",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMore autocrafting issues.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c516f09579c579f653fceb416ab3083ade11a42b4b8be2b02da499e6340df337d8af57e4fb3b0aaa20641202bc342e110b66405d1e751f9f987f7148a0729a35",
+            "sha1": "0fa5d287d382838277a3e9131dd7b8a72b0f1300"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/gL1kQrec/refinedstorage-1.2-beta8.jar",
+          "filename": "refinedstorage-1.2-beta8.jar",
+          "primary": true,
+          "size": 1153407
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.0-beta.8",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/gL1kQrec",
+      "createdAt": "2023-07-04T19:57:35Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 152
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 154
+  }
+}

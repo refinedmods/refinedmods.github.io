@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.5.json",
+  "name": "v1.2.0-beta.5",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110514414,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDQxNA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514414/assets",
+      "assets": [
+        {
+          "id": 115029659,
+          "nodeId": "RA_kwDOAtXBQM4G2zab",
+          "name": "refinedstorage-1.2-beta5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1141779,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.5/refinedstorage-1.2-beta5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514414/assets{?name,label}",
+      "tagName": "v1.2.0-beta.5",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- More autocrafting issues.\r\n- External Storage TPS lag issues.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:56:14Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514414",
+      "createdAt": "2016-10-30T19:58:34Z"
+    },
+    {
+      "id": 2340603,
+      "dateModified": "2023-06-30T15:14:33Z",
+      "fileLength": 1141779,
+      "fileName": "refinedstorage-1.2-beta5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2340603",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2340603",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2340603",
+      "createdAt": "2016-10-30T20:02:52Z"
+    },
+    {
+      "id": "t1QPUhlp",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.0-beta.5",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMore autocrafting issues.\u003c/li\u003e\n\u003cli\u003eExternal Storage TPS lag issues.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "401c958013739855847aa799bd4f43d0b4fc8382796f5ae822a7a76ddbe7152e9b38c30d0f26b481f406dc5b4f96804c1232c703d456d1d2239f6647287c7600",
+            "sha1": "161c83a81cd7f40f782d8915ae8ef83248151b26"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/t1QPUhlp/refinedstorage-1.2-beta5.jar",
+          "filename": "refinedstorage-1.2-beta5.jar",
+          "primary": true,
+          "size": 1141779
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.0-beta.5",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/t1QPUhlp",
+      "createdAt": "2023-07-04T19:57:35Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 10247
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 10248
+  }
+}

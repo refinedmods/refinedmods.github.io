@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.9.4-beta.json",
+  "name": "v0.9.4-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110521060,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMTA2MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.9.4-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521060/assets",
+      "assets": [
+        {
+          "id": 115035834,
+          "nodeId": "RA_kwDOAtXBQM4G2066",
+          "name": "refinedstorage-0.9.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 718697,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.9.4-beta/refinedstorage-0.9.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110521060/assets{?name,label}",
+      "tagName": "v0.9.4-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Reduced explosion radius when multiple controllers are connected to the same network.\r\n\r\n### Fixed\r\n\r\n- Fixed mod not working without JEI.\r\n- Little fixes in German translation.\r\n- Reverted network changes that caused buggy behavior.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:45:32Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.9.4-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.9.4-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521060",
+      "createdAt": "2016-08-27T22:50:22Z"
+    },
+    {
+      "id": 2326651,
+      "dateModified": "2023-06-30T15:52:55Z",
+      "fileLength": 718697,
+      "fileName": "refinedstorage-0.9.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2326651",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2326651",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2326651",
+      "createdAt": "2016-08-27T22:53:14Z"
+    },
+    {
+      "id": "XjPaOboi",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.9.4-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eReduced explosion radius when multiple controllers are connected to the same network.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed mod not working without JEI.\u003c/li\u003e\n\u003cli\u003eLittle fixes in German translation.\u003c/li\u003e\n\u003cli\u003eReverted network changes that caused buggy behavior.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "87028176f46742094f7535cebd25a76fab07fa03d7f652079e2a98d73af11619f3eaa58f9e3c7c05d3741213189ad8aae9d828e52e14822292c4a15a0e4ede3f",
+            "sha1": "9e4b25a745a46ae8f120dcdeb5f1f88e8df9be0a"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/XjPaOboi/refinedstorage-0.9.4.jar",
+          "filename": "refinedstorage-0.9.4.jar",
+          "primary": true,
+          "size": 718697
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.9.4-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/XjPaOboi",
+      "createdAt": "2023-07-04T19:57:14Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 34643
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 34645
+  }
+}

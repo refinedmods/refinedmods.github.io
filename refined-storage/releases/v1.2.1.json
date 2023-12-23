@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.1.json",
+  "name": "v1.2.1",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110514147,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDE0Nw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514147/assets",
+      "assets": [
+        {
+          "id": 115029401,
+          "nodeId": "RA_kwDOAtXBQM4G2zWZ",
+          "name": "refinedstorage-1.2.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1338870,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.1/refinedstorage-1.2.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514147/assets{?name,label}",
+      "tagName": "v1.2.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Wireless Crafting Monitor (with temporary textures).\r\n- Added support for JEI R and U keys in Grids.\r\n\r\n### Changed\r\n\r\n- You can now decompose storage disks if the item count is below zero by any chance.\r\n\r\n### Fixed\r\n\r\n- Fixed crafting upgrade having weird behavior.\r\n- Fixed external storage not updating when loading chunk.\r\n- Fixed external storage crash.\r\n- Fixed weird autocrafting behavior.\r\n\r\n### Removed\r\n\r\n- Removed controller explosions when multiple controllers are connected to the same network.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:54:37Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514147",
+      "createdAt": "2016-11-05T13:57:45Z"
+    },
+    {
+      "id": 2342059,
+      "dateModified": "2023-06-30T15:12:44Z",
+      "fileLength": 1338870,
+      "fileName": "refinedstorage-1.2.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2342059",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2342059",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2342059",
+      "createdAt": "2016-11-05T14:03:36Z"
+    },
+    {
+      "id": "oWHL6FCy",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Wireless Crafting Monitor (with temporary textures).\u003c/li\u003e\n\u003cli\u003eAdded support for JEI R and U keys in Grids.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eYou can now decompose storage disks if the item count is below zero by any chance.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crafting upgrade having weird behavior.\u003c/li\u003e\n\u003cli\u003eFixed external storage not updating when loading chunk.\u003c/li\u003e\n\u003cli\u003eFixed external storage crash.\u003c/li\u003e\n\u003cli\u003eFixed weird autocrafting behavior.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved controller explosions when multiple controllers are connected to the same network.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4d46cd2b9f64fbc46898039e50266dcfd5f04d1b21e38f2e7f74f85a5ad2d768854dc013ea6b65f7f86d9045a0d4fa6fc048b1c0f7ffd73a4f589fdd4678b721",
+            "sha1": "929d5acd7dd65c48ac932d63175551aa90d44138"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/oWHL6FCy/refinedstorage-1.2.1.jar",
+          "filename": "refinedstorage-1.2.1.jar",
+          "primary": true,
+          "size": 1338870
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/oWHL6FCy",
+      "createdAt": "2023-07-04T19:57:36Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1776
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1778
+  }
+}

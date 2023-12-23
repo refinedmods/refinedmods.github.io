@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.13-beta.json",
+  "name": "v0.7.13-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000382,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDM4Mg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.13-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000382/assets",
+      "assets": [
+        {
+          "id": 115529252,
+          "nodeId": "RA_kwDOAtXBQM4G4tYk",
+          "name": "refinedstorage-0.7.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 456878,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.13-beta/refinedstorage-0.7.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000382/assets{?name,label}",
+      "tagName": "v0.7.13-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added ability to triple click in grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:24:46Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.13-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.13-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000382",
+      "createdAt": "2016-06-16T11:53:20Z"
+    },
+    {
+      "id": 2307969,
+      "dateModified": "2023-07-04T13:56:15Z",
+      "fileLength": 456878,
+      "fileName": "refinedstorage-0.7.13.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2307969",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2307969",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2307969",
+      "createdAt": "2016-06-16T11:53:58Z"
+    },
+    {
+      "id": "9HIc9bq8",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.13-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded ability to triple click in grid.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "efc346db3310387f56b50a848906b2b1654492cdb6d3bce6e820d77b6de7cbfaa9c741f265f9871de563879c4872a95020f339eb88ea768c8b28b162651120cc",
+            "sha1": "1fba7b2d3ade0849cb97328e0d47c3c5279c328a"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/9HIc9bq8/refinedstorage-0.7.13.jar",
+          "filename": "refinedstorage-0.7.13.jar",
+          "primary": true,
+          "size": 456878
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.13-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/9HIc9bq8",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 6455
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 6457
+  }
+}

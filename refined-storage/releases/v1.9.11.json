@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.11.json",
+  "name": "v1.9.11",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 85636228,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2MjI4",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.11",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636228/assets",
+      "assets": [
+        {
+          "id": 87724936,
+          "nodeId": "RA_kwDOAtXBQM4FOpOI",
+          "name": "refinedstorage-1.9.11.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3135261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.11/refinedstorage-1.9.11.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636228/assets{?name,label}",
+      "tagName": "v1.9.11",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed disks and network devices not loading when they did not previously exist\r\n  - If you are affected by this please go to the world/data/ folder and remove the \".temp\" ending from the files\r\n    before launching.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T19:59:42Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.11",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.11",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636228",
+      "createdAt": "2021-01-03T17:50:22Z"
+    },
+    {
+      "id": 3157354,
+      "dateModified": "2022-12-10T20:08:54Z",
+      "fileLength": 3135261,
+      "fileName": "refinedstorage-1.9.11.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.4"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3157354",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3157354",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3157354",
+      "createdAt": "2021-01-03T17:53:22Z"
+    },
+    {
+      "id": "MzQ0XcZA",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.11",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\nFixed disks and network devices not loading when they did not previously exist\n\u003cul\u003e\n\u003cli\u003eIf you are affected by this please go to the world/data/ folder and remove the \u0026quot;.temp\u0026quot; ending from the files\nbefore launching.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "41b12b236e96b1927c1913fc5364a703e82c1b290f5f9600ac7a3b45229324114d7f7c4d2c7ac65c13e7e32b38f65275811e055808c955e2f96d7c015533bcf0",
+            "sha1": "f923b0e4d49de116557c432c6fb73b525187d625"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/MzQ0XcZA/refinedstorage-1.9.11.jar",
+          "filename": "refinedstorage-1.9.11.jar",
+          "primary": true,
+          "size": 3135261
+        }
+      ],
+      "gameVersions": [
+        "1.16.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.11",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/MzQ0XcZA",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 956142
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 956145
+  }
+}

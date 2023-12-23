@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.3-beta.json",
+  "name": "v0.8.3-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 2312551,
+      "dateModified": "2023-07-04T10:49:20Z",
+      "fileLength": 466966,
+      "fileName": "refinedstorage-0.8.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2312551",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2312551",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2312551",
+      "createdAt": "2016-07-02T17:07:17Z"
+    },
+    {
+      "id": 110999771,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTc3MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.3-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999771/assets",
+      "assets": [
+        {
+          "id": 115528789,
+          "nodeId": "RA_kwDOAtXBQM4G4tRV",
+          "name": "refinedstorage-0.8.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 466966,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.3-beta/refinedstorage-0.8.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999771/assets{?name,label}",
+      "tagName": "v0.8.3-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed drawer controllers not working with external storage.\r\n- Fixed right click taking 64 items instead of 32 items.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:20:40Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.3-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.3-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999771",
+      "createdAt": "2016-07-02T18:51:57Z"
+    },
+    {
+      "id": "K1YTksBI",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.3-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed drawer controllers not working with external storage.\u003c/li\u003e\n\u003cli\u003eFixed right click taking 64 items instead of 32 items.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "2b3a61ad6120ca6ce32c5e13175ac3d3a9a7800e48b7d251bb0b2b11748673410331c6e60c0dc9381861166a90d8e96ac2258dc1fa44bbdbefdd1986a9aa3941",
+            "sha1": "15ae801eb0dc79e9a0de32b7532e8afd33d0c874"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/K1YTksBI/refinedstorage-0.8.3.jar",
+          "filename": "refinedstorage-0.8.3.jar",
+          "primary": true,
+          "size": 466966
+        }
+      ],
+      "gameVersions": [
+        "1.10",
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.3-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/K1YTksBI",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 4033
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 4035
+  }
+}

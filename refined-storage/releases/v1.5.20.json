@@ -1,0 +1,116 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.20.json",
+  "name": "v1.5.20",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110470818,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDgxOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.20",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470818/assets",
+      "assets": [
+        {
+          "id": 114987522,
+          "nodeId": "RA_kwDOAtXBQM4G2pIC",
+          "name": "refinedstorage-1.5.20.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1703415,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.20/refinedstorage-1.5.20.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470818/assets{?name,label}",
+      "tagName": "v1.5.20",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Restore MC 1.12.0 compatibility.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:00:52Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.20",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.20",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470818",
+      "createdAt": "2017-10-09T17:28:56Z"
+    },
+    {
+      "id": 2489086,
+      "dateModified": "2023-06-30T09:20:51Z",
+      "fileLength": 1703415,
+      "fileName": "refinedstorage-1.5.20.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2489086",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2489086",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2489086",
+      "createdAt": "2017-10-09T17:35:44Z"
+    },
+    {
+      "id": "MvQHq8zk",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.20",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRestore MC 1.12.0 compatibility.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "3661c9c9e8af104163f0a0710879ad3333a81b25da6eb16cd7032653f164d02d9c04566a4ceaede7f4953de94ac6d92e5d666fc6aab38142a74d926358509649",
+            "sha1": "1f8474f5cda4193dc75aab1796aa4d1027bb93cf"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/MvQHq8zk/refinedstorage-1.5.20.jar",
+          "filename": "refinedstorage-1.5.20.jar",
+          "primary": true,
+          "size": 1703415
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.20",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/MvQHq8zk",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 37239
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 37241
+  }
+}

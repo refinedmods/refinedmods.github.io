@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.8.3-beta.json",
+  "name": "v1.8.3-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 86566251,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2MjUx",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.8.3-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566251/assets",
+      "assets": [
+        {
+          "id": 88798146,
+          "nodeId": "RA_kwDOAtXBQM4FSvPC",
+          "name": "refinedstorage-1.8.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1890462,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.3-beta/refinedstorage-1.8.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566251/assets{?name,label}",
+      "tagName": "v1.8.3-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- A new experimental autocrafting engine that\u0027s enabled by default. This should improve autocrafting performance.\r\n- The Regulator Upgrade that can be inserted into a Exporter. This ensures a certain amount of items and fluids is\r\n  kept in stock in a connected inventory.\r\n- Debug logging on the server when an expensive operation occurs.\r\n\r\n### Fixed\r\n\r\n- Fixed Exporter not exporting anything when using a Stack Upgrade and there isn\u0027t space for 64 items in the inventory.\r\n- Fixed Controller always using the base usage even when turned off.\r\n- Fixed severe memory leak in the storage cache.\r\n\r\n### Changed\r\n\r\n- Wireless Transmitters can now be placed on any block and in any direction.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:51:25Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.3-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.3-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566251",
+      "createdAt": "2020-04-29T17:33:38Z"
+    },
+    {
+      "id": 2943760,
+      "dateModified": "2022-12-19T18:05:01Z",
+      "fileLength": 1890462,
+      "fileName": "refinedstorage-1.8.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2943760",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2943760",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2943760",
+      "createdAt": "2020-04-29T17:37:45Z"
+    },
+    {
+      "id": "CleXWjNW",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.8.3-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eA new experimental autocrafting engine that\u0027s enabled by default. This should improve autocrafting performance.\u003c/li\u003e\n\u003cli\u003eThe Regulator Upgrade that can be inserted into a Exporter. This ensures a certain amount of items and fluids is\r\n  kept in stock in a connected inventory.\u003c/li\u003e\n\u003cli\u003eDebug logging on the server when an expensive operation occurs.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Exporter not exporting anything when using a Stack Upgrade and there isn\u0027t space for 64 items in the inventory.\u003c/li\u003e\n\u003cli\u003eFixed Controller always using the base usage even when turned off.\u003c/li\u003e\n\u003cli\u003eFixed severe memory leak in the storage cache.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eWireless Transmitters can now be placed on any block and in any direction.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7627c30e53fe5073ace7b587e8a2d8d3e40b6bfad2efb416e38cf9f5f3d6d97d1f54c98a7b23a6e9bcd0946a69805708fbe270c452216b0eac3493bc644f0e4d",
+            "sha1": "7d0e17cd10fbcf702cea3d0bdadb83724ce24eb6"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/CleXWjNW/refinedstorage-1.8.3.jar",
+          "filename": "refinedstorage-1.8.3.jar",
+          "primary": true,
+          "size": 1890462
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.8.3-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/CleXWjNW",
+      "createdAt": "2023-07-04T19:58:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 346876
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 346878
+  }
+}

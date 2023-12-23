@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.2.json",
+  "name": "v0.4.2",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284021,
+      "nodeId": "MDc6UmVsZWFzZTU1Mjg0MDIx",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.4.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284021/assets",
+      "assets": [
+        {
+          "id": 51752322,
+          "nodeId": "RA_kwDOBc8fRM4DFa2C",
+          "name": "refinedstorageaddons-0.4.2.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 26524,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.4.2/refinedstorageaddons-0.4.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284021/assets{?name,label}",
+      "tagName": "v0.4.2",
+      "targetCommitish": "develop",
+      "body": "### Removed\r\n\r\n- Infinite Wireless Transmitter.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:18:03Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.4.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.4.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284021",
+      "createdAt": "2018-08-24T14:40:53Z"
+    },
+    {
+      "id": 2612215,
+      "dateModified": "2021-12-14T15:33:30Z",
+      "fileLength": 26524,
+      "fileName": "refinedstorageaddons-0.4.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2612215",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2612215",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2612215",
+      "createdAt": "2018-09-02T18:10:24Z"
+    },
+    {
+      "id": "DkuISs2Q",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.4.2",
+      "changelog": "\u003ch3\u003eRemoved\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eInfinite Wireless Transmitter.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4b8b5850f360be24814c797e6db7ab04e1c8a0cf11a5350e44de6b7c735d80eab5d78ec298c88f78d7879f52e1143d08767ac7d4285f1f7a58525749b61efd36",
+            "sha1": "ccc71cbfbb1fad5b62d69d25221c5de792dccbce"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/DkuISs2Q/refinedstorageaddons-0.4.2.jar",
+          "filename": "refinedstorageaddons-0.4.2.jar",
+          "primary": true,
+          "size": 26524
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.4.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/DkuISs2Q",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1199969
+      },
+      {
+        "source": "modrinth",
+        "downloads": 12
+      }
+    ],
+    "totalDownloads": 1199981
+  }
+}

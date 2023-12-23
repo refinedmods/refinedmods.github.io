@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.29.json",
+  "name": "v1.5.29",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110470380,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDM4MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.29",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470380/assets",
+      "assets": [
+        {
+          "id": 114987085,
+          "nodeId": "RA_kwDOAtXBQM4G2pBN",
+          "name": "refinedstorage-1.5.29.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1747384,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.29/refinedstorage-1.5.29.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470380/assets{?name,label}",
+      "tagName": "v1.5.29",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Update Forge to 2577 (minimum Forge version required is now 2555 for MC 1.12.2).\r\n\r\n### Fixed\r\n\r\n- Fixed bug where MCMP multiparts were blocking RS network connections.\r\n- Fixed Reader/Writers for energy extracting energy when not needed.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T08:56:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.29",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.29",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470380",
+      "createdAt": "2017-12-23T12:19:36Z"
+    },
+    {
+      "id": 2512957,
+      "dateModified": "2023-06-30T09:17:54Z",
+      "fileLength": 1747384,
+      "fileName": "refinedstorage-1.5.29.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2512957",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2512957",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2512957",
+      "createdAt": "2017-12-23T12:29:27Z"
+    },
+    {
+      "id": "RjD1Ok08",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.29",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdate Forge to 2577 (minimum Forge version required is now 2555 for MC 1.12.2).\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where MCMP multiparts were blocking RS network connections.\u003c/li\u003e\n\u003cli\u003eFixed Reader/Writers for energy extracting energy when not needed.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "75333aa919b65d560b4bfbf423a84a4164775bee33fffbd21aaba91f1b0f100f1332c7c86630e68974290b6468b968fd09fab325884c69a2473579b576e74757",
+            "sha1": "457e2e6707368ef9fd7f7ad983adb9e55d896816"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/RjD1Ok08/refinedstorage-1.5.29.jar",
+          "filename": "refinedstorage-1.5.29.jar",
+          "primary": true,
+          "size": 1747384
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.29",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/RjD1Ok08",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 2
+      },
+      {
+        "source": "curseforge",
+        "downloads": 7031
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 7035
+  }
+}

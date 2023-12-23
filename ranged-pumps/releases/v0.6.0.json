@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.6.0.json",
+  "name": "v0.6.0",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55596039,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDM5",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.6.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596039/assets",
+      "assets": [
+        {
+          "id": 52081167,
+          "nodeId": "RA_kwDOA8bqCc4DGrIP",
+          "name": "rangedpumps-0.6.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 23966,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.6.0/rangedpumps-0.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596039/assets{?name,label}",
+      "tagName": "v0.6.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.14.\r\n- Russian translation by [@DDShadowRU](https://github.com/DDShadowRU).\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T12:48:49Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.6.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.6.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596039",
+      "createdAt": "2019-11-03T19:31:12Z"
+    },
+    {
+      "id": 2821542,
+      "dateModified": "2021-12-18T13:00:35Z",
+      "fileLength": 23966,
+      "fileName": "rangedpumps-0.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.14.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/2821542",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/2821542",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/2821542",
+      "createdAt": "2019-11-03T19:47:54Z"
+    },
+    {
+      "id": "m8r8K0s2",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.6.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.14.\u003c/li\u003e\n\u003cli\u003eRussian translation by \u003ca href\u003d\"https://github.com/DDShadowRU\" rel\u003d\"nofollow\"\u003e@DDShadowRU\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7c4a2d380930bffdaa884c54d41fa589404bfe69dbe6477d132534b512e26f96676764ac172f4e3567276af275eef77b2a9e8983c111fd11ce1c984f45989bf6",
+            "sha1": "566030e82643599ba547ebdb218e11a20059fb25"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/m8r8K0s2/rangedpumps-0.6.jar",
+          "filename": "rangedpumps-0.6.jar",
+          "primary": true,
+          "size": 23966
+        }
+      ],
+      "gameVersions": [
+        "1.14.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.6.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/m8r8K0s2",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2848
+      },
+      {
+        "source": "modrinth",
+        "downloads": 12
+      }
+    ],
+    "totalDownloads": 2866
+  }
+}

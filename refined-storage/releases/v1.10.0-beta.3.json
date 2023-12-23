@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.10.0-beta.3.json",
+  "name": "v1.10.0-beta.3",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 55534709,
+      "nodeId": "RE_kwDOAtXBQM4DT2R1",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.10.0-beta.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/55534709/assets",
+      "assets": [
+        {
+          "id": 52005197,
+          "nodeId": "RA_kwDOAtXBQM4DGYlN",
+          "name": "refinedstorage-1.10.0-beta.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3230537,
+          "downloadCount": 24,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.10.0-beta.3/refinedstorage-1.10.0-beta.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/55534709/assets{?name,label}",
+      "tagName": "v1.10.0-beta.3",
+      "targetCommitish": "develop",
+      "body": "\n### Fixed\n- Fixed networks and network devices being removed when a chunk unloads.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-17T11:18:33Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.0-beta.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.0-beta.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/55534709",
+      "createdAt": "2021-12-17T11:09:20Z"
+    },
+    {
+      "id": 3569563,
+      "dateModified": "2021-12-17T11:19:49Z",
+      "fileLength": 3230537,
+      "fileName": "refinedstorage-1.10.0-beta.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3569563",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3569563",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3569563",
+      "createdAt": "2021-12-17T11:18:47Z"
+    },
+    {
+      "id": "NcJeKAfX",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.10.0-beta.3",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed networks and network devices being removed when a chunk unloads.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "00cfc91c9187c597fb9445b4763c6e486d10624d32769ec0090261be895dcefacbb3bf15fe906a2618e643249d8f9de7421fa21fe08e21ad3e75064aef17ba2d",
+            "sha1": "0c46cb465cd27f6438526be60483edcc33ee15e0"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/NcJeKAfX/refinedstorage-1.10.0-beta.3.jar",
+          "filename": "refinedstorage-1.10.0-beta.3.jar",
+          "primary": true,
+          "size": 3230537
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.10.0-beta.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/NcJeKAfX",
+      "createdAt": "2023-07-04T19:59:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 24
+      },
+      {
+        "source": "curseforge",
+        "downloads": 77433
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 77460
+  }
+}

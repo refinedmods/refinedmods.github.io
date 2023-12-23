@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.9-beta.json",
+  "name": "v1.4.9-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110492502,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjUwMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.9-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492502/assets",
+      "assets": [
+        {
+          "id": 115010425,
+          "nodeId": "RA_kwDOAtXBQM4G2ut5",
+          "name": "refinedstorage-1.4.9.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1652119,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.9-beta/refinedstorage-1.4.9.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492502/assets{?name,label}",
+      "tagName": "v1.4.9-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed bug where inventory data was lost sometimes upon opening the world.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:19:52Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.9-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.9-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492502",
+      "createdAt": "2017-05-24T23:34:13Z"
+    },
+    {
+      "id": 2424292,
+      "dateModified": "2023-06-30T13:38:13Z",
+      "fileLength": 1652119,
+      "fileName": "refinedstorage-1.4.9.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2424292",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2424292",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2424292",
+      "createdAt": "2017-05-24T23:46:04Z"
+    },
+    {
+      "id": "GH3gS21C",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.9-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where inventory data was lost sometimes upon opening the world.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "acbb5ee5bab82eb54012070d45f2516e6d5df7e0d6d444c765747a8b87bec3992f3ed779d4c0f52451ff3b3dff136e207deada1c0d36590112c6712d9e59f699",
+            "sha1": "98306ddebeca4f6b16babcc30225908ae8ddedf2"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/GH3gS21C/refinedstorage-1.4.9.jar",
+          "filename": "refinedstorage-1.4.9.jar",
+          "primary": true,
+          "size": 1652119
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.9-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/GH3gS21C",
+      "createdAt": "2023-07-04T19:57:48Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1934
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1936
+  }
+}

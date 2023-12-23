@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.12.2.json",
+  "name": "v1.12.2",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 111128235,
+      "nodeId": "RE_kwDOAtXBQM4Gn66r",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.12.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111128235/assets",
+      "assets": [
+        {
+          "id": 115679400,
+          "nodeId": "RA_kwDOAtXBQM4G5SCo",
+          "name": "refinedstorage-1.12.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3291729,
+          "downloadCount": 22,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.12.2/refinedstorage-1.12.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111128235/assets{?name,label}",
+      "tagName": "v1.12.2",
+      "targetCommitish": "b1d2f6b36575eba652214e1b14ba52471a56b0dd",
+      "body": "### Fixed\n\n-   The Grid detailed tooltip now has a small font size again.\n-   Fixed not being able to close GUIs anymore with autoselected search box mode.\n-   Fixed lingering tooltips of side buttons.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-05T14:34:19Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.12.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.12.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111128235",
+      "createdAt": "2023-07-05T14:30:35Z"
+    },
+    {
+      "id": 4626396,
+      "dateModified": "2023-07-05T14:38:21Z",
+      "fileLength": 3291729,
+      "fileName": "refinedstorage-1.12.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "Java 17",
+        "1.20.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4626396",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4626396",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4626396",
+      "createdAt": "2023-07-05T14:35:42Z"
+    },
+    {
+      "id": "vxhFf3p6",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.12.2",
+      "changelog": "### Fixed\n\n-   The Grid detailed tooltip now has a small font size again.\n-   Fixed not being able to close GUIs anymore with autoselected search box mode.\n-   Fixed lingering tooltips of side buttons.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "db2189b9e75769c39f43633c479fe3160d5fda973c3670de70b82827f3bc893b5098535c732a98448af4177172057cf05b492f694b439d4469aa1cb8aebfbfe5",
+            "sha1": "64989935723df6c86f9bc8567b4112930b9b9f55"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/vxhFf3p6/refinedstorage-1.12.2.jar",
+          "filename": "refinedstorage-1.12.2.jar",
+          "primary": true,
+          "size": 3291729
+        }
+      ],
+      "gameVersions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.12.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/vxhFf3p6",
+      "createdAt": "2023-07-05T14:35:43Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 22
+      },
+      {
+        "source": "curseforge",
+        "downloads": 24986
+      },
+      {
+        "source": "modrinth",
+        "downloads": 58
+      }
+    ],
+    "totalDownloads": 25066
+  }
+}

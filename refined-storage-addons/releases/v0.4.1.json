@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.1.json",
+  "name": "v0.4.1",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55283981,
+      "nodeId": "MDc6UmVsZWFzZTU1MjgzOTgx",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.4.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283981/assets",
+      "assets": [
+        {
+          "id": 51752271,
+          "nodeId": "RA_kwDOBc8fRM4DFa1P",
+          "name": "refinedstorageaddons-0.4.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 40267,
+          "downloadCount": 10,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.4.1/refinedstorageaddons-0.4.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55283981/assets{?name,label}",
+      "tagName": "v0.4.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Refined Storage 1.6.1 compatibility.\r\n- Russian translation by [@kellixon](https://github.com/kellixon).\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:17:43Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.4.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.4.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283981",
+      "createdAt": "2018-07-22T21:46:54Z"
+    },
+    {
+      "id": 2594983,
+      "dateModified": "2021-12-14T15:33:03Z",
+      "fileLength": 40267,
+      "fileName": "refinedstorageaddons-0.4.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2594983",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2594983",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2594983",
+      "createdAt": "2018-07-30T11:10:27Z"
+    },
+    {
+      "id": "OWoO6NVK",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.4.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eRefined Storage 1.6.1 compatibility.\u003c/li\u003e\r\n\u003cli\u003eRussian translation by\u0026nbsp;\u003ca href\u003d\"https://github.com/kellixon\" rel\u003d\"nofollow\"\u003e@kellixon\u003c/a\u003e.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e454ebd018cdaa176540a897886a48a0af85685b145ff6816e73a0233401113a30fb6a3d45e72e6e0d529c171f504aa9fd0ab061eab54a2f81b59166862dbdc3",
+            "sha1": "ea4e8f4c23c94a07dcaf4dab946dc41508f64f35"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/OWoO6NVK/refinedstorageaddons-0.4.1.jar",
+          "filename": "refinedstorageaddons-0.4.1.jar",
+          "primary": true,
+          "size": 40267
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.4.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/OWoO6NVK",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 10
+      },
+      {
+        "source": "curseforge",
+        "downloads": 548485
+      },
+      {
+        "source": "modrinth",
+        "downloads": 14
+      }
+    ],
+    "totalDownloads": 548509
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.15.json",
+  "name": "v1.6.15",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110330091,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDA5MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.15",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330091/assets",
+      "assets": [
+        {
+          "id": 114835801,
+          "nodeId": "RA_kwDOAtXBQM4G2EFZ",
+          "name": "refinedstorage-1.6.15.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1911631,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.15/refinedstorage-1.6.15.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330091/assets{?name,label}",
+      "tagName": "v1.6.15",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed recipes with more than 1 bucket of fluid not transferring from JEI.\r\n- Fixed oredict crafting patterns redefining recipes.\r\n- Fixed Portable Grids not keeping their enchantments when placed.\r\n- Fixed JEI hotkeys not working on fluid filter slots.\r\n- Fixed crash when opening Crafter Manager with FTB Quests installed.\r\n- Fixed a bug where the container slots weren\u0027t synced when opening a Grid.\r\n\r\n### Changed\r\n\r\n- Shortened crafting text for the Russion translation to fix Grid overlays.\r\n- GregTech Community Edition Wires and Machines are now banned from rendering on Refined Storage patterns because they are causing crashes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:31:15Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.15",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.15",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330091",
+      "createdAt": "2019-07-21T15:00:00Z"
+    },
+    {
+      "id": 2745458,
+      "dateModified": "2023-06-29T09:41:32Z",
+      "fileLength": 1911631,
+      "fileName": "refinedstorage-1.6.15.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2745458",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2745458",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2745458",
+      "createdAt": "2019-07-21T15:22:51Z"
+    },
+    {
+      "id": "liJvph0l",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.15",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed recipes with more than 1 bucket of fluid not transferring from JEI.\u003c/li\u003e\n\u003cli\u003eFixed oredict crafting patterns redefining recipes.\u003c/li\u003e\n\u003cli\u003eFixed Portable Grids not keeping their enchantments when placed.\u003c/li\u003e\n\u003cli\u003eFixed JEI hotkeys not working on fluid filter slots.\u003c/li\u003e\n\u003cli\u003eFixed crash when opening Crafter Manager with FTB Quests installed.\u003c/li\u003e\n\u003cli\u003eFixed a bug where the container slots weren\u0027t synced when opening a Grid.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eShortened crafting text for the Russion translation to fix Grid overlays.\u003c/li\u003e\n\u003cli\u003eGregTech Community Edition Wires and Machines are now banned from rendering on Refined Storage patterns because they are causing crashes.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ce5f0ba264143c898e08317a2240421a6ee8e884c9defc76e8f48081aeb59fa422a8c5e207613369377459d3beefaca36f8452a7ca49bdf41c33a799830612d9",
+            "sha1": "7629f6d99319c58217d36723f92f5e0102f9442c"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/liJvph0l/refinedstorage-1.6.15.jar",
+          "filename": "refinedstorage-1.6.15.jar",
+          "primary": true,
+          "size": 1911631
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.15",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/liJvph0l",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 4735042
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 4735045
+  }
+}

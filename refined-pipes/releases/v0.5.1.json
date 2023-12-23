@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.5.1.json",
+  "name": "v0.5.1",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 54195547,
+      "nodeId": "RE_kwDODcjNAM4DOvVb",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.5.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54195547/assets",
+      "assets": [
+        {
+          "id": 50495300,
+          "nodeId": "RA_kwDODcjNAM4DAn9E",
+          "name": "refinedpipes-0.5.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 319361,
+          "downloadCount": 13,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.5.1/refinedpipes-0.5.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/54195547/assets{?name,label}",
+      "tagName": "v0.5.1",
+      "targetCommitish": "develop",
+      "body": "\n### Added\n\n- Added Italian translation by [@maicol07](https://github.com/maicol07).\n- Updated Russian translation by [@KnottyManatee55](https://github.com/KnottyManatee55).\n- Updated Spanish translations by [@d-l-n](https://github.com/d-l-n).\n\n### Changed\n\n- Changed textures and models by [@Pierniki](https://github.com/Pierniki).\n- Use tags in recipes for glass and slimeballs.\n\n### Fixed\n\n- Fixed crash when breaking fluid pipe.\n- Fixed Extractor Attachment failing when it can\u0027t extract from the first slot it finds.\n- Fixed Extractor Attachment not trying other destinations when an item can\u0027t be inserted in a single destination.\n- Fixed another pipe rendering crash by [@lone-wolf-akela](https://github.com/lone-wolf-akela).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-11-28T15:54:39Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.5.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.5.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54195547",
+      "createdAt": "2021-11-28T15:43:23Z"
+    },
+    {
+      "id": 3539690,
+      "dateModified": "2021-11-28T15:55:27Z",
+      "fileLength": 319362,
+      "fileName": "refinedpipes-0.5.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/3539690",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/3539690",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/3539690",
+      "createdAt": "2021-11-28T15:54:52Z"
+    },
+    {
+      "id": "R4kvmf7i",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.5.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Italian translation by \u003ca href\u003d\"https://github.com/maicol07\" rel\u003d\"nofollow\"\u003e@maicol07\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eUpdated Russian translation by \u003ca href\u003d\"https://github.com/KnottyManatee55\" rel\u003d\"nofollow\"\u003e@KnottyManatee55\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eUpdated Spanish translations by \u003ca href\u003d\"https://github.com/d-l-n\" rel\u003d\"nofollow\"\u003e@d-l-n\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eChanged textures and models by \u003ca href\u003d\"https://github.com/Pierniki\" rel\u003d\"nofollow\"\u003e@Pierniki\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eUse tags in recipes for glass and slimeballs.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash when breaking fluid pipe.\u003c/li\u003e\n\u003cli\u003eFixed Extractor Attachment failing when it can\u0027t extract from the first slot it finds.\u003c/li\u003e\n\u003cli\u003eFixed Extractor Attachment not trying other destinations when an item can\u0027t be inserted in a single destination.\u003c/li\u003e\n\u003cli\u003eFixed another pipe rendering crash by \u003ca href\u003d\"https://github.com/lone-wolf-akela\" rel\u003d\"nofollow\"\u003e@lone-wolf-akela\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "6aa644bb6c7a59a143981914058881c1784175a2a52904b8b1ebd070458a3289ceb59b090a409f38245afabe4580a8020405aeede261f62180350830e8b715e0",
+            "sha1": "5fcc1a94a9a9312007cf1463bf565813e52de472"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/R4kvmf7i/refinedpipes-0.5.1.jar",
+          "filename": "refinedpipes-0.5.1.jar",
+          "primary": true,
+          "size": 319362
+        }
+      ],
+      "gameVersions": [
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.5.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/R4kvmf7i",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 13
+      },
+      {
+        "source": "curseforge",
+        "downloads": 239732
+      },
+      {
+        "source": "modrinth",
+        "downloads": 5
+      }
+    ],
+    "totalDownloads": 239750
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.10-beta.json",
+  "name": "v1.4.10-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110492454,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjQ1NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.10-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492454/assets",
+      "assets": [
+        {
+          "id": 115010394,
+          "nodeId": "RA_kwDOAtXBQM4G2uta",
+          "name": "refinedstorage-1.4.10.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1654256,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.10-beta/refinedstorage-1.4.10.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492454/assets{?name,label}",
+      "tagName": "v1.4.10-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Improved performance of network scanning.\r\n\r\n### Fixed\r\n\r\n- Fixed crash when attempting to get direction of a node.\r\n- Fixed bug where some network parts don\u0027t want to connect to the storage system.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:19:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.10-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.10-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492454",
+      "createdAt": "2017-05-25T16:25:21Z"
+    },
+    {
+      "id": 2424653,
+      "dateModified": "2023-06-30T13:37:54Z",
+      "fileLength": 1654256,
+      "fileName": "refinedstorage-1.4.10.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2424653",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2424653",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2424653",
+      "createdAt": "2017-05-25T16:31:09Z"
+    },
+    {
+      "id": "xEybRLzR",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.10-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImproved performance of network scanning.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash when attempting to get direction of a node.\u003c/li\u003e\n\u003cli\u003eFixed bug where some network parts don\u0027t want to connect to the storage system.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "eb25a5a053321a92ba2c473532ce5b78bc7d7fbbc92f4b42a740cceb850d910152508d082c76cb00eb99f3db45abb62a85e4fd43a93d3709cb642f817077a8e7",
+            "sha1": "4ebe952adb3e59f28bae19941a038e8f56a9ca5b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/xEybRLzR/refinedstorage-1.4.10.jar",
+          "filename": "refinedstorage-1.4.10.jar",
+          "primary": true,
+          "size": 1654256
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.10-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/xEybRLzR",
+      "createdAt": "2023-07-04T19:57:48Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 29432
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 29433
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.2-beta.json",
+  "name": "v0.7.2-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111001155,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMTE1NQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.2-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001155/assets",
+      "assets": [
+        {
+          "id": 115529937,
+          "nodeId": "RA_kwDOAtXBQM4G4tjR",
+          "name": "refinedstorage-0.7.2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 417696,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.2-beta/refinedstorage-0.7.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111001155/assets{?name,label}",
+      "tagName": "v0.7.2-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Importer getting stuck on slot.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:30:36Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.2-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.2-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001155",
+      "createdAt": "2016-05-24T23:32:14Z"
+    },
+    {
+      "id": 2302636,
+      "dateModified": "2023-07-04T14:02:38Z",
+      "fileLength": 417696,
+      "fileName": "refinedstorage-0.7.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2302636",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2302636",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2302636",
+      "createdAt": "2016-05-24T23:41:41Z"
+    },
+    {
+      "id": "LHsKBCVY",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.2-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Importer getting stuck on slot.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "5720ea6bf2e6cae01280099513379b391bec5b711cd2d91974646275d01ddaac01b7f80a05d8775f302fd5de2c56750b786e8946d9ef92940f84fc4e0b515cd0",
+            "sha1": "657d5b199dbec7a82ca7a527c44a0c37a52f0885"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/LHsKBCVY/refinedstorage-0.7.2.jar",
+          "filename": "refinedstorage-0.7.2.jar",
+          "primary": true,
+          "size": 417696
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.2-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/LHsKBCVY",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 395
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 396
+  }
+}

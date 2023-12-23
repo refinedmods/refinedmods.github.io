@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.13.json",
+  "name": "v1.5.13",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110471204,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTIwNA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.13",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471204/assets",
+      "assets": [
+        {
+          "id": 114987898,
+          "nodeId": "RA_kwDOAtXBQM4G2pN6",
+          "name": "refinedstorage-1.5.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1664155,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.13/refinedstorage-1.5.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471204/assets{?name,label}",
+      "tagName": "v1.5.13",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Wireless Fluid Grid not using up energy.\r\n- Fixed Wireless Crafting Monitor remaining in network item list.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:04:13Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.13",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.13",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471204",
+      "createdAt": "2017-07-18T20:40:31Z"
+    },
+    {
+      "id": 2453534,
+      "dateModified": "2023-06-30T09:22:58Z",
+      "fileLength": 1664155,
+      "fileName": "refinedstorage-1.5.13.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2453534",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2453534",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2453534",
+      "createdAt": "2017-07-20T13:42:25Z"
+    },
+    {
+      "id": "aXkKelNh",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.13",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Wireless Fluid Grid not using up energy.\u003c/li\u003e\n\u003cli\u003eFixed Wireless Crafting Monitor remaining in network item list.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "6f120aa5982dfbec8003730174644a532e8e475a8cf28bb0e68f35e58f4a8ae87c25202599252295a1981ec4f5bd475ed219dcbfb5267452eec225ec07e34266",
+            "sha1": "06362c014b6fc8578e0d8d01323c9ba9780d592d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/aXkKelNh/refinedstorage-1.5.13.jar",
+          "filename": "refinedstorage-1.5.13.jar",
+          "primary": true,
+          "size": 1664155
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.13",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/aXkKelNh",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 51357
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 51358
+  }
+}

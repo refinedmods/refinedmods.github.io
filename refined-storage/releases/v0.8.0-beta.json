@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.0-beta.json",
+  "name": "v0.8.0-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110999916,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTkxNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.0-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999916/assets",
+      "assets": [
+        {
+          "id": 115528926,
+          "nodeId": "RA_kwDOAtXBQM4G4tTe",
+          "name": "refinedstorage-0.8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 461113,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.0-beta/refinedstorage-0.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999916/assets{?name,label}",
+      "tagName": "v0.8.0-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Recompile for Minecraft 1.10.\r\n\r\n### Fixed\r\n\r\n- Fixed solderer not using extra RF/t with upgrades.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:21:44Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.0-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.0-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999916",
+      "createdAt": "2016-06-25T12:17:45Z"
+    },
+    {
+      "id": 2310392,
+      "dateModified": "2023-07-04T10:51:42Z",
+      "fileLength": 461113,
+      "fileName": "refinedstorage-0.8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2310392",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2310392",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2310392",
+      "createdAt": "2016-06-25T12:19:35Z"
+    },
+    {
+      "id": "XB1hEZZU",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.0-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRecompile for Minecraft 1.10.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed solderer not using extra RF/t with upgrades.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "9a1c376a3cb67f44d3e034cb7dced5e6eefb1e197cb93dd134c677e864359bbbf58ae51d4a20e71a79bd79d76a5e5a94a2c2f6a4c313e29c2f634c2cec4246a8",
+            "sha1": "db1a03ebff03ef74ed513d75fd3128036bc70fb5"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/XB1hEZZU/refinedstorage-0.8.jar",
+          "filename": "refinedstorage-0.8.jar",
+          "primary": true,
+          "size": 461113
+        }
+      ],
+      "gameVersions": [
+        "1.10",
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.0-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/XB1hEZZU",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 13803
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 13806
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.0-alpha.json",
+  "name": "v1.5.0-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 2434059,
+      "dateModified": "2023-06-30T09:27:51Z",
+      "fileLength": 1640858,
+      "fileName": "refinedstorage-1.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2434059",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2434059",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2434059",
+      "createdAt": "2017-06-14T15:09:20Z"
+    },
+    {
+      "id": 110472120,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MjEyMA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.0-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110472120/assets",
+      "assets": [
+        {
+          "id": 114988932,
+          "nodeId": "RA_kwDOAtXBQM4G2peE",
+          "name": "refinedstorage-1.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1640858,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.0-alpha/refinedstorage-1.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110472120/assets{?name,label}",
+      "tagName": "v1.5.0-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.12.\r\n- The Portable Grid now doesn\u0027t despawn anymore when dropped in the world.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where oredict autocrafting didn\u0027t work in some cases.\r\n\r\n### Removed\r\n\r\n- Removed MCMultiPart support (will be re-added as soon as MCMultiPart for MC 1.12 is available).\r\n- Removed OpenComputers support (will be re-added as soon as OpenComputers for MC 1.12 is available).\r\n- Removed crafting recipes, until Forge adds the recipe system back.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:12:12Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.0-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.0-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110472120",
+      "createdAt": "2017-06-14T15:42:06Z"
+    },
+    {
+      "id": "oiiKEr6C",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.0-alpha",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.12.\u003c/li\u003e\n\u003cli\u003eThe Portable Grid now doesn\u0027t despawn anymore when dropped in the world.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where oredict autocrafting didn\u0027t work in some cases.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved MCMultiPart support (will be re-added as soon as MCMultiPart for MC 1.12 is available).\u003c/li\u003e\n\u003cli\u003eRemoved OpenComputers support (will be re-added as soon as OpenComputers for MC 1.12 is available).\u003c/li\u003e\n\u003cli\u003eRemoved crafting recipes, until Forge adds the recipe system back.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "eca4f8759c9a1423d09108b2f218519463eb885a5188f7665ecbaade52aa34481bd981f86dc22f9e6294be748eb1fb07bc59355b167c21570de2dbe2c7caed8d",
+            "sha1": "537046d4c977685f4033206829f37d8e9a4994ca"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/oiiKEr6C/refinedstorage-1.5.jar",
+          "filename": "refinedstorage-1.5.jar",
+          "primary": true,
+          "size": 1640858
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.0-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/oiiKEr6C",
+      "createdAt": "2023-07-04T19:58:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 6759
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 6761
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.3.0.json",
+  "name": "v0.3.0",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2554173,
+      "dateModified": "2021-12-14T15:27:55Z",
+      "fileLength": 55042,
+      "fileName": "refinedstorageaddons-0.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2554173",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2554173",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2554173",
+      "createdAt": "2018-04-22T15:43:55Z"
+    },
+    {
+      "id": 55283892,
+      "nodeId": "MDc6UmVsZWFzZTU1MjgzODky",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.3.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283892/assets",
+      "assets": [
+        {
+          "id": 51752207,
+          "nodeId": "RA_kwDOBc8fRM4DFa0P",
+          "name": "refinedstorageaddons-0.3.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 55042,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.3.0/refinedstorageaddons-0.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55283892/assets{?name,label}",
+      "tagName": "v0.3.0",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed stack-crafting in the Wireless Crafting Grid (crafting table) causing lag on a dedicated server.\r\n\r\n### Added\r\n\r\n- Refined Storage 1.5.33 compatibility.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:16:43Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.3.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.3.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283892",
+      "createdAt": "2018-05-13T19:15:51Z"
+    },
+    {
+      "id": "VUWPVKLg",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.3.0",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eFixed stack-crafting in the Wireless Crafting Grid (crafting table) causing lag on a dedicated server.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eRefined Storage 1.5.33 compatibility.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "65b540ad19a2ca254076e845fbbe5cd0844d92f873205747c0c30b959a0f01a52c734c3fe63fcd79d5efddde3b196194f3c39a9baffe903227d6ab19570db540",
+            "sha1": "c1adf40d58c7fb737f6c1cc5186b70d8abd8219d"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/VUWPVKLg/refinedstorageaddons-0.3.jar",
+          "filename": "refinedstorageaddons-0.3.jar",
+          "primary": true,
+          "size": 55042
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.3.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/VUWPVKLg",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 2413871
+      },
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "modrinth",
+        "downloads": 4
+      }
+    ],
+    "totalDownloads": 2413881
+  }
+}

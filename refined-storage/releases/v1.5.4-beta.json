@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.4-beta.json",
+  "name": "v1.5.4-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110471856,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTg1Ng\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.4-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471856/assets",
+      "assets": [
+        {
+          "id": 114988523,
+          "nodeId": "RA_kwDOAtXBQM4G2pXr",
+          "name": "refinedstorage-1.5.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1676481,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.4-beta/refinedstorage-1.5.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471856/assets{?name,label}",
+      "tagName": "v1.5.4-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed External Storage crashing.\r\n- Fixed crash when node data mismatches between world and dat file.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:09:53Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.4-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.4-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471856",
+      "createdAt": "2017-06-24T20:00:42Z"
+    },
+    {
+      "id": 2440957,
+      "dateModified": "2023-06-30T09:25:31Z",
+      "fileLength": 1676481,
+      "fileName": "refinedstorage-1.5.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2440957",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2440957",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2440957",
+      "createdAt": "2017-06-24T21:49:09Z"
+    },
+    {
+      "id": "NUXYAExM",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.4-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed External Storage crashing.\u003c/li\u003e\n\u003cli\u003eFixed crash when node data mismatches between world and dat file.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "32829ea614ded900e22b7c9e98b462ba91340ac6e8bcf7b86e7539a137b25631d985a11977ba4653e3bf7632b127bd3de857512ba23e9cd458d4645697f1ddce",
+            "sha1": "62fbd6752a8a7c4f51bca535273bf9b87e347832"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/NUXYAExM/refinedstorage-1.5.4.jar",
+          "filename": "refinedstorage-1.5.4.jar",
+          "primary": true,
+          "size": 1676481
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.4-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/NUXYAExM",
+      "createdAt": "2023-07-04T19:58:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 494
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 495
+  }
+}

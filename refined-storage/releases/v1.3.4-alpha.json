@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.3.4-alpha.json",
+  "name": "v1.3.4-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 110493067,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MzA2Nw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.3.4-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110493067/assets",
+      "assets": [
+        {
+          "id": 115010964,
+          "nodeId": "RA_kwDOAtXBQM4G2u2U",
+          "name": "refinedstorage-1.3.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1391939,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.3.4-alpha/refinedstorage-1.3.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110493067/assets{?name,label}",
+      "tagName": "v1.3.4-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added option to check for oredict in the Grid Filter.\r\n- Added option to use a mod filter in the Grid Filter.\r\n- Added option to use a whitelist or blacklist in the Grid Filter.\r\n- Added Grid tabs using Grid Filters.\r\n- Added configuration option to enable large fonts in Grid.\r\n\r\n### Changed\r\n\r\n- The Grid now resizes based on screen size (max rows can be configured).\r\n- Made Solderer tooltip less big.\r\n- Made the Interface sideless, you can just insert or extract from any side.\r\n\r\n### Fixed\r\n\r\n- Fixed bug with opening a network item with food in offhand.\r\n- Fixed not respecting \"Extract only\" option for storages.\r\n- Fixed a few autocrafting bugs.\r\n- Fixed a crash with the Disk Manipulator.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:24:55Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.3.4-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.3.4-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110493067",
+      "createdAt": "2016-12-10T13:26:49Z"
+    },
+    {
+      "id": 2354411,
+      "dateModified": "2023-06-30T13:42:01Z",
+      "fileLength": 1391939,
+      "fileName": "refinedstorage-1.3.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2354411",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2354411",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2354411",
+      "createdAt": "2016-12-10T14:16:06Z"
+    },
+    {
+      "id": "q0upZGyZ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.3.4-alpha",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded option to check for oredict in the Grid Filter.\u003c/li\u003e\n\u003cli\u003eAdded option to use a mod filter in the Grid Filter.\u003c/li\u003e\n\u003cli\u003eAdded option to use a whitelist or blacklist in the Grid Filter.\u003c/li\u003e\n\u003cli\u003eAdded Grid tabs using Grid Filters.\u003c/li\u003e\n\u003cli\u003eAdded configuration option to enable large fonts in Grid.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Grid now resizes based on screen size (max rows can be configured).\u003c/li\u003e\n\u003cli\u003eMade Solderer tooltip less big.\u003c/li\u003e\n\u003cli\u003eMade the Interface sideless, you can just insert or extract from any side.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug with opening a network item with food in offhand.\u003c/li\u003e\n\u003cli\u003eFixed not respecting \u0026quot;Extract only\u0026quot; option for storages.\u003c/li\u003e\n\u003cli\u003eFixed a few autocrafting bugs.\u003c/li\u003e\n\u003cli\u003eFixed a crash with the Disk Manipulator.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7cd391e55f6e1e25bf8026f312446e7a4617dcd75b870c9d7efb71c7709641db395e46d0116fd57775902204f73517ea7315d432add07606c426d537b14a7f4f",
+            "sha1": "6beab77e8ad6786b7d02c46365154ffd08bf21af"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/q0upZGyZ/refinedstorage-1.3.4.jar",
+          "filename": "refinedstorage-1.3.4.jar",
+          "primary": true,
+          "size": 1391939
+        }
+      ],
+      "gameVersions": [
+        "1.11"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.3.4-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/q0upZGyZ",
+      "createdAt": "2023-07-04T19:57:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2850
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 2851
+  }
+}

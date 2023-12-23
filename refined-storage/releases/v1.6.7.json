@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.7.json",
+  "name": "v1.6.7",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110330950,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDk1MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.7",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330950/assets",
+      "assets": [
+        {
+          "id": 114836914,
+          "nodeId": "RA_kwDOAtXBQM4G2EWy",
+          "name": "refinedstorage-1.6.7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1780193,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.7/refinedstorage-1.6.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330950/assets{?name,label}",
+      "tagName": "v1.6.7",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- The Processor Binding recipe now only gives 8 items instead of 16.\r\n\r\n### Fixed\r\n\r\n- Fixed the Raw Processor recipes not taking oredicted silicon.\r\n- Fixed the Processor Binding recipe not taking oredicted slimeballs.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:34:47Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.7",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.7",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330950",
+      "createdAt": "2018-10-19T18:55:27Z"
+    },
+    {
+      "id": 2629484,
+      "dateModified": "2023-06-29T09:44:18Z",
+      "fileLength": 1780193,
+      "fileName": "refinedstorage-1.6.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2629484",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2629484",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2629484",
+      "createdAt": "2018-10-19T18:58:07Z"
+    },
+    {
+      "id": "GCFUJQJZ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.7",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Processor Binding recipe now only gives 8 items instead of 16.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed the Raw Processor recipes not taking oredicted silicon.\u003c/li\u003e\n\u003cli\u003eFixed the Processor Binding recipe not taking oredicted slimeballs.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "f63055f8baad2f72691108f419143089c6a8ada6586eb8ab6b86d0fd6bdec693f6b5b02c6fae06d491eb8fa090be1079dd1f37923b7f5f1aac21e94bb955d791",
+            "sha1": "29b21afff0c032e3523c2cef1ee084ded24260da"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/GCFUJQJZ/refinedstorage-1.6.7.jar",
+          "filename": "refinedstorage-1.6.7.jar",
+          "primary": true,
+          "size": 1780193
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.7",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/GCFUJQJZ",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 7764
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 7765
+  }
+}

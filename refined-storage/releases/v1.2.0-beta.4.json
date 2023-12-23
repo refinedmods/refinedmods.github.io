@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.4.json",
+  "name": "v1.2.0-beta.4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110514460,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDQ2MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514460/assets",
+      "assets": [
+        {
+          "id": 115029718,
+          "nodeId": "RA_kwDOAtXBQM4G2zbW",
+          "name": "refinedstorage-1.2-beta4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1124680,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.4/refinedstorage-1.2-beta4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514460/assets{?name,label}",
+      "tagName": "v1.2.0-beta.4",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- More autocrafting and TPS issues.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:56:32Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514460",
+      "createdAt": "2016-10-27T17:12:14Z"
+    },
+    {
+      "id": 2339809,
+      "dateModified": "2023-06-30T15:14:54Z",
+      "fileLength": 1124680,
+      "fileName": "refinedstorage-1.2-beta4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2339809",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2339809",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2339809",
+      "createdAt": "2016-10-27T18:16:58Z"
+    },
+    {
+      "id": "xr5S678d",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.0-beta.4",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMore autocrafting and TPS issues.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "2ee11316152ae52efd0f1f60eae27952ecc01819e28861273fccfffdb17327376d2962875dba302c5dc0676b04bd5230324109dabe809e10d76b8d28c6c00a43",
+            "sha1": "4326b71ffa24278e1da3c78acf751e95c339702d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/xr5S678d/refinedstorage-1.2-beta4.jar",
+          "filename": "refinedstorage-1.2-beta4.jar",
+          "primary": true,
+          "size": 1124680
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.0-beta.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/xr5S678d",
+      "createdAt": "2023-07-04T19:57:35Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 10538
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 10541
+  }
+}

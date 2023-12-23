@@ -1,0 +1,116 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.22.json",
+  "name": "v1.5.22",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2499148,
+      "dateModified": "2023-06-30T09:20:21Z",
+      "fileLength": 1817553,
+      "fileName": "refinedstorage-1.5.22.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2499148",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2499148",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2499148",
+      "createdAt": "2017-11-11T12:56:24Z"
+    },
+    {
+      "id": 110470743,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDc0Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.22",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470743/assets",
+      "assets": [
+        {
+          "id": 114987445,
+          "nodeId": "RA_kwDOAtXBQM4G2pG1",
+          "name": "refinedstorage-1.5.22.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1817553,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.22/refinedstorage-1.5.22.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470743/assets{?name,label}",
+      "tagName": "v1.5.22",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added oredict, blocking, processing, ore inputs access to OpenComputers API.\r\n- Added shortcut to clear Grid crafting matrix (CTRL+X).\r\n\r\n### Changed\r\n\r\n- The Crafter can now only store 1 stack size pattern per slot.\r\n- You can now re-insert a Pattern in the pattern output slot in the Pattern Grid to modify an existing pattern.\r\n- The Refined Storage jar is now signed.\r\n- Updated Chinese translation.\r\n\r\n### Fixed\r\n\r\n- Fixed not being able to use JEI R and U keys on Grid with tabs.\r\n- Fixed lag when opening a Grid with lots of items by offloading the grid sorting to another thread.\r\n- Performance improvement when adding patterns to the network.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:00:09Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.22",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.22",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470743",
+      "createdAt": "2017-11-11T12:57:38Z"
+    },
+    {
+      "id": "YEzRaiSl",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.22",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded oredict, blocking, processing, ore inputs access to OpenComputers API.\u003c/li\u003e\n\u003cli\u003eAdded shortcut to clear Grid crafting matrix (CTRL+X).\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Crafter can now only store 1 stack size pattern per slot.\u003c/li\u003e\n\u003cli\u003eYou can now re-insert a Pattern in the pattern output slot in the Pattern Grid to modify an existing pattern.\u003c/li\u003e\n\u003cli\u003eThe Refined Storage jar is now signed.\u003c/li\u003e\n\u003cli\u003eUpdated Chinese translation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed not being able to use JEI R and U keys on Grid with tabs.\u003c/li\u003e\n\u003cli\u003eFixed lag when opening a Grid with lots of items by offloading the grid sorting to another thread.\u003c/li\u003e\n\u003cli\u003ePerformance improvement when adding patterns to the network.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c09c161d2a9681c269334bebb053846a80a2a7bccd4f1f68aa12560b2c744a7d9546c52202d14bcef8baf7f5e45a57eb8d855141d95f8ba9b9f656f43d9470d5",
+            "sha1": "fefd187296c59eb339960b5397f25f49ae6a45f7"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/YEzRaiSl/refinedstorage-1.5.22.jar",
+          "filename": "refinedstorage-1.5.22.jar",
+          "primary": true,
+          "size": 1817553
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.22",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/YEzRaiSl",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 8180
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 8183
+  }
+}

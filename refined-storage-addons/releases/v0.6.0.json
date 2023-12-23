@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.6.0.json",
+  "name": "v0.6.0",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284336,
+      "nodeId": "MDc6UmVsZWFzZTU1Mjg0MzM2",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.6.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284336/assets",
+      "assets": [
+        {
+          "id": 51752527,
+          "nodeId": "RA_kwDOBc8fRM4DFa5P",
+          "name": "refinedstorageaddons-0.6.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28418,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.6.0/refinedstorageaddons-0.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284336/assets{?name,label}",
+      "tagName": "v0.6.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.15.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:21:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.6.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.6.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284336",
+      "createdAt": "2020-01-20T01:24:06Z"
+    },
+    {
+      "id": 2865254,
+      "dateModified": "2021-12-14T15:34:58Z",
+      "fileLength": 28418,
+      "fileName": "refinedstorageaddons-0.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2865254",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2865254",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2865254",
+      "createdAt": "2020-01-21T20:02:57Z"
+    },
+    {
+      "id": "iiub7UyV",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.6.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003ePort to Minecraft 1.15.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ff83cd21059c691a662d46911a181c9bbfcd3aff09b98a86825f45369017cdf767b103bcf1a85ce803d5b45402c8431a5e97ae67fff15ffce350bf41f615fb65",
+            "sha1": "d633104a3e5d7a4831e931009d0213e49d748626"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/iiub7UyV/refinedstorageaddons-0.6.jar",
+          "filename": "refinedstorageaddons-0.6.jar",
+          "primary": true,
+          "size": 28418
+        }
+      ],
+      "gameVersions": [
+        "1.15.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.6.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/iiub7UyV",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 28209
+      },
+      {
+        "source": "modrinth",
+        "downloads": 12
+      }
+    ],
+    "totalDownloads": 28221
+  }
+}

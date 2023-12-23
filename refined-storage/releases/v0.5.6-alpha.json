@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.5.6-alpha.json",
+  "name": "v0.5.6-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111010803,
+      "nodeId": "MDc6UmVsZWFzZTExMTAxMDgwMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.5.6-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010803/assets",
+      "assets": [
+        {
+          "id": 115539570,
+          "nodeId": "RA_kwDOAtXBQM4G4v5y",
+          "name": "refinedstorage-0.5.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 329349,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.5.6-alpha/refinedstorage-0.5.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111010803/assets{?name,label}",
+      "tagName": "v0.5.6-alpha",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed sorting crash.\r\n- Fixed autofocusing on priority field in storage GUIs.\r\n- Fixed controller causing lag when energy level changes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:50:45Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.5.6-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.5.6-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010803",
+      "createdAt": "2016-04-29T21:01:15Z"
+    },
+    {
+      "id": 2296896,
+      "dateModified": "2023-07-04T15:45:48Z",
+      "fileLength": 329349,
+      "fileName": "refinedstorage-0.5.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2296896",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2296896",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2296896",
+      "createdAt": "2016-04-29T21:15:55Z"
+    },
+    {
+      "id": "qRdhlTZp",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.5.6-alpha",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed sorting crash.\u003c/li\u003e\n\u003cli\u003eFixed autofocusing on priority field in storage GUIs.\u003c/li\u003e\n\u003cli\u003eFixed controller causing lag when energy level changes.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "9e2a9b9ebd2709c450f2fe2cf7b221bf1882e692c279089494517ad0d523f7150a23846c458ba3921458ba7cf81d963ffde70becaa966066cc09753d111855d6",
+            "sha1": "73e149e86916d24dddcc2256b0f52411949197f0"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/qRdhlTZp/refinedstorage-0.5.6.jar",
+          "filename": "refinedstorage-0.5.6.jar",
+          "primary": true,
+          "size": 329349
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.5.6-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/qRdhlTZp",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 6455
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 6456
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.3-beta.json",
+  "name": "v1.4.3-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110492788,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5Mjc4OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.3-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492788/assets",
+      "assets": [
+        {
+          "id": 115010683,
+          "nodeId": "RA_kwDOAtXBQM4G2ux7",
+          "name": "refinedstorage-1.4.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1583023,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.3-beta/refinedstorage-1.4.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492788/assets{?name,label}",
+      "tagName": "v1.4.3-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Display progress bar on JEI recipes for the Solderer.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2282.\r\n- Updated JEI version.\r\n- Updated MCMultiPart version.\r\n- You can now shift click Grid Filters into a Grid instead of manually inserting them.\r\n- You can now use up and down arrows to scroll through Grid search history.\r\n- Shift clicking patterns in the Pattern Grid now puts the patterns in the pattern slot.\r\n- Storage Monitors don\u0027t render any quantity text when no item is specified to monitor anymore.\r\n- The Solderer inventory isn\u0027t sided anymore.\r\n- Small performance improvement: only sort the storages when needed.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where disks in Disk Drive didn\u0027t respect access type or void excess stacks option.\r\n- Fixed crash in Disk Manipulator.\r\n- Fixed oredict not working.\r\n- Fixed Grid crash.\r\n- Fixed Fluid Grid not formatting large quantities correctly.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:21:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.3-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.3-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492788",
+      "createdAt": "2017-04-22T13:07:53Z"
+    },
+    {
+      "id": 2410336,
+      "dateModified": "2023-06-30T13:40:11Z",
+      "fileLength": 1583023,
+      "fileName": "refinedstorage-1.4.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2410336",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2410336",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2410336",
+      "createdAt": "2017-04-22T13:08:43Z"
+    },
+    {
+      "id": "E6IGnQVV",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.3-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDisplay progress bar on JEI recipes for the Solderer.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2282.\u003c/li\u003e\n\u003cli\u003eUpdated JEI version.\u003c/li\u003e\n\u003cli\u003eUpdated MCMultiPart version.\u003c/li\u003e\n\u003cli\u003eYou can now shift click Grid Filters into a Grid instead of manually inserting them.\u003c/li\u003e\n\u003cli\u003eYou can now use up and down arrows to scroll through Grid search history.\u003c/li\u003e\n\u003cli\u003eShift clicking patterns in the Pattern Grid now puts the patterns in the pattern slot.\u003c/li\u003e\n\u003cli\u003eStorage Monitors don\u0027t render any quantity text when no item is specified to monitor anymore.\u003c/li\u003e\n\u003cli\u003eThe Solderer inventory isn\u0027t sided anymore.\u003c/li\u003e\n\u003cli\u003eSmall performance improvement: only sort the storages when needed.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where disks in Disk Drive didn\u0027t respect access type or void excess stacks option.\u003c/li\u003e\n\u003cli\u003eFixed crash in Disk Manipulator.\u003c/li\u003e\n\u003cli\u003eFixed oredict not working.\u003c/li\u003e\n\u003cli\u003eFixed Grid crash.\u003c/li\u003e\n\u003cli\u003eFixed Fluid Grid not formatting large quantities correctly.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "57d16148ff6e45bc2c2193315e97539ae2d1b3c2fddf749e5cdf802c6132efd31385c88b1c0d615c25d02a5d2e33b4d58694568a10fca21c2613ff1bbc75d250",
+            "sha1": "61a3a41349637caeebf7db8260510cbb9695980a"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/E6IGnQVV/refinedstorage-1.4.3.jar",
+          "filename": "refinedstorage-1.4.3.jar",
+          "primary": true,
+          "size": 1583023
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.3-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/E6IGnQVV",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 8233
+      },
+      {
+        "source": "modrinth",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 8233
+  }
+}

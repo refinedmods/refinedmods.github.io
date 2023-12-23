@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.11.5.json",
+  "name": "v1.11.5",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 92137533,
+      "nodeId": "RE_kwDOAtXBQM4Ffeg9",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.11.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/92137533/assets",
+      "assets": [
+        {
+          "id": 95315730,
+          "nodeId": "RA_kwDOAtXBQM4FrmcS",
+          "name": "refinedstorage-1.11.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3269747,
+          "downloadCount": 43,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.11.5/refinedstorage-1.11.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/92137533/assets{?name,label}",
+      "tagName": "v1.11.5",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed some craftable items not showing as craftable in JEI\r\n- Fixed Grid crashing on exit if JEI mod is not used\r\n- Fixed rare multithreading crash\r\n- Fixed Constructor being able to drop more than the maximum stack size for an item",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-02-12T09:29:57Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/92137533",
+      "createdAt": "2023-02-12T09:23:51Z"
+    },
+    {
+      "id": 4392788,
+      "dateModified": "2023-02-12T09:34:54Z",
+      "fileLength": 3269748,
+      "fileName": "refinedstorage-1.11.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.19.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4392788",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4392788",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4392788",
+      "createdAt": "2023-02-12T09:30:11Z"
+    },
+    {
+      "id": "Os6A9619",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.11.5",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed some craftable items not showing as craftable in JEI\u003c/li\u003e\n\u003cli\u003eFixed Grid crashing on exit if JEI mod is not used\u003c/li\u003e\n\u003cli\u003eFixed rare multithreading crash\u003c/li\u003e\n\u003cli\u003eFixed Constructor being able to drop more than the maximum stack size for an item\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "bc379af56c2b887d3df0938c06d02cb432498c6eb0d67806609af556557c6f01305a2d8512f8ef873f7e18a10fa8bfa4d6c9cbdb3c447214b94189f5c063c14b",
+            "sha1": "7e94d60c5eb45fbd72caa1a4f9fbd8c757dfde53"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/Os6A9619/refinedstorage-1.11.5.jar",
+          "filename": "refinedstorage-1.11.5.jar",
+          "primary": true,
+          "size": 3269748
+        }
+      ],
+      "gameVersions": [
+        "1.19.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.11.5",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/Os6A9619",
+      "createdAt": "2023-07-04T19:59:17Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 43
+      },
+      {
+        "source": "curseforge",
+        "downloads": 734587
+      },
+      {
+        "source": "modrinth",
+        "downloads": 18
+      }
+    ],
+    "totalDownloads": 734648
+  }
+}

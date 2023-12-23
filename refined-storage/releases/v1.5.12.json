@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.12.json",
+  "name": "v1.5.12",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110471230,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTIzMA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.12",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471230/assets",
+      "assets": [
+        {
+          "id": 114987916,
+          "nodeId": "RA_kwDOAtXBQM4G2pOM",
+          "name": "refinedstorage-1.5.12.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1659783,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.12/refinedstorage-1.5.12.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471230/assets{?name,label}",
+      "tagName": "v1.5.12",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added additional API for grids.\r\n\r\n### Changed\r\n\r\n- The Network Transmitter now uses 1 FE/t per block instead of 4 FE/t.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:04:30Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.12",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.12",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471230",
+      "createdAt": "2017-07-17T11:07:04Z"
+    },
+    {
+      "id": 2452003,
+      "dateModified": "2023-06-30T09:23:12Z",
+      "fileLength": 1659783,
+      "fileName": "refinedstorage-1.5.12.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2452003",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2452003",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2452003",
+      "createdAt": "2017-07-17T11:41:54Z"
+    },
+    {
+      "id": "mz38svG6",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.12",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded additional API for grids.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Network Transmitter now uses 1 FE/t per block instead of 4 FE/t.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "fd8df171980b40032c3f4d3732e7c520693e4536bf53d431cafaf5c76388a21be3606b22d56c124947b1443c078b1dadb560d69a3d2b321bdaccea2e1fab1be7",
+            "sha1": "b5b14b15d9a78e12fe8f793139b68b4e11d49d27"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/mz38svG6/refinedstorage-1.5.12.jar",
+          "filename": "refinedstorage-1.5.12.jar",
+          "primary": true,
+          "size": 1659783
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.12",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/mz38svG6",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 14429
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 14430
+  }
+}

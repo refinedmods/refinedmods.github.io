@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.4-beta.json",
+  "name": "v1.4.4-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110492752,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5Mjc1Mg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.4-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492752/assets",
+      "assets": [
+        {
+          "id": 115010659,
+          "nodeId": "RA_kwDOAtXBQM4G2uxj",
+          "name": "refinedstorage-1.4.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1583501,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.4-beta/refinedstorage-1.4.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492752/assets{?name,label}",
+      "tagName": "v1.4.4-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated Forge to 2284.\r\n\r\n### Fixed\r\n\r\n- Fixed Disk Manipulator crashing due to empty stack.\r\n- Fixed issue where empty stacks show up in the system.\r\n- Fixed Storage Monitor not respecting security settings.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:21:38Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.4-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.4-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492752",
+      "createdAt": "2017-04-27T21:19:31Z"
+    },
+    {
+      "id": 2412698,
+      "dateModified": "2023-06-30T13:39:50Z",
+      "fileLength": 1583501,
+      "fileName": "refinedstorage-1.4.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2412698",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2412698",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2412698",
+      "createdAt": "2017-04-27T21:25:31Z"
+    },
+    {
+      "id": "GstFHtQu",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.4-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2284.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Disk Manipulator crashing due to empty stack.\u003c/li\u003e\n\u003cli\u003eFixed issue where empty stacks show up in the system.\u003c/li\u003e\n\u003cli\u003eFixed Storage Monitor not respecting security settings.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "62993ed4d6b6d7cf6e9980d6a4992f9117d525aadf6d8256000f20ae8ce5ce649149e31b8c5e53f6924355b8fad10767a48571ea826379cae38cc557603d87bb",
+            "sha1": "4d29859fd3b35a27f29a6214a4678ae236c79a76"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/GstFHtQu/refinedstorage-1.4.4.jar",
+          "filename": "refinedstorage-1.4.4.jar",
+          "primary": true,
+          "size": 1583501
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.4-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/GstFHtQu",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 27782
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 27784
+  }
+}

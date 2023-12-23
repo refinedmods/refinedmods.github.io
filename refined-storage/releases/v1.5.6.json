@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.6.json",
+  "name": "v1.5.6",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110471603,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTYwMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.6",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471603/assets",
+      "assets": [
+        {
+          "id": 114988232,
+          "nodeId": "RA_kwDOAtXBQM4G2pTI",
+          "name": "refinedstorage-1.5.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1633305,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.6/refinedstorage-1.5.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471603/assets{?name,label}",
+      "tagName": "v1.5.6",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated Forge to stable 2387.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where players couldn\u0027t place regular blocks next to secured networks.\r\n\r\n### Removed\r\n\r\n- Removed Processing Pattern Encoder, that functionality is now available in the Pattern Grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:07:43Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.6",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.6",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471603",
+      "createdAt": "2017-06-29T09:03:20Z"
+    },
+    {
+      "id": 2443159,
+      "dateModified": "2023-06-30T09:24:57Z",
+      "fileLength": 1633305,
+      "fileName": "refinedstorage-1.5.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2443159",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2443159",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2443159",
+      "createdAt": "2017-06-29T10:00:33Z"
+    },
+    {
+      "id": "9nMM8BQd",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.6",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to stable 2387.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where players couldn\u0027t place regular blocks next to secured networks.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved Processing Pattern Encoder, that functionality is now available in the Pattern Grid.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "0d21a1900b41a2fcf972d815f181cd21fb40847266343e6e2f89f7031e2d04ee4828991df25d50afe353dd5c941b2ee0f78c38d057f7cbd5b06707fde91eaf67",
+            "sha1": "87eaccc6164333e7a7a5d94f3e1c8f08c9d62158"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/9nMM8BQd/refinedstorage-1.5.6.jar",
+          "filename": "refinedstorage-1.5.6.jar",
+          "primary": true,
+          "size": 1633305
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.6",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/9nMM8BQd",
+      "createdAt": "2023-07-04T19:58:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 8351
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 8352
+  }
+}

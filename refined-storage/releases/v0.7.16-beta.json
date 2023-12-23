@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.16-beta.json",
+  "name": "v0.7.16-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000259,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDI1OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.16-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000259/assets",
+      "assets": [
+        {
+          "id": 115529164,
+          "nodeId": "RA_kwDOAtXBQM4G4tXM",
+          "name": "refinedstorage-0.7.16.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 462597,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.16-beta/refinedstorage-0.7.16.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000259/assets{?name,label}",
+      "tagName": "v0.7.16-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added support for Storage Drawers void upgrade.\r\n- Added support for Deep Storage Unit API again.\r\n\r\n### Fixed\r\n\r\n- Fixed NPE in machine searching.\r\n- Fixed a bug with interface giving negative amounts of items.\r\n- Fixed crash when using scroll wheel.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:23:52Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.16-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.16-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000259",
+      "createdAt": "2016-06-19T15:33:12Z"
+    },
+    {
+      "id": 2308742,
+      "dateModified": "2023-07-04T13:54:54Z",
+      "fileLength": 462597,
+      "fileName": "refinedstorage-0.7.16.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2308742",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2308742",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2308742",
+      "createdAt": "2016-06-19T15:33:48Z"
+    },
+    {
+      "id": "pGA1mssN",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.16-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded support for Storage Drawers void upgrade.\u003c/li\u003e\n\u003cli\u003eAdded support for Deep Storage Unit API again.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed NPE in machine searching.\u003c/li\u003e\n\u003cli\u003eFixed a bug with interface giving negative amounts of items.\u003c/li\u003e\n\u003cli\u003eFixed crash when using scroll wheel.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "19a04d4a317bf94037f5d426211f489696d6cb4f897e749dd148f7d59096a7874d781f3fb9e8d5fadf362a39513dedb2184f1e759e2bce1219121d85e4ad18f2",
+            "sha1": "9df2a0a94a9a6b4fd48459941e0111daaa9030bd"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/pGA1mssN/refinedstorage-0.7.16.jar",
+          "filename": "refinedstorage-0.7.16.jar",
+          "primary": true,
+          "size": 462597
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.16-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/pGA1mssN",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 12611
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 12613
+  }
+}

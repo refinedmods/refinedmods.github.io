@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.1.1.json",
+  "name": "v1.1.1",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2332840,
+      "dateModified": "2023-06-30T15:50:18Z",
+      "fileLength": 1029775,
+      "fileName": "refinedstorage-1.1.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2332840",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2332840",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2332840",
+      "createdAt": "2016-09-28T06:28:54Z"
+    },
+    {
+      "id": 110520773,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMDc3Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.1.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520773/assets",
+      "assets": [
+        {
+          "id": 115035475,
+          "nodeId": "RA_kwDOAtXBQM4G201T",
+          "name": "refinedstorage-1.1.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1029775,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.1.1/refinedstorage-1.1.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520773/assets{?name,label}",
+      "tagName": "v1.1.1",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed crash on servers.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:43:03Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.1.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.1.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520773",
+      "createdAt": "2016-09-28T11:16:39Z"
+    },
+    {
+      "id": "VfYyJ2IJ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.1.1",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash on servers.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "0dfe18b458d6be1e43e01b913424fe3f942323e25c6d4d8ab48752b199c622cd10c61278b829f4f7d7e49abdc10893e2a0f1957d33abb6ccc9afbed5dbeef8f4",
+            "sha1": "b1481b96a646f90c0d53f65b6aa999f75d070191"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/VfYyJ2IJ/refinedstorage-1.1.1.jar",
+          "filename": "refinedstorage-1.1.1.jar",
+          "primary": true,
+          "size": 1029775
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.1.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/VfYyJ2IJ",
+      "createdAt": "2023-07-04T19:57:17Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 13509
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 13511
+  }
+}

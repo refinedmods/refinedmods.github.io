@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.11.6.json",
+  "name": "v1.11.6",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 97504738,
+      "nodeId": "RE_kwDOAtXBQM4Fz83i",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.11.6",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/97504738/assets",
+      "assets": [
+        {
+          "id": 101625465,
+          "nodeId": "RA_kwDOAtXBQM4GDq55",
+          "name": "refinedstorage-1.11.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3270375,
+          "downloadCount": 127,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.11.6/refinedstorage-1.11.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/97504738/assets{?name,label}",
+      "tagName": "v1.11.6",
+      "targetCommitish": "develop",
+      "body": "### Fixed\n\n- Fixed not being able to search with JEI when the Grid is open.\n- Fixed a bunch of issues where chunks would unintentionally be loaded by RS.\n- Reduced block updates when a controller is turning on and off constantly.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-03-30T15:36:31Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.6",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.6",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/97504738",
+      "createdAt": "2023-03-30T15:30:56Z"
+    },
+    {
+      "id": 4465872,
+      "dateModified": "2023-03-30T15:39:28Z",
+      "fileLength": 3270375,
+      "fileName": "refinedstorage-1.11.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.19.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4465872",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4465872",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4465872",
+      "createdAt": "2023-03-30T15:36:46Z"
+    },
+    {
+      "id": "xm4PUTvq",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.11.6",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed not being able to search with JEI when the Grid is open.\u003c/li\u003e\n\u003cli\u003eFixed a bunch of issues where chunks would unintentionally be loaded by RS.\u003c/li\u003e\n\u003cli\u003eReduced block updates when a controller is turning on and off constantly.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "17e46a3c92da9f42a61532f46cec80bb180f28b3e91b39225bd1b22f88a5356ab1b7df8cb4011dc4039b2fbbbc295023ec59c22ee937500592de158bc2e2d0bd",
+            "sha1": "0141533c14d78dbea972cb8f51ac93a739391682"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/xm4PUTvq/refinedstorage-1.11.6.jar",
+          "filename": "refinedstorage-1.11.6.jar",
+          "primary": true,
+          "size": 3270375
+        }
+      ],
+      "gameVersions": [
+        "1.19.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.11.6",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/xm4PUTvq",
+      "createdAt": "2023-07-04T19:59:19Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 127
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2646480
+      },
+      {
+        "source": "modrinth",
+        "downloads": 10479
+      }
+    ],
+    "totalDownloads": 2657086
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.15.json",
+  "name": "v1.2.15",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513381,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzM4MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.15",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513381/assets",
+      "assets": [
+        {
+          "id": 115029007,
+          "nodeId": "RA_kwDOAtXBQM4G2zQP",
+          "name": "refinedstorage-1.2.15.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1391044,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.15/refinedstorage-1.2.15.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513381/assets{?name,label}",
+      "tagName": "v1.2.15",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Grid Filter hiding everything when 2 or more items are in it.\r\n- Fixed External Storage crash when breaking a connected inventory.\r\n- Autocrafting bugfixes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:50:11Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.15",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.15",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513381",
+      "createdAt": "2017-01-03T21:08:47Z"
+    },
+    {
+      "id": 2363912,
+      "dateModified": "2023-06-30T15:08:09Z",
+      "fileLength": 1391044,
+      "fileName": "refinedstorage-1.2.15.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2363912",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2363912",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2363912",
+      "createdAt": "2017-01-03T21:15:03Z"
+    },
+    {
+      "id": "nyFJpM9r",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.15",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Grid Filter hiding everything when 2 or more items are in it.\u003c/li\u003e\n\u003cli\u003eFixed External Storage crash when breaking a connected inventory.\u003c/li\u003e\n\u003cli\u003eAutocrafting bugfixes.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "1ad9c3e297a0465ff3e009498152b2fdeb7dff9c77af93db54ceee56a1e845d694b58801c5c78255d823f3c20e201bd2bc87e167091324a078c74e92e84a20f8",
+            "sha1": "b5ba6fbadb0bb995fc1377c43b45ab20fd7599d3"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/nyFJpM9r/refinedstorage-1.2.15.jar",
+          "filename": "refinedstorage-1.2.15.jar",
+          "primary": true,
+          "size": 1391044
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.15",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/nyFJpM9r",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1998
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 1999
+  }
+}

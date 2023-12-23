@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.0-beta.json",
+  "name": "v1.4.0-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 2378642,
+      "dateModified": "2023-06-30T13:41:18Z",
+      "fileLength": 1524798,
+      "fileName": "refinedstorage-1.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2378642",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2378642",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2378642",
+      "createdAt": "2017-02-06T21:12:59Z"
+    },
+    {
+      "id": 110492934,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjkzNA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.0-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492934/assets",
+      "assets": [
+        {
+          "id": 115010837,
+          "nodeId": "RA_kwDOAtXBQM4G2u0V",
+          "name": "refinedstorage-1.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1524798,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.0-beta/refinedstorage-1.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492934/assets{?name,label}",
+      "tagName": "v1.4.0-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Security Manager.\r\n- Added Security Card.\r\n- Added Wireless Fluid Grid.\r\n- Added craft-only toggle to Exporter.\r\n- Added Reader.\r\n- Added Writer.\r\n- Added blocking mode to patterns in autocrafting.\r\n- Added Grid size toggle (stretched, small, medium, large).\r\n- Added dismantling mode to the Wrench.\r\n- Added Block of Quartz Enriched Iron.\r\n- Added integration for Collosal Chests for the External Storage, Importer and Exporter improving performance.\r\n- Added filtering slots for the Crafting Monitor.\r\n- Added way to hide tasks created in an automated way in the Crafting Monitor.\r\n- Added Grid sorting by ID.\r\n- Added Solderer particles.\r\n- Added ore dictionary Grid filter (use `$` as prefix like in JEI).\r\n\r\n### Changed\r\n\r\n- You can now bind multiple crafters with the same pattern to machines, to spread or balance out autocrafting.\r\n- Fluid Grid now first tries to get buckets from your inventory instead of the storage.\r\n- Updated Forge to 2226.\r\n- Updated Chinese translation.\r\n- Converting blocks instead of ingots to Printed Processors is now a little faster.\r\n- The Stack Upgrade in a Constructor in item dropping mode will drop stacks of items at a time.\r\n- Ignore damage for damageable items when transferring into crafting grid.\r\n- Ignore tags from given items when transferring into crafting grid.\r\n- Removed sidedness from fluid interface.\r\n- Using tab in a grid that isn\u0027t in autoselected mode will focus on the search box.\r\n- Exposed the Network Card inventory of the Network Transmitter so other tiles can interact with it.\r\n- Increased size of Detector textbox.\r\n- Handle breaking and placing blocks better for Constructor and Destructor.\r\n- Pressing shift while starting a crafting task will skip the crafting preview.\r\n\r\n### Fixed\r\n\r\n- Fixed Regulator mode not working.\r\n- Fixed Fluid Interface still being sided.\r\n- Fixed Constructor not working on Botania flowers.\r\n- Fixed Wireless Transmitter working even if it was disabled with redstone mode.\r\n- Fixed Solderer not accepting books created in an Anvil.\r\n- Fixed bug where network machines stopped working on chunk borders.\r\n- Fixed memes not working.\r\n- Fixed External Storage crashes.\r\n- Fixed Constructor in liquid mode being able to place fluids \u003c1000 mB.\r\n- Fixed Solderer recipe conflicts, allowing for easier automation.\r\n- Fixed stack upgrades not working in exporter when stack size is 16.\r\n- Fixed crash when rotating External Storage.\r\n- Fixed disk textures not working on latest Forge.\r\n- Fixed crash when placing head with Constructor.\r\n- Autocrafting bugfixes.\r\n- Made sure External Storage always has the correct inventory in world.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:23:18Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.0-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.0-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492934",
+      "createdAt": "2017-02-06T23:15:56Z"
+    },
+    {
+      "id": "G3U09EQR",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.0-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Security Manager.\u003c/li\u003e\n\u003cli\u003eAdded Security Card.\u003c/li\u003e\n\u003cli\u003eAdded Wireless Fluid Grid.\u003c/li\u003e\n\u003cli\u003eAdded craft-only toggle to Exporter.\u003c/li\u003e\n\u003cli\u003eAdded Reader.\u003c/li\u003e\n\u003cli\u003eAdded Writer.\u003c/li\u003e\n\u003cli\u003eAdded blocking mode to patterns in autocrafting.\u003c/li\u003e\n\u003cli\u003eAdded Grid size toggle (stretched, small, medium, large).\u003c/li\u003e\n\u003cli\u003eAdded dismantling mode to the Wrench.\u003c/li\u003e\n\u003cli\u003eAdded Block of Quartz Enriched Iron.\u003c/li\u003e\n\u003cli\u003eAdded integration for Collosal Chests for the External Storage, Importer and Exporter improving performance.\u003c/li\u003e\n\u003cli\u003eAdded filtering slots for the Crafting Monitor.\u003c/li\u003e\n\u003cli\u003eAdded way to hide tasks created in an automated way in the Crafting Monitor.\u003c/li\u003e\n\u003cli\u003eAdded Grid sorting by ID.\u003c/li\u003e\n\u003cli\u003eAdded Solderer particles.\u003c/li\u003e\n\u003cli\u003eAdded ore dictionary Grid filter (use \u003ccode\u003e$\u003c/code\u003e as prefix like in JEI).\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eYou can now bind multiple crafters with the same pattern to machines, to spread or balance out autocrafting.\u003c/li\u003e\n\u003cli\u003eFluid Grid now first tries to get buckets from your inventory instead of the storage.\u003c/li\u003e\n\u003cli\u003eUpdated Forge to 2226.\u003c/li\u003e\n\u003cli\u003eUpdated Chinese translation.\u003c/li\u003e\n\u003cli\u003eConverting blocks instead of ingots to Printed Processors is now a little faster.\u003c/li\u003e\n\u003cli\u003eThe Stack Upgrade in a Constructor in item dropping mode will drop stacks of items at a time.\u003c/li\u003e\n\u003cli\u003eIgnore damage for damageable items when transferring into crafting grid.\u003c/li\u003e\n\u003cli\u003eIgnore tags from given items when transferring into crafting grid.\u003c/li\u003e\n\u003cli\u003eRemoved sidedness from fluid interface.\u003c/li\u003e\n\u003cli\u003eUsing tab in a grid that isn\u0027t in autoselected mode will focus on the search box.\u003c/li\u003e\n\u003cli\u003eExposed the Network Card inventory of the Network Transmitter so other tiles can interact with it.\u003c/li\u003e\n\u003cli\u003eIncreased size of Detector textbox.\u003c/li\u003e\n\u003cli\u003eHandle breaking and placing blocks better for Constructor and Destructor.\u003c/li\u003e\n\u003cli\u003ePressing shift while starting a crafting task will skip the crafting preview.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Regulator mode not working.\u003c/li\u003e\n\u003cli\u003eFixed Fluid Interface still being sided.\u003c/li\u003e\n\u003cli\u003eFixed Constructor not working on Botania flowers.\u003c/li\u003e\n\u003cli\u003eFixed Wireless Transmitter working even if it was disabled with redstone mode.\u003c/li\u003e\n\u003cli\u003eFixed Solderer not accepting books created in an Anvil.\u003c/li\u003e\n\u003cli\u003eFixed bug where network machines stopped working on chunk borders.\u003c/li\u003e\n\u003cli\u003eFixed memes not working.\u003c/li\u003e\n\u003cli\u003eFixed External Storage crashes.\u003c/li\u003e\n\u003cli\u003eFixed Constructor in liquid mode being able to place fluids \u0026lt;1000 mB.\u003c/li\u003e\n\u003cli\u003eFixed Solderer recipe conflicts, allowing for easier automation.\u003c/li\u003e\n\u003cli\u003eFixed stack upgrades not working in exporter when stack size is 16.\u003c/li\u003e\n\u003cli\u003eFixed crash when rotating External Storage.\u003c/li\u003e\n\u003cli\u003eFixed disk textures not working on latest Forge.\u003c/li\u003e\n\u003cli\u003eFixed crash when placing head with Constructor.\u003c/li\u003e\n\u003cli\u003eAutocrafting bugfixes.\u003c/li\u003e\n\u003cli\u003eMade sure External Storage always has the correct inventory in world.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "f28fd54b474c9e6a717f4d48c081842ed7553d000c0b38627d64a14a4fa485228dafab9be19190885031cd770d94548223d522cb6550137d173fb706259a54ff",
+            "sha1": "aa920cbd67ed835f7b98903f6fad5968e1292341"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/G3U09EQR/refinedstorage-1.4.jar",
+          "filename": "refinedstorage-1.4.jar",
+          "primary": true,
+          "size": 1524798
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.0-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/G3U09EQR",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 18326
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 18329
+  }
+}

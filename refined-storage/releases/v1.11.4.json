@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.11.4.json",
+  "name": "v1.11.4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86665887,
+      "nodeId": "RE_kwDOAtXBQM4FKmqf",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.11.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86665887/assets",
+      "assets": [
+        {
+          "id": 88907197,
+          "nodeId": "RA_kwDOAtXBQM4FTJ29",
+          "name": "refinedstorage-1.11.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3269894,
+          "downloadCount": 76,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.11.4/refinedstorage-1.11.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86665887/assets{?name,label}",
+      "tagName": "v1.11.4",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed duplication bug in the Interface.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-20T15:32:47Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86665887",
+      "createdAt": "2022-12-20T15:24:59Z"
+    },
+    {
+      "id": 4216398,
+      "dateModified": "2022-12-20T15:58:48Z",
+      "fileLength": 3269894,
+      "fileName": "refinedstorage-1.11.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.19.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4216398",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4216398",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4216398",
+      "createdAt": "2022-12-20T15:33:04Z"
+    },
+    {
+      "id": "2P23ravQ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.11.4",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed duplication bug in the Interface.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "18ebfd91fd2ff68f4d69b5dc40cbb0da66af0e22664da64e88f9c7b69821b1d8b3060cab8de2e1145bfe427961aa2628892e6f1c1a717785d54fc83e46c72937",
+            "sha1": "aad37a56a534580e4dab0ace4e5508278e41c2f7"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/2P23ravQ/refinedstorage-1.11.4.jar",
+          "filename": "refinedstorage-1.11.4.jar",
+          "primary": true,
+          "size": 3269894
+        }
+      ],
+      "gameVersions": [
+        "1.19.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.11.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/2P23ravQ",
+      "createdAt": "2023-07-04T19:59:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 76
+      },
+      {
+        "source": "curseforge",
+        "downloads": 815631
+      },
+      {
+        "source": "modrinth",
+        "downloads": 12
+      }
+    ],
+    "totalDownloads": 815719
+  }
+}

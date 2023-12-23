@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.5.json",
+  "name": "v1.2.5",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2348754,
+      "dateModified": "2023-06-30T15:11:27Z",
+      "fileLength": 1381898,
+      "fileName": "refinedstorage-1.2.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2348754",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2348754",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2348754",
+      "createdAt": "2016-11-24T20:39:43Z"
+    },
+    {
+      "id": 110513954,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzk1NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513954/assets",
+      "assets": [
+        {
+          "id": 115029271,
+          "nodeId": "RA_kwDOAtXBQM4G2zUX",
+          "name": "refinedstorage-1.2.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1381898,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.5/refinedstorage-1.2.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513954/assets{?name,label}",
+      "tagName": "v1.2.5",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added \"View Recipes\" JEI toggle in Solderer.\r\n\r\n### Changed\r\n\r\n- The Constructor can now place fireworks.\r\n- Updated Forge to 2151.\r\n\r\n### Fixed\r\n\r\n- Fixed a bunch of autocrafting bugs.\r\n- Fixed Grid search not working correctly.\r\n- Fixed items disappearing from Solderer inventory.\r\n- Fixed being able to take fluids that have less than 1000 millibuckets filled in Fluid Grid.\r\n- Fixed Constructor being able to place fluids that have less than 1000 millibuckets.\r\n- Fixed Exporter and Importer not working properly with fluids.\r\n- Fixed inserting new stack type with right click in Grid causing a desync.\r\n- Fixed Constructor not calling block place event.\r\n- Fixed shift clicking non disk items in the Disk Manipulator voiding them.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:53:21Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513954",
+      "createdAt": "2016-11-24T20:58:35Z"
+    },
+    {
+      "id": "aYtH6Iyj",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.5",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded \u0026quot;View Recipes\u0026quot; JEI toggle in Solderer.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Constructor can now place fireworks.\u003c/li\u003e\n\u003cli\u003eUpdated Forge to 2151.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed a bunch of autocrafting bugs.\u003c/li\u003e\n\u003cli\u003eFixed Grid search not working correctly.\u003c/li\u003e\n\u003cli\u003eFixed items disappearing from Solderer inventory.\u003c/li\u003e\n\u003cli\u003eFixed being able to take fluids that have less than 1000 millibuckets filled in Fluid Grid.\u003c/li\u003e\n\u003cli\u003eFixed Constructor being able to place fluids that have less than 1000 millibuckets.\u003c/li\u003e\n\u003cli\u003eFixed Exporter and Importer not working properly with fluids.\u003c/li\u003e\n\u003cli\u003eFixed inserting new stack type with right click in Grid causing a desync.\u003c/li\u003e\n\u003cli\u003eFixed Constructor not calling block place event.\u003c/li\u003e\n\u003cli\u003eFixed shift clicking non disk items in the Disk Manipulator voiding them.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "23fa066bb10749cedefe784a7c1ab87ff2fb24c05a1b0a5c916d15d827bdfd7895f3f8e40837285b28a6c755d447687bea59d39b57d1434fd85904b33365d67a",
+            "sha1": "e198240d5183f1a584842af294cdb656857590df"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/aYtH6Iyj/refinedstorage-1.2.5.jar",
+          "filename": "refinedstorage-1.2.5.jar",
+          "primary": true,
+          "size": 1381898
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.5",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/aYtH6Iyj",
+      "createdAt": "2023-07-04T19:57:37Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 2834
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 2837
+  }
+}

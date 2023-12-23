@@ -1,0 +1,114 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.12.json",
+  "name": "v1.9.12",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 85636221,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2MjIx",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.12",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636221/assets",
+      "assets": [
+        {
+          "id": 87724904,
+          "nodeId": "RA_kwDOAtXBQM4FOpNo",
+          "name": "refinedstorage-1.9.12.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3135679,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.12/refinedstorage-1.9.12.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636221/assets{?name,label}",
+      "tagName": "v1.9.12",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed some issues when using the Grid when it\u0027s offline.\r\n- Fixed crafting events not being fired in some cases in the Grid.\r\n- Fixed not being able to set fluid filter slot output quantity.\r\n- Fixed mod id search not working for Industrial Foregoing.\r\n- Fixed fluid autocrafting duplicating fluids.\r\n- Fixed some Grid crashes.\r\n- Fixed constructor not using compare mode correctly in some cases.\r\n- Fixed duplication bug in the Interface.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T19:59:14Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.12",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.12",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636221",
+      "createdAt": "2021-02-07T21:18:35Z"
+    },
+    {
+      "id": 3196167,
+      "dateModified": "2022-12-10T20:08:36Z",
+      "fileLength": 3135679,
+      "fileName": "refinedstorage-1.9.12.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.4",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3196167",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3196167",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3196167",
+      "createdAt": "2021-02-07T21:20:24Z"
+    },
+    {
+      "id": "HGQ0nVyD",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.12",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed some issues when using the Grid when it\u0027s offline.\u003c/li\u003e\n\u003cli\u003eFixed crafting events not being fired in some cases in the Grid.\u003c/li\u003e\n\u003cli\u003eFixed not being able to set fluid filter slot output quantity.\u003c/li\u003e\n\u003cli\u003eFixed mod id search not working for Industrial Foregoing.\u003c/li\u003e\n\u003cli\u003eFixed fluid autocrafting duplicating fluids.\u003c/li\u003e\n\u003cli\u003eFixed some Grid crashes.\u003c/li\u003e\n\u003cli\u003eFixed constructor not using compare mode correctly in some cases.\u003c/li\u003e\n\u003cli\u003eFixed duplication bug in the Interface.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "5ead023c53a7418bda51c1944b43b1bf914aa0f23339e936a39f5135a9e3c6759058bc8828ce8f7e6979f5459246aaeb52cbccee955c49d3a62fae1efb5a05a0",
+            "sha1": "153a09269500e4e5000b002fcfa880a77c38b1c2"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/HGQ0nVyD/refinedstorage-1.9.12.jar",
+          "filename": "refinedstorage-1.9.12.jar",
+          "primary": true,
+          "size": 3135679
+        }
+      ],
+      "gameVersions": [
+        "1.16.4",
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.12",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/HGQ0nVyD",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3698540
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 3698546
+  }
+}

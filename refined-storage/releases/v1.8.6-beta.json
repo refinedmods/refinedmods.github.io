@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.8.6-beta.json",
+  "name": "v1.8.6-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 86566135,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2MTM1",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.8.6-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566135/assets",
+      "assets": [
+        {
+          "id": 88798052,
+          "nodeId": "RA_kwDOAtXBQM4FSvNk",
+          "name": "refinedstorage-1.8.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1910985,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.6-beta/refinedstorage-1.8.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566135/assets{?name,label}",
+      "tagName": "v1.8.6-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Constructor duplication bug.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:50:08Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.6-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.6-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566135",
+      "createdAt": "2020-06-26T14:19:16Z"
+    },
+    {
+      "id": 2989417,
+      "dateModified": "2022-12-19T18:03:45Z",
+      "fileLength": 1910985,
+      "fileName": "refinedstorage-1.8.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2989417",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2989417",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2989417",
+      "createdAt": "2020-06-26T14:21:07Z"
+    },
+    {
+      "id": "Bq0JVXcm",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.8.6-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Constructor duplication bug.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "90ddb7020710db1fb91e8473abb2504c193fbb377a1c4fb3b7cd157535ba6212609810f1c1d9330b3932125110578241e1ae29eea517c5d50812c66c3d137954",
+            "sha1": "da52ef668b37bbc4367aa57937a23a4abdc5f61d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/Bq0JVXcm/refinedstorage-1.8.6.jar",
+          "filename": "refinedstorage-1.8.6.jar",
+          "primary": true,
+          "size": 1910985
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.8.6-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/Bq0JVXcm",
+      "createdAt": "2023-07-04T19:58:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 224263
+      },
+      {
+        "source": "modrinth",
+        "downloads": 7
+      }
+    ],
+    "totalDownloads": 224270
+  }
+}

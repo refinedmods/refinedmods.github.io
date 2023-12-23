@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.14.json",
+  "name": "v1.4.14",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110492279,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjI3OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.14",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492279/assets",
+      "assets": [
+        {
+          "id": 115010302,
+          "nodeId": "RA_kwDOAtXBQM4G2ur-",
+          "name": "refinedstorage-1.4.14.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1656550,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.14/refinedstorage-1.4.14.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492279/assets{?name,label}",
+      "tagName": "v1.4.14",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Solderer not accepting books made in anvil.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:18:13Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.14",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.14",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492279",
+      "createdAt": "2017-06-13T21:35:44Z"
+    },
+    {
+      "id": 2433636,
+      "dateModified": "2023-06-30T12:56:53Z",
+      "fileLength": 1656550,
+      "fileName": "refinedstorage-1.4.14.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2433636",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2433636",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2433636",
+      "createdAt": "2017-06-13T21:38:30Z"
+    },
+    {
+      "id": "rG3uuKl9",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.14",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Solderer not accepting books made in anvil.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "8932eb9d81fa27d2f93868a3f22a76ce0144d51b9c5fa0be92b1885bc131a4da7baaa644eef17bf707661b2b0f197e2b76b68c99127cd144cb634a025374f10c",
+            "sha1": "aeb7c302f3f60f7656783b0570fe070a17638b0d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/rG3uuKl9/refinedstorage-1.4.14.jar",
+          "filename": "refinedstorage-1.4.14.jar",
+          "primary": true,
+          "size": 1656550
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.14",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/rG3uuKl9",
+      "createdAt": "2023-07-04T19:58:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2733
+      },
+      {
+        "source": "modrinth",
+        "downloads": 5
+      }
+    ],
+    "totalDownloads": 2738
+  }
+}

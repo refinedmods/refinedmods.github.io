@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.11.json",
+  "name": "v1.4.11",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110492406,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjQwNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.11",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492406/assets",
+      "assets": [
+        {
+          "id": 115010381,
+          "nodeId": "RA_kwDOAtXBQM4G2utN",
+          "name": "refinedstorage-1.4.11.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1650871,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.11/refinedstorage-1.4.11.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492406/assets{?name,label}",
+      "tagName": "v1.4.11",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added support for External Storage on Interfaces and other Refined Storage blocks, so you can keep items in stock easier.\r\n- You now have to sneak to place the Portable Grid in the world.\r\n\r\n### Changed\r\n\r\n- The Machine Casing now requires 1 piece of stone in the middle.\r\n- Changed recipe of Disk Drive to no longer require a Solderer.\r\n- Changed recipe of Interface to no longer require a Basic Processor, but a Machine Casing instead.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where storages that are removed remain visible.\r\n- Fixed bug where the GUI didn\u0027t close when a block is broken, causing a dupe bug with the Portable Grid.\r\n\r\n### Removed\r\n\r\n- Removed debug log configuration option, as it\u0027s no longer needed.\r\n- Removed \"autocraft on redstone signal\" option in the Crafter, use an External Storage in combination with an Interface with the Crafting Upgrade instead.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:19:18Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.11",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.11",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492406",
+      "createdAt": "2017-06-05T21:47:31Z"
+    },
+    {
+      "id": 2429966,
+      "dateModified": "2023-06-30T13:37:30Z",
+      "fileLength": 1650871,
+      "fileName": "refinedstorage-1.4.11.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2429966",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2429966",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2429966",
+      "createdAt": "2017-06-05T22:27:40Z"
+    },
+    {
+      "id": "swrHncYx",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.11",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded support for External Storage on Interfaces and other Refined Storage blocks, so you can keep items in stock easier.\u003c/li\u003e\n\u003cli\u003eYou now have to sneak to place the Portable Grid in the world.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Machine Casing now requires 1 piece of stone in the middle.\u003c/li\u003e\n\u003cli\u003eChanged recipe of Disk Drive to no longer require a Solderer.\u003c/li\u003e\n\u003cli\u003eChanged recipe of Interface to no longer require a Basic Processor, but a Machine Casing instead.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where storages that are removed remain visible.\u003c/li\u003e\n\u003cli\u003eFixed bug where the GUI didn\u0027t close when a block is broken, causing a dupe bug with the Portable Grid.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved debug log configuration option, as it\u0027s no longer needed.\u003c/li\u003e\n\u003cli\u003eRemoved \u0026quot;autocraft on redstone signal\u0026quot; option in the Crafter, use an External Storage in combination with an Interface with the Crafting Upgrade instead.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "485ed72c5c5b65d46e41b16a5987cf96c9e54e5449541de5d0095e336addb62dabd9bf2fd9f2e0063a8c81d6a4b1f585b557a4fa9001cac40473cc61caefbe1f",
+            "sha1": "f39b7a2f40fb91f4949188019b5f96ffa46eb140"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/swrHncYx/refinedstorage-1.4.11.jar",
+          "filename": "refinedstorage-1.4.11.jar",
+          "primary": true,
+          "size": 1650871
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.11",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/swrHncYx",
+      "createdAt": "2023-07-04T19:58:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 12142
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 12144
+  }
+}

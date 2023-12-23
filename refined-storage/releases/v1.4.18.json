@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.18.json",
+  "name": "v1.4.18",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110492091,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjA5MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.18",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492091/assets",
+      "assets": [
+        {
+          "id": 115010156,
+          "nodeId": "RA_kwDOAtXBQM4G2ups",
+          "name": "refinedstorage-1.4.18.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1630901,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.18/refinedstorage-1.4.18.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492091/assets{?name,label}",
+      "tagName": "v1.4.18",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Solderer crashing.\r\n- Fixed Interface extracting from itself when trying to keep items in stock.\r\n- Fixed Solderer being able to work with insufficient ingredients.\r\n- Fixed Disk Drive giving incorrect capacity for creative and debug storage disks.\r\n- Fixed External Storage crashing.\r\n- Fixed crash when node data mismatches between world and dat file.\r\n\r\n### Removed\r\n\r\n- The Relay now reacts instantly to a redstone signal again, removed throttling for it.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:16:45Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.18",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.18",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492091",
+      "createdAt": "2017-06-24T19:43:56Z"
+    },
+    {
+      "id": 2440916,
+      "dateModified": "2023-06-30T12:55:28Z",
+      "fileLength": 1630901,
+      "fileName": "refinedstorage-1.4.18.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2440916",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2440916",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2440916",
+      "createdAt": "2017-06-24T19:52:34Z"
+    },
+    {
+      "id": "b8RJOn2m",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.18",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Solderer crashing.\u003c/li\u003e\n\u003cli\u003eFixed Interface extracting from itself when trying to keep items in stock.\u003c/li\u003e\n\u003cli\u003eFixed Solderer being able to work with insufficient ingredients.\u003c/li\u003e\n\u003cli\u003eFixed Disk Drive giving incorrect capacity for creative and debug storage disks.\u003c/li\u003e\n\u003cli\u003eFixed External Storage crashing.\u003c/li\u003e\n\u003cli\u003eFixed crash when node data mismatches between world and dat file.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Relay now reacts instantly to a redstone signal again, removed throttling for it.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "50fb954adeb3be91051f6db7ec656872d884ace6729a81df15c4623ec1acc1523544708422d1c58ce95cead4dacff989b9454653820ae07068f2a32adfcd48b5",
+            "sha1": "e61c69e9272ac31bf755e3f89454cb174972923b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/b8RJOn2m/refinedstorage-1.4.18.jar",
+          "filename": "refinedstorage-1.4.18.jar",
+          "primary": true,
+          "size": 1630901
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.18",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/b8RJOn2m",
+      "createdAt": "2023-07-04T19:58:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 41293
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 41295
+  }
+}

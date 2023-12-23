@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.7.3-beta.json",
+  "name": "v1.7.3-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 86566482,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2NDgy",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.3-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566482/assets",
+      "assets": [
+        {
+          "id": 88798307,
+          "nodeId": "RA_kwDOAtXBQM4FSvRj",
+          "name": "refinedstorage-1.7.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1836195,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.3-beta/refinedstorage-1.7.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566482/assets{?name,label}",
+      "tagName": "v1.7.3-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed severe energy update lag introduced by version 1.7.2.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:53:52Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.3-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.3-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566482",
+      "createdAt": "2019-12-30T12:29:55Z"
+    },
+    {
+      "id": 2851763,
+      "dateModified": "2022-12-19T18:06:39Z",
+      "fileLength": 1836195,
+      "fileName": "refinedstorage-1.7.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.14.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2851763",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2851763",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2851763",
+      "createdAt": "2019-12-30T12:36:26Z"
+    },
+    {
+      "id": "11oqJDaD",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.7.3-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed severe energy update lag introduced by version 1.7.2.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "75adcdd0636fe5fbc15545e6bad3f6f0ae423eb4c430f36120016137ec5f716a12a58e90cc52614a08d4d954dd4791907b63d2e08d3e98720ca80bfb2401e958",
+            "sha1": "8af065f8db857f3d4adac7b89025fece8b57512e"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/11oqJDaD/refinedstorage-1.7.3.jar",
+          "filename": "refinedstorage-1.7.3.jar",
+          "primary": true,
+          "size": 1836195
+        }
+      ],
+      "gameVersions": [
+        "1.14.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.7.3-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/11oqJDaD",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 2
+      },
+      {
+        "source": "curseforge",
+        "downloads": 800848
+      },
+      {
+        "source": "modrinth",
+        "downloads": 18
+      }
+    ],
+    "totalDownloads": 800868
+  }
+}

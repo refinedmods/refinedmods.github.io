@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.16.json",
+  "name": "v1.9.16",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 85636069,
+      "nodeId": "RE_kwDOAtXBQM4FGrPl",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.16",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636069/assets",
+      "assets": [
+        {
+          "id": 87724470,
+          "nodeId": "RA_kwDOAtXBQM4FOpG2",
+          "name": "refinedstorage-1.9.16.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3220785,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.16/refinedstorage-1.9.16.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636069/assets{?name,label}",
+      "tagName": "v1.9.16",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Covers for all cable types.\r\n- Added Polish translation.\r\n- Added Italian translation.\r\n- Addons can now override how crafters insert items.\r\n\r\n### Changed\r\n\r\n- Improved JEI integration to pick the best option when transferring items.\r\n\r\n### Fixed\r\n\r\n- Fixed an issue where too many items in a grid would kick the player.\r\n- Fixed an issue where the portable grid does not open from Inventory anymore after some use.\r\n- Fixed craftable view in grids not showing items that were already in storage.\r\n- Fixed Wireless Crafting Monitor not working as Curio.\r\n- Fixed wrong slot being locked in some cases when opening a wireless item.\r\n- Slightly sped up External Storage item look up.\r\n- Fixed extraction from Storage Monitor not respecting maximum stack size.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T19:51:33Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.16",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.16",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636069",
+      "createdAt": "2021-11-14T20:58:31Z"
+    },
+    {
+      "id": 3527504,
+      "dateModified": "2022-12-10T20:07:16Z",
+      "fileLength": 3220785,
+      "fileName": "refinedstorage-1.9.16.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3527504",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3527504",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3527504",
+      "createdAt": "2021-11-16T10:05:47Z"
+    },
+    {
+      "id": "R0JZjvEg",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.16",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Covers for all cable types.\u003c/li\u003e\n\u003cli\u003eAdded Polish translation.\u003c/li\u003e\n\u003cli\u003eAdded Italian translation.\u003c/li\u003e\n\u003cli\u003eAddons can now override how crafters insert items.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImproved JEI integration to pick the best option when transferring items.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed an issue where too many items in a grid would kick the player.\u003c/li\u003e\n\u003cli\u003eFixed an issue where the portable grid does not open from Inventory anymore after some use.\u003c/li\u003e\n\u003cli\u003eFixed craftable view in grids not showing items that were already in storage.\u003c/li\u003e\n\u003cli\u003eFixed Wireless Crafting Monitor not working as Curio.\u003c/li\u003e\n\u003cli\u003eFixed wrong slot being locked in some cases when opening a wireless item.\u003c/li\u003e\n\u003cli\u003eSlightly sped up External Storage item look up.\u003c/li\u003e\n\u003cli\u003eFixed extraction from Storage Monitor not respecting maximum stack size.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c8020f5fdc314c0eeaffcb0928b8813e23b74744e2e3c2e4e8b835fdb09eb793e0e07a4385b03d3dddf90bf3a5c6d62bfa2b31907ec6be4ce251e4c8348d51bc",
+            "sha1": "cad76196ecca609ff7fecaf8189b65028ecabe30"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/R0JZjvEg/refinedstorage-1.9.16.jar",
+          "filename": "refinedstorage-1.9.16.jar",
+          "primary": true,
+          "size": 3220785
+        }
+      ],
+      "gameVersions": [
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.16",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/R0JZjvEg",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2449782
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 2449789
+  }
+}

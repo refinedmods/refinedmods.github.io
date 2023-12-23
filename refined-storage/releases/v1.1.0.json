@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.1.0.json",
+  "name": "v1.1.0",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110520816,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMDgxNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520816/assets",
+      "assets": [
+        {
+          "id": 115035497,
+          "nodeId": "RA_kwDOAtXBQM4G201p",
+          "name": "refinedstorage-1.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1029560,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.1.0/refinedstorage-1.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520816/assets{?name,label}",
+      "tagName": "v1.1.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- New art by CyanideX.\r\n- Added crafting preview screen.\r\n- Added max crafting task depth.\r\n- Added helpful tooltips to Solderer and Processing Pattern Encoder.\r\n\r\n### Changed\r\n\r\n- Every machine now compares on damage and NBT by default.\r\n- Updated JEI, fixes crashes.\r\n- Detector amount text field doesn\u0027t autoselect anymore.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Disk Manipulator.\r\n- Fixed autocrafting not giving back byproducts.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:43:24Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520816",
+      "createdAt": "2016-09-28T00:50:42Z"
+    },
+    {
+      "id": 2332792,
+      "dateModified": "2023-06-30T15:50:40Z",
+      "fileLength": 1029560,
+      "fileName": "refinedstorage-1.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2332792",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2332792",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2332792",
+      "createdAt": "2016-09-28T00:53:43Z"
+    },
+    {
+      "id": "X8KPs07l",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.1.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNew art by CyanideX.\u003c/li\u003e\n\u003cli\u003eAdded crafting preview screen.\u003c/li\u003e\n\u003cli\u003eAdded max crafting task depth.\u003c/li\u003e\n\u003cli\u003eAdded helpful tooltips to Solderer and Processing Pattern Encoder.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eEvery machine now compares on damage and NBT by default.\u003c/li\u003e\n\u003cli\u003eUpdated JEI, fixes crashes.\u003c/li\u003e\n\u003cli\u003eDetector amount text field doesn\u0027t autoselect anymore.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash with Disk Manipulator.\u003c/li\u003e\n\u003cli\u003eFixed autocrafting not giving back byproducts.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "66a71d55e361010348364cc6cda552e94dd18a809a0e15a4db20c263a1e63771d44a82ecfce0e10b28d9d4e1f954555abb02251cc762a7dbeb7dbbeef10697af",
+            "sha1": "067328a944aa1119eaab86717079b4f647aa8f1d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/X8KPs07l/refinedstorage-1.1.jar",
+          "filename": "refinedstorage-1.1.jar",
+          "primary": true,
+          "size": 1029560
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.1.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/X8KPs07l",
+      "createdAt": "2023-07-04T19:57:17Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 723
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 724
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.8.json",
+  "name": "v1.9.8",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 85636260,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2MjYw",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.8",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636260/assets",
+      "assets": [
+        {
+          "id": 87725017,
+          "nodeId": "RA_kwDOAtXBQM4FOpPZ",
+          "name": "refinedstorage-1.9.8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3131699,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.8/refinedstorage-1.9.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636260/assets{?name,label}",
+      "tagName": "v1.9.8",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added a JEI synchronized (two-way) search box mode to the Grid.\r\n- Added a nag message when a player joins the world that asks the player to enable the experimental Forge lighting\r\n  pipeline to ensure correct rendering.\r\n\r\n### Fixed\r\n\r\n- Fixed server crash when scrolling in Grid.\r\n- Fixed various issues with Grid interactions working without power.\r\n- Fixed changing rotation not updating blocks.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T20:01:10Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.8",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.8",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636260",
+      "createdAt": "2020-10-24T12:59:14Z"
+    },
+    {
+      "id": 3091433,
+      "dateModified": "2022-12-10T20:09:56Z",
+      "fileLength": 3131699,
+      "fileName": "refinedstorage-1.9.8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.3"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3091433",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3091433",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3091433",
+      "createdAt": "2020-10-24T13:01:26Z"
+    },
+    {
+      "id": "o6pw67te",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.8",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded a JEI synchronized (two-way) search box mode to the Grid.\u003c/li\u003e\n\u003cli\u003eAdded a nag message when a player joins the world that asks the player to enable the experimental Forge lighting\r\n  pipeline to ensure correct rendering.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed server crash when scrolling in Grid.\u003c/li\u003e\n\u003cli\u003eFixed various issues with Grid interactions working without power.\u003c/li\u003e\n\u003cli\u003eFixed changing rotation not updating blocks.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "1c037b1a1136bb7ac2ca08167459a3b8cabd47be613e52a9df762d40eb93d9cc0f1caaf5865369ee6c348d9d2684f11b87c742c1584aa2999fc2093f9ceccb2f",
+            "sha1": "160e2ffcac92285391bba435ac0c3451d343cc56"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/o6pw67te/refinedstorage-1.9.8.jar",
+          "filename": "refinedstorage-1.9.8.jar",
+          "primary": true,
+          "size": 3131699
+        }
+      ],
+      "gameVersions": [
+        "1.16.3"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.8",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/o6pw67te",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 212877
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 212880
+  }
+}

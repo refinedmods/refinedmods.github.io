@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.9-alpha.json",
+  "name": "v0.6.9-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 2301552,
+      "dateModified": "2023-07-04T15:09:08Z",
+      "fileLength": 413641,
+      "fileName": "refinedstorage-0.6.9.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2301552",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2301552",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2301552",
+      "createdAt": "2016-05-20T20:40:57Z"
+    },
+    {
+      "id": 111007091,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNzA5MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.9-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007091/assets",
+      "assets": [
+        {
+          "id": 115535678,
+          "nodeId": "RA_kwDOAtXBQM4G4u8-",
+          "name": "refinedstorage-0.6.9.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 413641,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.9-alpha/refinedstorage-0.6.9.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111007091/assets{?name,label}",
+      "tagName": "v0.6.9-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added automation for the Solderer: every side corresponds to a slot (see the wiki).\r\n\r\n### Fixed\r\n\r\n- Fixed bug where machines wouldn\u0027t disconnect / connect when needed outside of chunk.\r\n- Fixed not being able to toggle redstone mode in a Wireless Transmitter.\r\n- Fixed same machine being connected to the network multiple times.\r\n- Fixed External Storage not working.\r\n- Reduced network usage.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:16:26Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.9-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.9-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007091",
+      "createdAt": "2016-05-20T20:45:17Z"
+    },
+    {
+      "id": "zPblpnEM",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.9-alpha",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded automation for the Solderer: every side corresponds to a slot (see the wiki).\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where machines wouldn\u0027t disconnect / connect when needed outside of chunk.\u003c/li\u003e\n\u003cli\u003eFixed not being able to toggle redstone mode in a Wireless Transmitter.\u003c/li\u003e\n\u003cli\u003eFixed same machine being connected to the network multiple times.\u003c/li\u003e\n\u003cli\u003eFixed External Storage not working.\u003c/li\u003e\n\u003cli\u003eReduced network usage.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "79b6dbcb525e6f7e96a53184c0bd25d60b9327818f10c5bfb71bc8d160aca0712699539f91101b52fb69a999ee8e82d1d15cb1bb2bd18640bb39a5cd2e7888c9",
+            "sha1": "250b54878426ebad1789a072b35b7afc17aab648"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/zPblpnEM/refinedstorage-0.6.9.jar",
+          "filename": "refinedstorage-0.6.9.jar",
+          "primary": true,
+          "size": 413641
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.9-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/zPblpnEM",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 282
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 283
+  }
+}

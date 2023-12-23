@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.8.json",
+  "name": "v1.5.8",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110471437,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTQzNw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.8",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471437/assets",
+      "assets": [
+        {
+          "id": 114988055,
+          "nodeId": "RA_kwDOAtXBQM4G2pQX",
+          "name": "refinedstorage-1.5.8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1639159,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.8/refinedstorage-1.5.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471437/assets{?name,label}",
+      "tagName": "v1.5.8",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated Forge to 2400.\r\n- Updated Storage Drawers API.\r\n- Autocrafting can now fill water bottles with water from the fluid storage - regular bottles or pattern for regular bottles are required.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where disks have to be re-inserted in the Disk Drive in order to work again after rejoining a chunk.\r\n- Fixed bug where items inserted in Storage Drawers through External Storage with a Drawer Controller wouldn\u0027t respect drawer priority rules.\r\n- Fixed crash on server when getting an advancement.\r\n\r\n### Removed\r\n\r\n- Removed migration support for worlds from MC 1.10.2. To migrate your world to MC 1.12 from MC 1.10.2, first open it in MC 1.11.2.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:06:17Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.8",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.8",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471437",
+      "createdAt": "2017-07-08T08:51:30Z"
+    },
+    {
+      "id": 2447486,
+      "dateModified": "2023-06-30T09:24:21Z",
+      "fileLength": 1639159,
+      "fileName": "refinedstorage-1.5.8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2447486",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2447486",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2447486",
+      "createdAt": "2017-07-08T08:58:11Z"
+    },
+    {
+      "id": "8WrJfY2W",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.8",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2400.\u003c/li\u003e\n\u003cli\u003eUpdated Storage Drawers API.\u003c/li\u003e\n\u003cli\u003eAutocrafting can now fill water bottles with water from the fluid storage - regular bottles or pattern for regular bottles are required.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where disks have to be re-inserted in the Disk Drive in order to work again after rejoining a chunk.\u003c/li\u003e\n\u003cli\u003eFixed bug where items inserted in Storage Drawers through External Storage with a Drawer Controller wouldn\u0027t respect drawer priority rules.\u003c/li\u003e\n\u003cli\u003eFixed crash on server when getting an advancement.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved migration support for worlds from MC 1.10.2. To migrate your world to MC 1.12 from MC 1.10.2, first open it in MC 1.11.2.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4848d8059019796bc7e2dfff4cfd13a0a7f9e9c7bd49d84823ca7f88a73a4f52ca68b1669059000b78da4bd7b8e8faf6adf99299d1db1f9e6c47015addf48117",
+            "sha1": "c99cdb84eb1d91dff73501d5a0395e39b37db3b0"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/8WrJfY2W/refinedstorage-1.5.8.jar",
+          "filename": "refinedstorage-1.5.8.jar",
+          "primary": true,
+          "size": 1639159
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.8",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/8WrJfY2W",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 7453
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 7454
+  }
+}

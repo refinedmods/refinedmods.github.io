@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.1-beta.json",
+  "name": "v1.9.1-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 85636311,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2MzEx",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.1-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636311/assets",
+      "assets": [
+        {
+          "id": 87725134,
+          "nodeId": "RA_kwDOAtXBQM4FOpRO",
+          "name": "refinedstorage-1.9.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1878568,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.1-beta/refinedstorage-1.9.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636311/assets{?name,label}",
+      "tagName": "v1.9.1-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed server crash.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T20:03:49Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.1-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.1-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636311",
+      "createdAt": "2020-07-14T16:17:31Z"
+    },
+    {
+      "id": 3004744,
+      "dateModified": "2022-12-10T20:12:53Z",
+      "fileLength": 1878568,
+      "fileName": "refinedstorage-1.9.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.1"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3004744",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3004744",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3004744",
+      "createdAt": "2020-07-14T16:22:40Z"
+    },
+    {
+      "id": "aVBhDTuO",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.1-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed server crash.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "849b74fe18f08cd296c710475f92b87c20fc8f0102755b104794b291929058058d31bbc742250f3becc52ff01af1bc69cea27345643c0f22dbfefe9722282033",
+            "sha1": "219c88506b88f6f19275cd81b822d6363db2ddb8"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/aVBhDTuO/refinedstorage-1.9.1.jar",
+          "filename": "refinedstorage-1.9.1.jar",
+          "primary": true,
+          "size": 1878568
+        }
+      ],
+      "gameVersions": [
+        "1.16.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.1-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/aVBhDTuO",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 11671
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 11672
+  }
+}

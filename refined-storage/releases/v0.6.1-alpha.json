@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.1-alpha.json",
+  "name": "v0.6.1-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111007380,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNzM4MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.1-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007380/assets",
+      "assets": [
+        {
+          "id": 115536016,
+          "nodeId": "RA_kwDOAtXBQM4G4vCQ",
+          "name": "refinedstorage-0.6.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 419292,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.1-alpha/refinedstorage-0.6.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111007380/assets{?name,label}",
+      "tagName": "v0.6.1-alpha",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed NPE on world load.\r\n- Fixed Destructor crashing when removing a connected machine.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:18:51Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.1-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.1-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007380",
+      "createdAt": "2016-05-16T21:25:26Z"
+    },
+    {
+      "id": 2300554,
+      "dateModified": "2023-07-04T15:12:06Z",
+      "fileLength": 419292,
+      "fileName": "refinedstorage-0.6.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2300554",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2300554",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2300554",
+      "createdAt": "2016-05-16T21:31:35Z"
+    },
+    {
+      "id": "bcveRhzK",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.1-alpha",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed NPE on world load.\u003c/li\u003e\n\u003cli\u003eFixed Destructor crashing when removing a connected machine.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "f07ce68f42d3d592cdf8f61013bae1476a911b336324bb56ae1a4a5d7ca0d6531466636cb965cc8772bfe9d28601c0b6564ef015e54bc0b54dc2f68806030041",
+            "sha1": "8ed456fb3d12c0a5a24ea8e94875639b28b7256f"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/bcveRhzK/refinedstorage-0.6.1.jar",
+          "filename": "refinedstorage-0.6.1.jar",
+          "primary": true,
+          "size": 419292
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.1-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/bcveRhzK",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 375
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 377
+  }
+}

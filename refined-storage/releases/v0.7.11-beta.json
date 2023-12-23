@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.11-beta.json",
+  "name": "v0.7.11-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000511,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDUxMQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.11-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000511/assets",
+      "assets": [
+        {
+          "id": 115529339,
+          "nodeId": "RA_kwDOAtXBQM4G4tZ7",
+          "name": "refinedstorage-0.7.11.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 460674,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.11-beta/refinedstorage-0.7.11.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000511/assets{?name,label}",
+      "tagName": "v0.7.11-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Right click on grid search bar clears the search query.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with wireless grid.\r\n- Fixed high RF/t usage on external storage.\r\n- Fixed that requesting crafting processing task yields too many tasks.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:25:41Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.11-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.11-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000511",
+      "createdAt": "2016-06-12T08:57:44Z"
+    },
+    {
+      "id": 2307027,
+      "dateModified": "2023-07-04T13:56:48Z",
+      "fileLength": 460674,
+      "fileName": "refinedstorage-0.7.11.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2307027",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2307027",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2307027",
+      "createdAt": "2016-06-12T12:24:31Z"
+    },
+    {
+      "id": "Lgcu6H34",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.11-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRight click on grid search bar clears the search query.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash with wireless grid.\u003c/li\u003e\n\u003cli\u003eFixed high RF/t usage on external storage.\u003c/li\u003e\n\u003cli\u003eFixed that requesting crafting processing task yields too many tasks.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "43650c2e216c15e7f37445253539e367cc9587d512f5ded709d9337c73ee28709670b883b5409186faf7dab4cce77a5c08e02350dd2ad9660a692d0fe0bc0b15",
+            "sha1": "cc6a95deaf73607af699d2bc045844a2251fff40"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/Lgcu6H34/refinedstorage-0.7.11.jar",
+          "filename": "refinedstorage-0.7.11.jar",
+          "primary": true,
+          "size": 460674
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.11-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/Lgcu6H34",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 4475
+      },
+      {
+        "source": "modrinth",
+        "downloads": 7
+      }
+    ],
+    "totalDownloads": 4482
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.0.0.json",
+  "name": "v1.0.0",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110521012,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMTAxMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521012/assets",
+      "assets": [
+        {
+          "id": 115035773,
+          "nodeId": "RA_kwDOAtXBQM4G2059",
+          "name": "refinedstorage-1.0.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 729682,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.0/refinedstorage-1.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110521012/assets{?name,label}",
+      "tagName": "v1.0.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Interface now supports Crafting Upgrade.\r\n- Implemented multithreaded autocrafting.\r\n\r\n### Changed\r\n\r\n- Processing patterns now hold their items back for pushing until all the required items are gathered from the system.\r\n- Reworked Crafting Monitor GUI.\r\n- When shift clicking a recipe in the Crafting Grid, the player inventory is now leveraged as well.\r\n- Updated to Forge 2077.\r\n- Due to the new crafting system, all Crafting Patterns made before 1.0 have to be re-made.\r\n\r\n### Fixed\r\n\r\n- Fixed item and fluid storage stored count having incorrect values at times.\r\n- Fixed problems relating to Crafting Upgrade (scheduling a task wrongly, blocking other tasks, etc).\r\n- Fixed machines breaking on long distances.\r\n- Fixed Controller rebuilding network graph on energy change.\r\n- Fixed fluids not caring about NBT tags.\r\n- Fixed fluids that have less than 1 bucket stored render only partly in Fluid Grid.\r\n- Fixed Fluid Interface voiding bucket when shift clicking to out slot.\r\n- Fixed wrong machine connection logic.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:45:12Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521012",
+      "createdAt": "2016-09-12T20:06:58Z"
+    },
+    {
+      "id": 2329810,
+      "dateModified": "2023-06-30T15:52:36Z",
+      "fileLength": 729682,
+      "fileName": "refinedstorage-1.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2329810",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2329810",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2329810",
+      "createdAt": "2016-09-12T20:10:10Z"
+    },
+    {
+      "id": "loHh6k6J",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.0.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eInterface now supports Crafting Upgrade.\u003c/li\u003e\n\u003cli\u003eImplemented multithreaded autocrafting.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eProcessing patterns now hold their items back for pushing until all the required items are gathered from the system.\u003c/li\u003e\n\u003cli\u003eReworked Crafting Monitor GUI.\u003c/li\u003e\n\u003cli\u003eWhen shift clicking a recipe in the Crafting Grid, the player inventory is now leveraged as well.\u003c/li\u003e\n\u003cli\u003eUpdated to Forge 2077.\u003c/li\u003e\n\u003cli\u003eDue to the new crafting system, all Crafting Patterns made before 1.0 have to be re-made.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed item and fluid storage stored count having incorrect values at times.\u003c/li\u003e\n\u003cli\u003eFixed problems relating to Crafting Upgrade (scheduling a task wrongly, blocking other tasks, etc).\u003c/li\u003e\n\u003cli\u003eFixed machines breaking on long distances.\u003c/li\u003e\n\u003cli\u003eFixed Controller rebuilding network graph on energy change.\u003c/li\u003e\n\u003cli\u003eFixed fluids not caring about NBT tags.\u003c/li\u003e\n\u003cli\u003eFixed fluids that have less than 1 bucket stored render only partly in Fluid Grid.\u003c/li\u003e\n\u003cli\u003eFixed Fluid Interface voiding bucket when shift clicking to out slot.\u003c/li\u003e\n\u003cli\u003eFixed wrong machine connection logic.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7ac8fc1c1e942265311580dca1ee2fb0775d31a7885dfdf47c2a436953d27699c5661e82fee580fd786e5f71e5df6deeb73f869bf0751322a80f55bfbb235f49",
+            "sha1": "a69fcf17b3ed0809bf6febe36fb66ce4f4970409"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/loHh6k6J/refinedstorage-1.0.jar",
+          "filename": "refinedstorage-1.0.jar",
+          "primary": true,
+          "size": 729682
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.0.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/loHh6k6J",
+      "createdAt": "2023-07-04T19:57:15Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2454
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 2457
+  }
+}

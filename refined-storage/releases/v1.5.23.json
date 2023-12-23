@@ -1,0 +1,116 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.23.json",
+  "name": "v1.5.23",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2499881,
+      "dateModified": "2023-06-30T09:20:03Z",
+      "fileLength": 1817957,
+      "fileName": "refinedstorage-1.5.23.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2499881",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2499881",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2499881",
+      "createdAt": "2017-11-13T22:06:06Z"
+    },
+    {
+      "id": 110470681,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDY4MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.23",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470681/assets",
+      "assets": [
+        {
+          "id": 114987396,
+          "nodeId": "RA_kwDOAtXBQM4G2pGE",
+          "name": "refinedstorage-1.5.23.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1817957,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.23/refinedstorage-1.5.23.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470681/assets{?name,label}",
+      "tagName": "v1.5.23",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed duplication bug with autocrafting.\r\n- Fixed Fluid Interface with Stack Upgrade not exporting fluids.\r\n- Fixed fluids in Fluid Grid not showing actual mB on tooltip when pressing CTRL + SHIFT.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T08:59:39Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.23",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.23",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470681",
+      "createdAt": "2017-11-13T22:16:04Z"
+    },
+    {
+      "id": "PxiUp4pX",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.23",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed duplication bug with autocrafting.\u003c/li\u003e\n\u003cli\u003eFixed Fluid Interface with Stack Upgrade not exporting fluids.\u003c/li\u003e\n\u003cli\u003eFixed fluids in Fluid Grid not showing actual mB on tooltip when pressing CTRL + SHIFT.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "2ea7769c71e84ce0d848be63d4f2ac59a247c2e0fe1e591881536cf747c3806ff85461cb214e834befd10e91938b0d85bd06e5fef8d4994b619ffbc08ed982f4",
+            "sha1": "dfbae40e0a3340035d894664754b4c31af621a6b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/PxiUp4pX/refinedstorage-1.5.23.jar",
+          "filename": "refinedstorage-1.5.23.jar",
+          "primary": true,
+          "size": 1817957
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.23",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/PxiUp4pX",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 207645
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 207648
+  }
+}

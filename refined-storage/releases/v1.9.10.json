@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.10.json",
+  "name": "v1.9.10",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 85636234,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2MjM0",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.10",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636234/assets",
+      "assets": [
+        {
+          "id": 87724944,
+          "nodeId": "RA_kwDOAtXBQM4FOpOQ",
+          "name": "refinedstorage-1.9.10.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3135176,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.10/refinedstorage-1.9.10.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636234/assets{?name,label}",
+      "tagName": "v1.9.10",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Update Japanese translation.\r\n\r\n### Fixed\r\n\r\n- Improve performance of the Grid view.\r\n- Fixed Disk Manipulator model glitches.\r\n- Improve performance of the Disk Manipulator.\r\n- Fixed being unable to set quantity in output slots of the Pattern Grid.\r\n- Fixed External Storage in fluid mode losing track of fluids sometimes.\r\n- Added code to avoid / minimize data corruption issues caused by Minecraft.\r\n- Fixed processing autocrafting orders stealing items from each other.\r\n- Fixed Constructor in fluid mode voiding fluid source blocks in front of it.\r\n- Fixed crash when recoloring blocks that have no rotation component.\r\n- Fixed reloading resource packs breaking Refined Storage textures.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T20:00:02Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.10",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.10",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636234",
+      "createdAt": "2021-01-02T10:42:23Z"
+    },
+    {
+      "id": 3156078,
+      "dateModified": "2022-12-10T20:09:14Z",
+      "fileLength": 3135176,
+      "fileName": "refinedstorage-1.9.10.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.4"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3156078",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3156078",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3156078",
+      "createdAt": "2021-01-02T10:58:37Z"
+    },
+    {
+      "id": "WD1pFMBR",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.10",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdate Japanese translation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImprove performance of the Grid view.\u003c/li\u003e\n\u003cli\u003eFixed Disk Manipulator model glitches.\u003c/li\u003e\n\u003cli\u003eImprove performance of the Disk Manipulator.\u003c/li\u003e\n\u003cli\u003eFixed being unable to set quantity in output slots of the Pattern Grid.\u003c/li\u003e\n\u003cli\u003eFixed External Storage in fluid mode losing track of fluids sometimes.\u003c/li\u003e\n\u003cli\u003eAdded code to avoid / minimize data corruption issues caused by Minecraft.\u003c/li\u003e\n\u003cli\u003eFixed processing autocrafting orders stealing items from each other.\u003c/li\u003e\n\u003cli\u003eFixed Constructor in fluid mode voiding fluid source blocks in front of it.\u003c/li\u003e\n\u003cli\u003eFixed crash when recoloring blocks that have no rotation component.\u003c/li\u003e\n\u003cli\u003eFixed reloading resource packs breaking Refined Storage textures.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "737927240ab6be565d8d1e4756246e74d972f2ff509fb1570bd7737904111ae52cf9240c3fae4baa7a71a3aba762e193ca070815a5bb55aa717657c5bd80d4c4",
+            "sha1": "f765a68208e4b445c5490452e71547e6fc825a10"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/WD1pFMBR/refinedstorage-1.9.10.jar",
+          "filename": "refinedstorage-1.9.10.jar",
+          "primary": true,
+          "size": 3135176
+        }
+      ],
+      "gameVersions": [
+        "1.16.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.10",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/WD1pFMBR",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 7409
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 7415
+  }
+}

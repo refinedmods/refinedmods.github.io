@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.10.0-beta.4.json",
+  "name": "v1.10.0-beta.4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 56107271,
+      "nodeId": "RE_kwDOAtXBQM4DWCEH",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.10.0-beta.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/56107271/assets",
+      "assets": [
+        {
+          "id": 52747140,
+          "nodeId": "RA_kwDOAtXBQM4DJNuE",
+          "name": "refinedstorage-1.10.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3233379,
+          "downloadCount": 28,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.10.0-beta.4/refinedstorage-1.10.0-beta.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/56107271/assets{?name,label}",
+      "tagName": "v1.10.0-beta.4",
+      "targetCommitish": "develop",
+      "body": "\n### Fixed\n\n- Fixed client crash when hovering over a fluid in the Fluid Grid by [@jackodsteel](https://github.com/jackodsteel).\n- Fixed random client crashes when starting the game.\n\n### Changed\n\n- Update Korean translation by [@mindy15963](https://github.com/mindy15963).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-28T21:34:18Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.0-beta.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.0-beta.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/56107271",
+      "createdAt": "2021-12-28T21:28:33Z"
+    },
+    {
+      "id": 3583676,
+      "dateModified": "2021-12-28T21:35:50Z",
+      "fileLength": 3233378,
+      "fileName": "refinedstorage-1.10.0-beta.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3583676",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3583676",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3583676",
+      "createdAt": "2021-12-28T21:34:30Z"
+    },
+    {
+      "id": "zGJtrgXl",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.10.0-beta.4",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed client crash when hovering over a fluid in the Fluid Grid by \u003ca href\u003d\"https://github.com/jackodsteel\" rel\u003d\"nofollow\"\u003e@jackodsteel\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eFixed random client crashes when starting the game.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdate Korean translation by \u003ca href\u003d\"https://github.com/mindy15963\" rel\u003d\"nofollow\"\u003e@mindy15963\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "565d7276ba22e33484eb682fcefcb78b170bb3eac56260331da647966eb34f5b56efe08f6a411cc55634025ead62fd805bb0ca7be5e9346cca2b8d650f86f7a9",
+            "sha1": "73e131bbc158f990496090b239036b7c2b58e1e7"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/zGJtrgXl/refinedstorage-1.10.0-beta.4.jar",
+          "filename": "refinedstorage-1.10.0-beta.4.jar",
+          "primary": true,
+          "size": 3233378
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.10.0-beta.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/zGJtrgXl",
+      "createdAt": "2023-07-04T19:59:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 28
+      },
+      {
+        "source": "curseforge",
+        "downloads": 295804
+      },
+      {
+        "source": "modrinth",
+        "downloads": 11
+      }
+    ],
+    "totalDownloads": 295843
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.24.json",
+  "name": "v1.2.24",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2394485,
+      "dateModified": "2023-06-30T15:05:18Z",
+      "fileLength": 1411998,
+      "fileName": "refinedstorage-1.2.24.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2394485",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2394485",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2394485",
+      "createdAt": "2017-03-18T13:47:00Z"
+    },
+    {
+      "id": 110512893,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMjg5Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.24",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512893/assets",
+      "assets": [
+        {
+          "id": 115028578,
+          "nodeId": "RA_kwDOAtXBQM4G2zJi",
+          "name": "refinedstorage-1.2.24.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1411998,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.24/refinedstorage-1.2.24.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110512893/assets{?name,label}",
+      "tagName": "v1.2.24",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Made the keybinding to focus on the Grid search bar configurable.\r\n\r\n### Fixed\r\n\r\n- Autocrafting bugfixes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:46:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.24",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.24",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512893",
+      "createdAt": "2017-03-18T13:49:58Z"
+    },
+    {
+      "id": "ZwA2eWbr",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.24",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMade the keybinding to focus on the Grid search bar configurable.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutocrafting bugfixes.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "3220e947b8d233f9f577ec2da6d924691bfe051f48e9bc367894edced4a619dabb5d464716b9029f287b5e067bd4ed886c65098483be3075fe0f74bbe47d648c",
+            "sha1": "5f22e2103f73c59a5251af8048b901f1cca191d5"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ZwA2eWbr/refinedstorage-1.2.24.jar",
+          "filename": "refinedstorage-1.2.24.jar",
+          "primary": true,
+          "size": 1411998
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.24",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ZwA2eWbr",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 119024
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 119026
+  }
+}

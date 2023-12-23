@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.16.json",
+  "name": "v1.2.16",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513348,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzM0OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.16",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513348/assets",
+      "assets": [
+        {
+          "id": 115028990,
+          "nodeId": "RA_kwDOAtXBQM4G2zP-",
+          "name": "refinedstorage-1.2.16.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1391232,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.16/refinedstorage-1.2.16.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513348/assets{?name,label}",
+      "tagName": "v1.2.16",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed an autocrafting regression.\r\n- Fixed crash with External Storage.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:49:54Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.16",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.16",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513348",
+      "createdAt": "2017-01-04T15:04:39Z"
+    },
+    {
+      "id": 2364128,
+      "dateModified": "2023-06-30T15:07:53Z",
+      "fileLength": 1391232,
+      "fileName": "refinedstorage-1.2.16.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2364128",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2364128",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2364128",
+      "createdAt": "2017-01-04T15:09:44Z"
+    },
+    {
+      "id": "5LJgalvR",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.16",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed an autocrafting regression.\u003c/li\u003e\n\u003cli\u003eFixed crash with External Storage.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "83b12ee7ba71a8297a69ece218b486d825d2116816a672ef4417c73b8cde3440c6a621959fae948cdd2e5636a667fa6da95140ca87b0ebd27839646f43b51ca9",
+            "sha1": "fab493e2e4cd6cc3784faa409917ad1951837138"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/5LJgalvR/refinedstorage-1.2.16.jar",
+          "filename": "refinedstorage-1.2.16.jar",
+          "primary": true,
+          "size": 1391232
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.16",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/5LJgalvR",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 191750
+      },
+      {
+        "source": "modrinth",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 191750
+  }
+}

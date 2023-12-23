@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.2.json",
+  "name": "v1.2.2",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110514113,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDExMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514113/assets",
+      "assets": [
+        {
+          "id": 115029369,
+          "nodeId": "RA_kwDOAtXBQM4G2zV5",
+          "name": "refinedstorage-1.2.2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1339213,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.2/refinedstorage-1.2.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514113/assets{?name,label}",
+      "tagName": "v1.2.2",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed item voiding when exporting to a chest with a storage in Extract Only mode.\r\n- Various autocrafting fixes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:54:14Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514113",
+      "createdAt": "2016-11-05T22:56:03Z"
+    },
+    {
+      "id": 2342239,
+      "dateModified": "2023-06-30T15:12:27Z",
+      "fileLength": 1339213,
+      "fileName": "refinedstorage-1.2.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2342239",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2342239",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2342239",
+      "createdAt": "2016-11-05T23:01:32Z"
+    },
+    {
+      "id": "2toxAjDL",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.2",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed item voiding when exporting to a chest with a storage in Extract Only mode.\u003c/li\u003e\n\u003cli\u003eVarious autocrafting fixes.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d3c6e0cc246eb64a23935eea45bccc07643cf574d9421c58c5886d63e2bf485f3112089d1a66a5d2618cd40ee96d9c41d72404e93c5b4a6c31906583161e2418",
+            "sha1": "d25a756a415841538319c2f908b882e71961a0b5"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/2toxAjDL/refinedstorage-1.2.2.jar",
+          "filename": "refinedstorage-1.2.2.jar",
+          "primary": true,
+          "size": 1339213
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/2toxAjDL",
+      "createdAt": "2023-07-04T19:57:36Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 641
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 643
+  }
+}

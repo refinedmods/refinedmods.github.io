@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.19-beta.json",
+  "name": "v0.8.19-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110998325,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5ODMyNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.19-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998325/assets",
+      "assets": [
+        {
+          "id": 115526811,
+          "nodeId": "RA_kwDOAtXBQM4G4syb",
+          "name": "refinedstorage-0.8.19.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 609413,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.19-beta/refinedstorage-0.8.19.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998325/assets{?name,label}",
+      "tagName": "v0.8.19-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed item duplication bug with External Storage.\r\n- Fixed External Storage taking too long to update storage.\r\n- Fixed crash with Grid.\r\n- Fixed crash when shift clicking unsupported item in a slot.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:09:57Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.19-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.19-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998325",
+      "createdAt": "2016-08-13T23:46:51Z"
+    },
+    {
+      "id": 2322890,
+      "dateModified": "2023-07-04T10:43:43Z",
+      "fileLength": 609413,
+      "fileName": "refinedstorage-0.8.19.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2322890",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2322890",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2322890",
+      "createdAt": "2016-08-13T23:48:36Z"
+    },
+    {
+      "id": "NFMdTqLm",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.19-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed item duplication bug with External Storage.\u003c/li\u003e\n\u003cli\u003eFixed External Storage taking too long to update storage.\u003c/li\u003e\n\u003cli\u003eFixed crash with Grid.\u003c/li\u003e\n\u003cli\u003eFixed crash when shift clicking unsupported item in a slot.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "662fcdd37b4ad96ad6edc2fae8649f185a7d9903fd24b206cdcb445ef424561964c41ad45fb712161a2c2a9eae62b0548a3358cf97b984dfe18dcf8a21a2ab9b",
+            "sha1": "642d988bd538cb02fbdd9f2d236868a9e0b242b8"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/NFMdTqLm/refinedstorage-0.8.19.jar",
+          "filename": "refinedstorage-0.8.19.jar",
+          "primary": true,
+          "size": 609413
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.19-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/NFMdTqLm",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 8324
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 8326
+  }
+}

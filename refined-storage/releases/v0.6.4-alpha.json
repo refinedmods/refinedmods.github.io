@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.4-alpha.json",
+  "name": "v0.6.4-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111007271,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNzI3MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.4-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007271/assets",
+      "assets": [
+        {
+          "id": 115535891,
+          "nodeId": "RA_kwDOAtXBQM4G4vAT",
+          "name": "refinedstorage-0.6.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 418864,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.4-alpha/refinedstorage-0.6.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111007271/assets{?name,label}",
+      "tagName": "v0.6.4-alpha",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Performance improvements.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:17:57Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.4-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.4-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007271",
+      "createdAt": "2016-05-17T23:55:09Z"
+    },
+    {
+      "id": 2300792,
+      "dateModified": "2023-07-04T15:11:09Z",
+      "fileLength": 418864,
+      "fileName": "refinedstorage-0.6.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2300792",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2300792",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2300792",
+      "createdAt": "2016-05-17T23:57:43Z"
+    },
+    {
+      "id": "QqMSPKBK",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.4-alpha",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePerformance improvements.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "df28506aeb0e5715e04c7c08d996aaef5d3d89afc326e828159b133f3b5a2f3e76034bb9b9510ea6d47257b54d08000264ff4c15e483d1c25aaea6e4ddfb934b",
+            "sha1": "ea9d47a826bb3917cec02f7b34cb97d12f6e729c"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/QqMSPKBK/refinedstorage-0.6.4.jar",
+          "filename": "refinedstorage-0.6.4.jar",
+          "primary": true,
+          "size": 418864
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.4-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/QqMSPKBK",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 432
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 435
+  }
+}

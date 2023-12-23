@@ -1,0 +1,116 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.19.json",
+  "name": "v1.5.19",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110470874,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDg3NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.19",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470874/assets",
+      "assets": [
+        {
+          "id": 114987580,
+          "nodeId": "RA_kwDOAtXBQM4G2pI8",
+          "name": "refinedstorage-1.5.19.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1703417,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.19/refinedstorage-1.5.19.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470874/assets{?name,label}",
+      "tagName": "v1.5.19",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated Forge to 2493 (MC 1.12.2).\r\n\r\n### Fixed\r\n\r\n- Fixed Refined Storage blocks requiring a pickaxe to be broken.\r\n- Fixed Grid GUI crash.\r\n- Fixed device names overflowing Controller GUI.\r\n- Fixed high CPU load when Refined Storage GUIs are open.\r\n- Fixed not being able to extract Mekanism tanks and bins from the Grid.\r\n- Fixed not being able to craft Immersive Engineering Revolver.\r\n- Fixed rare bug when server crashes on startup due to network node not existing.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:01:16Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.19",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.19",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470874",
+      "createdAt": "2017-10-08T14:06:03Z"
+    },
+    {
+      "id": 2488703,
+      "dateModified": "2023-06-30T09:21:08Z",
+      "fileLength": 1703417,
+      "fileName": "refinedstorage-1.5.19.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2488703",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2488703",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2488703",
+      "createdAt": "2017-10-08T14:51:15Z"
+    },
+    {
+      "id": "QiYjDNCR",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.19",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2493 (MC 1.12.2).\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Refined Storage blocks requiring a pickaxe to be broken.\u003c/li\u003e\n\u003cli\u003eFixed Grid GUI crash.\u003c/li\u003e\n\u003cli\u003eFixed device names overflowing Controller GUI.\u003c/li\u003e\n\u003cli\u003eFixed high CPU load when Refined Storage GUIs are open.\u003c/li\u003e\n\u003cli\u003eFixed not being able to extract Mekanism tanks and bins from the Grid.\u003c/li\u003e\n\u003cli\u003eFixed not being able to craft Immersive Engineering Revolver.\u003c/li\u003e\n\u003cli\u003eFixed rare bug when server crashes on startup due to network node not existing.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ba91a21204a70433e58f2f21d05563c53effcfddd4c508b522a5a8633d67adff39d4234c95e48d37784770ba03d7effc58529186bfdc4d2f4092fa8699aed732",
+            "sha1": "669ece2523d521611ee7e1a16ce68f9e8247525b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/QiYjDNCR/refinedstorage-1.5.19.jar",
+          "filename": "refinedstorage-1.5.19.jar",
+          "primary": true,
+          "size": 1703417
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.19",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/QiYjDNCR",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3511
+      },
+      {
+        "source": "modrinth",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 3511
+  }
+}

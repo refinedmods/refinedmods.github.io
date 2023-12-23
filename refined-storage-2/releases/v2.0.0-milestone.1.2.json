@@ -1,0 +1,180 @@
+{
+  "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.1.2.json",
+  "name": "v2.0.0-milestone.1.2",
+  "indexedAt": "2023-12-23T23:53:11Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55913537,
+      "nodeId": "RE_kwDOEkvWPM4DVSxB",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-milestone.1.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/55913537/assets",
+      "assets": [
+        {
+          "id": 52458289,
+          "nodeId": "RA_kwDOEkvWPM4DIHMx",
+          "name": "refinedstorage2-core-api-2.0.0-milestone.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 9716,
+          "downloadCount": 31,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-core-api-2.0.0-milestone.1.2.jar"
+        },
+        {
+          "id": 52458290,
+          "nodeId": "RA_kwDOEkvWPM4DIHMy",
+          "name": "refinedstorage2-grid-api-2.0.0-milestone.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 32317,
+          "downloadCount": 23,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-grid-api-2.0.0-milestone.1.2.jar"
+        },
+        {
+          "id": 52458292,
+          "nodeId": "RA_kwDOEkvWPM4DIHM0",
+          "name": "refinedstorage2-network-api-2.0.0-milestone.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 40729,
+          "downloadCount": 22,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-network-api-2.0.0-milestone.1.2.jar"
+        },
+        {
+          "id": 52458294,
+          "nodeId": "RA_kwDOEkvWPM4DIHM2",
+          "name": "refinedstorage2-platform-fabric-2.0.0-milestone.1.2-dev.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 754590,
+          "downloadCount": 15,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-platform-fabric-2.0.0-milestone.1.2-dev.jar"
+        },
+        {
+          "id": 52458299,
+          "nodeId": "RA_kwDOEkvWPM4DIHM7",
+          "name": "refinedstorage2-platform-fabric-2.0.0-milestone.1.2-sources-dev.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 582958,
+          "downloadCount": 10,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-platform-fabric-2.0.0-milestone.1.2-sources-dev.jar"
+        },
+        {
+          "id": 52458296,
+          "nodeId": "RA_kwDOEkvWPM4DIHM4",
+          "name": "refinedstorage2-platform-fabric-2.0.0-milestone.1.2-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 612378,
+          "downloadCount": 16,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-platform-fabric-2.0.0-milestone.1.2-sources.jar"
+        },
+        {
+          "id": 52458298,
+          "nodeId": "RA_kwDOEkvWPM4DIHM6",
+          "name": "refinedstorage2-platform-fabric-2.0.0-milestone.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1839315,
+          "downloadCount": 81,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-platform-fabric-2.0.0-milestone.1.2.jar"
+        },
+        {
+          "id": 52458291,
+          "nodeId": "RA_kwDOEkvWPM4DIHMz",
+          "name": "refinedstorage2-platform-fabric-api-2.0.0-milestone.1.2-dev.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33133,
+          "downloadCount": 12,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-platform-fabric-api-2.0.0-milestone.1.2-dev.jar"
+        },
+        {
+          "id": 52458293,
+          "nodeId": "RA_kwDOEkvWPM4DIHM1",
+          "name": "refinedstorage2-platform-fabric-api-2.0.0-milestone.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 34806,
+          "downloadCount": 21,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-platform-fabric-api-2.0.0-milestone.1.2.jar"
+        },
+        {
+          "id": 52458295,
+          "nodeId": "RA_kwDOEkvWPM4DIHM3",
+          "name": "refinedstorage2-query-parser-2.0.0-milestone.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27830,
+          "downloadCount": 19,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-query-parser-2.0.0-milestone.1.2.jar"
+        },
+        {
+          "id": 52458297,
+          "nodeId": "RA_kwDOEkvWPM4DIHM5",
+          "name": "refinedstorage2-resource-api-2.0.0-milestone.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 10741,
+          "downloadCount": 19,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-resource-api-2.0.0-milestone.1.2.jar"
+        },
+        {
+          "id": 52458300,
+          "nodeId": "RA_kwDOEkvWPM4DIHM8",
+          "name": "refinedstorage2-storage-api-2.0.0-milestone.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 26684,
+          "downloadCount": 19,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-storage-api-2.0.0-milestone.1.2.jar"
+        },
+        {
+          "id": 52458301,
+          "nodeId": "RA_kwDOEkvWPM4DIHM9",
+          "name": "refinedstorage2-test-2.0.0-milestone.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1269,
+          "downloadCount": 23,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.2/refinedstorage2-test-2.0.0-milestone.1.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/55913537/assets{?name,label}",
+      "tagName": "v2.0.0-milestone.1.2",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Fluid Storage Part\r\n- Fluid Storage Disk\r\n- Fluid Grid\r\n- Wrench\r\n- Tooltip search in the Grid with unary operator \"#\".\r\n\r\n### Fixed\r\n\r\n- Fix Disk Drive item filters not being applied when reloading a world.\r\n- Fix Storage Disk contents being scrambled when other mods are being added or removed.\r\n- Fix rendering crash with the Disk Drive.\r\n- Fix colored blocks having incorrect names in WTHIT.\r\n- Prevent loading unloaded chunks.\r\n- Fix various bugs related to networks and chunk loading/unloading.\r\n- Fix not being able to move network devices with mods like Carrier.\r\n- Fix CTRL + CLICK in creative mode not retaining block data.\r\n- Fix item quantity not being formatted in the Grid.\r\n- Fix amount in detailed Grid tooltip being formatted with units.\r\n\r\n### Changed\r\n\r\n- Ported to Minecraft 1.18.1.\r\n- Modularized the codebase.\r\n- The capacity of the various fluid storage part and fluid storage disk tiers are now described in bucket form, no\r\n  longer in mB form.\r\n- The Wrench now plays a sound effect when used.\r\n- The Wrench works on any block that has the `fabric:wrenchables` tag. Other mods can identify the Refined Storage\r\n  wrench by checking the `fabric:wrenches` tag.\r\n- Made energy usage by the Grid and Disk Drive less power-hungry.\r\n- The Controller now displays an energy bar on the item.\r\n- Upgrade Team Reborn Energy API.\r\n- Made block breaking faster.\r\n- Refined Storage now uses the bundled AutoConfig with ClothConfig and bundles ClothConfig.\r\n- Item quantity of \"1\" is now always being rendered in the Grid.\r\n- Exact mode is now off by default.\r\n\r\n### Removed\r\n\r\n- LibBlockAttributes is no longer used and thus no longer bundled with Refined Storage 2.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-23T17:33:41Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.1.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.1.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/55913537",
+      "createdAt": "2021-12-23T17:25:10Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 311
+      }
+    ],
+    "totalDownloads": 311
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.8.1-beta.json",
+  "name": "v1.8.1-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 86566342,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2MzQy",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.8.1-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566342/assets",
+      "assets": [
+        {
+          "id": 88798214,
+          "nodeId": "RA_kwDOAtXBQM4FSvQG",
+          "name": "refinedstorage-1.8.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1840305,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.1-beta/refinedstorage-1.8.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566342/assets{?name,label}",
+      "tagName": "v1.8.1-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.15.2.\r\n- Fluid support for the Storage Monitor.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:52:27Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.1-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.1-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566342",
+      "createdAt": "2020-01-30T10:43:32Z"
+    },
+    {
+      "id": 2871849,
+      "dateModified": "2022-12-19T18:06:00Z",
+      "fileLength": 1840305,
+      "fileName": "refinedstorage-1.8.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2871849",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2871849",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2871849",
+      "createdAt": "2020-01-30T10:45:36Z"
+    },
+    {
+      "id": "X9Cp27r1",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.8.1-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.15.2.\u003c/li\u003e\n\u003cli\u003eFluid support for the Storage Monitor.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "aa55d4eb2b6e59204f2fd3cbeb10e1faeb6bfab1200150b6683b11b1e59bb4eedc5451926ca2541396f81c4c4e14895f3fc41d329db81282403cca5e6ea97eb7",
+            "sha1": "53c1469f78d552e33bd3457813fae112fc13eddc"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/X9Cp27r1/refinedstorage-1.8.1.jar",
+          "filename": "refinedstorage-1.8.1.jar",
+          "primary": true,
+          "size": 1840305
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.8.1-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/X9Cp27r1",
+      "createdAt": "2023-07-04T19:58:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "curseforge",
+        "downloads": 877179
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 877182
+  }
+}

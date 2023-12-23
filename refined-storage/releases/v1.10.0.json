@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.10.0.json",
+  "name": "v1.10.0",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 57942530,
+      "nodeId": "RE_kwDOAtXBQM4DdCIC",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.10.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/57942530/assets",
+      "assets": [
+        {
+          "id": 54929819,
+          "nodeId": "RA_kwDOAtXBQM4DRimb",
+          "name": "refinedstorage-1.10.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3233957,
+          "downloadCount": 79,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.10.0/refinedstorage-1.10.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/57942530/assets{?name,label}",
+      "tagName": "v1.10.0",
+      "targetCommitish": "develop",
+      "body": "\n### Fixed\n\n- Fixed multiple bugs related to transferring recipes into the Crafting Grid.\n- Processing patterns now use the order of items/fluids specified in the pattern\n  by [@necauqua](https://github.com/necauqua) and [@Darkere](https://github.com/Darkere).\n- Fixed autocrafting task getting stuck if two tasks fulfilled each others requirements.\n- Fixed fluid autocrafting breaking when using 2 stacks of the same fluid in a pattern.\n- Amount specifying screen is now limited to valid values.\n- Fixed crash on servers when starting with latest Forge.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-01-25T17:31:28Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/57942530",
+      "createdAt": "2022-01-25T17:24:27Z"
+    },
+    {
+      "id": 3623324,
+      "dateModified": "2022-01-25T17:32:44Z",
+      "fileLength": 3233957,
+      "fileName": "refinedstorage-1.10.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3623324",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3623324",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3623324",
+      "createdAt": "2022-01-25T17:31:45Z"
+    },
+    {
+      "id": "sv5wexKZ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.10.0",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed multiple bugs related to transferring recipes into the Crafting Grid.\u003c/li\u003e\n\u003cli\u003eProcessing patterns now use the order of items/fluids specified in the pattern\n  by \u003ca href\u003d\"https://github.com/necauqua\" rel\u003d\"nofollow\"\u003e@necauqua\u003c/a\u003e and \u003ca href\u003d\"https://github.com/Darkere\" rel\u003d\"nofollow\"\u003e@Darkere\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eFixed autocrafting task getting stuck if two tasks fulfilled each others requirements.\u003c/li\u003e\n\u003cli\u003eFixed fluid autocrafting breaking when using 2 stacks of the same fluid in a pattern.\u003c/li\u003e\n\u003cli\u003eAmount specifying screen is now limited to valid values.\u003c/li\u003e\n\u003cli\u003eFixed crash on servers when starting with latest Forge.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "16069c7c2462b45c664f0728290500bcc3f6b0f0cac185a246b94189feec6564e3f5ae2f3629ff4a980f28270552537fd8f889010e4d7503cbc2e72a3c4a3662",
+            "sha1": "8df7e8a3a2badc1636f71b25c6863835e6182ab7"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/sv5wexKZ/refinedstorage-1.10.0.jar",
+          "filename": "refinedstorage-1.10.0.jar",
+          "primary": true,
+          "size": 3233957
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.10.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/sv5wexKZ",
+      "createdAt": "2023-07-04T19:59:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 79
+      },
+      {
+        "source": "curseforge",
+        "downloads": 372425
+      },
+      {
+        "source": "modrinth",
+        "downloads": 12
+      }
+    ],
+    "totalDownloads": 372516
+  }
+}

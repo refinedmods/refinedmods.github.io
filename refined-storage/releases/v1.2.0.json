@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.0.json",
+  "name": "v1.2.0",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110514188,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDE4OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514188/assets",
+      "assets": [
+        {
+          "id": 115029428,
+          "nodeId": "RA_kwDOAtXBQM4G2zW0",
+          "name": "refinedstorage-1.2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1326284,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0/refinedstorage-1.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514188/assets{?name,label}",
+      "tagName": "v1.2.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added new autocrafting system.\r\n- Added ore dictionary autocrafting.\r\n- Added recipe transfer handler for Processing Pattern Encoder.\r\n- Added void excess items functionality to storage blocks.\r\n- Added config option to configure RS to EU conversion rates.\r\n- Added ability to toggle between insert and extract, only insert and only extract mode in storage blocks.\r\n- Added Silk Touch Upgrade for Destructor.\r\n- Added Fortune Upgrade for Destructor.\r\n- Added ore dictionary compare toggle to storage I/O blocks.\r\n- Added disk leds to Disk Drive block that shows the disks.\r\n- Added disk leds to Disk Manipulator block that shows the disks.\r\n- Added Wrench, has two modes: configuration saving / reading mode, and rotation mode.\r\n- Stack upgrade in Importer / Exporter in fluid mode and Fluid Interface now transfers 64 buckets at once.\r\n\r\n### Changed\r\n\r\n- Changed storage GUIs.\r\n- Changed default EU conversion rate to be 1:8 with RS.\r\n- The Constructor can now drop items in the world.\r\n- The Constructor can now place skulls.\r\n- The Destructor can now pick up items in the world.\r\n- Storage disks and storage blocks now don\u0027t despawn anymore when dropped in the world.\r\n- Grid item and fluid quantity now only rounds to 1 digit after comma.\r\n- Items count can no longer overflow, and will max out at the maximum integer value.\r\n- Updated Storage Drawers API.\r\n- Controller sorts by energy usage in GUI (highest to lowest).\r\n- Detector without any filter will detect based on total items or fluids stored.\r\n- Limited network transmitter usage to 1000 RS/t.\r\n\r\n### Fixed\r\n\r\n- Fixed lag issues caused by External Storage.\r\n- Fixed resetting a stack of patterns yields 1 blank pattern.\r\n- Fixed being able to pipe items in the export slots of the Interface.\r\n- Fixed Interface being stuck when item isn\u0027t accepted in storage.\r\n- Fixed items with colored name being uncolored in Grid.\r\n- Fixed fluid rendering bugging out side buttons.\r\n- Fixed item count going negative when using the Disk Manipulator.\r\n- Fixed Storage Drawer quantities not updating properly on Void Drawers.\r\n- Fixed Disk Manipulator blocking items transferring in some cases.\r\n- Fixed External Storage crafting recipe not supporting ore dictionary chests.\r\n- Fixed when shift clicking crafting recipe and inventory is full items are dropping on the ground instead of going in the system.\r\n- Fixed glitchy rendering of cable parts in item form.\r\n- Fixed Destructor being able to break bedrock.\r\n- Fixed External Storage thinking that items are inserted in Extra Utilities Trash Cans.\r\n- Fixed Grid quantities being unreadable when using unicode font.\r\n- Fixed disconnecting when Storage Disk or Storage Block is too big.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:54:57Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514188",
+      "createdAt": "2016-11-03T21:37:44Z"
+    },
+    {
+      "id": 2341572,
+      "dateModified": "2023-06-30T15:16:51Z",
+      "fileLength": 1326284,
+      "fileName": "refinedstorage-1.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2341572",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2341572",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2341572",
+      "createdAt": "2016-11-03T21:39:55Z"
+    },
+    {
+      "id": "2lZ9sQgb",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded new autocrafting system.\u003c/li\u003e\n\u003cli\u003eAdded ore dictionary autocrafting.\u003c/li\u003e\n\u003cli\u003eAdded recipe transfer handler for Processing Pattern Encoder.\u003c/li\u003e\n\u003cli\u003eAdded void excess items functionality to storage blocks.\u003c/li\u003e\n\u003cli\u003eAdded config option to configure RS to EU conversion rates.\u003c/li\u003e\n\u003cli\u003eAdded ability to toggle between insert and extract, only insert and only extract mode in storage blocks.\u003c/li\u003e\n\u003cli\u003eAdded Silk Touch Upgrade for Destructor.\u003c/li\u003e\n\u003cli\u003eAdded Fortune Upgrade for Destructor.\u003c/li\u003e\n\u003cli\u003eAdded ore dictionary compare toggle to storage I/O blocks.\u003c/li\u003e\n\u003cli\u003eAdded disk leds to Disk Drive block that shows the disks.\u003c/li\u003e\n\u003cli\u003eAdded disk leds to Disk Manipulator block that shows the disks.\u003c/li\u003e\n\u003cli\u003eAdded Wrench, has two modes: configuration saving / reading mode, and rotation mode.\u003c/li\u003e\n\u003cli\u003eStack upgrade in Importer / Exporter in fluid mode and Fluid Interface now transfers 64 buckets at once.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eChanged storage GUIs.\u003c/li\u003e\n\u003cli\u003eChanged default EU conversion rate to be 1:8 with RS.\u003c/li\u003e\n\u003cli\u003eThe Constructor can now drop items in the world.\u003c/li\u003e\n\u003cli\u003eThe Constructor can now place skulls.\u003c/li\u003e\n\u003cli\u003eThe Destructor can now pick up items in the world.\u003c/li\u003e\n\u003cli\u003eStorage disks and storage blocks now don\u0027t despawn anymore when dropped in the world.\u003c/li\u003e\n\u003cli\u003eGrid item and fluid quantity now only rounds to 1 digit after comma.\u003c/li\u003e\n\u003cli\u003eItems count can no longer overflow, and will max out at the maximum integer value.\u003c/li\u003e\n\u003cli\u003eUpdated Storage Drawers API.\u003c/li\u003e\n\u003cli\u003eController sorts by energy usage in GUI (highest to lowest).\u003c/li\u003e\n\u003cli\u003eDetector without any filter will detect based on total items or fluids stored.\u003c/li\u003e\n\u003cli\u003eLimited network transmitter usage to 1000 RS/t.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed lag issues caused by External Storage.\u003c/li\u003e\n\u003cli\u003eFixed resetting a stack of patterns yields 1 blank pattern.\u003c/li\u003e\n\u003cli\u003eFixed being able to pipe items in the export slots of the Interface.\u003c/li\u003e\n\u003cli\u003eFixed Interface being stuck when item isn\u0027t accepted in storage.\u003c/li\u003e\n\u003cli\u003eFixed items with colored name being uncolored in Grid.\u003c/li\u003e\n\u003cli\u003eFixed fluid rendering bugging out side buttons.\u003c/li\u003e\n\u003cli\u003eFixed item count going negative when using the Disk Manipulator.\u003c/li\u003e\n\u003cli\u003eFixed Storage Drawer quantities not updating properly on Void Drawers.\u003c/li\u003e\n\u003cli\u003eFixed Disk Manipulator blocking items transferring in some cases.\u003c/li\u003e\n\u003cli\u003eFixed External Storage crafting recipe not supporting ore dictionary chests.\u003c/li\u003e\n\u003cli\u003eFixed when shift clicking crafting recipe and inventory is full items are dropping on the ground instead of going in the system.\u003c/li\u003e\n\u003cli\u003eFixed glitchy rendering of cable parts in item form.\u003c/li\u003e\n\u003cli\u003eFixed Destructor being able to break bedrock.\u003c/li\u003e\n\u003cli\u003eFixed External Storage thinking that items are inserted in Extra Utilities Trash Cans.\u003c/li\u003e\n\u003cli\u003eFixed Grid quantities being unreadable when using unicode font.\u003c/li\u003e\n\u003cli\u003eFixed disconnecting when Storage Disk or Storage Block is too big.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4969d84bc3d7a39ba2deb5b7cd6ddff96f2602263336d25f17292b6c728454ab57661db81ce65619c571392a10ca0e4139f920276742dcde1fa210a45f2d4fbb",
+            "sha1": "246b2d411678e3b1794eebc14953c76cfc872bbb"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/2lZ9sQgb/refinedstorage-1.2.jar",
+          "filename": "refinedstorage-1.2.jar",
+          "primary": true,
+          "size": 1326284
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/2lZ9sQgb",
+      "createdAt": "2023-07-04T19:57:35Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 24074
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 24076
+  }
+}

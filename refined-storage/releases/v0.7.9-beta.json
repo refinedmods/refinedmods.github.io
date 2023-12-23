@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.9-beta.json",
+  "name": "v0.7.9-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000628,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDYyOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.9-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000628/assets",
+      "assets": [
+        {
+          "id": 115529404,
+          "nodeId": "RA_kwDOAtXBQM4G4ta8",
+          "name": "refinedstorage-0.7.9.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 459988,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.9-beta/refinedstorage-0.7.9.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000628/assets{?name,label}",
+      "tagName": "v0.7.9-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added an API.\r\n- Added Storage Drawers integration.\r\n- Added handling for patterns that return the same item.\r\n- Added stack splitting between multiple storages.\r\n- Added handling for patterns that give back the same item.\r\n\r\n### Changed\r\n\r\n- Increased cable recipe to 12 cables.\r\n\r\n### Fixed\r\n\r\n- Fixed not being able to place sugar cane.\r\n- Fixed not being able to place seeds.\r\n- Fixed stacks not splitting between storages correctly.\r\n- Fixed storage not saving ItemStack capabilities.\r\n- Fixed dropping items into crafting grid with mouse won\u0027t work if your mouse is in between items.\r\n- Fixed controller still drawing power even if disabled.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:26:42Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.9-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.9-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000628",
+      "createdAt": "2016-06-11T08:01:10Z"
+    },
+    {
+      "id": 2306758,
+      "dateModified": "2023-07-04T13:58:27Z",
+      "fileLength": 459988,
+      "fileName": "refinedstorage-0.7.9.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2306758",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2306758",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2306758",
+      "createdAt": "2016-06-11T08:23:23Z"
+    },
+    {
+      "id": "FFosy93i",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.9-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded an API.\u003c/li\u003e\n\u003cli\u003eAdded Storage Drawers integration.\u003c/li\u003e\n\u003cli\u003eAdded handling for patterns that return the same item.\u003c/li\u003e\n\u003cli\u003eAdded stack splitting between multiple storages.\u003c/li\u003e\n\u003cli\u003eAdded handling for patterns that give back the same item.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIncreased cable recipe to 12 cables.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed not being able to place sugar cane.\u003c/li\u003e\n\u003cli\u003eFixed not being able to place seeds.\u003c/li\u003e\n\u003cli\u003eFixed stacks not splitting between storages correctly.\u003c/li\u003e\n\u003cli\u003eFixed storage not saving ItemStack capabilities.\u003c/li\u003e\n\u003cli\u003eFixed dropping items into crafting grid with mouse won\u0027t work if your mouse is in between items.\u003c/li\u003e\n\u003cli\u003eFixed controller still drawing power even if disabled.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "98691d80ce709dffd3978d65f85ee4012c0a93d97356d4be38f10571a604743359e84e747c62a72580b1a549e48ee5d310d9308fd537f655394f5a4a19730346",
+            "sha1": "8c65800eb8022b30fff9fe0ea535f95372b2b05f"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/FFosy93i/refinedstorage-0.7.9.jar",
+          "filename": "refinedstorage-0.7.9.jar",
+          "primary": true,
+          "size": 459988
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.9-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/FFosy93i",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 851
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 853
+  }
+}

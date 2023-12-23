@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.7.1-alpha.json",
+  "name": "v1.7.1-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 86566597,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2NTk3",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.1-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566597/assets",
+      "assets": [
+        {
+          "id": 88798392,
+          "nodeId": "RA_kwDOAtXBQM4FSvS4",
+          "name": "refinedstorage-1.7.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1832618,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.1-alpha/refinedstorage-1.7.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566597/assets{?name,label}",
+      "tagName": "v1.7.1-alpha",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Pattern Grid causing world hanging on load.\r\n- Fixed External Storage not refreshing when the storage is broken or replaced.\r\n- Fixed delay in block update when placing a cable block.\r\n- Fixed holder of cable blocks sometimes conflicting with a cable connection while rendering.\r\n- Fixed being able to move wireless items in inventory when using a keybinding to open.\r\n- Fixed crash when breaking a Grid, Crafting Monitor, Crafter Manager or Portable Grid when another player is still\r\n  using it.\r\n\r\n### Changed\r\n\r\n- The Pattern Grid now switches automatically between crafting pattern and processing pattern mode when using JEI\r\n  transfer.\r\n- The Pattern Grid now switches automatically between crafting pattern and processing pattern mode when re-inserting an\r\n  existing Pattern.\r\n- Grids now do not sort if you interact with it while holding shift.\r\n\r\n### Removed\r\n\r\n- Exact mode for processing patterns no longer exist, you can now define per-slot which item/fluid tags are allowed to\r\n  be used by autocrafting, by using CTRL + click on the filter slot in the Pattern Grid.\r\n- Removed migration code for the development builds that were released on Discord (not on CurseForge). If you used the\r\n  development builds and never used version 1.7.0 before, first switch to 1.7.0, open your world, modify a storage disk,\r\n  and then upgrade to 1.7.1.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:55:12Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.1-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.1-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566597",
+      "createdAt": "2019-11-18T20:36:14Z"
+    },
+    {
+      "id": 2829731,
+      "dateModified": "2022-12-19T18:07:36Z",
+      "fileLength": 1832618,
+      "fileName": "refinedstorage-1.7.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.14.4",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2829731",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2829731",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2829731",
+      "createdAt": "2019-11-19T21:34:58Z"
+    },
+    {
+      "id": "BELprT7d",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.7.1-alpha",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Pattern Grid causing world hanging on load.\u003c/li\u003e\n\u003cli\u003eFixed External Storage not refreshing when the storage is broken or replaced.\u003c/li\u003e\n\u003cli\u003eFixed delay in block update when placing a cable block.\u003c/li\u003e\n\u003cli\u003eFixed holder of cable blocks sometimes conflicting with a cable connection while rendering.\u003c/li\u003e\n\u003cli\u003eFixed being able to move wireless items in inventory when using a keybinding to open.\u003c/li\u003e\n\u003cli\u003eFixed crash when breaking a Grid, Crafting Monitor, Crafter Manager or Portable Grid when another player is still\r\n  using it.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Pattern Grid now switches automatically between crafting pattern and processing pattern mode when using JEI\r\n  transfer.\u003c/li\u003e\n\u003cli\u003eThe Pattern Grid now switches automatically between crafting pattern and processing pattern mode when re-inserting an\r\n  existing Pattern.\u003c/li\u003e\n\u003cli\u003eGrids now do not sort if you interact with it while holding shift.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eExact mode for processing patterns no longer exist, you can now define per-slot which item/fluid tags are allowed to\r\n  be used by autocrafting, by using CTRL + click on the filter slot in the Pattern Grid.\u003c/li\u003e\n\u003cli\u003eRemoved migration code for the development builds that were released on Discord (not on CurseForge). If you used the\r\n  development builds and never used version 1.7.0 before, first switch to 1.7.0, open your world, modify a storage disk,\r\n  and then upgrade to 1.7.1.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "1bf1298a66219f6008001f029933db32b60e513a409a5b9c50d769d26a09a3db4688fdc24824f23bbe85e32ef3f81c994205f1048df4335ce1dcfbe07c6122b2",
+            "sha1": "fd6d2db8fb6f809e8289b34f1b838368ff57e196"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/BELprT7d/refinedstorage-1.7.1.jar",
+          "filename": "refinedstorage-1.7.1.jar",
+          "primary": true,
+          "size": 1832618
+        }
+      ],
+      "gameVersions": [
+        "1.14.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.7.1-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/BELprT7d",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 3
+      },
+      {
+        "source": "curseforge",
+        "downloads": 210366
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 210375
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.14-alpha.json",
+  "name": "v0.6.14-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111006926,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNjkyNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.14-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111006926/assets",
+      "assets": [
+        {
+          "id": 115535540,
+          "nodeId": "RA_kwDOAtXBQM4G4u60",
+          "name": "refinedstorage-0.6.14.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 417419,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.14-alpha/refinedstorage-0.6.14.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111006926/assets{?name,label}",
+      "tagName": "v0.6.14-alpha",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed wrong ascending / descending order in Grid.\r\n- Performance improvements.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:15:00Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.14-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.14-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111006926",
+      "createdAt": "2016-05-28T13:59:34Z"
+    },
+    {
+      "id": 2303439,
+      "dateModified": "2023-07-04T15:07:15Z",
+      "fileLength": 417419,
+      "fileName": "refinedstorage-0.6.14.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2303439",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2303439",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2303439",
+      "createdAt": "2016-05-28T14:28:51Z"
+    },
+    {
+      "id": "2Sdp1wuJ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.14-alpha",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed wrong ascending / descending order in Grid.\u003c/li\u003e\n\u003cli\u003ePerformance improvements.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "8774f50581a6e76d373876cba4b46e6a1e68c409b96e2e6a642711742508b2a49fc9a1f050c490dba9ef17641a3d053e07438dae36eddf8ccc949611a2f9ed17",
+            "sha1": "0a2ae04f083d5c766a24911f457dd9077bf00dc4"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/2Sdp1wuJ/refinedstorage-0.6.14.jar",
+          "filename": "refinedstorage-0.6.14.jar",
+          "primary": true,
+          "size": 417419
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.14-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/2Sdp1wuJ",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 259
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 260
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.7.2-beta.json",
+  "name": "v1.7.2-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 86566524,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2NTI0",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.2-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566524/assets",
+      "assets": [
+        {
+          "id": 88798348,
+          "nodeId": "RA_kwDOAtXBQM4FSvSM",
+          "name": "refinedstorage-1.7.2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1837818,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.2-beta/refinedstorage-1.7.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566524/assets{?name,label}",
+      "tagName": "v1.7.2-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Resource packs can now define the font colors that Refined Storage GUIs need to use.\r\n\r\n### Fixed\r\n\r\n- Fixed crash when loading a network.\r\n- Fixed being able to drain energy from the Refined Storage Controller.\r\n- Fixed the Grid crashing on a item/fluid update-heavy storage system.\r\n- Fixed the Grid displaying the old quantity when shift clicking an entire stack out.\r\n- Fixed crash with the Disk Manipulator and using item/fluid filters when inserting into the network.\r\n- Fixed the network being able to run off 1 FE/t.\r\n\r\n### Changed\r\n\r\n- Patterns being added or removed from the network are now propagated as well to clients that are watching a Grid.\r\n- When pressing ESCAPE in the search box on the Grid or Crafter Manager, focus on the search bar will be lost first\r\n  before closing the GUI immediately. Then on the next ESCAPE press, the GUI will be closed.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:54:24Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.2-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.2-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566524",
+      "createdAt": "2019-12-29T16:11:11Z"
+    },
+    {
+      "id": 2851365,
+      "dateModified": "2022-12-19T18:07:04Z",
+      "fileLength": 1837818,
+      "fileName": "refinedstorage-1.7.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.14.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2851365",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2851365",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2851365",
+      "createdAt": "2019-12-29T16:16:21Z"
+    },
+    {
+      "id": "93bqP28J",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.7.2-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eResource packs can now define the font colors that Refined Storage GUIs need to use.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash when loading a network.\u003c/li\u003e\n\u003cli\u003eFixed being able to drain energy from the Refined Storage Controller.\u003c/li\u003e\n\u003cli\u003eFixed the Grid crashing on a item/fluid update-heavy storage system.\u003c/li\u003e\n\u003cli\u003eFixed the Grid displaying the old quantity when shift clicking an entire stack out.\u003c/li\u003e\n\u003cli\u003eFixed crash with the Disk Manipulator and using item/fluid filters when inserting into the network.\u003c/li\u003e\n\u003cli\u003eFixed the network being able to run off 1 FE/t.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePatterns being added or removed from the network are now propagated as well to clients that are watching a Grid.\u003c/li\u003e\n\u003cli\u003eWhen pressing ESCAPE in the search box on the Grid or Crafter Manager, focus on the search bar will be lost first\r\n  before closing the GUI immediately. Then on the next ESCAPE press, the GUI will be closed.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "659fbe373c69f496e24313d9f49b1c55d8f9f56e496600ee89baf944cd4abfcf7e32cd116414292e7a14414c5f3f0e0bfe62ce1b960a23982974bb579a6b8dac",
+            "sha1": "80d3996eb715933efcbabe931f8f586e9d20b16f"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/93bqP28J/refinedstorage-1.7.2.jar",
+          "filename": "refinedstorage-1.7.2.jar",
+          "primary": true,
+          "size": 1837818
+        }
+      ],
+      "gameVersions": [
+        "1.14.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.7.2-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/93bqP28J",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1194
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1196
+  }
+}

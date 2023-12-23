@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.13.json",
+  "name": "v1.9.13",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86015703,
+      "nodeId": "MDc6UmVsZWFzZTg2MDE1NzAz",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.13",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86015703/assets",
+      "assets": [
+        {
+          "id": 88170819,
+          "nodeId": "RA_kwDOAtXBQM4FQWFD",
+          "name": "refinedstorage-1.9.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3127336,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.13/refinedstorage-1.9.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86015703/assets{?name,label}",
+      "tagName": "v1.9.13",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added some performance improvements for autocrafting.\r\n\r\n### Fixed\r\n\r\n- Fixed count on Storage Monitor having Z fighting.\r\n- Fixed items on Storage Monitor not being flat.\r\n- Fixed crash when using an External Storage on a fluid inventory.\r\n- Fixed a memory leak in the pattern cache.\r\n- Fixed Detector crashing when dyed.\r\n- Fixed autocrafting being stuck after clicking \"Start\".\r\n- Fixed Crafting Monitor not being able to show hours.\r\n- Fixed capacity rendering of infinite storages.\r\n- Fixed wrong alignment for the JEI request autocrafting tooltip.\r\n- Fixed mobs getting stuck in Refined Storage cables.\r\n- Fixed dismantling storage blocks ignoring stack size.\r\n- Fixed Ice and Fire banners breaking with Refined Storage.\r\n- Fixed empty keybinding causing GL errors.\r\n- Fixed some parts of the Japanese translation.\r\n- Fixed rendering issue on blocks when using OptiFine.\r\n\r\n### Removed\r\n\r\n- Removed experimental pipeline nagging message.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-14T12:02:04Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.13",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.13",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86015703",
+      "createdAt": "2021-06-13T09:33:24Z"
+    },
+    {
+      "id": 3351933,
+      "dateModified": "2022-12-20T13:25:54Z",
+      "fileLength": 3127336,
+      "fileName": "refinedstorage-1.9.13.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3351933",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3351933",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3351933",
+      "createdAt": "2021-06-14T18:05:20Z"
+    },
+    {
+      "id": "hEt2dHSt",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.13",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded some performance improvements for autocrafting.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed count on Storage Monitor having Z fighting.\u003c/li\u003e\n\u003cli\u003eFixed items on Storage Monitor not being flat.\u003c/li\u003e\n\u003cli\u003eFixed crash when using an External Storage on a fluid inventory.\u003c/li\u003e\n\u003cli\u003eFixed a memory leak in the pattern cache.\u003c/li\u003e\n\u003cli\u003eFixed Detector crashing when dyed.\u003c/li\u003e\n\u003cli\u003eFixed autocrafting being stuck after clicking \u0026quot;Start\u0026quot;.\u003c/li\u003e\n\u003cli\u003eFixed Crafting Monitor not being able to show hours.\u003c/li\u003e\n\u003cli\u003eFixed capacity rendering of infinite storages.\u003c/li\u003e\n\u003cli\u003eFixed wrong alignment for the JEI request autocrafting tooltip.\u003c/li\u003e\n\u003cli\u003eFixed mobs getting stuck in Refined Storage cables.\u003c/li\u003e\n\u003cli\u003eFixed dismantling storage blocks ignoring stack size.\u003c/li\u003e\n\u003cli\u003eFixed Ice and Fire banners breaking with Refined Storage.\u003c/li\u003e\n\u003cli\u003eFixed empty keybinding causing GL errors.\u003c/li\u003e\n\u003cli\u003eFixed some parts of the Japanese translation.\u003c/li\u003e\n\u003cli\u003eFixed rendering issue on blocks when using OptiFine.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved experimental pipeline nagging message.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "143db9e74b798a69abf76adaa818ad2d464e357b08f9f6950a6c719b9596264f99f3fd272c1a473250c2b66b0c21ce8ad3f136f78458a43962cf014324ba7012",
+            "sha1": "e30825c6938d2666b7d2ef2f660073da83fee709"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/hEt2dHSt/refinedstorage-1.9.13.jar",
+          "filename": "refinedstorage-1.9.13.jar",
+          "primary": true,
+          "size": 3127336
+        }
+      ],
+      "gameVersions": [
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.13",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/hEt2dHSt",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 924057
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 924059
+  }
+}

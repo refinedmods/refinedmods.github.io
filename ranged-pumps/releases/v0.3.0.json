@@ -1,0 +1,110 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.3.0.json",
+  "name": "v0.3.0",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55595997,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk1OTk3",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.3.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55595997/assets",
+      "assets": [
+        {
+          "id": 52081129,
+          "nodeId": "RA_kwDOA8bqCc4DGrHp",
+          "name": "rangedpumps-0.3.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 26506,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.3.0/rangedpumps-0.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55595997/assets{?name,label}",
+      "tagName": "v0.3.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Optional RF usage.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2073.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T12:47:27Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.3.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.3.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55595997",
+      "createdAt": "2016-08-25T13:39:04Z"
+    },
+    {
+      "id": 2326170,
+      "dateModified": "2021-12-18T12:59:20Z",
+      "fileLength": 26506,
+      "fileName": "rangedpumps-0.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/2326170",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/2326170",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/2326170",
+      "createdAt": "2016-08-25T13:43:04Z"
+    },
+    {
+      "id": "uP7rpoHe",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.3.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eOptional RF usage.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2073.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "78c38fe3224939ee2bfc4c8d5098c15aae7ca35c526a4fbf682eda45271cfc6f750db4b69a15e5534157f2a271ea4751aa2c01635d06a31850efb0a7c99db299",
+            "sha1": "13697d1a6efb0adacf54d92e16b4eed055012c65"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/uP7rpoHe/rangedpumps-0.3.jar",
+          "filename": "rangedpumps-0.3.jar",
+          "primary": true,
+          "size": 26506
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.3.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/uP7rpoHe",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 9540522
+      },
+      {
+        "source": "modrinth",
+        "downloads": 20
+      }
+    ],
+    "totalDownloads": 9540548
+  }
+}

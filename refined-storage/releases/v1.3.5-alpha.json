@@ -1,0 +1,114 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.3.5-alpha.json",
+  "name": "v1.3.5-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 110493031,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MzAzMQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.3.5-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110493031/assets",
+      "assets": [
+        {
+          "id": 115010939,
+          "nodeId": "RA_kwDOAtXBQM4G2u17",
+          "name": "refinedstorage-1.3.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1401391,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.3.5-alpha/refinedstorage-1.3.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110493031/assets{?name,label}",
+      "tagName": "v1.3.5-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added regulator mode to Exporter.\r\n\r\n### Changed\r\n\r\n- Updated French translation.\r\n\r\n### Fixed\r\n\r\n- Fixed TPS lag on very large crafting tasks.\r\n- Fixed not being able to use autocrafting on some EnderIO items.\r\n- Fixed server crash with ore dictionary checks.\r\n- Fixed Controller not using energy.\r\n- Fixed dupe bug when inserting bucket in Fluid Grid.\r\n- Fixed not being able to start autocrafting for storage disks.\r\n- Fixed oredict button not having the correct position on a small resolution.\r\n- Fixed Constructor not using Crafting Upgrade when in item dropping mode.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:24:08Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.3.5-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.3.5-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110493031",
+      "createdAt": "2016-12-14T19:43:00Z"
+    },
+    {
+      "id": 2356149,
+      "dateModified": "2023-06-30T13:41:39Z",
+      "fileLength": 1401391,
+      "fileName": "refinedstorage-1.3.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2356149",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2356149",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2356149",
+      "createdAt": "2016-12-14T19:46:11Z"
+    },
+    {
+      "id": "rLxnC9rX",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.3.5-alpha",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded regulator mode to Exporter.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated French translation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed TPS lag on very large crafting tasks.\u003c/li\u003e\n\u003cli\u003eFixed not being able to use autocrafting on some EnderIO items.\u003c/li\u003e\n\u003cli\u003eFixed server crash with ore dictionary checks.\u003c/li\u003e\n\u003cli\u003eFixed Controller not using energy.\u003c/li\u003e\n\u003cli\u003eFixed dupe bug when inserting bucket in Fluid Grid.\u003c/li\u003e\n\u003cli\u003eFixed not being able to start autocrafting for storage disks.\u003c/li\u003e\n\u003cli\u003eFixed oredict button not having the correct position on a small resolution.\u003c/li\u003e\n\u003cli\u003eFixed Constructor not using Crafting Upgrade when in item dropping mode.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "31ebf1f802d730078548328f80ab5ce6d72f29aaad3811df5761ceca46b7fc7bed3a43183058596380cdee69eb710a7b332beae29d3fa98e9f4dfe3f52e6c7fb",
+            "sha1": "b542db84e5afc5f9c862cffa261425de3a119c00"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/rLxnC9rX/refinedstorage-1.3.5.jar",
+          "filename": "refinedstorage-1.3.5.jar",
+          "primary": true,
+          "size": 1401391
+        }
+      ],
+      "gameVersions": [
+        "1.11",
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.3.5-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/rLxnC9rX",
+      "createdAt": "2023-07-04T19:57:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 50748
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 50749
+  }
+}

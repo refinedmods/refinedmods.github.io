@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.2.json",
+  "name": "v1.2.0-beta.2",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110514525,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDUyNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514525/assets",
+      "assets": [
+        {
+          "id": 115029791,
+          "nodeId": "RA_kwDOAtXBQM4G2zcf",
+          "name": "refinedstorage-1.2-beta2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1123308,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.2/refinedstorage-1.2-beta2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514525/assets{?name,label}",
+      "tagName": "v1.2.0-beta.2",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Extreme TPS issues while crafting.\r\n- Laggy disk drive rendering.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:57:00Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514525",
+      "createdAt": "2016-10-24T19:51:35Z"
+    },
+    {
+      "id": 2339151,
+      "dateModified": "2023-06-30T15:15:37Z",
+      "fileLength": 1123308,
+      "fileName": "refinedstorage-1.2-beta2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2339151",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2339151",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2339151",
+      "createdAt": "2016-10-24T20:04:54Z"
+    },
+    {
+      "id": "70sTOize",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.0-beta.2",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eExtreme TPS issues while crafting.\u003c/li\u003e\n\u003cli\u003eLaggy disk drive rendering.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ec54e84103aeb5fc2168689296b49aa0a11a4cc5fcd41edb32aa2e183218fb3c4318d521501bf5b370eba467730c94809b1dc1fb52bd65b362cb16ec3699e6a9",
+            "sha1": "362af297abd013f689f3cf9c894e0258eebfd6b1"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/70sTOize/refinedstorage-1.2-beta2.jar",
+          "filename": "refinedstorage-1.2-beta2.jar",
+          "primary": true,
+          "size": 1123308
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.0-beta.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/70sTOize",
+      "createdAt": "2023-07-04T19:57:26Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 6435
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 6438
+  }
+}

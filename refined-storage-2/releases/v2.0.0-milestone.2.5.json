@@ -1,0 +1,180 @@
+{
+  "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.2.5.json",
+  "name": "v2.0.0-milestone.2.5",
+  "indexedAt": "2023-12-23T23:53:11Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 88648672,
+      "nodeId": "RE_kwDOEkvWPM4FSKvg",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-milestone.2.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/88648672/assets",
+      "assets": [
+        {
+          "id": 91343721,
+          "nodeId": "RA_kwDOEkvWPM4Fcctp",
+          "name": "refinedstorage2-core-api-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 22111,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-core-api-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343723,
+          "nodeId": "RA_kwDOEkvWPM4Fcctr",
+          "name": "refinedstorage2-grid-api-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 29502,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-grid-api-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343724,
+          "nodeId": "RA_kwDOEkvWPM4Fccts",
+          "name": "refinedstorage2-network-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 73777,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-network-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343728,
+          "nodeId": "RA_kwDOEkvWPM4Fcctw",
+          "name": "refinedstorage2-network-api-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27463,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-network-api-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343722,
+          "nodeId": "RA_kwDOEkvWPM4Fcctq",
+          "name": "refinedstorage2-network-test-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27120,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-network-test-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343727,
+          "nodeId": "RA_kwDOEkvWPM4Fcctv",
+          "name": "refinedstorage2-platform-api-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 49567,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-platform-api-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343726,
+          "nodeId": "RA_kwDOEkvWPM4Fcctu",
+          "name": "refinedstorage2-platform-common-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 947429,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-platform-common-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343725,
+          "nodeId": "RA_kwDOEkvWPM4Fcctt",
+          "name": "refinedstorage2-platform-fabric-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2427498,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-platform-fabric-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343729,
+          "nodeId": "RA_kwDOEkvWPM4Fcctx",
+          "name": "refinedstorage2-platform-forge-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1446501,
+          "downloadCount": 10,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-platform-forge-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343730,
+          "nodeId": "RA_kwDOEkvWPM4Fccty",
+          "name": "refinedstorage2-platform-test-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2727,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-platform-test-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343732,
+          "nodeId": "RA_kwDOEkvWPM4Fcct0",
+          "name": "refinedstorage2-query-parser-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28867,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-query-parser-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343733,
+          "nodeId": "RA_kwDOEkvWPM4Fcct1",
+          "name": "refinedstorage2-resource-api-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 12228,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-resource-api-2.0.0-milestone.2.5.jar"
+        },
+        {
+          "id": 91343731,
+          "nodeId": "RA_kwDOEkvWPM4Fcctz",
+          "name": "refinedstorage2-storage-api-2.0.0-milestone.2.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 39905,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.5/refinedstorage2-storage-api-2.0.0-milestone.2.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/88648672/assets{?name,label}",
+      "tagName": "v2.0.0-milestone.2.5",
+      "targetCommitish": "3b591542e95de3df307bfbcbc4c2c6609bf15efd",
+      "body": "### Fixed\n\n-   Fixed IO loops caused by Interfaces stealing from each other.\n-   Fixed storages from an External Storage not reporting when a resource has last changed.\n\n### Changed\n\n-   An Interface that is acting as External Storage can no longer extract or insert from other Interfaces (and itself)\n    that are acting as External Storage.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-01-11T21:24:19Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/88648672",
+      "createdAt": "2023-01-11T21:13:43Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 55
+      }
+    ],
+    "totalDownloads": 55
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.18.json",
+  "name": "v1.9.18",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 68070292,
+      "nodeId": "RE_kwDOAtXBQM4EDquU",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.18",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/68070292/assets",
+      "assets": [
+        {
+          "id": 66876366,
+          "nodeId": "RA_kwDOAtXBQM4D_HPO",
+          "name": "refinedstorage-1.9.18.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 3224131,
+          "downloadCount": 114,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.18/refinedstorage-1.9.18.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/68070292/assets{?name,label}",
+      "tagName": "v1.9.18",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed potential Pattern crash when loading Minecraft.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-05-28T12:04:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.18",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.18",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/68070292",
+      "createdAt": "2022-05-28T11:59:05Z"
+    },
+    {
+      "id": 3807951,
+      "dateModified": "2022-12-10T19:10:58Z",
+      "fileLength": 3224131,
+      "fileName": "refinedstorage-1.9.18.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3807951",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3807951",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3807951",
+      "createdAt": "2022-05-28T12:05:27Z"
+    },
+    {
+      "id": "ubJGKwUA",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.18",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed potential Pattern crash when loading Minecraft.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "6cbcefe27f0f005527d165eae3623a20d8ac8cd19fc3148f7688c81f65826a2423da44e1ef61b9681194908fb42036d628dfdac21ac7602034ea707defd8ba15",
+            "sha1": "6340fd806bd00f2fd5324a8c62621612fb923342"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ubJGKwUA/refinedstorage-1.9.18.jar",
+          "filename": "refinedstorage-1.9.18.jar",
+          "primary": true,
+          "size": 3224131
+        }
+      ],
+      "gameVersions": [
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.18",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ubJGKwUA",
+      "createdAt": "2023-07-04T19:59:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 114
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3682202
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1684
+      }
+    ],
+    "totalDownloads": 3684000
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.14.json",
+  "name": "v1.5.14",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110471129,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTEyOQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.14",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471129/assets",
+      "assets": [
+        {
+          "id": 114987849,
+          "nodeId": "RA_kwDOAtXBQM4G2pNJ",
+          "name": "refinedstorage-1.5.14.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1705970,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.14/refinedstorage-1.5.14.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471129/assets{?name,label}",
+      "tagName": "v1.5.14",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added config option to modify the Solderer speed per Speed Upgrade, defaulting to 22.5% faster per upgrade, making it 90% faster on a fully upgraded Solderer.\r\n- Added CTM integration.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2426.\r\n- Updated French translation.\r\n\r\n### Fixed\r\n\r\n- Fixed more crashes relating to scrollbar in GUIs.\r\n- Fixed crash with Detector.\r\n- Fixed bug where pattern create button wasn\u0027t visible when grid tabs were selected.\r\n- Fixed performance issue with Controllers turning off and on and Interfaces.\r\n- Fixed Interfaces exposing network inventory don\u0027t hide storages that are disconnected.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:03:40Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.14",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.14",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471129",
+      "createdAt": "2017-08-03T17:31:00Z"
+    },
+    {
+      "id": 2459679,
+      "dateModified": "2023-06-30T09:22:43Z",
+      "fileLength": 1705970,
+      "fileName": "refinedstorage-1.5.14.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2459679",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2459679",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2459679",
+      "createdAt": "2017-08-03T17:54:49Z"
+    },
+    {
+      "id": "4TWwqV8M",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.14",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded config option to modify the Solderer speed per Speed Upgrade, defaulting to 22.5% faster per upgrade, making it 90% faster on a fully upgraded Solderer.\u003c/li\u003e\n\u003cli\u003eAdded CTM integration.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2426.\u003c/li\u003e\n\u003cli\u003eUpdated French translation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed more crashes relating to scrollbar in GUIs.\u003c/li\u003e\n\u003cli\u003eFixed crash with Detector.\u003c/li\u003e\n\u003cli\u003eFixed bug where pattern create button wasn\u0027t visible when grid tabs were selected.\u003c/li\u003e\n\u003cli\u003eFixed performance issue with Controllers turning off and on and Interfaces.\u003c/li\u003e\n\u003cli\u003eFixed Interfaces exposing network inventory don\u0027t hide storages that are disconnected.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "31be4d68384e200a4a4e106552c762d831425bc22d0f90e1744a481c4a57479d85e3dfcc77af4c9e3b9eaac970423c03c3626cb5687925f864566ea23bc4aa0c",
+            "sha1": "4519c7092c204f313e65a60175a6cf1c5eaaf7ca"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/4TWwqV8M/refinedstorage-1.5.14.jar",
+          "filename": "refinedstorage-1.5.14.jar",
+          "primary": true,
+          "size": 1705970
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.14",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/4TWwqV8M",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 27091
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 27092
+  }
+}

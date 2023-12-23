@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.6.3.json",
+  "name": "v0.6.3",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284465,
+      "nodeId": "MDc6UmVsZWFzZTU1Mjg0NDY1",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.6.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284465/assets",
+      "assets": [
+        {
+          "id": 51752605,
+          "nodeId": "RA_kwDOBc8fRM4DFa6d",
+          "name": "refinedstorageaddons-0.6.3.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28802,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.6.3/refinedstorageaddons-0.6.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284465/assets{?name,label}",
+      "tagName": "v0.6.3",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed duplication bug and weird behavior in the Wireless Crafting Grid matrix.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:23:07Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.6.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.6.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284465",
+      "createdAt": "2020-07-15T17:11:13Z"
+    },
+    {
+      "id": 3005715,
+      "dateModified": "2021-12-14T15:37:34Z",
+      "fileLength": 28802,
+      "fileName": "refinedstorageaddons-0.6.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/3005715",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/3005715",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/3005715",
+      "createdAt": "2020-07-15T17:14:20Z"
+    },
+    {
+      "id": "QKKCjPqK",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.6.3",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eFixed duplication bug and weird behavior in the Wireless Crafting Grid matrix.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "801ccc040ccdcd8c674bc2e5a069cc68b2be59e2bf572677da7ff8bbf51128847c3f79fc6972faa52587d734b75e8aed254cb7e4a24fbaa0b828836686a6303e",
+            "sha1": "12d25c913652a67741b773b7ca0e87dc289f4263"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/QKKCjPqK/refinedstorageaddons-0.6.3.jar",
+          "filename": "refinedstorageaddons-0.6.3.jar",
+          "primary": true,
+          "size": 28802
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.6.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/QKKCjPqK",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 7
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2152323
+      },
+      {
+        "source": "modrinth",
+        "downloads": 28
+      }
+    ],
+    "totalDownloads": 2152358
+  }
+}

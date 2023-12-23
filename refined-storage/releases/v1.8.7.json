@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.8.7.json",
+  "name": "v1.8.7",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86566077,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2MDc3",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.8.7",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566077/assets",
+      "assets": [
+        {
+          "id": 88798017,
+          "nodeId": "RA_kwDOAtXBQM4FSvNB",
+          "name": "refinedstorage-1.8.7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1890665,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.7/refinedstorage-1.8.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566077/assets{?name,label}",
+      "tagName": "v1.8.7",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Regulator mode item and fluid counts not saving properly.\r\n- Fixed Wireless Crafting Monitor not closing properly.\r\n- Fixed Controller always using energy, even when disabled with redstone.\r\n- Fixed internal crafting inventory not being returned when Controller is broken.\r\n- Fixed bug where autocrafting tasks started on the same tick make the wrong assumption about available items and\r\n  fluids.\r\n- Fixed bug where the \"To craft\" amount in the Crafting Preview window is wrong.\r\n- Fixed bug where non-pattern items are able to be inserted into the Crafter Manager (Darkere)\r\n- Fixed performance issue where shapes of cable blocks were constantly being recalculated.\r\n\r\n### Changed\r\n\r\n- Drastically improved shift clicking performance in Crafting Grid.\r\n\r\n### Removed\r\n\r\n- Removed autocrafting engine version from crafting preview screen.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:49:29Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.7",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.7",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566077",
+      "createdAt": "2020-07-11T15:30:12Z"
+    },
+    {
+      "id": 3002234,
+      "dateModified": "2022-12-19T18:03:24Z",
+      "fileLength": 1890665,
+      "fileName": "refinedstorage-1.8.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3002234",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3002234",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3002234",
+      "createdAt": "2020-07-11T17:57:25Z"
+    },
+    {
+      "id": "5QS0MMSd",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.8.7",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Regulator mode item and fluid counts not saving properly.\u003c/li\u003e\n\u003cli\u003eFixed Wireless Crafting Monitor not closing properly.\u003c/li\u003e\n\u003cli\u003eFixed Controller always using energy, even when disabled with redstone.\u003c/li\u003e\n\u003cli\u003eFixed internal crafting inventory not being returned when Controller is broken.\u003c/li\u003e\n\u003cli\u003eFixed bug where autocrafting tasks started on the same tick make the wrong assumption about available items and\r\n  fluids.\u003c/li\u003e\n\u003cli\u003eFixed bug where the \u0026quot;To craft\u0026quot; amount in the Crafting Preview window is wrong.\u003c/li\u003e\n\u003cli\u003eFixed bug where non-pattern items are able to be inserted into the Crafter Manager (Darkere)\u003c/li\u003e\n\u003cli\u003eFixed performance issue where shapes of cable blocks were constantly being recalculated.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDrastically improved shift clicking performance in Crafting Grid.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved autocrafting engine version from crafting preview screen.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "8e3df21a469aef7c494de518850d26632c5ce8e6ceb4e8aebd219aceb5a0ce9cf3d86db5959693a748429338a1cb8c76f128bd4db78bc8746d6f8e58d31c44c2",
+            "sha1": "a43d2381892dbac1887af9decb80db9b1c16115f"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/5QS0MMSd/refinedstorage-1.8.7.jar",
+          "filename": "refinedstorage-1.8.7.jar",
+          "primary": true,
+          "size": 1890665
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.8.7",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/5QS0MMSd",
+      "createdAt": "2023-07-04T19:58:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1439
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1441
+  }
+}

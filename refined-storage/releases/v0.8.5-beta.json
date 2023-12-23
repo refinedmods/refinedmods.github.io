@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.8.5-beta.json",
+  "name": "v0.8.5-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110999698,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTY5OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.5-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999698/assets",
+      "assets": [
+        {
+          "id": 115528729,
+          "nodeId": "RA_kwDOAtXBQM4G4tQZ",
+          "name": "refinedstorage-0.8.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 480631,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.5-beta/refinedstorage-0.8.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999698/assets{?name,label}",
+      "tagName": "v0.8.5-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed crash when Tesla API is not installed.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:20:04Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.5-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.5-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999698",
+      "createdAt": "2016-07-04T21:03:54Z"
+    },
+    {
+      "id": 2313289,
+      "dateModified": "2023-07-04T10:48:40Z",
+      "fileLength": 480631,
+      "fileName": "refinedstorage-0.8.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.10",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2313289",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2313289",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2313289",
+      "createdAt": "2016-07-04T21:05:58Z"
+    },
+    {
+      "id": "vDN0DgIt",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.8.5-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash when Tesla API is not installed.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "0eff4b65a00b12bd6cea518108dd8face610c79b852f609729f6d66e9ee91ba332cca3de99729f78683b52c5804c2fd9efc5051ab89e2dadc1c65276cff7e62b",
+            "sha1": "57b672b033b41e48b7b45d0aab02da5ef2e1e51c"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/vDN0DgIt/refinedstorage-0.8.5.jar",
+          "filename": "refinedstorage-0.8.5.jar",
+          "primary": true,
+          "size": 480631
+        }
+      ],
+      "gameVersions": [
+        "1.10",
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.8.5-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/vDN0DgIt",
+      "createdAt": "2023-07-04T19:57:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 18203
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 18204
+  }
+}

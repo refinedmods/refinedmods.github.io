@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.6.1.json",
+  "name": "v0.6.1",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284372,
+      "nodeId": "MDc6UmVsZWFzZTU1Mjg0Mzcy",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.6.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284372/assets",
+      "assets": [
+        {
+          "id": 51752540,
+          "nodeId": "RA_kwDOBc8fRM4DFa5c",
+          "name": "refinedstorageaddons-0.6.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28420,
+          "downloadCount": 8,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.6.1/refinedstorageaddons-0.6.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284372/assets{?name,label}",
+      "tagName": "v0.6.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.15.2.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:21:54Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.6.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.6.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284372",
+      "createdAt": "2020-01-30T10:58:45Z"
+    },
+    {
+      "id": 2871855,
+      "dateModified": "2021-12-14T15:35:18Z",
+      "fileLength": 28420,
+      "fileName": "refinedstorageaddons-0.6.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2871855",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2871855",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2871855",
+      "createdAt": "2020-01-30T11:07:12Z"
+    },
+    {
+      "id": "Qq0nRqMx",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.6.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003ePort to Minecraft 1.15.2.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "525d6f3812b95c81d854d70997315568745b020d2106fc6cabc42669b9b0d1b5e118b043d2292c896353076b164f551408f3103b3e6d1f6042ca831046563462",
+            "sha1": "90fd944378d8a0b73dffb82b4df0a3813631582f"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/Qq0nRqMx/refinedstorageaddons-0.6.1.jar",
+          "filename": "refinedstorageaddons-0.6.1.jar",
+          "primary": true,
+          "size": 28420
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.6.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/Qq0nRqMx",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 8
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1294737
+      },
+      {
+        "source": "modrinth",
+        "downloads": 11
+      }
+    ],
+    "totalDownloads": 1294756
+  }
+}

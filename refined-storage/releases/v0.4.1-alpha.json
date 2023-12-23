@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.4.1-alpha.json",
+  "name": "v0.4.1-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111010998,
+      "nodeId": "MDc6UmVsZWFzZTExMTAxMDk5OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.4.1-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010998/assets",
+      "assets": [
+        {
+          "id": 115539776,
+          "nodeId": "RA_kwDOAtXBQM4G4v9A",
+          "name": "refinedstorage-0.4.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 292036,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.4.1-alpha/refinedstorage-0.4.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111010998/assets{?name,label}",
+      "tagName": "v0.4.1-alpha",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed ID duplication issues.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:52:49Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.4.1-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.4.1-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010998",
+      "createdAt": "2016-03-24T22:01:14Z"
+    },
+    {
+      "id": 2289407,
+      "dateModified": "2023-07-04T15:48:35Z",
+      "fileLength": 292036,
+      "fileName": "refinedstorage-0.4.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2289407",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2289407",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2289407",
+      "createdAt": "2016-03-24T22:08:24Z"
+    },
+    {
+      "id": "HK9EOQ6p",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.4.1-alpha",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed ID duplication issues.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ac37652103d64bce906f808c300a8248830485604c12025f687d16b6d5d9090a3b5b55626bfafb7bc4ac7e566274481b8f4368ea679b87a0b63d16b4f447a789",
+            "sha1": "33224ec40b641a571ec4a0bf4a99ba3bdd85c225"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/HK9EOQ6p/refinedstorage-0.4.1.jar",
+          "filename": "refinedstorage-0.4.1.jar",
+          "primary": true,
+          "size": 292036
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.4.1-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/HK9EOQ6p",
+      "createdAt": "2023-07-04T19:57:06Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1571
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1573
+  }
+}

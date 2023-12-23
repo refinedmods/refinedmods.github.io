@@ -1,0 +1,47 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.7.0+1.json",
+  "name": "v1.7.0+1",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86567018,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY3MDE4",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.0%2B1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86567018/assets",
+      "assets": [
+        {
+          "id": 88798722,
+          "nodeId": "RA_kwDOAtXBQM4FSvYC",
+          "name": "refinedstorage-1.7.0+1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1602909,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.0%2B1/refinedstorage-1.7.0%2B1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86567018/assets{?name,label}",
+      "tagName": "v1.7.0+1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added the Controller.\r\n- Re-added the Disk Drive.\r\n- Re-added the Grid.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:59:23Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.0+1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.0+1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86567018",
+      "createdAt": "2019-10-09T16:49:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 2
+  }
+}

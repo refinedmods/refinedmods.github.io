@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.8.0.json",
+  "name": "v0.8.0",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55392254,
+      "nodeId": "RE_kwDOBc8fRM4DTTf-",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.8.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55392254/assets",
+      "assets": [
+        {
+          "id": 51854344,
+          "nodeId": "RA_kwDOBc8fRM4DFzwI",
+          "name": "refinedstorageaddons-0.8.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 31663,
+          "downloadCount": 12,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.8.0/refinedstorageaddons-0.8.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55392254/assets{?name,label}",
+      "tagName": "v0.8.0",
+      "targetCommitish": "develop",
+      "body": "\n### Added\n- Ported to Minecraft 1.18.1.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-15T18:40:24Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.8.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.8.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55392254",
+      "createdAt": "2021-12-15T18:34:32Z"
+    },
+    {
+      "id": 3567755,
+      "dateModified": "2021-12-15T18:41:33Z",
+      "fileLength": 31664,
+      "fileName": "refinedstorageaddons-0.8.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/3567755",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/3567755",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/3567755",
+      "createdAt": "2021-12-15T18:40:38Z"
+    },
+    {
+      "id": "EpFELSv4",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.8.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePorted to Minecraft 1.18.1.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "905a52c5724afdd83d2f0ff29c1837920cd2287d9f091bba77cfe05faf23cfdca00cf0c3eecc413f9a207e8c2f782d5e38b71a1168b04a17631a602aac2946e1",
+            "sha1": "61c88e1d5dc4c36fb8dc09269bb591c2660e752e"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/EpFELSv4/refinedstorageaddons-0.8.0.jar",
+          "filename": "refinedstorageaddons-0.8.0.jar",
+          "primary": true,
+          "size": 31664
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.8.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/EpFELSv4",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 12
+      },
+      {
+        "source": "curseforge",
+        "downloads": 78423
+      },
+      {
+        "source": "modrinth",
+        "downloads": 13
+      }
+    ],
+    "totalDownloads": 78448
+  }
+}

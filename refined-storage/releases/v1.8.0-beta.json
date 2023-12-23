@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.8.0-beta.json",
+  "name": "v1.8.0-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 86566379,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2Mzc5",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.8.0-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566379/assets",
+      "assets": [
+        {
+          "id": 88798248,
+          "nodeId": "RA_kwDOAtXBQM4FSvQo",
+          "name": "refinedstorage-1.8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1833331,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.0-beta/refinedstorage-1.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566379/assets{?name,label}",
+      "tagName": "v1.8.0-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.15.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:52:47Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.0-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.0-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566379",
+      "createdAt": "2020-01-21T19:59:22Z"
+    },
+    {
+      "id": 2865253,
+      "dateModified": "2022-12-19T18:06:22Z",
+      "fileLength": 1833331,
+      "fileName": "refinedstorage-1.8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.1"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2865253",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2865253",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2865253",
+      "createdAt": "2020-01-21T20:01:18Z"
+    },
+    {
+      "id": "PXGnRC2r",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.8.0-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.15.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d9034d0cc4416e516180ef1383bd16b15030c44cbe9c4c0b83a6f2f7b7d129221e523db254e001f6230c4d4440f4c2cc08ebf228f365bba8492e9eb2b5e12b3c",
+            "sha1": "3289c937b3d7935ddae4794da569dce4365d14d1"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/PXGnRC2r/refinedstorage-1.8.jar",
+          "filename": "refinedstorage-1.8.jar",
+          "primary": true,
+          "size": 1833331
+        }
+      ],
+      "gameVersions": [
+        "1.15.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.8.0-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/PXGnRC2r",
+      "createdAt": "2023-07-04T19:58:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 32844
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 32846
+  }
+}

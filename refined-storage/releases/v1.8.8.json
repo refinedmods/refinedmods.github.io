@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.8.8.json",
+  "name": "v1.8.8",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86566039,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2MDM5",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.8.8",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566039/assets",
+      "assets": [
+        {
+          "id": 88797989,
+          "nodeId": "RA_kwDOAtXBQM4FSvMl",
+          "name": "refinedstorage-1.8.8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1890686,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.8/refinedstorage-1.8.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566039/assets{?name,label}",
+      "tagName": "v1.8.8",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed duplication bug and weird behavior in the Crafting Grid matrix.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:48:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.8",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.8",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566039",
+      "createdAt": "2020-07-13T19:56:01Z"
+    },
+    {
+      "id": 3004050,
+      "dateModified": "2022-12-19T18:03:04Z",
+      "fileLength": 1890686,
+      "fileName": "refinedstorage-1.8.8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3004050",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3004050",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3004050",
+      "createdAt": "2020-07-13T19:58:34Z"
+    },
+    {
+      "id": "IX4Uxowu",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.8.8",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed duplication bug and weird behavior in the Crafting Grid matrix.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ff249c912d54636a719bfd3074f4de65b0c4d2aa3bc9839fa307e4bbc4e616687ab2601f44d1e4f994aea6f864d949a12b2c27d9064e3b8618f95cd96d7d5b62",
+            "sha1": "49024819bd404162a84e51ab856ade82fb59feee"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/IX4Uxowu/refinedstorage-1.8.8.jar",
+          "filename": "refinedstorage-1.8.8.jar",
+          "primary": true,
+          "size": 1890686
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.8.8",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/IX4Uxowu",
+      "createdAt": "2023-07-04T19:58:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2267890
+      },
+      {
+        "source": "modrinth",
+        "downloads": 30
+      }
+    ],
+    "totalDownloads": 2267921
+  }
+}

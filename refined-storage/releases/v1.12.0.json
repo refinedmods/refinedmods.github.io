@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.12.0.json",
+  "name": "v1.12.0",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110913740,
+      "nodeId": "RE_kwDOAtXBQM4GnGjM",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.12.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110913740/assets",
+      "assets": [
+        {
+          "id": 115427146,
+          "nodeId": "RA_kwDOAtXBQM4G4UdK",
+          "name": "refinedstorage-1.12.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3290690,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.12.0/refinedstorage-1.12.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110913740/assets{?name,label}",
+      "tagName": "v1.12.0",
+      "targetCommitish": "70deb023bc75e0197387c7b459c1881d44a53d60",
+      "body": "### Changed\n\n-   Ported to Minecraft 1.20.1.\n\n### Fixed\n\n-   Fixed GUI side buttons not working sometimes when using Refined Storage with addons.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-03T21:11:48Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.12.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.12.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110913740",
+      "createdAt": "2023-07-03T21:08:01Z"
+    },
+    {
+      "id": 4623612,
+      "dateModified": "2023-07-03T21:20:34Z",
+      "fileLength": 3290690,
+      "fileName": "refinedstorage-1.12.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "Java 17",
+        "1.20.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4623612",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4623612",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4623612",
+      "createdAt": "2023-07-03T21:13:09Z"
+    },
+    {
+      "id": "dSDQRLVO",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.12.0",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePorted to Minecraft 1.20.1.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed GUI side buttons not working sometimes when using Refined Storage with addons.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "eb7f45acb42ad76b493453e2d3d7a17db0ae9c30af56331356b9dd6765f72d9dd1e14cf82246756f5edeffbfcedf64877642cbf0c6c80d2f7ff70666432e8da2",
+            "sha1": "37a96f310a0e526f64ead4b3af20266eed8feb3d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/dSDQRLVO/refinedstorage-1.12.0.jar",
+          "filename": "refinedstorage-1.12.0.jar",
+          "primary": true,
+          "size": 3290690
+        }
+      ],
+      "gameVersions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.12.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/dSDQRLVO",
+      "createdAt": "2023-07-04T19:59:20Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 7
+      },
+      {
+        "source": "curseforge",
+        "downloads": 287
+      },
+      {
+        "source": "modrinth",
+        "downloads": 18
+      }
+    ],
+    "totalDownloads": 312
+  }
+}

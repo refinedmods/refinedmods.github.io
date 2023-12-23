@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.8.2.json",
+  "name": "v0.8.2",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 62841765,
+      "nodeId": "RE_kwDOBc8fRM4DvuOl",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.8.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/62841765/assets",
+      "assets": [
+        {
+          "id": 60676145,
+          "nodeId": "RA_kwDOBc8fRM4Dndgx",
+          "name": "refinedstorageaddons-0.8.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 32396,
+          "downloadCount": 40,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.8.2/refinedstorageaddons-0.8.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/62841765/assets{?name,label}",
+      "tagName": "v0.8.2",
+      "targetCommitish": "develop",
+      "body": "\n### Added\n\n- French translation by [@dracnis](https://github.com/dracnis).\n\n### Changed\n\n- Ported to Minecraft 1.18.2.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-03-26T14:18:33Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.8.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.8.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/62841765",
+      "createdAt": "2022-03-26T14:14:55Z"
+    },
+    {
+      "id": 3713972,
+      "dateModified": "2022-03-26T14:24:27Z",
+      "fileLength": 32396,
+      "fileName": "refinedstorageaddons-0.8.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/3713972",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/3713972",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/3713972",
+      "createdAt": "2022-03-26T14:18:43Z"
+    },
+    {
+      "id": "wutJRjOJ",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.8.2",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFrench translation by \u003ca href\u003d\"https://github.com/dracnis\" rel\u003d\"nofollow\"\u003e@dracnis\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePorted to Minecraft 1.18.2.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e97f3f2802b68ee3a43450faafe06a3b8742550abad757e6e0168aed9a9135674b481e166db19a6e59964737fa4dd129a2dc69529741a61c09d7e571e56257c6",
+            "sha1": "bb3018f9e0701248cec2acd3b81b3bc0669f1fe4"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/wutJRjOJ/refinedstorageaddons-0.8.2.jar",
+          "filename": "refinedstorageaddons-0.8.2.jar",
+          "primary": true,
+          "size": 32396
+        }
+      ],
+      "gameVersions": [
+        "1.18.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.8.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/wutJRjOJ",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 40
+      },
+      {
+        "source": "curseforge",
+        "downloads": 4757892
+      },
+      {
+        "source": "modrinth",
+        "downloads": 662
+      }
+    ],
+    "totalDownloads": 4758594
+  }
+}

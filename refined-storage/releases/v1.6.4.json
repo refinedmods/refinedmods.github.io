@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.4.json",
+  "name": "v1.6.4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110331087,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMTA4Nw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331087/assets",
+      "assets": [
+        {
+          "id": 114837067,
+          "nodeId": "RA_kwDOAtXBQM4G2EZL",
+          "name": "refinedstorage-1.6.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1877782,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.4/refinedstorage-1.6.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110331087/assets{?name,label}",
+      "tagName": "v1.6.4",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Rewrote autocrafting again, bringing performance up to par with other autocrafting mods.\r\n- Autocrafting now reserves items and fluids in an internal inventory to avoid having the storage network steal stacks required for autocrafting.\r\n- Reworked the Crafting Monitor to be more condensed and more clear.\r\n\r\n### Fixed\r\n\r\n- Fixed not being able to craft upgrades that require enchanted books.\r\n- Fixed quick jittering of the Grid and Crafting Monitor when opening them because the tabs appear.\r\n\r\n### Removed\r\n\r\n- Removed left / right click functionality on filter slots to increase / decrease the amount, replaced that functionality with a dialog.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:36:04Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331087",
+      "createdAt": "2018-08-27T19:59:22Z"
+    },
+    {
+      "id": 2612213,
+      "dateModified": "2023-06-29T09:45:13Z",
+      "fileLength": 1877782,
+      "fileName": "refinedstorage-1.6.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2612213",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2612213",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2612213",
+      "createdAt": "2018-09-02T18:09:01Z"
+    },
+    {
+      "id": "j5lD9SbE",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.4",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRewrote autocrafting again, bringing performance up to par with other autocrafting mods.\u003c/li\u003e\n\u003cli\u003eAutocrafting now reserves items and fluids in an internal inventory to avoid having the storage network steal stacks required for autocrafting.\u003c/li\u003e\n\u003cli\u003eReworked the Crafting Monitor to be more condensed and more clear.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed not being able to craft upgrades that require enchanted books.\u003c/li\u003e\n\u003cli\u003eFixed quick jittering of the Grid and Crafting Monitor when opening them because the tabs appear.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved left / right click functionality on filter slots to increase / decrease the amount, replaced that functionality with a dialog.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "82c7a170934b87197a479deb4557e37a70f70db2618b6229032611ea82f4daf0df82b8f4b86df8049560549cae8e8a2309007086602fc6196af2ffe2a3e3d421",
+            "sha1": "06aaf381da8f0a5d1bbadf22c792022612e12dc4"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/j5lD9SbE/refinedstorage-1.6.4.jar",
+          "filename": "refinedstorage-1.6.4.jar",
+          "primary": true,
+          "size": 1877782
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/j5lD9SbE",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 146695
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 146697
+  }
+}

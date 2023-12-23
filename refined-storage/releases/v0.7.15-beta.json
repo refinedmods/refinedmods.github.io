@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.15-beta.json",
+  "name": "v0.7.15-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000289,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDI4OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.15-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000289/assets",
+      "assets": [
+        {
+          "id": 115529212,
+          "nodeId": "RA_kwDOAtXBQM4G4tX8",
+          "name": "refinedstorage-0.7.15.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 459962,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.15-beta/refinedstorage-0.7.15.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000289/assets{?name,label}",
+      "tagName": "v0.7.15-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed not being able to scroll with the scroll wheel using MouseTweaks.\r\n- Fixed grid search box mode only changing after reopening GUI.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:24:10Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.15-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.15-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000289",
+      "createdAt": "2016-06-18T11:51:43Z"
+    },
+    {
+      "id": 2308450,
+      "dateModified": "2023-07-04T13:55:25Z",
+      "fileLength": 459962,
+      "fileName": "refinedstorage-0.7.15.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2308450",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2308450",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2308450",
+      "createdAt": "2016-06-18T12:00:41Z"
+    },
+    {
+      "id": "jR0gHa8j",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.15-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed not being able to scroll with the scroll wheel using MouseTweaks.\u003c/li\u003e\n\u003cli\u003eFixed grid search box mode only changing after reopening GUI.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "0785c6df583f0faf1b154900a2b455b56a5396da2ad5bd43b858e27efdd06412624501e4cc68d33377e570078fd56e69f4a7ca186e79432e720b02ca59e48a64",
+            "sha1": "23e3e36421cf80640bed54831de564d620acbc58"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/jR0gHa8j/refinedstorage-0.7.15.jar",
+          "filename": "refinedstorage-0.7.15.jar",
+          "primary": true,
+          "size": 459962
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.15-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/jR0gHa8j",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1452
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 1454
+  }
+}

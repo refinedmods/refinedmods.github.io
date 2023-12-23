@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.1.2.json",
+  "name": "v0.1.2",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 54192339,
+      "nodeId": "MDc6UmVsZWFzZTU0MTkyMzM5",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.1.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192339/assets",
+      "assets": [
+        {
+          "id": 50488016,
+          "nodeId": "RA_kwDODcjNAM4DAmLQ",
+          "name": "refinedpipes-0.1.2.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 128535,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.1.2/refinedpipes-0.1.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/54192339/assets{?name,label}",
+      "tagName": "v0.1.2",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Changed the textures slightly.\r\n- Changed the recipes slightly.\r\n- Inventories connected with a pipe and an attachment are no longer marked as a valid destination.\r\n\r\n### Added\r\n\r\n- Added inventory connector to make placing attachments easier.\r\n- Added new tiers for the Extractor Attachment: Elite and Ultimate.\r\n\r\n### Fixed\r\n\r\n- Fixed Extractor Attachments not extracting properly.\r\n\r\n### Removed\r\n\r\n- Removed simple tier for the Item Pipe.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-11-28T13:07:25Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.1.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.1.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192339",
+      "createdAt": "2020-03-26T19:51:09Z"
+    },
+    {
+      "id": 2913481,
+      "dateModified": "2021-11-28T12:55:05Z",
+      "fileLength": 128535,
+      "fileName": "refinedpipes-0.1.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/2913481",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/2913481",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/2913481",
+      "createdAt": "2020-03-26T19:51:53Z"
+    },
+    {
+      "id": "DbHOUbwz",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.1.2",
+      "changelog": "\u003cul\u003e\r\n\u003cli\u003e\r\n\u003ch3\u003eChanged\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eChanged the textures slightly.\u003c/li\u003e\r\n\u003cli\u003eChanged the recipes slightly.\u003c/li\u003e\r\n\u003cli\u003eInventories connected with a pipe and an attachment are no longer marked as a valid destination.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eAdded inventory connector to make placing attachments easier.\u003c/li\u003e\r\n\u003cli\u003eAdded new tiers for the Extractor Attachment: Elite and Ultimate.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eFixed\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eFixed Extractor Attachments not extracting properly.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003ch3\u003eRemoved\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eRemoved simple tier for the Item Pipe.\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "40479e5c094efeda4b04deb7c24bd63d1e74fd3810ec37c5a0f98651e4a39cc1d6c1cc012af0cea1a7046b56c4fcc9fd1e3805ae0146ec7813f681baac32f0f5",
+            "sha1": "8d6838973779146115c08244b87a1798a124144d"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/DbHOUbwz/refinedpipes-0.1.2.jar",
+          "filename": "refinedpipes-0.1.2.jar",
+          "primary": true,
+          "size": 128535
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.1.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/DbHOUbwz",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "curseforge",
+        "downloads": 60
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 72
+  }
+}

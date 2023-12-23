@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.9.1.json",
+  "name": "v0.9.1",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 62842601,
+      "nodeId": "RE_kwDOA8bqCc4Dvubp",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.9.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/62842601/assets",
+      "assets": [
+        {
+          "id": 60678358,
+          "nodeId": "RA_kwDOA8bqCc4DneDW",
+          "name": "rangedpumps-0.9.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28238,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.9.1/rangedpumps-0.9.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/62842601/assets{?name,label}",
+      "tagName": "v0.9.1",
+      "targetCommitish": "develop",
+      "body": "\n### Added\n\n- Korean translation by [@mindy15963](https://github.com/mindy15963).\n- French translation by [@dracnis](https://github.com/dracnis).\n\n### Fixed\n\n- Fixed pump scanning past minimum Y level.\n- Fixed pump not using minimum Y level from dimension by [@Arayn](https://github.com/Arayn).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-03-26T15:03:05Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.9.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.9.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/62842601",
+      "createdAt": "2022-03-26T14:58:39Z"
+    },
+    {
+      "id": 3714012,
+      "dateModified": "2022-03-26T15:11:07Z",
+      "fileLength": 28237,
+      "fileName": "rangedpumps-0.9.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/3714012",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/3714012",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/3714012",
+      "createdAt": "2022-03-26T15:03:20Z"
+    },
+    {
+      "id": "D4IpcEG5",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.9.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eKorean translation by \u003ca href\u003d\"https://github.com/mindy15963\" rel\u003d\"nofollow\"\u003e@mindy15963\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eFrench translation by \u003ca href\u003d\"https://github.com/dracnis\" rel\u003d\"nofollow\"\u003e@dracnis\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed pump scanning past minimum Y level.\u003c/li\u003e\n\u003cli\u003eFixed pump not using minimum Y level from dimension by \u003ca href\u003d\"https://github.com/Arayn\" rel\u003d\"nofollow\"\u003e@Arayn\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "8763ed4fa6149119057009697d6c373103bbd7f18f29cfbe982b68c4dc9f1980e6242d744f3f6fe63bdf636ca9c71ff62c9ac077d44b68b094bb42e7211827a0",
+            "sha1": "8c320b522e4ef17d72c6cb43b19f188cd7ed49b0"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/D4IpcEG5/rangedpumps-0.9.1.jar",
+          "filename": "rangedpumps-0.9.1.jar",
+          "primary": true,
+          "size": 28237
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.9.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/D4IpcEG5",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 4
+      },
+      {
+        "source": "curseforge",
+        "downloads": 33664
+      },
+      {
+        "source": "modrinth",
+        "downloads": 15
+      }
+    ],
+    "totalDownloads": 33683
+  }
+}

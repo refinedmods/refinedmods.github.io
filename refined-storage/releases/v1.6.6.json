@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.6.json",
+  "name": "v1.6.6",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110330994,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDk5NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.6",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330994/assets",
+      "assets": [
+        {
+          "id": 114836943,
+          "nodeId": "RA_kwDOAtXBQM4G2EXP",
+          "name": "refinedstorage-1.6.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1780126,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.6/refinedstorage-1.6.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330994/assets{?name,label}",
+      "tagName": "v1.6.6",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added new Crafter modes: ignore redstone signal, redstone signal unlocks autocrafting, redstone signal locks autocrafting and redstone pulse inserts next set.\r\n- Added a config option to configure the autocrafting calculation timeout in milliseconds.\r\n- Added throttling for network devices that can request autocrafting.\r\n\r\n### Changed\r\n\r\n- Renamed Cut Processors to Raw Processors and those are now made with Processor Binding instead of a Cutting Tool.\r\n- You can no longer start a crafting task if it has missing items or fluids.\r\n- The Security Manager now supports Security Cards that have no player assigned to them. It is the default security card for players that aren\u0027t configured.\r\n- If no default Security Card is configured in the Security Manager, an unconfigured player is allowed to do everything in the network. Create a default Security Card.\r\n\r\n### Fixed\r\n\r\n- Fixed an autocrafting bug where it crashed when external inventories couldn\u0027t be filled.\r\n- Fixed a duplication bug with a disconnected Crafting Grid.\r\n- Fixed oredict autocrafting sometimes reporting that a craftable item is missing.\r\n- Fixed fluid autocrafting without item inputs locking when there\u0027s not enough space for the fluids.\r\n- Fixed Grid \"last changed\" date not changing when using clear button or JEI transfer.\r\n- Fixed a duplication bug when pressing clear on a Wireless Crafting Grid from Refined Storage Addons.\r\n- Fixed a duplication bug with autocrafting and External Storages.\r\n- Fixed Crafting Manager displaying wrong name for chained crafters connected to some blocks.\r\n- Fixed crafting task losing internal buffer when network runs out of energy.\r\n\r\n### Removed\r\n\r\n- Removed handling of reusable items in autocrafting, to avoid problems.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:35:14Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.6",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.6",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330994",
+      "createdAt": "2018-10-18T20:07:00Z"
+    },
+    {
+      "id": 2629187,
+      "dateModified": "2023-06-29T09:44:38Z",
+      "fileLength": 1780126,
+      "fileName": "refinedstorage-1.6.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2629187",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2629187",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2629187",
+      "createdAt": "2018-10-18T20:07:48Z"
+    },
+    {
+      "id": "AsQLO343",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.6",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded new Crafter modes: ignore redstone signal, redstone signal unlocks autocrafting, redstone signal locks autocrafting and redstone pulse inserts next set.\u003c/li\u003e\n\u003cli\u003eAdded a config option to configure the autocrafting calculation timeout in milliseconds.\u003c/li\u003e\n\u003cli\u003eAdded throttling for network devices that can request autocrafting.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRenamed Cut Processors to Raw Processors and those are now made with Processor Binding instead of a Cutting Tool.\u003c/li\u003e\n\u003cli\u003eYou can no longer start a crafting task if it has missing items or fluids.\u003c/li\u003e\n\u003cli\u003eThe Security Manager now supports Security Cards that have no player assigned to them. It is the default security card for players that aren\u0027t configured.\u003c/li\u003e\n\u003cli\u003eIf no default Security Card is configured in the Security Manager, an unconfigured player is allowed to do everything in the network. Create a default Security Card.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed an autocrafting bug where it crashed when external inventories couldn\u0027t be filled.\u003c/li\u003e\n\u003cli\u003eFixed a duplication bug with a disconnected Crafting Grid.\u003c/li\u003e\n\u003cli\u003eFixed oredict autocrafting sometimes reporting that a craftable item is missing.\u003c/li\u003e\n\u003cli\u003eFixed fluid autocrafting without item inputs locking when there\u0027s not enough space for the fluids.\u003c/li\u003e\n\u003cli\u003eFixed Grid \u0026quot;last changed\u0026quot; date not changing when using clear button or JEI transfer.\u003c/li\u003e\n\u003cli\u003eFixed a duplication bug when pressing clear on a Wireless Crafting Grid from Refined Storage Addons.\u003c/li\u003e\n\u003cli\u003eFixed a duplication bug with autocrafting and External Storages.\u003c/li\u003e\n\u003cli\u003eFixed Crafting Manager displaying wrong name for chained crafters connected to some blocks.\u003c/li\u003e\n\u003cli\u003eFixed crafting task losing internal buffer when network runs out of energy.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved handling of reusable items in autocrafting, to avoid problems.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7a5eb692f02041859d47804586130d58fe946bc5004c5f5274a785983ec76e7029fec7888a6f51f059aef4ddc7bdf47670d2a67677aac50d89851384a6daccd9",
+            "sha1": "9670b128030afb1a9014a8a5ed8e36da018197dd"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/AsQLO343/refinedstorage-1.6.6.jar",
+          "filename": "refinedstorage-1.6.6.jar",
+          "primary": true,
+          "size": 1780126
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.6",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/AsQLO343",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 6832
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 6835
+  }
+}

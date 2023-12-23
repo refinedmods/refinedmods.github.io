@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.2-beta.json",
+  "name": "v1.5.2-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110471942,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTk0Mg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.2-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471942/assets",
+      "assets": [
+        {
+          "id": 114988617,
+          "nodeId": "RA_kwDOAtXBQM4G2pZJ",
+          "name": "refinedstorage-1.5.2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1666141,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.2-beta/refinedstorage-1.5.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471942/assets{?name,label}",
+      "tagName": "v1.5.2-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed a bug where loading nodes would abort when a single node has an error while reading.\r\n- Fixed Filters not persisting correctly in Portable Grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:11:16Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.2-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.2-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471942",
+      "createdAt": "2017-06-20T22:38:40Z"
+    },
+    {
+      "id": 2437760,
+      "dateModified": "2023-06-30T09:26:16Z",
+      "fileLength": 1666141,
+      "fileName": "refinedstorage-1.5.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2437760",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2437760",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2437760",
+      "createdAt": "2017-06-20T22:47:45Z"
+    },
+    {
+      "id": "vYmGIsfv",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.2-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed a bug where loading nodes would abort when a single node has an error while reading.\u003c/li\u003e\n\u003cli\u003eFixed Filters not persisting correctly in Portable Grid.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "421a41419e1527304c2a37a23a60206e3d3743a3690d23c0ba5fdae1fc5ee7fb7eb85ac78eb263a9dba69dd0c448aa2f9c87a75926aa9d0793a3cd2f6e612cc8",
+            "sha1": "05bcb47d5955d262c04f262a4f198e56683bf598"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/vYmGIsfv/refinedstorage-1.5.2.jar",
+          "filename": "refinedstorage-1.5.2.jar",
+          "primary": true,
+          "size": 1666141
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.2-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/vYmGIsfv",
+      "createdAt": "2023-07-04T19:58:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 5721
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 5722
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.7.json",
+  "name": "v1.2.7",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110513873,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzg3Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.7",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513873/assets",
+      "assets": [
+        {
+          "id": 115029237,
+          "nodeId": "RA_kwDOAtXBQM4G2zT1",
+          "name": "refinedstorage-1.2.7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1383897,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.7/refinedstorage-1.2.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513873/assets{?name,label}",
+      "tagName": "v1.2.7",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated German translation.\r\n\r\n### Fixed\r\n\r\n- Fixed not being able to place disks in Disk Drives on servers.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:52:38Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.7",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.7",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513873",
+      "createdAt": "2016-11-29T19:49:59Z"
+    },
+    {
+      "id": 2350652,
+      "dateModified": "2023-06-30T15:10:43Z",
+      "fileLength": 1383897,
+      "fileName": "refinedstorage-1.2.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2350652",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2350652",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2350652",
+      "createdAt": "2016-11-29T19:58:33Z"
+    },
+    {
+      "id": "tMS7tS3l",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.7",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated German translation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed not being able to place disks in Disk Drives on servers.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "343b8c7a0d3b510daac76a37b2d87f5360c45f79da4ce978e4bdef466bf89361f9cc94fa93612a01937a4598024a50fbf956f439d765e850525173809c03a5c2",
+            "sha1": "3d870d817d4fb61cd9c316312e7988c087f02712"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/tMS7tS3l/refinedstorage-1.2.7.jar",
+          "filename": "refinedstorage-1.2.7.jar",
+          "primary": true,
+          "size": 1383897
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.7",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/tMS7tS3l",
+      "createdAt": "2023-07-04T19:57:37Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2233
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 2235
+  }
+}

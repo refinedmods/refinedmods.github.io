@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.0-beta.json",
+  "name": "v0.7.0-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111001236,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMTIzNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.0-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001236/assets",
+      "assets": [
+        {
+          "id": 115529972,
+          "nodeId": "RA_kwDOAtXBQM4G4tj0",
+          "name": "refinedstorage-0.7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 414098,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.0-beta/refinedstorage-0.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111001236/assets{?name,label}",
+      "tagName": "v0.7.0-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.9.4.\r\n\r\n### Fixed\r\n\r\n- Fixed Crafting Grid / Pattern Grid not throwing items on break.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:31:10Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.0-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.0-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001236",
+      "createdAt": "2016-05-23T21:49:30Z"
+    },
+    {
+      "id": 2302427,
+      "dateModified": "2023-07-04T14:03:45Z",
+      "fileLength": 414098,
+      "fileName": "refinedstorage-0.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2302427",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2302427",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2302427",
+      "createdAt": "2016-05-23T21:56:14Z"
+    },
+    {
+      "id": "UtZkUUCC",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.0-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.9.4.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Crafting Grid / Pattern Grid not throwing items on break.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d1d5ba76f02d183be15d94b900a6559f3a023e3e5b8b5f6a31d52fa93c06970b06b57fce34ad60201a0e39bde3ebf7c49bd58139b58e979b82dd23874e99a9c3",
+            "sha1": "2af5963e2e36786e7dcb90f59e135c839bfba7b4"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/UtZkUUCC/refinedstorage-0.7.jar",
+          "filename": "refinedstorage-0.7.jar",
+          "primary": true,
+          "size": 414098
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.0-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/UtZkUUCC",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 720
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 722
+  }
+}

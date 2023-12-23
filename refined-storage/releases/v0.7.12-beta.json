@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.12-beta.json",
+  "name": "v0.7.12-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000413,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDQxMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.12-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000413/assets",
+      "assets": [
+        {
+          "id": 115529298,
+          "nodeId": "RA_kwDOAtXBQM4G4tZS",
+          "name": "refinedstorage-0.7.12.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 460643,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.12-beta/refinedstorage-0.7.12.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000413/assets{?name,label}",
+      "tagName": "v0.7.12-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed creative storage blocks and disks not working.\r\n- Fixed interface overflowing.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:24:56Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.12-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.12-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000413",
+      "createdAt": "2016-06-14T17:43:09Z"
+    },
+    {
+      "id": 2307581,
+      "dateModified": "2023-07-04T13:56:32Z",
+      "fileLength": 460643,
+      "fileName": "refinedstorage-0.7.12.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2307581",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2307581",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2307581",
+      "createdAt": "2016-06-14T17:56:51Z"
+    },
+    {
+      "id": "XrNGoESV",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.12-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed creative storage blocks and disks not working.\u003c/li\u003e\n\u003cli\u003eFixed interface overflowing.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "3b97f571253c744987e1794636e5f65e13dd791024c22318b7fbc904d3dc8683e92c7c54c216c618febc327797d8f7cb2f504b788189729880289db65ddb78c3",
+            "sha1": "e37255a365c9408794fdb233499bc41cb623f1b6"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/XrNGoESV/refinedstorage-0.7.12.jar",
+          "filename": "refinedstorage-0.7.12.jar",
+          "primary": true,
+          "size": 460643
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.12-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/XrNGoESV",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2773
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 2774
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.9.0.json",
+  "name": "v0.9.0",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55597482,
+      "nodeId": "RE_kwDOA8bqCc4DUFmq",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.9.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55597482/assets",
+      "assets": [
+        {
+          "id": 52084180,
+          "nodeId": "RA_kwDOA8bqCc4DGr3U",
+          "name": "rangedpumps-0.9.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27176,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.9.0/rangedpumps-0.9.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55597482/assets{?name,label}",
+      "tagName": "v0.9.0",
+      "targetCommitish": "develop",
+      "body": "\n### Added\n\n- Port to Minecraft 1.18.1.\n- Added Portuguese translation by [@flagar0](https://github.com/flagar0).\n- Added Italian translation by [@maicol07](https://github.com/maicol07).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T14:07:45Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.9.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.9.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55597482",
+      "createdAt": "2021-12-18T14:02:39Z"
+    },
+    {
+      "id": 3570718,
+      "dateModified": "2021-12-18T14:09:08Z",
+      "fileLength": 27176,
+      "fileName": "rangedpumps-0.9.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/3570718",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/3570718",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/3570718",
+      "createdAt": "2021-12-18T14:07:55Z"
+    },
+    {
+      "id": "uM6RbWqO",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.9.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.18.1.\u003c/li\u003e\n\u003cli\u003eAdded Portuguese translation by \u003ca href\u003d\"https://github.com/flagar0\" rel\u003d\"nofollow\"\u003e@flagar0\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eAdded Italian translation by \u003ca href\u003d\"https://github.com/maicol07\" rel\u003d\"nofollow\"\u003e@maicol07\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "896c630b950333dcdf0bc77f8aa7cefe6e8efcde830c0798ad9c84ace754b6ec9f209c78120fa13ccc2159cec983e2c04a704e64e5ac89ff9ec48beaac1ab53f",
+            "sha1": "1959efe5b3b35044bc63854d5a65394c4b1b1d17"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/uM6RbWqO/rangedpumps-0.9.0.jar",
+          "filename": "rangedpumps-0.9.0.jar",
+          "primary": true,
+          "size": 27176
+        }
+      ],
+      "gameVersions": [
+        "1.18.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.9.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/uM6RbWqO",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 9
+      },
+      {
+        "source": "curseforge",
+        "downloads": 581557
+      },
+      {
+        "source": "modrinth",
+        "downloads": 15
+      }
+    ],
+    "totalDownloads": 581581
+  }
+}

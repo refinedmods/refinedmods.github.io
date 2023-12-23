@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.4.2.json",
+  "name": "v0.4.2",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 54192438,
+      "nodeId": "MDc6UmVsZWFzZTU0MTkyNDM4",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.4.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192438/assets",
+      "assets": [
+        {
+          "id": 50488334,
+          "nodeId": "RA_kwDODcjNAM4DAmQO",
+          "name": "refinedpipes-0.4.2.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 321126,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.4.2/refinedpipes-0.4.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/54192438/assets{?name,label}",
+      "tagName": "v0.4.2",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed extremely high memory usage by [@Chocohead](https://github.com/Chocohead).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-11-28T13:12:08Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.4.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.4.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/54192438",
+      "createdAt": "2020-05-29T19:27:37Z"
+    },
+    {
+      "id": 2968353,
+      "dateModified": "2021-11-28T13:02:17Z",
+      "fileLength": 321126,
+      "fileName": "refinedpipes-0.4.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/2968353",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/2968353",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/2968353",
+      "createdAt": "2020-05-29T19:39:22Z"
+    },
+    {
+      "id": "wBCGCLf6",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.4.2",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eFixed extremely high memory usage by\u0026nbsp;\u003ca href\u003d\"https://github.com/Chocohead\" rel\u003d\"nofollow\"\u003e@Chocohead\u003c/a\u003e.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "dc0982f9ad56a85558ecb4b1c90ad606a6d837050756570ded1f8a27ae5778e44bab53b3f2fabc4be189461148a9f0e0ce9355869931cd25aa74fc7cfdb1ca26",
+            "sha1": "00a419cb64d606ec347c9bc9f423ac6a2ba3df11"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/wBCGCLf6/refinedpipes-0.4.2.jar",
+          "filename": "refinedpipes-0.4.2.jar",
+          "primary": true,
+          "size": 321126
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.4.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/wBCGCLf6",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 5
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2379115
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 2379126
+  }
+}

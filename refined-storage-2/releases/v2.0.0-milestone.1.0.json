@@ -1,0 +1,77 @@
+{
+  "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.1.0.json",
+  "name": "v2.0.0-milestone.1.0",
+  "indexedAt": "2023-12-23T23:53:11Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 43377228,
+      "nodeId": "MDc6UmVsZWFzZTQzMzc3MjI4",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-milestone.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/43377228/assets",
+      "assets": [
+        {
+          "id": 37308796,
+          "nodeId": "MDEyOlJlbGVhc2VBc3NldDM3MzA4Nzk2",
+          "name": "refinedstorage2-fabric-2.0.0-milestone.1.0-dev.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 575691,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.0/refinedstorage2-fabric-2.0.0-milestone.1.0-dev.jar"
+        },
+        {
+          "id": 37308798,
+          "nodeId": "MDEyOlJlbGVhc2VBc3NldDM3MzA4Nzk4",
+          "name": "refinedstorage2-fabric-2.0.0-milestone.1.0-sources-dev.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 449776,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.0/refinedstorage2-fabric-2.0.0-milestone.1.0-sources-dev.jar"
+        },
+        {
+          "id": 37308797,
+          "nodeId": "MDEyOlJlbGVhc2VBc3NldDM3MzA4Nzk3",
+          "name": "refinedstorage2-fabric-2.0.0-milestone.1.0-sources.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 509394,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.0/refinedstorage2-fabric-2.0.0-milestone.1.0-sources.jar"
+        },
+        {
+          "id": 37308794,
+          "nodeId": "MDEyOlJlbGVhc2VBc3NldDM3MzA4Nzk0",
+          "name": "refinedstorage2-fabric-2.0.0-milestone.1.0.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1419718,
+          "downloadCount": 19,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.1.0/refinedstorage2-fabric-2.0.0-milestone.1.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/43377228/assets{?name,label}",
+      "tagName": "v2.0.0-milestone.1.0",
+      "targetCommitish": "main",
+      "body": "### Added\r\n\r\n- Controller\r\n- Grid\r\n- Disk Drive\r\n- Storage Part\r\n- Storage Disk\r\n- Storage Housing\r\n- Construction Core\r\n- Destruction Core\r\n- Cable\r\n- Machine Casing\r\n- Quartz Enriched Iron\r\n- Block of Quartz Enriched Iron\r\n- (Raw) Basic Processor\r\n- (Raw) Improved Processor\r\n- (Raw) Advanced Processor\r\n- Silicon\r\n- Processor Binding\r\n- Integration with Roughly Enough Items in the form of a REI search box mode.\r\n- Integration with ModMenu.\r\n- Integration with Patchouli.\r\n- Integration with AutoConfig1u.\r\n- Integration with ClothConfig.\r\n- Integration with Team Reborn Energy.\r\n\r\n### Changed\r\n\r\n- Re-arranged the Disk Drive GUI slightly. The priority button has been moved to the side.\r\n- The \"Priority\" screen now has a reset button.\r\n- \"Whitelist\" has been renamed to \"Allowlist\".\r\n- \"Blacklist\" has been renamed to \"Blocklist\".\r\n- Contents of storages in \"insert-only\" mode are now visible in the Grid.\r\n- The Grid keybindings got changed slightly. Consult the Patchouli documentation.\r\n- The Grid search bar now has much more powerful searching, supporting expressions. Consult the Patchouli documentation.\r\n- A single item in storage can now be larger than 2,147,483,647.\r\n- You can now place directional blocks facing up/down.\r\n- Emissive rendering isn\u0027t implemented yet.\r\n- You can now add multiple controllers to a network to meet the energy requirements of your network.\r\n- The Priority screen now has a \"Reset\" button.\r\n- The Grid can now use smooth scrolling.\r\n- The Grid now has syntax highlighting for the search query.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-05-21T19:45:36Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/43377228",
+      "createdAt": "2021-05-21T19:41:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 33
+      }
+    ],
+    "totalDownloads": 33
+  }
+}

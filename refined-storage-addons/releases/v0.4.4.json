@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.4.json",
+  "name": "v0.4.4",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55284089,
+      "nodeId": "MDc6UmVsZWFzZTU1Mjg0MDg5",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.4.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284089/assets",
+      "assets": [
+        {
+          "id": 51752379,
+          "nodeId": "RA_kwDOBc8fRM4DFa27",
+          "name": "refinedstorageaddons-0.4.4.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 26716,
+          "downloadCount": 14,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.4.4/refinedstorageaddons-0.4.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55284089/assets{?name,label}",
+      "tagName": "v0.4.4",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Refined Storage 1.6.13 compatibility.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:18:54Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.4.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.4.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284089",
+      "createdAt": "2019-03-23T13:05:24Z"
+    },
+    {
+      "id": 2690723,
+      "dateModified": "2021-12-14T15:34:11Z",
+      "fileLength": 26716,
+      "fileName": "refinedstorageaddons-0.4.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2690723",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2690723",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2690723",
+      "createdAt": "2019-03-23T14:24:52Z"
+    },
+    {
+      "id": "M5BySo4v",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.4.4",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eRefined Storage 1.6.13 compatibility.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c152387005f7f064f8f5905c9011082ffd125e7d60eebd55bf1b5e2dabdad0b41834c07892d19ffae2740fb64177078bbae37cca75c23689b0f3395558019118",
+            "sha1": "7c9f4c7405580ae47c317056535671b05553a8f3"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/M5BySo4v/refinedstorageaddons-0.4.4.jar",
+          "filename": "refinedstorageaddons-0.4.4.jar",
+          "primary": true,
+          "size": 26716
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.4.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/M5BySo4v",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 14
+      },
+      {
+        "source": "curseforge",
+        "downloads": 6298884
+      },
+      {
+        "source": "modrinth",
+        "downloads": 19
+      }
+    ],
+    "totalDownloads": 6298917
+  }
+}

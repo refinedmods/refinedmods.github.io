@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.1-beta.json",
+  "name": "v1.4.1-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 2383720,
+      "dateModified": "2023-06-30T13:40:53Z",
+      "fileLength": 1550005,
+      "fileName": "refinedstorage-1.4.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2383720",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2383720",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2383720",
+      "createdAt": "2017-02-19T14:55:14Z"
+    },
+    {
+      "id": 110492891,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5Mjg5MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.1-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492891/assets",
+      "assets": [
+        {
+          "id": 115010795,
+          "nodeId": "RA_kwDOAtXBQM4G2uzr",
+          "name": "refinedstorage-1.4.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1550005,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.1-beta/refinedstorage-1.4.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492891/assets{?name,label}",
+      "tagName": "v1.4.1-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Storage Monitor.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2232.\r\n\r\n### Fixed\r\n\r\n- Fixed Processing Pattern Encoder and Security Manager recipes not supporting oredict workbench and chest.\r\n- Fixed network nodes not respecting redstone mode.\r\n- Fixed \"Clear\" and \"Create Pattern\" buttons not working correctly when using Grid Filter tabs.\r\n- Fixed Wrench in Dismantling Mode voiding Storage Block contents.\r\n- Fixed OPs not having global permissions on secured storage systems.\r\n- Fixed crash when Destructor tries to break secured network block.\r\n- Fixed Fluid Interface not dropping inventory contents.\r\n- Fixed Disk Manipulator crash.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:22:51Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.1-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.1-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492891",
+      "createdAt": "2017-02-20T00:33:56Z"
+    },
+    {
+      "id": "obWjt4eG",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.1-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Storage Monitor.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2232.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Processing Pattern Encoder and Security Manager recipes not supporting oredict workbench and chest.\u003c/li\u003e\n\u003cli\u003eFixed network nodes not respecting redstone mode.\u003c/li\u003e\n\u003cli\u003eFixed \u0026quot;Clear\u0026quot; and \u0026quot;Create Pattern\u0026quot; buttons not working correctly when using Grid Filter tabs.\u003c/li\u003e\n\u003cli\u003eFixed Wrench in Dismantling Mode voiding Storage Block contents.\u003c/li\u003e\n\u003cli\u003eFixed OPs not having global permissions on secured storage systems.\u003c/li\u003e\n\u003cli\u003eFixed crash when Destructor tries to break secured network block.\u003c/li\u003e\n\u003cli\u003eFixed Fluid Interface not dropping inventory contents.\u003c/li\u003e\n\u003cli\u003eFixed Disk Manipulator crash.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e98c8885ef68d0bc4eb8e14151bbf51c4ea686ec3e2c1bed397cc7bf91314bb6f347c503180c0549214297c086fb19116a8bedaff4b6a598c7def1fb29a52c97",
+            "sha1": "ac811570c82cbf361ccebb1dcb46d81be883a62e"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/obWjt4eG/refinedstorage-1.4.1.jar",
+          "filename": "refinedstorage-1.4.1.jar",
+          "primary": true,
+          "size": 1550005
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.1-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/obWjt4eG",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 36237
+      },
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 36239
+  }
+}

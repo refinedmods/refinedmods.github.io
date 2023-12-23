@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.16.json",
+  "name": "v1.4.16",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110492178,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjE3OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.16",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492178/assets",
+      "assets": [
+        {
+          "id": 115010224,
+          "nodeId": "RA_kwDOAtXBQM4G2uqw",
+          "name": "refinedstorage-1.4.16.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1628868,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.16/refinedstorage-1.4.16.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492178/assets{?name,label}",
+      "tagName": "v1.4.16",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- The Portable Grid now doesn\u0027t despawn anymore when dropped in the world.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where oredict autocrafting didn\u0027t work in some cases.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:17:21Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.16",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.16",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492178",
+      "createdAt": "2017-06-14T14:56:22Z"
+    },
+    {
+      "id": 2434056,
+      "dateModified": "2023-06-30T12:56:14Z",
+      "fileLength": 1628868,
+      "fileName": "refinedstorage-1.4.16.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2434056",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2434056",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2434056",
+      "createdAt": "2017-06-14T15:02:52Z"
+    },
+    {
+      "id": "eyqekIYi",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.16",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Portable Grid now doesn\u0027t despawn anymore when dropped in the world.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where oredict autocrafting didn\u0027t work in some cases.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "fdee12bf1dee9704b2db3138d08d159b6cfde008a954b069bde62cf37f5362af3d6471b7388e5babf69ae1eae9788fccf292d2d75a7da33076544b78c8970414",
+            "sha1": "fdfe79effc8bd8cc1daea285b3a729b73ab9d02d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/eyqekIYi/refinedstorage-1.4.16.jar",
+          "filename": "refinedstorage-1.4.16.jar",
+          "primary": true,
+          "size": 1628868
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.16",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/eyqekIYi",
+      "createdAt": "2023-07-04T19:58:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 15489
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 15490
+  }
+}

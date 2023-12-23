@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.31.json",
+  "name": "v1.5.31",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2515440,
+      "dateModified": "2023-06-30T09:17:17Z",
+      "fileLength": 1750553,
+      "fileName": "refinedstorage-1.5.31.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2515440",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2515440",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2515440",
+      "createdAt": "2017-12-31T16:31:21Z"
+    },
+    {
+      "id": 110470269,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDI2OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.31",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470269/assets",
+      "assets": [
+        {
+          "id": 114987015,
+          "nodeId": "RA_kwDOAtXBQM4G2pAH",
+          "name": "refinedstorage-1.5.31.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1750553,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.31/refinedstorage-1.5.31.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470269/assets{?name,label}",
+      "tagName": "v1.5.31",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Storage disk and block stored and capacity counts are formatted now in the tooltip.\r\n- Improved the \"cannot craft! loop in processing...\" error message.\r\n- Made the Disk Manipulator unsided (inserting goes to insert slots and extracting from output slots).\r\n\r\n### Fixed\r\n\r\n- Fixed error logs when toggling the Pattern Grid from and to processing mode.\r\n- Fixed pattern slots in Crafters not being accessible.\r\n- Fixed rare Grid crash.\r\n- Fixed OpenComputers cable showing up in Grid as air.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T08:56:03Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.31",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.31",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470269",
+      "createdAt": "2018-01-01T19:39:27Z"
+    },
+    {
+      "id": "G5PUHGAS",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.31",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eStorage disk and block stored and capacity counts are formatted now in the tooltip.\u003c/li\u003e\n\u003cli\u003eImproved the \u0026quot;cannot craft! loop in processing...\u0026quot; error message.\u003c/li\u003e\n\u003cli\u003eMade the Disk Manipulator unsided (inserting goes to insert slots and extracting from output slots).\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed error logs when toggling the Pattern Grid from and to processing mode.\u003c/li\u003e\n\u003cli\u003eFixed pattern slots in Crafters not being accessible.\u003c/li\u003e\n\u003cli\u003eFixed rare Grid crash.\u003c/li\u003e\n\u003cli\u003eFixed OpenComputers cable showing up in Grid as air.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "90df679a23945a04259efa53012885b3f949669426c8b062e1a309ea88d3aa76b15f2735bcce17da54737a2c7da41d05f7627d3b5ab221eb9e9cf99c6517366b",
+            "sha1": "3edabc558fcc1eace7f4e1cffd20a33aa24515fa"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/G5PUHGAS/refinedstorage-1.5.31.jar",
+          "filename": "refinedstorage-1.5.31.jar",
+          "primary": true,
+          "size": 1750553
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.31",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/G5PUHGAS",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 873820
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 873823
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.3.json",
+  "name": "v1.6.3",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 2596840,
+      "dateModified": "2023-06-29T09:45:29Z",
+      "fileLength": 1891422,
+      "fileName": "refinedstorage-1.6.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2596840",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2596840",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2596840",
+      "createdAt": "2018-08-02T18:47:47Z"
+    },
+    {
+      "id": 110331125,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMTEyNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331125/assets",
+      "assets": [
+        {
+          "id": 114837148,
+          "nodeId": "RA_kwDOAtXBQM4G2Eac",
+          "name": "refinedstorage-1.6.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1891422,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.3/refinedstorage-1.6.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110331125/assets{?name,label}",
+      "tagName": "v1.6.3",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added a single mode Wrench that can rotate blocks and break Refined Storage covers.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Wireless Fluid Grid.\r\n- Fixed Reborn Storage crafting being slower than normal.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:36:26Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331125",
+      "createdAt": "2018-08-02T19:04:56Z"
+    },
+    {
+      "id": "SsaOW1Yw",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.3",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRe-added a single mode Wrench that can rotate blocks and break Refined Storage covers.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash with Wireless Fluid Grid.\u003c/li\u003e\n\u003cli\u003eFixed Reborn Storage crafting being slower than normal.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d0383756cf734e73a8e0a3159b3eab04b8b6b9696c136f97906c89ac467fd653cfb645677e76ac2708e199a4381f47ecfb0ca81faa3db71e947582df6a884dcf",
+            "sha1": "cb01381d37eeb2939662fd01a21f82e8524d8d42"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/SsaOW1Yw/refinedstorage-1.6.3.jar",
+          "filename": "refinedstorage-1.6.3.jar",
+          "primary": true,
+          "size": 1891422
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/SsaOW1Yw",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "curseforge",
+        "downloads": 556617
+      },
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 9
+      }
+    ],
+    "totalDownloads": 556626
+  }
+}

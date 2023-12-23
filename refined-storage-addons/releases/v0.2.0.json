@@ -1,0 +1,115 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.2.0.json",
+  "name": "v0.2.0",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55283825,
+      "nodeId": "MDc6UmVsZWFzZTU1MjgzODI1",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.2.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283825/assets",
+      "assets": [
+        {
+          "id": 51752165,
+          "nodeId": "RA_kwDOBc8fRM4DFazl",
+          "name": "refinedstorageaddons-0.2.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 53918,
+          "downloadCount": 19,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.2.0/refinedstorageaddons-0.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55283825/assets{?name,label}",
+      "tagName": "v0.2.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Updated Forge to 2493 (MC 1.12.2.\r\n- Infinite Wireless Transmitter (can be configured).\r\n- Network Picker.\r\n- Network Bag.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:16:16Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.2.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.2.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283825",
+      "createdAt": "2017-10-08T14:00:12Z"
+    },
+    {
+      "id": 2488705,
+      "dateModified": "2021-12-14T15:27:26Z",
+      "fileLength": 53918,
+      "fileName": "refinedstorageaddons-0.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2488705",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2488705",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2488705",
+      "createdAt": "2017-10-08T14:52:47Z"
+    },
+    {
+      "id": "kjYGyR9V",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.2.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eRefined Storage 1.5.13 compatibility.\u003c/li\u003e\r\n\u003cli\u003eChinese translation by\u0026nbsp;\u003ca href\u003d\"https://github.com/TartaricAcid\" rel\u003d\"nofollow\"\u003e@TartaricAcid\u003c/a\u003e.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "0dad0d4a3e57f1b0ef1bedf2d251803b4a28c405113da30e02d79edeaa801cfe24a7bdaec211d9ae346b40957054a42fb93430502bfacf02886c258dba03dfc7",
+            "sha1": "b646c67a137793f37758b0af69bfc625c7c92149"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/kjYGyR9V/refinedstorageaddons-0.2.jar",
+          "filename": "refinedstorageaddons-0.2.jar",
+          "primary": true,
+          "size": 53918
+        }
+      ],
+      "gameVersions": [
+        "1.12",
+        "1.12.1",
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.2.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/kjYGyR9V",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 19
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2235586
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 2235608
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.0.json",
+  "name": "v1.6.0",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110331355,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMTM1NQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331355/assets",
+      "assets": [
+        {
+          "id": 114837314,
+          "nodeId": "RA_kwDOAtXBQM4G2EdC",
+          "name": "refinedstorage-1.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1811905,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.0/refinedstorage-1.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110331355/assets{?name,label}",
+      "tagName": "v1.6.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added the Cutting Tool.\r\n- Added covers.\r\n- Added new storage disk system where the storage disk data (items, fluids) are stored off the disk itself, in another file (refinedstorage_disks.dat). The disk itself only stores its ID.\r\n- Added /createdisk command which creates a disk based on the disk ID. Turn on advanced tooltips to see the disk ID on a disk item.\r\n- Added config option to configure controller max receive rate.\r\n- Added config option to configure energy capacity of Refined Storage items.\r\n- Added config option to change Reader / Writer channel energy capacity.\r\n- Added a fully charged regular Controller to the creative menu.\r\n- Added a missing config option for Crafter Manager energy usage.\r\n- Added support for Disk Drive / Storage Block storage and capacity to OC integration.\r\n- Added \"Search box mode\" button to the Crafter Manager.\r\n\r\n### Changed\r\n\r\n- Renamed \"Printed Processors\" to \"Cut Processors\".\r\n- Rewrote autocrafting.\r\n- Rewrote network energy storage.\r\n- The Controller item now shows a durability bar for the energy.\r\n- You can no longer put a Filter in filter slots to gain additional filter slots.\r\n- You can now re-insert Processing Patterns in the Pattern Grid and have the inputs and outputs be completed.\r\n- If an Interface is configured to expose the entire network storage (by configuring no export slots), it will no longer expose the entire RS storage, due to performance issues.\r\n- The Portable Grid no longer exposes a inventory for crossmod interaction, due to performance issues.\r\n- The Crafting Monitor is now resizable and its size can be configured (stretched, small, medium, large).\r\n- The Crafting Monitor now splits its tasks over tabs.\r\n- An empty blacklist now means: accept any item. An empty whitelist now means: don\u0027t accept any item (an empty whitelist USED to mean: accept any item).\r\n- The Importer now skips over empty slots.\r\n- The Exporter now round-robins over every configured item or fluid to export instead of exporting them all at once.\r\n- Updated Russian translation.\r\n- Autocrafting tasks that take longer than 5 seconds to CALCULATE (NOT execute) are automatically stopped to avoid server strain.\r\n- Changed fluid storage progression to be 64k - 256k - 1024k - 4096k.\r\n- Made all IO blocks have a blacklist instead of a whitelist by default.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where pattern was recipe pattern was creatable when there was no recipe output.\r\n- Fixed a crash when breaking an Ender IO conduit with the Destructor.\r\n- Fixed bug where storage disks in Portable Grids could be moved into themselves.\r\n- Fixed the Crafter crashing when opening it while connected to a Primal Tech Grill or Kiln.\r\n- Fixed bug where Crafting Upgrade on Interface kept too many items in stock.\r\n- Fixed bug where External Storage could only handle 1 fluid inventory per block.\r\n- Fixed shift clicking a created pattern going into Grid inventory.\r\n- Fixed crash when moving a wireless item with the number keys.\r\n- Fixed bug where item storage tracker didn\u0027t save sometimes.\r\n- Fixed bug where External Storage doesn\u0027t detect new inventory when rotating.\r\n- Fixed JEI recipe transferring in Pattern Grid allowing non-processing recipes in processing mode and vice-versa.\r\n- Fixed using Interfaces for minimum stock levels failing when requester is also an Interface.\r\n- Fixed ItemZoom incompatibility in Grid and crafting preview window.\r\n- Fixed shift clicking upgrades into Interface making upgrades go to import slots.\r\n- Fixed duplication glitch with storages.\r\n- Prevent accidental Grid scrollbar click after clicking JEI recipe transfer button.\r\n\r\n### Removed\r\n\r\n- Removed Regulator mode in the Exporter.\r\n- Removed MCMultiPart integration.\r\n- Removed Project E integration.\r\n- Removed blocking mode in autocrafting.\r\n- Removed the Wrench.\r\n- Removed \"void excess items or fluids\" functionality on storages.\r\n- Removed the Solderer.\r\n- Removed \"compare oredict\" buttons on Exporter, Importer, etc.\r\n- Removed ConnectedTexturesMod integration for fullbright textures, RS now has fullbright textures natively.\r\n- Removed autocrafting with fluids (the bucket filling mechanic). This will be replaced in a later version with native fluid autocrafting, where Crafters can insert fluids to external inventories.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:37:51Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331355",
+      "createdAt": "2018-07-19T12:42:46Z"
+    },
+    {
+      "id": 2587374,
+      "dateModified": "2023-06-29T09:46:26Z",
+      "fileLength": 1811905,
+      "fileName": "refinedstorage-1.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2587374",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2587374",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2587374",
+      "createdAt": "2018-07-20T11:21:39Z"
+    },
+    {
+      "id": "a5e5AmCN",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded the Cutting Tool.\u003c/li\u003e\n\u003cli\u003eAdded covers.\u003c/li\u003e\n\u003cli\u003eAdded new storage disk system where the storage disk data (items, fluids) are stored off the disk itself, in another file (refinedstorage_disks.dat). The disk itself only stores its ID.\u003c/li\u003e\n\u003cli\u003eAdded /createdisk command which creates a disk based on the disk ID. Turn on advanced tooltips to see the disk ID on a disk item.\u003c/li\u003e\n\u003cli\u003eAdded config option to configure controller max receive rate.\u003c/li\u003e\n\u003cli\u003eAdded config option to configure energy capacity of Refined Storage items.\u003c/li\u003e\n\u003cli\u003eAdded config option to change Reader / Writer channel energy capacity.\u003c/li\u003e\n\u003cli\u003eAdded a fully charged regular Controller to the creative menu.\u003c/li\u003e\n\u003cli\u003eAdded a missing config option for Crafter Manager energy usage.\u003c/li\u003e\n\u003cli\u003eAdded support for Disk Drive / Storage Block storage and capacity to OC integration.\u003c/li\u003e\n\u003cli\u003eAdded \u0026quot;Search box mode\u0026quot; button to the Crafter Manager.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRenamed \u0026quot;Printed Processors\u0026quot; to \u0026quot;Cut Processors\u0026quot;.\u003c/li\u003e\n\u003cli\u003eRewrote autocrafting.\u003c/li\u003e\n\u003cli\u003eRewrote network energy storage.\u003c/li\u003e\n\u003cli\u003eThe Controller item now shows a durability bar for the energy.\u003c/li\u003e\n\u003cli\u003eYou can no longer put a Filter in filter slots to gain additional filter slots.\u003c/li\u003e\n\u003cli\u003eYou can now re-insert Processing Patterns in the Pattern Grid and have the inputs and outputs be completed.\u003c/li\u003e\n\u003cli\u003eIf an Interface is configured to expose the entire network storage (by configuring no export slots), it will no longer expose the entire RS storage, due to performance issues.\u003c/li\u003e\n\u003cli\u003eThe Portable Grid no longer exposes a inventory for crossmod interaction, due to performance issues.\u003c/li\u003e\n\u003cli\u003eThe Crafting Monitor is now resizable and its size can be configured (stretched, small, medium, large).\u003c/li\u003e\n\u003cli\u003eThe Crafting Monitor now splits its tasks over tabs.\u003c/li\u003e\n\u003cli\u003eAn empty blacklist now means: accept any item. An empty whitelist now means: don\u0027t accept any item (an empty whitelist USED to mean: accept any item).\u003c/li\u003e\n\u003cli\u003eThe Importer now skips over empty slots.\u003c/li\u003e\n\u003cli\u003eThe Exporter now round-robins over every configured item or fluid to export instead of exporting them all at once.\u003c/li\u003e\n\u003cli\u003eUpdated Russian translation.\u003c/li\u003e\n\u003cli\u003eAutocrafting tasks that take longer than 5 seconds to CALCULATE (NOT execute) are automatically stopped to avoid server strain.\u003c/li\u003e\n\u003cli\u003eChanged fluid storage progression to be 64k - 256k - 1024k - 4096k.\u003c/li\u003e\n\u003cli\u003eMade all IO blocks have a blacklist instead of a whitelist by default.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed bug where pattern was recipe pattern was creatable when there was no recipe output.\u003c/li\u003e\n\u003cli\u003eFixed a crash when breaking an Ender IO conduit with the Destructor.\u003c/li\u003e\n\u003cli\u003eFixed bug where storage disks in Portable Grids could be moved into themselves.\u003c/li\u003e\n\u003cli\u003eFixed the Crafter crashing when opening it while connected to a Primal Tech Grill or Kiln.\u003c/li\u003e\n\u003cli\u003eFixed bug where Crafting Upgrade on Interface kept too many items in stock.\u003c/li\u003e\n\u003cli\u003eFixed bug where External Storage could only handle 1 fluid inventory per block.\u003c/li\u003e\n\u003cli\u003eFixed shift clicking a created pattern going into Grid inventory.\u003c/li\u003e\n\u003cli\u003eFixed crash when moving a wireless item with the number keys.\u003c/li\u003e\n\u003cli\u003eFixed bug where item storage tracker didn\u0027t save sometimes.\u003c/li\u003e\n\u003cli\u003eFixed bug where External Storage doesn\u0027t detect new inventory when rotating.\u003c/li\u003e\n\u003cli\u003eFixed JEI recipe transferring in Pattern Grid allowing non-processing recipes in processing mode and vice-versa.\u003c/li\u003e\n\u003cli\u003eFixed using Interfaces for minimum stock levels failing when requester is also an Interface.\u003c/li\u003e\n\u003cli\u003eFixed ItemZoom incompatibility in Grid and crafting preview window.\u003c/li\u003e\n\u003cli\u003eFixed shift clicking upgrades into Interface making upgrades go to import slots.\u003c/li\u003e\n\u003cli\u003eFixed duplication glitch with storages.\u003c/li\u003e\n\u003cli\u003ePrevent accidental Grid scrollbar click after clicking JEI recipe transfer button.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved Regulator mode in the Exporter.\u003c/li\u003e\n\u003cli\u003eRemoved MCMultiPart integration.\u003c/li\u003e\n\u003cli\u003eRemoved Project E integration.\u003c/li\u003e\n\u003cli\u003eRemoved blocking mode in autocrafting.\u003c/li\u003e\n\u003cli\u003eRemoved the Wrench.\u003c/li\u003e\n\u003cli\u003eRemoved \u0026quot;void excess items or fluids\u0026quot; functionality on storages.\u003c/li\u003e\n\u003cli\u003eRemoved the Solderer.\u003c/li\u003e\n\u003cli\u003eRemoved \u0026quot;compare oredict\u0026quot; buttons on Exporter, Importer, etc.\u003c/li\u003e\n\u003cli\u003eRemoved ConnectedTexturesMod integration for fullbright textures, RS now has fullbright textures natively.\u003c/li\u003e\n\u003cli\u003eRemoved autocrafting with fluids (the bucket filling mechanic). This will be replaced in a later version with native fluid autocrafting, where Crafters can insert fluids to external inventories.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e1157660c3d0a0011fc4847123fdbf89e73e596689caa382b0c2b8aa3a47cda5e40a40d80f9496c38af153330a9fc74628a78f7f7b233e895691c80c7b68db08",
+            "sha1": "2b042d3385a7c916e8ea6bcbc4ffcb8c1de2f9d4"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/a5e5AmCN/refinedstorage-1.6.jar",
+          "filename": "refinedstorage-1.6.jar",
+          "primary": true,
+          "size": 1811905
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/a5e5AmCN",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 84485
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 84488
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.5.3-alpha.json",
+  "name": "v0.5.3-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111010879,
+      "nodeId": "MDc6UmVsZWFzZTExMTAxMDg3OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.5.3-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010879/assets",
+      "assets": [
+        {
+          "id": 115539649,
+          "nodeId": "RA_kwDOAtXBQM4G4v7B",
+          "name": "refinedstorage-0.5.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 368555,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.5.3-alpha/refinedstorage-0.5.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111010879/assets{?name,label}",
+      "tagName": "v0.5.3-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added a Creative Wireless Grid.\r\n\r\n### Changed\r\n\r\n- Changed block hardness levels.\r\n\r\n### Fixed\r\n\r\n- Fixed not being able to open a Grid that is 256 blocks away from the Controller.\r\n- Made the mod way less network intensive.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:51:34Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.5.3-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.5.3-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111010879",
+      "createdAt": "2016-04-04T19:38:04Z"
+    },
+    {
+      "id": 2292196,
+      "dateModified": "2023-07-04T15:46:46Z",
+      "fileLength": 368555,
+      "fileName": "refinedstorage-0.5.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2292196",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2292196",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2292196",
+      "createdAt": "2016-04-04T19:43:49Z"
+    },
+    {
+      "id": "1u9nLHLo",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.5.3-alpha",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded a Creative Wireless Grid.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eChanged block hardness levels.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed not being able to open a Grid that is 256 blocks away from the Controller.\u003c/li\u003e\n\u003cli\u003eMade the mod way less network intensive.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "6f001d5c324f41ecd652ff469173a991c0edf0aa1845aa24c25d04aad8e2cbbdac4aa39e3a529ff5d6c08fb49f89d5ebeef79a9fbdea9d453d1ab41b3deba34f",
+            "sha1": "6c9bf103234d166cfc343bfb98ec0130377a101a"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/1u9nLHLo/refinedstorage-0.5.3.jar",
+          "filename": "refinedstorage-0.5.3.jar",
+          "primary": true,
+          "size": 368555
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.5.3-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/1u9nLHLo",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 280
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 282
+  }
+}

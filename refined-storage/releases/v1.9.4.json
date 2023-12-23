@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.4.json",
+  "name": "v1.9.4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 85636292,
+      "nodeId": "MDc6UmVsZWFzZTg1NjM2Mjky",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636292/assets",
+      "assets": [
+        {
+          "id": 87725058,
+          "nodeId": "RA_kwDOAtXBQM4FOpQC",
+          "name": "refinedstorage-1.9.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1898788,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.4/refinedstorage-1.9.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636292/assets{?name,label}",
+      "tagName": "v1.9.4",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed JEI recipes/usages keys not working in Grids.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-10T20:02:41Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636292",
+      "createdAt": "2020-08-30T17:48:49Z"
+    },
+    {
+      "id": 3045898,
+      "dateModified": "2022-12-10T20:11:29Z",
+      "fileLength": 1898788,
+      "fileName": "refinedstorage-1.9.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3045898",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3045898",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3045898",
+      "createdAt": "2020-08-30T17:51:45Z"
+    },
+    {
+      "id": "YmTvTSr5",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.9.4",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed JEI recipes/usages keys not working in Grids.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e77d7d2ee5e4102e74e32bc2a44fac009ae2f9dd9d4dcb1998686a5322f3e3bb7aecef3a00d560c280fcef77f1c17398fb3f68e5876f690800838772963a28fc",
+            "sha1": "683201d0f78dba116259e1d63bd9ff5bdf76824b"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/YmTvTSr5/refinedstorage-1.9.4.jar",
+          "filename": "refinedstorage-1.9.4.jar",
+          "primary": true,
+          "size": 1898788
+        }
+      ],
+      "gameVersions": [
+        "1.16.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/YmTvTSr5",
+      "createdAt": "2023-07-04T19:58:40Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 4831
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 4832
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.7-beta.json",
+  "name": "v0.7.7-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000966,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDk2Ng\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.7-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000966/assets",
+      "assets": [
+        {
+          "id": 115529759,
+          "nodeId": "RA_kwDOAtXBQM4G4tgf",
+          "name": "refinedstorage-0.7.7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 422695,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.7-beta/refinedstorage-0.7.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000966/assets{?name,label}",
+      "tagName": "v0.7.7-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added the Stack Upgrade.\r\n- Added Quartz Enriched Iron Block.\r\n- Added French translation by Leventovitch.\r\n\r\n### Changed\r\n\r\n- New items now go to the first available storage that has items in it already.\r\n- Tweaked some recipes.\r\n\r\n### Fixed\r\n\r\n- Fixed buggy reequip animation on wireless grid.\r\n- Fixed solderer not supporting ore dictionary.\r\n- Fixed recipes not supporting ore dictionary.\r\n- Fixed destructor not being able to destroy some blocks.\r\n- Fixed not being able to place or destroy sugar cane.\r\n- Fixed storage blocks not being dismantable.\r\n- Fixed getting more items than needed sometimes.\r\n- Performance improvements.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:29:10Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.7-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.7-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000966",
+      "createdAt": "2016-06-04T17:34:14Z"
+    },
+    {
+      "id": 2305207,
+      "dateModified": "2023-07-04T13:59:53Z",
+      "fileLength": 422695,
+      "fileName": "refinedstorage-0.7.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2305207",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2305207",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2305207",
+      "createdAt": "2016-06-04T17:36:48Z"
+    },
+    {
+      "id": "yZKcLCtD",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.7-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded the Stack Upgrade.\u003c/li\u003e\n\u003cli\u003eAdded Quartz Enriched Iron Block.\u003c/li\u003e\n\u003cli\u003eAdded French translation by Leventovitch.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNew items now go to the first available storage that has items in it already.\u003c/li\u003e\n\u003cli\u003eTweaked some recipes.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed buggy reequip animation on wireless grid.\u003c/li\u003e\n\u003cli\u003eFixed solderer not supporting ore dictionary.\u003c/li\u003e\n\u003cli\u003eFixed recipes not supporting ore dictionary.\u003c/li\u003e\n\u003cli\u003eFixed destructor not being able to destroy some blocks.\u003c/li\u003e\n\u003cli\u003eFixed not being able to place or destroy sugar cane.\u003c/li\u003e\n\u003cli\u003eFixed storage blocks not being dismantable.\u003c/li\u003e\n\u003cli\u003eFixed getting more items than needed sometimes.\u003c/li\u003e\n\u003cli\u003ePerformance improvements.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "60dbe8813ce73d8fe13bb2fa80e5792afae4ec94426921f34868158a51d5e436c288f524c020cc008c41c45b5a69c67671067b665c39aac0a4ff6919f65b4fc1",
+            "sha1": "075a4e9317537b75986c1ae49e527f3261280abf"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/yZKcLCtD/refinedstorage-0.7.7.jar",
+          "filename": "refinedstorage-0.7.7.jar",
+          "primary": true,
+          "size": 422695
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.7-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/yZKcLCtD",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 483
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 484
+  }
+}

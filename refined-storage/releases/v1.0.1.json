@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.0.1.json",
+  "name": "v1.0.1",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110520981,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMDk4MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520981/assets",
+      "assets": [
+        {
+          "id": 115035719,
+          "nodeId": "RA_kwDOAtXBQM4G205H",
+          "name": "refinedstorage-1.0.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 734537,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.1/refinedstorage-1.0.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520981/assets{?name,label}",
+      "tagName": "v1.0.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added \"autocrafting mode\" in Detector, to check if an item is being crafted. If no item is specified, it\u0027ll emit a signal if anything is crafting.\r\n- Added an option for the Crafter to trigger autocrafting with a redstone signal.\r\n\r\n### Changed\r\n\r\n- Updated to Forge 2084.\r\n\r\n### Fixed\r\n\r\n- Fixed advanced tooltips showing in Grid when not configured to do so.\r\n- Optimized crafting pattern loading.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:44:52Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520981",
+      "createdAt": "2016-09-13T14:24:10Z"
+    },
+    {
+      "id": 2329951,
+      "dateModified": "2023-06-30T15:52:11Z",
+      "fileLength": 734537,
+      "fileName": "refinedstorage-1.0.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2329951",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2329951",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2329951",
+      "createdAt": "2016-09-13T14:27:39Z"
+    },
+    {
+      "id": "ru9HTua0",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.0.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded \u0026quot;autocrafting mode\u0026quot; in Detector, to check if an item is being crafted. If no item is specified, it\u0027ll emit a signal if anything is crafting.\u003c/li\u003e\n\u003cli\u003eAdded an option for the Crafter to trigger autocrafting with a redstone signal.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated to Forge 2084.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed advanced tooltips showing in Grid when not configured to do so.\u003c/li\u003e\n\u003cli\u003eOptimized crafting pattern loading.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c2bf785a9d01ec72c14e0c79f91ca55bbb5b3d8d35602d2f60f885e203526fc9ac95d070b9beaf7d5a933f3e0e109175747cd3778f496e050c724e76188934dc",
+            "sha1": "d4d8d9beba54d6c08ce8c52941882edef44dc078"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ru9HTua0/refinedstorage-1.0.1.jar",
+          "filename": "refinedstorage-1.0.1.jar",
+          "primary": true,
+          "size": 734537
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.0.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ru9HTua0",
+      "createdAt": "2023-07-04T19:57:15Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 52798
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 52799
+  }
+}

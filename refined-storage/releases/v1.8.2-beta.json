@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.8.2-beta.json",
+  "name": "v1.8.2-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 86566295,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2Mjk1",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.8.2-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566295/assets",
+      "assets": [
+        {
+          "id": 88798172,
+          "nodeId": "RA_kwDOAtXBQM4FSvPc",
+          "name": "refinedstorage-1.8.2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1846018,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.2-beta/refinedstorage-1.8.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566295/assets{?name,label}",
+      "tagName": "v1.8.2-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Refined Storage silicon is now present in `forge:silicon` tag for mod compatibility.\r\n- Waterlogging to all cable blocks.\r\n- Create zh_tw translation.\r\n- Re-added zh_cn translation.\r\n\r\n### Fixed\r\n\r\n- Fixed storage block dropping extra processor.\r\n\r\n### Changed\r\n\r\n- Updated pt_br translation.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:51:50Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.2-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.2-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566295",
+      "createdAt": "2020-04-25T19:40:34Z"
+    },
+    {
+      "id": 2940434,
+      "dateModified": "2022-12-19T18:05:18Z",
+      "fileLength": 1846018,
+      "fileName": "refinedstorage-1.8.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.15.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2940434",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2940434",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2940434",
+      "createdAt": "2020-04-25T19:43:01Z"
+    },
+    {
+      "id": "KSkh6Cmx",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.8.2-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRefined Storage silicon is now present in \u003ccode\u003eforge:silicon\u003c/code\u003e tag for mod compatibility.\u003c/li\u003e\n\u003cli\u003eWaterlogging to all cable blocks.\u003c/li\u003e\n\u003cli\u003eCreate zh_tw translation.\u003c/li\u003e\n\u003cli\u003eRe-added zh_cn translation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed storage block dropping extra processor.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated pt_br translation.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "b40ed48fe68356a0fc5f221d4827e4cd3eb26fdcbb1d7d2a2dab0472140f0893c21eee6e8c631e32803e360347861ec0ae444698664d83a057e5c9369510d8ef",
+            "sha1": "b0524da7871f7cf0426577b340aa6bed980fb6a7"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/KSkh6Cmx/refinedstorage-1.8.2.jar",
+          "filename": "refinedstorage-1.8.2.jar",
+          "primary": true,
+          "size": 1846018
+        }
+      ],
+      "gameVersions": [
+        "1.15.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.8.2-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/KSkh6Cmx",
+      "createdAt": "2023-07-04T19:58:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 13863
+      },
+      {
+        "source": "modrinth",
+        "downloads": 23
+      }
+    ],
+    "totalDownloads": 13886
+  }
+}

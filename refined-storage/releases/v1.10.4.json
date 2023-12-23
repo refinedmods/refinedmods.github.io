@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.10.4.json",
+  "name": "v1.10.4",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86668395,
+      "nodeId": "RE_kwDOAtXBQM4FKnRr",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.10.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86668395/assets",
+      "assets": [
+        {
+          "id": 88909788,
+          "nodeId": "RA_kwDOAtXBQM4FTKfc",
+          "name": "refinedstorage-1.10.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3250599,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.10.4/refinedstorage-1.10.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86668395/assets{?name,label}",
+      "tagName": "v1.10.4",
+      "targetCommitish": "develop",
+      "body": "### Fixed\n\n- Fixed external storage cache being de-synced from the network cache.\n- Fixed external storage using an out of date block entity for getting handler.\n- Fixed chained crafters not taking over the name of the root crafter.\n- Made Refined Storage more robust against crashes when moving network blocks by unconventional means.\n- Fixed duplication bug in the Interface.\n\n### Changed\n\n- Increased packet size limit.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-20T15:55:44Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86668395",
+      "createdAt": "2022-12-20T15:50:26Z"
+    },
+    {
+      "id": 4217424,
+      "dateModified": "2022-12-20T16:12:13Z",
+      "fileLength": 3250599,
+      "fileName": "refinedstorage-1.10.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4217424",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4217424",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4217424",
+      "createdAt": "2022-12-20T15:55:59Z"
+    },
+    {
+      "id": "O5LHCcWZ",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.10.4",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed external storage cache being de-synced from the network cache.\u003c/li\u003e\n\u003cli\u003eFixed external storage using an out of date block entity for getting handler.\u003c/li\u003e\n\u003cli\u003eFixed chained crafters not taking over the name of the root crafter.\u003c/li\u003e\n\u003cli\u003eMade Refined Storage more robust against crashes when moving network blocks by unconventional means.\u003c/li\u003e\n\u003cli\u003eFixed duplication bug in the Interface.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIncreased packet size limit.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "b6903a276fbd24232ecdb60a5c260486251910034d8958238e1e91dc6e0b44465947c270fba2f6efdcda4612a61bd4517ea257b33bf18c0ccad96a03cb30a0f2",
+            "sha1": "cd00f3b3ac074dee9ba10051670c58529568c93c"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/O5LHCcWZ/refinedstorage-1.10.4.jar",
+          "filename": "refinedstorage-1.10.4.jar",
+          "primary": true,
+          "size": 3250599
+        }
+      ],
+      "gameVersions": [
+        "1.18.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.10.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/O5LHCcWZ",
+      "createdAt": "2023-07-04T19:59:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 9
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1378159
+      },
+      {
+        "source": "modrinth",
+        "downloads": 158
+      }
+    ],
+    "totalDownloads": 1378326
+  }
+}

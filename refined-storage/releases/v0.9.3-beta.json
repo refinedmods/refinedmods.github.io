@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.9.3-beta.json",
+  "name": "v0.9.3-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110521092,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMTA5Mg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.9.3-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521092/assets",
+      "assets": [
+        {
+          "id": 115035878,
+          "nodeId": "RA_kwDOAtXBQM4G207m",
+          "name": "refinedstorage-0.9.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 722969,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.9.3-beta/refinedstorage-0.9.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110521092/assets{?name,label}",
+      "tagName": "v0.9.3-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Chinese translation.\r\n- Added Crafting Tweaks integration.\r\n\r\n### Changed\r\n\r\n- Updated German translation for Fluid Storage.\r\n- Updated Dutch translation for Fluid Storage.\r\n- Reworked storage network code, should fix weird machine disconnection issues.\r\n\r\n### Fixed\r\n\r\n- Fixed that the Fluid Storage Disk recipe returns an invalid disk.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:45:53Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.9.3-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.9.3-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521092",
+      "createdAt": "2016-08-26T18:04:38Z"
+    },
+    {
+      "id": 2326409,
+      "dateModified": "2023-06-30T15:53:15Z",
+      "fileLength": 722969,
+      "fileName": "refinedstorage-0.9.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2326409",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2326409",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2326409",
+      "createdAt": "2016-08-26T18:06:36Z"
+    },
+    {
+      "id": "EoYGhGlT",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.9.3-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded Chinese translation.\u003c/li\u003e\n\u003cli\u003eAdded Crafting Tweaks integration.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated German translation for Fluid Storage.\u003c/li\u003e\n\u003cli\u003eUpdated Dutch translation for Fluid Storage.\u003c/li\u003e\n\u003cli\u003eReworked storage network code, should fix weird machine disconnection issues.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed that the Fluid Storage Disk recipe returns an invalid disk.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e83fa5c914b7273042e3393e10a073eb626ca054f41d20d7286f7721938c5b3e7cdf4470bd5b8ce27f3d2fadfdafe8e23fbd816fd89ffcd2492078073f9f211c",
+            "sha1": "dbf6b0b8b57caca6cb407efafd30a798baefb6a3"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/EoYGhGlT/refinedstorage-0.9.3.jar",
+          "filename": "refinedstorage-0.9.3.jar",
+          "primary": true,
+          "size": 722969
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.9.3-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/EoYGhGlT",
+      "createdAt": "2023-07-04T19:57:14Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 10113
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 10114
+  }
+}

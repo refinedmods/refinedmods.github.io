@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.10-alpha.json",
+  "name": "v0.6.10-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111007057,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNzA1Nw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.10-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007057/assets",
+      "assets": [
+        {
+          "id": 115535659,
+          "nodeId": "RA_kwDOAtXBQM4G4u8r",
+          "name": "refinedstorage-0.6.10.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 414050,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.10-alpha/refinedstorage-0.6.10.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111007057/assets{?name,label}",
+      "tagName": "v0.6.10-alpha",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Increased max crafting request size to 500.\r\n\r\n### Fixed\r\n\r\n- Fixed Processing Patterns not working.\r\n- Fixed not being able to request more than 1 item at once.\r\n- Fixed crash with the Solderer.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:16:06Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.10-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.10-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007057",
+      "createdAt": "2016-05-21T14:13:56Z"
+    },
+    {
+      "id": 2301765,
+      "dateModified": "2023-07-04T15:08:46Z",
+      "fileLength": 414050,
+      "fileName": "refinedstorage-0.6.10.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2301765",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2301765",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2301765",
+      "createdAt": "2016-05-21T14:18:17Z"
+    },
+    {
+      "id": "FySVyBpx",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.10-alpha",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIncreased max crafting request size to 500.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Processing Patterns not working.\u003c/li\u003e\n\u003cli\u003eFixed not being able to request more than 1 item at once.\u003c/li\u003e\n\u003cli\u003eFixed crash with the Solderer.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "9fd34fe3ec6777169bd78a57b316c7b87c9232c8bb81c5141399e01a5669df8aa1a802228da1d2520ebc534025ae8cba98f141bfee7b2474eac2f8f6a9435028",
+            "sha1": "0dc54e0b8996483de27549a62b93a1376ba485af"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/FySVyBpx/refinedstorage-0.6.10.jar",
+          "filename": "refinedstorage-0.6.10.jar",
+          "primary": true,
+          "size": 414050
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.10-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/FySVyBpx",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 688
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 690
+  }
+}

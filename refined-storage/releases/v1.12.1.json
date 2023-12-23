@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.12.1.json",
+  "name": "v1.12.1",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110915102,
+      "nodeId": "RE_kwDOAtXBQM4GnG4e",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.12.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110915102/assets",
+      "assets": [
+        {
+          "id": 115429100,
+          "nodeId": "RA_kwDOAtXBQM4G4U7s",
+          "name": "refinedstorage-1.12.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3290689,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.12.1/refinedstorage-1.12.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110915102/assets{?name,label}",
+      "tagName": "v1.12.1",
+      "targetCommitish": "905bc4e99e54898d8b9c158badeebee05e2429a5",
+      "body": "### Fixed\r\n\r\n-   Fixed packages not being published to Maven.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-03T21:34:49Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.12.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.12.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110915102",
+      "createdAt": "2023-07-03T21:23:55Z"
+    },
+    {
+      "id": 4623636,
+      "dateModified": "2023-07-03T21:40:43Z",
+      "fileLength": 3290689,
+      "fileName": "refinedstorage-1.12.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "Java 17",
+        "1.20.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4623636",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4623636",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4623636",
+      "createdAt": "2023-07-03T21:36:29Z"
+    },
+    {
+      "id": "YbG0afid",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.12.1",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed packages not being published to Maven.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "26af7c20d2f2d2151ab920e0306bddcead658ecc881de98f705603150dde5c9623c6fe8a622da4ad9a256de1dd9d1a42acf368b9e00bfdfe0edebd0062c197cf",
+            "sha1": "c5e9f4876cbf7f0e460a4f260cc3357b5647c5e7"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/YbG0afid/refinedstorage-1.12.1.jar",
+          "filename": "refinedstorage-1.12.1.jar",
+          "primary": true,
+          "size": 3290689
+        }
+      ],
+      "gameVersions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.12.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/YbG0afid",
+      "createdAt": "2023-07-04T19:59:21Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 9
+      },
+      {
+        "source": "curseforge",
+        "downloads": 12290
+      },
+      {
+        "source": "modrinth",
+        "downloads": 30
+      }
+    ],
+    "totalDownloads": 12329
+  }
+}

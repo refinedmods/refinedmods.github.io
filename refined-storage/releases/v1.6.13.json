@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.13.json",
+  "name": "v1.6.13",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110330670,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDY3MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.13",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330670/assets",
+      "assets": [
+        {
+          "id": 114836552,
+          "nodeId": "RA_kwDOAtXBQM4G2ERI",
+          "name": "refinedstorage-1.6.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1910243,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.13/refinedstorage-1.6.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330670/assets{?name,label}",
+      "tagName": "v1.6.13",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added keybindings to open wireless items. The default one set to open a Wireless Crafting Grid from Refined Storage Addons is CTRL + G.\r\n- Added Grid quantity formatting for item counts over 1 billion.\r\n\r\n### Changed\r\n\r\n- Updated German translation.\r\n- Updated Chinese translation.\r\n- The Constructor and Destructor now interacts with the world using their owner\u0027s profile.\r\n\r\n### Fixed\r\n\r\n- Fixed Interface with Crafting Upgrade being stuck if an earlier item configuration has missing items or fluids.\r\n- Fixed wrong item count for oredict patterns.\r\n- Fixed autocrafting duplication bug.\r\n- Fixed Crafting Pattern not rendering tile entity items like a chest.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:32:21Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.13",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.13",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330670",
+      "createdAt": "2019-03-23T13:51:04Z"
+    },
+    {
+      "id": 2690722,
+      "dateModified": "2023-06-29T09:42:05Z",
+      "fileLength": 1910243,
+      "fileName": "refinedstorage-1.6.13.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2690722",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2690722",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2690722",
+      "createdAt": "2019-03-23T14:23:01Z"
+    },
+    {
+      "id": "H33Uj6Nl",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.13",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded keybindings to open wireless items. The default one set to open a Wireless Crafting Grid from Refined Storage Addons is CTRL + G.\u003c/li\u003e\n\u003cli\u003eAdded Grid quantity formatting for item counts over 1 billion.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated German translation.\u003c/li\u003e\n\u003cli\u003eUpdated Chinese translation.\u003c/li\u003e\n\u003cli\u003eThe Constructor and Destructor now interacts with the world using their owner\u0027s profile.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed Interface with Crafting Upgrade being stuck if an earlier item configuration has missing items or fluids.\u003c/li\u003e\n\u003cli\u003eFixed wrong item count for oredict patterns.\u003c/li\u003e\n\u003cli\u003eFixed autocrafting duplication bug.\u003c/li\u003e\n\u003cli\u003eFixed Crafting Pattern not rendering tile entity items like a chest.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7bfbbff6dc8c860f97e00c6bc49936933c00445a8dbefb4fc00f5ea212c7cdf28fc0edacaa6a7f34fb4eed3805215f8228531790de4e92728bc0a93051d54c89",
+            "sha1": "8d5f03079d93104ea06487e4c0bd4d6565bb353a"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/H33Uj6Nl/refinedstorage-1.6.13.jar",
+          "filename": "refinedstorage-1.6.13.jar",
+          "primary": true,
+          "size": 1910243
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.13",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/H33Uj6Nl",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1649
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 1652
+  }
+}

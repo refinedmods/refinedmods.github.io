@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.4.2-beta.json",
+  "name": "v1.4.2-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110492825,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjgyNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.2-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492825/assets",
+      "assets": [
+        {
+          "id": 115010709,
+          "nodeId": "RA_kwDOAtXBQM4G2uyV",
+          "name": "refinedstorage-1.4.2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1577544,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.2-beta/refinedstorage-1.4.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492825/assets{?name,label}",
+      "tagName": "v1.4.2-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Implemented support for the Forge update JSON system.\r\n- Added integration for MCMultiPart, this is an optional dependency.\r\n- You can now specify more items to export, import, filter, etc. by inserting the Filter item.\r\n- Made the keybinding to focus on the Grid search bar configurable.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2261.\r\n- The Detector no longer outputs a strong redstone signal.\r\n- Fire event on completion of an autocrafting task.\r\n- Fire \"player crafting\" event when shift clicking in the grid.\r\n\r\n### Fixed\r\n\r\n- Fixed a crash with the Constructor.\r\n- Fixed Crafting Pattern model.\r\n- Fixed Quartz Enriched Iron and the block form of it not having an oredictionary entry.\r\n- Fixed crash in storage cache.\r\n- Fixed slow oredict comparisons causing TPS lag.\r\n- Fixed controller model warning during launch.\r\n- Fixed not rendering some tooltips correctly.\r\n- Fixed crash with External Storage.\r\n- Fixed Interface duping items on extract-only storages.\r\n- Fixed controls menu showing unlocalized text for Refined Storage keybindings.\r\n- Autocrafting bugfixes.\r\n- Improved memory usage of some models.\r\n- Performance improvements related to storage inserting and extracting.\r\n\r\n### Removed\r\n\r\n- Removed support for the Deep Storage Unit API.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:22:23Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.2-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.2-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492825",
+      "createdAt": "2017-04-01T19:31:20Z"
+    },
+    {
+      "id": 2401496,
+      "dateModified": "2023-06-30T13:40:32Z",
+      "fileLength": 1577544,
+      "fileName": "refinedstorage-1.4.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.11.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2401496",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2401496",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2401496",
+      "createdAt": "2017-04-01T19:33:42Z"
+    },
+    {
+      "id": "SMmGjwzY",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.4.2-beta",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImplemented support for the Forge update JSON system.\u003c/li\u003e\n\u003cli\u003eAdded integration for MCMultiPart, this is an optional dependency.\u003c/li\u003e\n\u003cli\u003eYou can now specify more items to export, import, filter, etc. by inserting the Filter item.\u003c/li\u003e\n\u003cli\u003eMade the keybinding to focus on the Grid search bar configurable.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2261.\u003c/li\u003e\n\u003cli\u003eThe Detector no longer outputs a strong redstone signal.\u003c/li\u003e\n\u003cli\u003eFire event on completion of an autocrafting task.\u003c/li\u003e\n\u003cli\u003eFire \u0026quot;player crafting\u0026quot; event when shift clicking in the grid.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed a crash with the Constructor.\u003c/li\u003e\n\u003cli\u003eFixed Crafting Pattern model.\u003c/li\u003e\n\u003cli\u003eFixed Quartz Enriched Iron and the block form of it not having an oredictionary entry.\u003c/li\u003e\n\u003cli\u003eFixed crash in storage cache.\u003c/li\u003e\n\u003cli\u003eFixed slow oredict comparisons causing TPS lag.\u003c/li\u003e\n\u003cli\u003eFixed controller model warning during launch.\u003c/li\u003e\n\u003cli\u003eFixed not rendering some tooltips correctly.\u003c/li\u003e\n\u003cli\u003eFixed crash with External Storage.\u003c/li\u003e\n\u003cli\u003eFixed Interface duping items on extract-only storages.\u003c/li\u003e\n\u003cli\u003eFixed controls menu showing unlocalized text for Refined Storage keybindings.\u003c/li\u003e\n\u003cli\u003eAutocrafting bugfixes.\u003c/li\u003e\n\u003cli\u003eImproved memory usage of some models.\u003c/li\u003e\n\u003cli\u003ePerformance improvements related to storage inserting and extracting.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved support for the Deep Storage Unit API.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "00d6aa3410f6384c54918498e1a0fdbbed34756ed0c29a8626d2a62181f1d9a9ce21cba695a083d530a2ed11d101e815c080114f1c1241880a0aa71bb7913498",
+            "sha1": "9ad6ee2aa503fad9d4521ce45eb90f3005614280"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/SMmGjwzY/refinedstorage-1.4.2.jar",
+          "filename": "refinedstorage-1.4.2.jar",
+          "primary": true,
+          "size": 1577544
+        }
+      ],
+      "gameVersions": [
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.2-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/SMmGjwzY",
+      "createdAt": "2023-07-04T19:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 30499
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 30500
+  }
+}

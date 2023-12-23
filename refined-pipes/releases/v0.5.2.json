@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-pipes/releases/v0.5.2.json",
+  "name": "v0.5.2",
+  "indexedAt": "2023-12-23T23:53:25Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 58281686,
+      "nodeId": "RE_kwDODcjNAM4DeU7W",
+      "htmlUrl": "https://github.com/refinedmods/refinedpipes/releases/tag/v0.5.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedpipes/releases/58281686/assets",
+      "assets": [
+        {
+          "id": 55354139,
+          "nodeId": "RA_kwDODcjNAM4DTKMb",
+          "name": "refinedpipes-0.5.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 319238,
+          "downloadCount": 15,
+          "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.5.2/refinedpipes-0.5.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedpipes/releases/58281686/assets{?name,label}",
+      "tagName": "v0.5.2",
+      "targetCommitish": "develop",
+      "body": "\n### Fixed\n\n- Fixed random client crashes by [@malte0811](https://github.com/malte0811).\n- Fixed crash when Extractor Attachment is interacting with inventories that have no slots.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-01-30T14:04:29Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.5.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.5.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedpipes/releases/58281686",
+      "createdAt": "2022-01-30T14:02:44Z"
+    },
+    {
+      "id": 3630290,
+      "dateModified": "2022-01-30T14:08:35Z",
+      "fileLength": 319651,
+      "fileName": "refinedpipes-0.5.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.5"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/download/3630290",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/3630290",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/370696/files/3630290",
+      "createdAt": "2022-01-30T14:05:35Z"
+    },
+    {
+      "id": "RHUg0ip2",
+      "projectId": "Y3A3whjP",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.5.2",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eFixed random client crashes by\u0026nbsp;\u003ca href\u003d\"https://github.com/malte0811\" rel\u003d\"nofollow\"\u003e@malte0811\u003c/a\u003e.\u003c/li\u003e\r\n\u003cli\u003eFixed crash when Extractor Attachment is interacting with inventories that have no slots.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4ea76a6d17182fc776bf5fec44242f864140f68ab252e51f12298ac790a9f0e2fe1dc113ffcb6271ccbbaf6e44d8c0285a9d86a212193e89dfdcd45da44173f3",
+            "sha1": "8e7468c3d06093ea816a989c09e20fa20090000a"
+          },
+          "url": "https://cdn.modrinth.com/data/Y3A3whjP/versions/RHUg0ip2/refinedpipes-0.5.2.jar",
+          "filename": "refinedpipes-0.5.2.jar",
+          "primary": true,
+          "size": 319651
+        }
+      ],
+      "gameVersions": [
+        "1.16.5"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.5.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-pipes/version/RHUg0ip2",
+      "createdAt": "2023-07-01T21:04:01Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 15
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1481166
+      },
+      {
+        "source": "modrinth",
+        "downloads": 85
+      }
+    ],
+    "totalDownloads": 1481266
+  }
+}

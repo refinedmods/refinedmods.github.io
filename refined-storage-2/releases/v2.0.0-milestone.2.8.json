@@ -1,0 +1,180 @@
+{
+  "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.2.8.json",
+  "name": "v2.0.0-milestone.2.8",
+  "indexedAt": "2023-12-23T23:53:11Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 94527302,
+      "nodeId": "RE_kwDOEkvWPM4Fol9G",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-milestone.2.8",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/94527302/assets",
+      "assets": [
+        {
+          "id": 98063300,
+          "nodeId": "RA_kwDOEkvWPM4F2FPE",
+          "name": "refinedstorage2-core-api-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 12330,
+          "downloadCount": 21,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-core-api-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063299,
+          "nodeId": "RA_kwDOEkvWPM4F2FPD",
+          "name": "refinedstorage2-grid-api-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28351,
+          "downloadCount": 13,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-grid-api-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063301,
+          "nodeId": "RA_kwDOEkvWPM4F2FPF",
+          "name": "refinedstorage2-network-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 75965,
+          "downloadCount": 14,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-network-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063307,
+          "nodeId": "RA_kwDOEkvWPM4F2FPL",
+          "name": "refinedstorage2-network-api-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27461,
+          "downloadCount": 13,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-network-api-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063302,
+          "nodeId": "RA_kwDOEkvWPM4F2FPG",
+          "name": "refinedstorage2-network-test-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27021,
+          "downloadCount": 8,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-network-test-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063305,
+          "nodeId": "RA_kwDOEkvWPM4F2FPJ",
+          "name": "refinedstorage2-platform-api-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 64494,
+          "downloadCount": 14,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-platform-api-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063306,
+          "nodeId": "RA_kwDOEkvWPM4F2FPK",
+          "name": "refinedstorage2-platform-common-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1176516,
+          "downloadCount": 13,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-platform-common-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063303,
+          "nodeId": "RA_kwDOEkvWPM4F2FPH",
+          "name": "refinedstorage2-platform-fabric-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2721172,
+          "downloadCount": 78,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-platform-fabric-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063304,
+          "nodeId": "RA_kwDOEkvWPM4F2FPI",
+          "name": "refinedstorage2-platform-forge-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1740300,
+          "downloadCount": 18,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-platform-forge-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063309,
+          "nodeId": "RA_kwDOEkvWPM4F2FPN",
+          "name": "refinedstorage2-platform-test-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2727,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-platform-test-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063310,
+          "nodeId": "RA_kwDOEkvWPM4F2FPO",
+          "name": "refinedstorage2-query-parser-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28867,
+          "downloadCount": 10,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-query-parser-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063308,
+          "nodeId": "RA_kwDOEkvWPM4F2FPM",
+          "name": "refinedstorage2-resource-api-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 12228,
+          "downloadCount": 10,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-resource-api-2.0.0-milestone.2.8.jar"
+        },
+        {
+          "id": 98063311,
+          "nodeId": "RA_kwDOEkvWPM4F2FPP",
+          "name": "refinedstorage2-storage-api-2.0.0-milestone.2.8.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 39904,
+          "downloadCount": 11,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.8/refinedstorage2-storage-api-2.0.0-milestone.2.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/94527302/assets{?name,label}",
+      "tagName": "v2.0.0-milestone.2.8",
+      "targetCommitish": "60ed020fb4be849d1fb9d4e7e3c4669895baf24a",
+      "body": "### Fixed\n\n-   Fixed Disk Drive having 9 slots instead of 8.\n-   Fixed slow world loading.\n\n### Added\n\n-   The upgrade slots now show their supported upgrades.\n-   Different Cable colors. They only connect to same colored cables or the default cable.\n-   Colored variant of exporters, importers and external storages. They connect the same way as colored cables.\n-   Support for using the R/U keys in JEI and REI on Grid slots and filtering slots\n-   Crafting Grid.\n-   JEI and REI recipe transfer integration for the Crafting Grid.\n-   The crafting matrix in the Crafting Grid now has a button and keybinding to clear to the player inventory.\n    The keybinding is only available on Forge.\n-   A config option to clear items from the Crafting Grid crafting matrix to the player or network inventory.\n-   Support for collapsable entries for REI.\n-   Pressing CTRL + SHIFT on the crafting result slot filters the Grid view based on the items in the crafting matrix.\n    The reason for this is that you can quickly see how much you have left in the storage network.\n\n### Changed\n\n-   The button to clear to the network inventory next to the crafting matrix in the Crafting Grid is now disabled if\n    the Crafting Grid is inactive.\n-   The keybinding to clear the Crafting Grid matrix to the network inventory is only available on Forge.\n-   The JEI recipe transfer integration for the Crafting Grid now only supports regular crafting recipes.\n-   Decreased amount of logging to the info level. Now most logging happens on the debug level.\n\n### Removed\n\n-   Removed amount of stacks and max stacks stored on item storage tooltips.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-03-04T22:05:04Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.8",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.8",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/94527302",
+      "createdAt": "2023-03-04T21:55:08Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 230
+      }
+    ],
+    "totalDownloads": 230
+  }
+}

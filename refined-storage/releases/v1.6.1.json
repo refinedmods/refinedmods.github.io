@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.6.1.json",
+  "name": "v1.6.1",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 110331210,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMTIxMA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331210/assets",
+      "assets": [
+        {
+          "id": 114837263,
+          "nodeId": "RA_kwDOAtXBQM4G2EcP",
+          "name": "refinedstorage-1.6.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1883897,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.1/refinedstorage-1.6.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110331210/assets{?name,label}",
+      "tagName": "v1.6.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added fluid autocrafting.\r\n- Added Crafting Upgrade support for fluids on the Exporter, Constructor and Fluid Interface.\r\n- Added config option to hide covers in the creative mode tabs and JEI.\r\n\r\n### Changed\r\n\r\n- The Portable Grid now supports fluid disks.\r\n- Filters now support fluids and can be inserted in the Fluid Grid.\r\n- You can now keep fluids in stock by attaching a External Storage in fluid mode to a Fluid Interface with a Crafting Upgrade.\r\n- You can now specify the amount to export in the Fluid Interface.\r\n- Updated Russian translation.\r\n- Overhauled and updated German translation.\r\n- The Crafting Upgrade no longer schedules requests when there are items or fluids missing.\r\n- Made the Crafting Preview window bigger.\r\n\r\n### Fixed\r\n\r\n- Fixed crash log when opening Pattern Grid GUI.\r\n- Fixed being able to put non fluid containers in Fluid Interface input slot.\r\n- Fixed Grid filters not updating Grid.\r\n\r\n### Removed\r\n\r\n- Removed \"emit signal when item is being autocrafted\" option in the Detector.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:37:13Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331210",
+      "createdAt": "2018-07-30T11:03:31Z"
+    },
+    {
+      "id": 2594982,
+      "dateModified": "2023-06-29T09:45:58Z",
+      "fileLength": 1883897,
+      "fileName": "refinedstorage-1.6.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12.2",
+        "Forge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2594982",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2594982",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2594982",
+      "createdAt": "2018-07-30T11:09:14Z"
+    },
+    {
+      "id": "DN8Ndu2z",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.6.1",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdded fluid autocrafting.\u003c/li\u003e\n\u003cli\u003eAdded Crafting Upgrade support for fluids on the Exporter, Constructor and Fluid Interface.\u003c/li\u003e\n\u003cli\u003eAdded config option to hide covers in the creative mode tabs and JEI.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe Portable Grid now supports fluid disks.\u003c/li\u003e\n\u003cli\u003eFilters now support fluids and can be inserted in the Fluid Grid.\u003c/li\u003e\n\u003cli\u003eYou can now keep fluids in stock by attaching a External Storage in fluid mode to a Fluid Interface with a Crafting Upgrade.\u003c/li\u003e\n\u003cli\u003eYou can now specify the amount to export in the Fluid Interface.\u003c/li\u003e\n\u003cli\u003eUpdated Russian translation.\u003c/li\u003e\n\u003cli\u003eOverhauled and updated German translation.\u003c/li\u003e\n\u003cli\u003eThe Crafting Upgrade no longer schedules requests when there are items or fluids missing.\u003c/li\u003e\n\u003cli\u003eMade the Crafting Preview window bigger.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash log when opening Pattern Grid GUI.\u003c/li\u003e\n\u003cli\u003eFixed being able to put non fluid containers in Fluid Interface input slot.\u003c/li\u003e\n\u003cli\u003eFixed Grid filters not updating Grid.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved \u0026quot;emit signal when item is being autocrafted\u0026quot; option in the Detector.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "6e0ba855cd4f3bdb14afc50d70e61dbcc97c03099391117031d1ccd27147d19c66f20832f1090f5452293d475baf9f9bf2cd96e4341741a87a6b4907357391a9",
+            "sha1": "b4341cbaff9bdb7114fb3dbe074541f65654e852"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/DN8Ndu2z/refinedstorage-1.6.1.jar",
+          "filename": "refinedstorage-1.6.1.jar",
+          "primary": true,
+          "size": 1883897
+        }
+      ],
+      "gameVersions": [
+        "1.12.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.6.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/DN8Ndu2z",
+      "createdAt": "2023-07-04T19:58:05Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3869
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 3870
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.5.5-beta.json",
+  "name": "v1.5.5-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110471744,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTc0NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.5-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471744/assets",
+      "assets": [
+        {
+          "id": 114988381,
+          "nodeId": "RA_kwDOAtXBQM4G2pVd",
+          "name": "refinedstorage-1.5.5.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1676183,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.5-beta/refinedstorage-1.5.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471744/assets{?name,label}",
+      "tagName": "v1.5.5-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated Forge to 2363.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:08:53Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.5-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.5-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471744",
+      "createdAt": "2017-06-25T07:07:02Z"
+    },
+    {
+      "id": 2441163,
+      "dateModified": "2023-06-30T09:25:14Z",
+      "fileLength": 1676183,
+      "fileName": "refinedstorage-1.5.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2441163",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2441163",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2441163",
+      "createdAt": "2017-06-25T07:25:41Z"
+    },
+    {
+      "id": "gtJEVdC4",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.5.5-beta",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUpdated Forge to 2363.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "783f2d1a0b67c60281b87fdabc50b2333858f6371c100bf05b2a586f318decbea49ca1760605c3fb91c84da52d91e88a0cbdb13ea737f073c9f0fd055648227a",
+            "sha1": "5a6b1bbbbacc1bf3a9e3a1a29512a87f6b9b8782"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/gtJEVdC4/refinedstorage-1.5.5.jar",
+          "filename": "refinedstorage-1.5.5.jar",
+          "primary": true,
+          "size": 1676183
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.5.5-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/gtJEVdC4",
+      "createdAt": "2023-07-04T19:58:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 2762
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 2763
+  }
+}

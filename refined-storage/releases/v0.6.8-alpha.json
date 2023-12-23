@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.8-alpha.json",
+  "name": "v0.6.8-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111007110,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNzExMA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.8-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007110/assets",
+      "assets": [
+        {
+          "id": 115535692,
+          "nodeId": "RA_kwDOAtXBQM4G4u9M",
+          "name": "refinedstorage-0.6.8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 420000,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.8-alpha/refinedstorage-0.6.8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111007110/assets{?name,label}",
+      "tagName": "v0.6.8-alpha",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed CTRL + pick block on machines crashing game.\r\n- Performance improvements.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:16:44Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.8-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.8-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007110",
+      "createdAt": "2016-05-19T19:11:34Z"
+    },
+    {
+      "id": 2301261,
+      "dateModified": "2023-07-04T15:09:48Z",
+      "fileLength": 420000,
+      "fileName": "refinedstorage-0.6.8.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2301261",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2301261",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2301261",
+      "createdAt": "2016-05-19T19:13:44Z"
+    },
+    {
+      "id": "9FSDP48t",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.8-alpha",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed CTRL + pick block on machines crashing game.\u003c/li\u003e\n\u003cli\u003ePerformance improvements.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "4aa63ae36c0f6e51394eb2052bfd91c689b0266bd49328382058eb8f5c9d039772d77cc773379a399d581d924b44d0f31f4d6e65db6447159b53cf28fbfea853",
+            "sha1": "216d8e54dc25b9695af16ff714404d58c3392484"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/9FSDP48t/refinedstorage-0.6.8.jar",
+          "filename": "refinedstorage-0.6.8.jar",
+          "primary": true,
+          "size": 420000
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.8-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/9FSDP48t",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 654
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 655
+  }
+}

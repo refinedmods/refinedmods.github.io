@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v0.4.0.json",
+  "name": "v0.4.0",
+  "indexedAt": "2023-12-23T23:53:21Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55596020,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDIw",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.4.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596020/assets",
+      "assets": [
+        {
+          "id": 52081147,
+          "nodeId": "RA_kwDOA8bqCc4DGrH7",
+          "name": "rangedpumps-0.4.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19794,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.4.0/rangedpumps-0.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596020/assets{?name,label}",
+      "tagName": "v0.4.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.11.\r\n- Russian translation by [@CorwinTheCat](https://github.com/CorwinTheCat).\r\n\r\n### Changed\r\n\r\n- The pump now uses energy by default in the config.\r\n\r\n### Removed\r\n\r\n- Removed RF support, use Forge Energy instead.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-18T12:48:05Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.4.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.4.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596020",
+      "createdAt": "2016-11-30T21:03:56Z"
+    },
+    {
+      "id": 2350956,
+      "dateModified": "2021-12-18T12:59:41Z",
+      "fileLength": 19794,
+      "fileName": "rangedpumps-0.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.11",
+        "1.11.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/2350956",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/2350956",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/2350956",
+      "createdAt": "2016-11-30T21:05:24Z"
+    },
+    {
+      "id": "qwxcb0Tv",
+      "projectId": "ceOkTRlU",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.4.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePort to Minecraft 1.11.\u003c/li\u003e\n\u003cli\u003eRussian translation by \u003ca href\u003d\"https://github.com/CorwinTheCat\" rel\u003d\"nofollow\"\u003e@CorwinTheCat\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe pump now uses energy by default in the config.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eRemoved\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRemoved RF support, use Forge Energy instead.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c811f964f8b11b0f7acfe1a84b3ee6b34dd18c7f3195a0e7605bccd0469f0f36df2106f3eb377e9c27880a30b5c2b8662f2a50096c1937d6ac9d1f2125a0d73e",
+            "sha1": "e20cd6f04a79dc06ecc7cddb7fd2037379978ca3"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/qwxcb0Tv/rangedpumps-0.4.jar",
+          "filename": "rangedpumps-0.4.jar",
+          "primary": true,
+          "size": 19794
+        }
+      ],
+      "gameVersions": [
+        "1.11",
+        "1.11.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.4.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/qwxcb0Tv",
+      "createdAt": "2023-07-01T20:37:02Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 9
+      },
+      {
+        "source": "curseforge",
+        "downloads": 280511
+      },
+      {
+        "source": "modrinth",
+        "downloads": 15
+      }
+    ],
+    "totalDownloads": 280535
+  }
+}

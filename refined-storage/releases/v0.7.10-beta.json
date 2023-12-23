@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.7.10-beta.json",
+  "name": "v0.7.10-beta",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 111000559,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDU1OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.10-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000559/assets",
+      "assets": [
+        {
+          "id": 115529356,
+          "nodeId": "RA_kwDOAtXBQM4G4taM",
+          "name": "refinedstorage-0.7.10.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 460907,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.10-beta/refinedstorage-0.7.10.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000559/assets{?name,label}",
+      "tagName": "v0.7.10-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed inventories not saving correctly.\r\n- Fixed that the player can\u0027t shift-click patterns into the last 3 slots of the Crafter.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T14:25:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.10-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.10-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000559",
+      "createdAt": "2016-06-11T20:58:01Z"
+    },
+    {
+      "id": 2306902,
+      "dateModified": "2023-07-04T13:57:50Z",
+      "fileLength": 460907,
+      "fileName": "refinedstorage-0.7.10.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9.4",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2306902",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2306902",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2306902",
+      "createdAt": "2016-06-11T20:59:58Z"
+    },
+    {
+      "id": "otIZHPMB",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.7.10-beta",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed inventories not saving correctly.\u003c/li\u003e\n\u003cli\u003eFixed that the player can\u0027t shift-click patterns into the last 3 slots of the Crafter.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ab59dddd424c33a2048091ee1263666cee62277974caba3adbc6f7b8f771fd010f42d093af1ddd4980ecd1dae85a5e08cdb3420f9031ce249b668ae8c52fc32b",
+            "sha1": "6d62626f61f8c7006a4682ea2814e7d8a1555d41"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/otIZHPMB/refinedstorage-0.7.10.jar",
+          "filename": "refinedstorage-0.7.10.jar",
+          "primary": true,
+          "size": 460907
+        }
+      ],
+      "gameVersions": [
+        "1.9.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.10-beta",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/otIZHPMB",
+      "createdAt": "2023-07-04T19:57:11Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 867
+      },
+      {
+        "source": "modrinth",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 867
+  }
+}

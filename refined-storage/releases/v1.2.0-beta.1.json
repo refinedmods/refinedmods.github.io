@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.1.json",
+  "name": "v1.2.0-beta.1",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 110514568,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDU2OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514568/assets",
+      "assets": [
+        {
+          "id": 115029847,
+          "nodeId": "RA_kwDOAtXBQM4G2zdX",
+          "name": "refinedstorage-1.2-beta1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1119456,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.1/refinedstorage-1.2-beta1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514568/assets{?name,label}",
+      "tagName": "v1.2.0-beta.1",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- First beta release for v1.2.0, featuring a new autocrafting system.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:57:17Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514568",
+      "createdAt": "2016-10-23T15:52:11Z"
+    },
+    {
+      "id": 2338804,
+      "dateModified": "2023-06-30T15:16:02Z",
+      "fileLength": 1119456,
+      "fileName": "refinedstorage-1.2-beta1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.10.2",
+        "Forge"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2338804",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2338804",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2338804",
+      "createdAt": "2016-10-23T15:55:28Z"
+    },
+    {
+      "id": "uW06BZym",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.2.0-beta.1",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFirst beta release for v1.2.0, featuring a new autocrafting system.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "9ad287031ea422caed21b8b94956284e47ef20c274b46e8ebdbdc283b2193c4f82c80c8e3ea02f5c96629da8993a0fac18672a50ce2e4318f571318459f69e6a",
+            "sha1": "855b87f5f912996fb2b6694583f0a32464ec5026"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/uW06BZym/refinedstorage-1.2-beta1.jar",
+          "filename": "refinedstorage-1.2-beta1.jar",
+          "primary": true,
+          "size": 1119456
+        }
+      ],
+      "gameVersions": [
+        "1.10.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.0-beta.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/uW06BZym",
+      "createdAt": "2023-07-04T19:57:26Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 447
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 449
+  }
+}

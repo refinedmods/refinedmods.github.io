@@ -1,0 +1,112 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.11.0.json",
+  "name": "v1.11.0",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 78683695,
+      "nodeId": "RE_kwDOAtXBQM4EsJ4v",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.11.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/78683695/assets",
+      "assets": [
+        {
+          "id": 79524602,
+          "nodeId": "RA_kwDOAtXBQM4EvXL6",
+          "name": "refinedstorage-1.11.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3266053,
+          "downloadCount": 54,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.11.0/refinedstorage-1.11.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/78683695/assets{?name,label}",
+      "tagName": "v1.11.0",
+      "targetCommitish": "develop",
+      "body": "### Changed\n\n- Ported to Minecraft 1.19.2.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-09-30T11:29:51Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/78683695",
+      "createdAt": "2022-09-30T11:23:26Z"
+    },
+    {
+      "id": 4012621,
+      "dateModified": "2022-09-30T11:42:20Z",
+      "fileLength": 3266054,
+      "fileName": "refinedstorage-1.11.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.19.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4012621",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4012621",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4012621",
+      "createdAt": "2022-09-30T11:30:06Z"
+    },
+    {
+      "id": "yttzXk4M",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "1.11.0",
+      "changelog": "\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePorted to Minecraft 1.19.2.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "cf0fd512d54a57ad8ce7ea58e1c53607491dd921640b3f94f3634e019fe27a5089b6fc8a238d2e72dbe5c45799cb75f3f1b614952ce3f6cc40b12dc71bab9e0f",
+            "sha1": "09a4c90a8b4095ca20339e43693f2494b48e394d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/yttzXk4M/refinedstorage-1.11.0.jar",
+          "filename": "refinedstorage-1.11.0.jar",
+          "primary": true,
+          "size": 3266054
+        }
+      ],
+      "gameVersions": [
+        "1.19.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.11.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/yttzXk4M",
+      "createdAt": "2023-07-04T19:59:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 54
+      },
+      {
+        "source": "curseforge",
+        "downloads": 136389
+      },
+      {
+        "source": "modrinth",
+        "downloads": 11
+      }
+    ],
+    "totalDownloads": 136454
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v0.6.6-alpha.json",
+  "name": "v0.6.6-alpha",
+  "indexedAt": "2023-12-23T23:52:20Z",
+  "type": "ALPHA",
+  "sources": [
+    {
+      "id": 111007180,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwNzE4MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.6-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007180/assets",
+      "assets": [
+        {
+          "id": 115535778,
+          "nodeId": "RA_kwDOAtXBQM4G4u-i",
+          "name": "refinedstorage-0.6.6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 419078,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.6-alpha/refinedstorage-0.6.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111007180/assets{?name,label}",
+      "tagName": "v0.6.6-alpha",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed being able to insert non-allowed items in inventories with hoppers.\r\n- Fixed Processing Pattern Encoder not using up a Pattern.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-07-04T15:17:19Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.6-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.6-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111007180",
+      "createdAt": "2016-05-18T21:33:43Z"
+    },
+    {
+      "id": 2301021,
+      "dateModified": "2023-07-04T15:10:30Z",
+      "fileLength": 419078,
+      "fileName": "refinedstorage-0.6.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.9",
+        "Forge"
+      ],
+      "releaseType": "ALPHA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/2301021",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2301021",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/2301021",
+      "createdAt": "2016-05-18T21:45:08Z"
+    },
+    {
+      "id": "diMuliGc",
+      "projectId": "KDvYkUg3",
+      "authorId": "Dc7EYhxG",
+      "versionNumber": "0.6.6-alpha",
+      "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed being able to insert non-allowed items in inventories with hoppers.\u003c/li\u003e\n\u003cli\u003eFixed Processing Pattern Encoder not using up a Pattern.\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "versionType": "alpha",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "3d3329990e0d3e63e75ac53136ee411d73b0d6b384227838e6d124d345b351054a888ebc7e4c2ffa9ebfe571da5325108a1cb124a2a4372a317176b0586cf265",
+            "sha1": "badc171c6a6c1616376a6d0e100f8f3a580ec703"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/diMuliGc/refinedstorage-0.6.6.jar",
+          "filename": "refinedstorage-0.6.6.jar",
+          "primary": true,
+          "size": 419078
+        }
+      ],
+      "gameVersions": [
+        "1.9"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.6.6-alpha",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/diMuliGc",
+      "createdAt": "2023-07-04T19:57:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 319
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      }
+    ],
+    "totalDownloads": 320
+  }
+}

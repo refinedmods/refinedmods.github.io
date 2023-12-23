@@ -1,0 +1,111 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.1.0.json",
+  "name": "v0.1.0",
+  "indexedAt": "2023-12-23T23:53:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 55283706,
+      "nodeId": "MDc6UmVsZWFzZTU1MjgzNzA2",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283706/assets",
+      "assets": [
+        {
+          "id": 51752085,
+          "nodeId": "RA_kwDOBc8fRM4DFayV",
+          "name": "refinedstorageaddons-0.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 21733,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.1.0/refinedstorageaddons-0.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/55283706/assets{?name,label}",
+      "tagName": "v0.1.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Initial release for Minecraft 1.12 and Refined Storage 1.5.12.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2021-12-14T15:15:04Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55283706",
+      "createdAt": "2017-07-17T11:25:23Z"
+    },
+    {
+      "id": 2452004,
+      "dateModified": "2021-12-14T15:26:21Z",
+      "fileLength": 21733,
+      "fileName": "refinedstorageaddons-0.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "1.12"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/2452004",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2452004",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/2452004",
+      "createdAt": "2017-07-17T11:47:41Z"
+    },
+    {
+      "id": "GcycSEZt",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "GVFjtWTf",
+      "versionNumber": "0.1.0",
+      "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eInitial release for Minecraft 1.12 and Refined Storage 1.5.12.\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "7426854615881af7ac2f8be08287031914af8ba358e06ee05120bd2f4a75b1447078dbe4a2e4736421ffb0e2dea76086a41e7a899cf38114dfeda8fc018bb69b",
+            "sha1": "5b6c50e91617119fa02f9b6b320afb24002bd474"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/GcycSEZt/refinedstorageaddons-0.1.jar",
+          "filename": "refinedstorageaddons-0.1.jar",
+          "primary": true,
+          "size": 21733
+        }
+      ],
+      "gameVersions": [
+        "1.12"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.1.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/GcycSEZt",
+      "createdAt": "2023-07-01T21:03:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 9
+      },
+      {
+        "source": "curseforge",
+        "downloads": 9334
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 9345
+  }
+}
