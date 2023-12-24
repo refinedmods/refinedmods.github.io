@@ -33,5 +33,6 @@ jobs:
           clean: true
           clean-exclude: |
             refined-storage/wiki/*.html
+            refined-storage/releases/*.html
             refined-storage-addons/*.html
             refined-storage-addons/wiki/*.html
