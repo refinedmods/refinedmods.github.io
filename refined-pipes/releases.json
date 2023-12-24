@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases.json",
   "name": "Refined Pipes",
-  "indexedAt": "2023-12-24T09:31:18Z",
+  "indexedAt": "2023-12-24T11:58:54Z",
   "releases": [
     {
       "name": "v0.1.0",
@@ -147,6 +147,17 @@
       "createdAt": "2021-11-28T15:43:23Z"
     },
     {
+      "name": "v0.5.2",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-pipes/releases/v0.5.2.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedpipes/releases/58281686",
+        "https://api.modrinth.com/v2/project/refined-pipes/version/RHUg0ip2",
+        "https://www.curseforge.com/api/v1/mods/370696/files/3630290"
+      ],
+      "createdAt": "2022-01-30T14:02:44Z"
+    },
+    {
       "name": "v0.6.0",
       "type": "RELEASE",
       "url": "https://refinedmods.com/refined-pipes/releases/v0.6.0.json",
@@ -167,17 +178,6 @@
         "https://api.modrinth.com/v2/project/refined-pipes/version/cCOGwPOG"
       ],
       "createdAt": "2022-01-30T11:48:17Z"
-    },
-    {
-      "name": "v0.5.2",
-      "type": "RELEASE",
-      "url": "https://refinedmods.com/refined-pipes/releases/v0.5.2.json",
-      "sources": [
-        "https://api.github.com/repos/refinedmods/refinedpipes/releases/58281686",
-        "https://api.modrinth.com/v2/project/refined-pipes/version/RHUg0ip2",
-        "https://www.curseforge.com/api/v1/mods/370696/files/3630290"
-      ],
-      "createdAt": "2022-01-30T14:02:44Z"
     },
     {
       "name": "v0.6.2",
@@ -203,9 +203,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 5691610
+        "downloads": 5691952
       }
     ],
-    "totalDownloads": 5692032
+    "totalDownloads": 5692374
   }
 }

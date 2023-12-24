@@ -1,42 +1,42 @@
 {
-  "url": "https://refinedmods.com/refined-storage/releases/v1.9.2-beta.json",
-  "name": "v1.9.2-beta",
-  "indexedAt": "2023-12-24T09:29:58Z",
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.2-beta.1.json",
+  "name": "v1.9.2-beta.1",
+  "indexedAt": "2023-12-24T11:58:13Z",
   "type": "BETA",
   "sources": [
     {
-      "id": 85636306,
-      "nodeId": "MDc6UmVsZWFzZTg1NjM2MzA2",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.2-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636306/assets",
+      "id": 135004709,
+      "nodeId": "MDc6UmVsZWFzZTEzNTAwNDcwOQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.2-beta.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/135004709/assets",
       "assets": [
         {
-          "id": 87725101,
-          "nodeId": "RA_kwDOAtXBQM4FOpQt",
+          "id": 142240346,
+          "nodeId": "RA_kwDOAtXBQM4Iempa",
           "name": "refinedstorage-1.9.2.jar",
           "state": "uploaded",
-          "contentType": "application/octet-stream",
+          "contentType": "application/x-java-archive",
           "size": 1880548,
           "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.2-beta/refinedstorage-1.9.2.jar"
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.2-beta.1/refinedstorage-1.9.2.jar"
         }
       ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636306/assets{?name,label}",
-      "tagName": "v1.9.2-beta",
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/135004709/assets{?name,label}",
+      "tagName": "v1.9.2-beta.1",
       "targetCommitish": "develop",
       "body": "### Added\r\n\r\n- Re-added interdimensional networks with the Network Transmitter and Network Receiver.\r\n- Re-added MouseTweaks integration.\r\n\r\n### Changed\r\n\r\n- Networks that are in a chunk that isn\u0027t loaded will no longer work, they will turn off. Chunkload the Controller to\r\n  maintain a functioning network over long distances.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Forge version 67.\r\n- Fixed cases where Refined Storage unwillingly acts like a chunkloader.\r\n- Fixed Network Transmitters being able to connect to any network device.\r\n- Fixed Crafting Tweaks buttons being in the wrong position after changing the size configuration of the Grid.\r\n",
       "draft": false,
       "prerelease": false,
-      "publishedAt": "2022-12-10T20:03:30Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.2-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.2-beta",
+      "publishedAt": "2023-12-24T09:43:38Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.2-beta.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.2-beta.1",
       "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636306",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/135004709",
       "createdAt": "2020-07-17T01:54:37Z"
     },
     {
       "id": 3007496,
-      "dateModified": "2022-12-10T20:12:09Z",
+      "dateModified": "2023-12-24T09:49:36Z",
       "fileLength": 1880548,
       "fileName": "refinedstorage-1.9.2.jar",
       "status": "APPROVED",
@@ -64,7 +64,7 @@
       "id": "g6Q8lhxz",
       "projectId": "KDvYkUg3",
       "authorId": "Dc7EYhxG",
-      "versionNumber": "1.9.2-beta",
+      "versionNumber": "1.9.2-beta.1",
       "changelog": "\u003ch3\u003eAdded\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRe-added interdimensional networks with the Network Transmitter and Network Receiver.\u003c/li\u003e\n\u003cli\u003eRe-added MouseTweaks integration.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eChanged\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNetworks that are in a chunk that isn\u0027t loaded will no longer work, they will turn off. Chunkload the Controller to\r\n  maintain a functioning network over long distances.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed crash with Forge version 67.\u003c/li\u003e\n\u003cli\u003eFixed cases where Refined Storage unwillingly acts like a chunkloader.\u003c/li\u003e\n\u003cli\u003eFixed Network Transmitters being able to connect to any network device.\u003c/li\u003e\n\u003cli\u003eFixed Crafting Tweaks buttons being in the wrong position after changing the size configuration of the Grid.\u003c/li\u003e\n\u003c/ul\u003e\n",
       "versionType": "beta",
       "status": "listed",
@@ -86,7 +86,7 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.2-beta",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.2-beta.1",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage/version/g6Q8lhxz",
       "createdAt": "2023-07-04T19:58:40Z"
@@ -100,13 +100,13 @@
       },
       {
         "source": "curseforge",
-        "downloads": 345519
+        "downloads": 345525
       },
       {
         "source": "modrinth",
         "downloads": 3
       }
     ],
-    "totalDownloads": 345522
+    "totalDownloads": 345528
   }
 }

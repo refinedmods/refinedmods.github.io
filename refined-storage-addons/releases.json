@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases.json",
   "name": "Refined Storage Addons",
-  "indexedAt": "2023-12-24T09:31:07Z",
+  "indexedAt": "2023-12-24T11:58:48Z",
   "releases": [
     {
       "name": "v0.1.0",
@@ -103,6 +103,17 @@
       "createdAt": "2019-03-23T13:05:24Z"
     },
     {
+      "name": "v0.4.5",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.5.json",
+      "sources": [
+        "https://api.modrinth.com/v2/project/refined-storage-addons/version/axJp9gRi",
+        "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284256",
+        "https://www.curseforge.com/api/v1/mods/272302/files/2941010"
+      ],
+      "createdAt": "2020-04-26T12:48:54Z"
+    },
+    {
       "name": "v0.5.0",
       "type": "RELEASE",
       "url": "https://refinedmods.com/refined-storage-addons/releases/v0.5.0.json",
@@ -134,17 +145,6 @@
         "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284372"
       ],
       "createdAt": "2020-01-30T10:58:45Z"
-    },
-    {
-      "name": "v0.4.5",
-      "type": "RELEASE",
-      "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.5.json",
-      "sources": [
-        "https://api.modrinth.com/v2/project/refined-storage-addons/version/axJp9gRi",
-        "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/55284256",
-        "https://www.curseforge.com/api/v1/mods/272302/files/2941010"
-      ],
-      "createdAt": "2020-04-26T12:48:54Z"
     },
     {
       "name": "v0.6.2",
@@ -287,13 +287,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 12572
+        "downloads": 12578
       },
       {
         "source": "curseforge",
-        "downloads": 60236997
+        "downloads": 60240933
       }
     ],
-    "totalDownloads": 60249948
+    "totalDownloads": 60253890
   }
 }

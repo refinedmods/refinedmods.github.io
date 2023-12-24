@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/spawner-imbuer/releases.json",
   "name": "Spawner Imbuer",
-  "indexedAt": "2023-12-24T09:31:22Z",
+  "indexedAt": "2023-12-24T11:58:56Z",
   "releases": [
     {
       "name": "v0.1.0",
@@ -9,18 +9,10 @@
       "url": "https://refinedmods.com/spawner-imbuer/releases/v0.1.0.json",
       "sources": [
         "https://www.curseforge.com/api/v1/mods/261930/files/2387905",
+        "https://api.modrinth.com/v2/project/spawner-imbuer/version/dxWW9iDw",
         "https://api.github.com/repos/refinedmods/spawnerimbuer/releases/126198132"
       ],
       "createdAt": "2017-03-02T12:15:15Z"
-    },
-    {
-      "name": "Spawner Imbuer 0.1",
-      "type": "RELEASE",
-      "url": "https://refinedmods.com/spawner-imbuer/releases/Spawner Imbuer 0.1.json",
-      "sources": [
-        "https://api.modrinth.com/v2/project/spawner-imbuer/version/dxWW9iDw"
-      ],
-      "createdAt": "2023-07-01T21:04:15Z"
     }
   ],
   "stats": {
@@ -35,9 +27,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 13697
+        "downloads": 13698
       }
     ],
-    "totalDownloads": 13740
+    "totalDownloads": 13741
   }
 }

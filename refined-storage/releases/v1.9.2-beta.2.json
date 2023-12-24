@@ -1,42 +1,42 @@
 {
-  "url": "https://refinedmods.com/refined-storage/releases/v1.9.2b-beta.json",
-  "name": "v1.9.2b-beta",
-  "indexedAt": "2023-12-24T09:29:58Z",
+  "url": "https://refinedmods.com/refined-storage/releases/v1.9.2-beta.2.json",
+  "name": "v1.9.2-beta.2",
+  "indexedAt": "2023-12-24T11:58:13Z",
   "type": "BETA",
   "sources": [
     {
-      "id": 85636560,
-      "nodeId": "MDc6UmVsZWFzZTg1NjM2NTYw",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.2b-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636560/assets",
+      "id": 135004791,
+      "nodeId": "MDc6UmVsZWFzZTEzNTAwNDc5MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.9.2-beta.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/135004791/assets",
       "assets": [
         {
-          "id": 87725949,
-          "nodeId": "RA_kwDOAtXBQM4FOpd9",
+          "id": 142240628,
+          "nodeId": "RA_kwDOAtXBQM4Iemt0",
           "name": "refinedstorage-1.9.2b.jar",
           "state": "uploaded",
-          "contentType": "application/octet-stream",
+          "contentType": "application/x-java-archive",
           "size": 1880556,
           "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.2b-beta/refinedstorage-1.9.2b.jar"
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.2-beta.2/refinedstorage-1.9.2b.jar"
         }
       ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/85636560/assets{?name,label}",
-      "tagName": "v1.9.2b-beta",
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/135004791/assets{?name,label}",
+      "tagName": "v1.9.2-beta.2",
       "targetCommitish": "develop",
       "body": "### Fixed\r\n\r\n- Fixed duplication bug with the Constructor.",
       "draft": false,
       "prerelease": false,
-      "publishedAt": "2022-12-10T20:17:36Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.2b-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.2b-beta",
+      "publishedAt": "2023-12-24T09:47:30Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.2-beta.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.2-beta.2",
       "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/85636560",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/135004791",
       "createdAt": "2020-09-11T20:25:26Z"
     },
     {
       "id": 3054832,
-      "dateModified": "2022-12-10T20:10:49Z",
+      "dateModified": "2023-12-24T09:49:27Z",
       "fileLength": 1880556,
       "fileName": "refinedstorage-1.9.2b.jar",
       "status": "APPROVED",
@@ -64,7 +64,7 @@
       "id": "IA9VYo9N",
       "projectId": "KDvYkUg3",
       "authorId": "Dc7EYhxG",
-      "versionNumber": "1.9.2b-beta",
+      "versionNumber": "1.9.2-beta.2",
       "changelog": "\u003ch3\u003eFixed\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFixed duplication bug with the Constructor.\u003c/li\u003e\n\u003c/ul\u003e\n",
       "versionType": "beta",
       "status": "listed",
@@ -86,7 +86,7 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.2b-beta",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.9.2-beta.2",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage/version/IA9VYo9N",
       "createdAt": "2023-07-04T19:58:40Z"
@@ -100,13 +100,13 @@
       },
       {
         "source": "curseforge",
-        "downloads": 133224
+        "downloads": 133226
       },
       {
         "source": "modrinth",
         "downloads": 17
       }
     ],
-    "totalDownloads": 133241
+    "totalDownloads": 133243
   }
 }
