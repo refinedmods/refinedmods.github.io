@@ -106,7 +106,8 @@
                                    class="link-body-emphasis d-inline-flex text-decoration-none rounded align-items-center gap-2">
                                     <img th:if="${subItem.icon != null}"
                                          th:src="@{'./assets/' + ${currentComponent.slug} + '.' + ${currentComponent.version.friendlyName()} + '/' + ${subItem.icon}}"
-                                         width="32">
+                                         width="32"
+                                         height="32">
                                     <span th:utext="${subItem.name}"></span>
                                 </a>
                             </li>
@@ -120,7 +121,8 @@
                 <h1 class="mb-2">
                     <img th:if="${icon != null}"
                          th:src="@{'./assets/' + ${currentComponent.slug} + '.' + ${currentComponent.version.friendlyName()} + '/' + ${icon}}"
-                         width="32">
+                         width="32"
+                         height="32">
                     <span th:utext="${title}" th:remove="tag"></span>
                 </h1>
                 <nav aria-label="breadcrumb" th:if="${#lists.size(breadcrumbs) > 0}">
