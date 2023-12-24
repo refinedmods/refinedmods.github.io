@@ -1,4 +1,4 @@
-refinedSitesVersion="0.1.2"
+refinedSitesVersion="0.2.1"
 
 if [ ! -f "refinedsites-$refinedSitesVersion-all.jar" ]; then
   echo "downloading Refined Sites $refinedSitesVersion"

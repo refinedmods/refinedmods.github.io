@@ -4,12 +4,13 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build 'output/**/**.html' 'output/**/**.json'"
+    "build": "parcel build 'output/**/**.html' 'output/**/**.json' 'output/**/**.xml' 'output/robots.txt'"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@parcel/packager-xml": "^2.10.3",
     "@parcel/transformer-sass": "^2.10.3",
     "parcel": "^2.10.3"
   },
