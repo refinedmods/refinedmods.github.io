@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <script type="module" th:src="@{./assets/js/color-modes.js}"></script>
     <meta charset="utf-8">
@@ -14,7 +14,7 @@
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
             <a class="navbar-brand" th:href="@{./index.html}">
-                <img th:src="@{./assets/images/logo.png}" style="width: 98.1px;" alt="Refined Mods logo">
+                <img th:src="@{./assets/images/logo.png}" width="109" height="40" alt="Refined Mods logo">
                 Refined Mods
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -47,7 +47,9 @@
                 <a th:href="@{'./' + ${currentComponent.slug} + '/' + ${currentComponent.latest ? '' : currentComponent.version.friendlyName() + '/'} + 'index.html'}"
                    class="link-body-emphasis d-flex d-flex gap-2 align-items-center text-decoration-none">
                     <img th:src="@{./assets/images/refined-storage-logo.png}"
-                         th:if="${currentComponent.name == 'Refined Storage'}" style="width: 40px"
+                         th:if="${currentComponent.name == 'Refined Storage'}"
+                         width="40"
+                         height="13"
                          alt="Refined Storage logo">
                     <span class="fs-5 fw-semibold" th:text="${currentComponent.name}"></span>
                 </a>
@@ -70,7 +72,7 @@
                             </a>
                         </li>
                     </ul>
-                    <button class="btn btn-outline btn-sm" id="nav-expand-button">
+                    <button class="btn btn-outline btn-sm" id="nav-expand-button" role="button" aria-label="Expand all">
                         <i class="bi bi-arrows-expand"></i>
                     </button>
                 </div>

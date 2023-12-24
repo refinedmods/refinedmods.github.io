@@ -3,51 +3,53 @@ import tippy from 'tippy.js';
 import 'tippy.js/dist/tippy.css';
 import "tippy.js/themes/material.css";
 
-const collapsableNavItems = document.querySelectorAll('.nav-collapse')
-
-function isAllExpanded() {
-    return Array.from(collapsableNavItems).every(toggle => toggle.classList.contains('show'))
-}
-
 const expandButton = document.querySelector('#nav-expand-button')
-const expandIcon = expandButton.querySelector('.bi')
+if (expandButton) {
+    const collapsableNavItems = document.querySelectorAll('.nav-collapse')
 
-expandButton.addEventListener('click', () => {
-    if (isAllExpanded()) {
-        collapsableNavItems.forEach(btn => btn.classList.remove('show'))
-        document.querySelectorAll('.btn-toggle').forEach(btn => {
-            btn.setAttribute('aria-expanded', 'false')
-            btn.classList.remove('collapsed')
-        })
-    } else {
-        collapsableNavItems.forEach(btn => btn.classList.add('show'))
-        document.querySelectorAll('.btn-toggle').forEach(btn => {
-            btn.setAttribute('aria-expanded', 'true')
-            btn.classList.add('collapsed')
-        })
+    function isAllExpanded() {
+        return Array.from(collapsableNavItems).every(toggle => toggle.classList.contains('show'))
     }
-    updateExpandedState(isAllExpanded())
-})
 
-collapsableNavItems.forEach(btn => {
-    btn.addEventListener('shown.bs.collapse', () => {
+    const expandIcon = expandButton.querySelector('.bi')
+    expandButton.addEventListener('click', () => {
+        if (isAllExpanded()) {
+            collapsableNavItems.forEach(btn => btn.classList.remove('show'))
+            document.querySelectorAll('.btn-toggle').forEach(btn => {
+                btn.setAttribute('aria-expanded', 'false')
+                btn.classList.remove('collapsed')
+            })
+        } else {
+            collapsableNavItems.forEach(btn => btn.classList.add('show'))
+            document.querySelectorAll('.btn-toggle').forEach(btn => {
+                btn.setAttribute('aria-expanded', 'true')
+                btn.classList.add('collapsed')
+            })
+        }
         updateExpandedState(isAllExpanded())
     })
-    btn.addEventListener('hidden.bs.collapse', () => {
-        updateExpandedState(false)
-    })
-});
 
-updateExpandedState(isAllExpanded())
+    collapsableNavItems.forEach(btn => {
+        btn.addEventListener('shown.bs.collapse', () => {
+            updateExpandedState(isAllExpanded())
+        })
+        btn.addEventListener('hidden.bs.collapse', () => {
+            updateExpandedState(false)
+        })
+    });
 
-function updateExpandedState(allExpanded) {
-    if (expandIcon.classList.contains('bi-arrows-expand')) {
-        expandIcon.classList.remove('bi-arrows-expand')
+    updateExpandedState(isAllExpanded())
+
+    function updateExpandedState(allExpanded) {
+        if (expandIcon.classList.contains('bi-arrows-expand')) {
+            expandIcon.classList.remove('bi-arrows-expand')
+        }
+        if (expandIcon.classList.contains('bi-arrows-collapse')) {
+            expandIcon.classList.remove('bi-arrows-collapse')
+        }
+        expandIcon.classList.add(allExpanded ? 'bi-arrows-collapse' : 'bi-arrows-expand')
+        expandButton.setAttribute('aria-label', allExpanded ? 'Collapse all' : 'Expand all')
     }
-    if (expandIcon.classList.contains('bi-arrows-collapse')) {
-        expandIcon.classList.remove('bi-arrows-collapse')
-    }
-    expandIcon.classList.add(allExpanded ? 'bi-arrows-collapse' : 'bi-arrows-expand')
 }
 
 document.querySelector('main').querySelectorAll('h1, h2, h3, h4, h5, h6').forEach(item => {
@@ -77,4 +79,4 @@ tippy('a[data-icon-id]', {
     placement: 'right',
     theme: 'material',
     allowHTML: true,
-});
+})
