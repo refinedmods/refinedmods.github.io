@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "0 0,12 * * *"
 env:
-  refinedSitesVersion: 0.2.1
+  refinedSitesVersion: 0.2.2
 jobs:
   build:
     runs-on: ubuntu-latest
