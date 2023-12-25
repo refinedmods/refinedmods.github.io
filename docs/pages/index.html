@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html layout:decorate="~{layout.html}">
+<head>
+    <title th:utext="${title}"></title>
+</head>
+<body>
+<div layout:fragment="content">
+    <main>
+        <div class="list-group">
+            <a href="refined-storage/" class="list-group-item list-group-item-action d-flex gap-3">
+                <img src="assets/refined-storage.snapshot/controller.png" width="48" height="48"
+                     alt="The Refined Storage Controller block">
+                <div>
+                    <h2 class="h4 mb-1">Refined Storage</h2>
+                    <p class="mb-0">Refined Storage is a mass storage mod for Minecraft that offers the player a
+                        network-based
+                        storage
+                        system, allowing them to store items and fluids on a massively expandable device network.</p>
+                </div>
+            </a>
+            <a href="ranged-pumps/" class="list-group-item list-group-item-action d-flex gap-3">
+                <img src="assets/ranged-pumps.snapshot/pump.png" width="48" height="48"
+                     alt="The Ranged Pumps Pump block">
+                <div>
+                    <h2 class="h4 mb-1">Ranged Pumps</h2>
+                    <p class="mb-0">Ranged Pumps is a simple mod that adds a pump that pumps liquids in a range.</p>
+                </div>
+            </a>
+        </div>
+    </main>
+</div>
+</body>
+</html>
