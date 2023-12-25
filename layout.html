@@ -37,6 +37,13 @@
                             Refined Storage
                         </a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link"
+                           th:classappend="${currentComponent.name == 'Ranged Pumps' ? 'active' : ''}"
+                           th:href="@{./ranged-pumps/index.html}">
+                            Ranged Pumps
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -85,6 +92,10 @@
                        th:classappend="${item.active ? 'active' : ''}"
                        th:href="@{'./' + ${currentComponent.slug} + '/' + ${currentComponent.latest ? '' : currentComponent.version.friendlyName() + '/'} + ${item.url}}">
                         <i class="bi" th:classappend="${item.icon}"></i>
+                        <img th:if="${item.icon != null}"
+                             th:src="@{'./assets/' + ${currentComponent.slug} + '.' + ${currentComponent.version.friendlyName()} + '/' + ${item.icon}}"
+                             width="32"
+                             height="32">
                         <span th:utext="${item.name}"></span>
                     </a>
                     <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0"

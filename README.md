@@ -10,5 +10,4 @@ This uses [refinedsites](https://github.com/refinedmods/refinedsites), a static 
 
 - Create an `.env` file containing a `GITHUB_TOKEN` environment variable.
 - Run `build-local.sh`.
-- The output will be in the `output/` folder.
-- (Optional) Convert the `output/` folder to a styled website by running `npm run build` (run `npm install` first).
+- The output will be in the `dist/` folder.

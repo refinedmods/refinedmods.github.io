@@ -18,7 +18,13 @@
       "name": "Refined Storage Addons"
     },
     {
-      "name": "Ranged Pumps"
+      "name": "Ranged Pumps",
+      "github": {
+        "organization": "refinedmods",
+        "repository": "rangedpumps",
+        "minimumVersion": "1.1.1",
+        "snapshotBranch": "develop"
+      }
     },
     {
       "name": "Refined Pipes"
