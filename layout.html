@@ -91,9 +91,11 @@
                        th:if="${item.children == null}"
                        th:classappend="${item.active ? 'active' : ''}"
                        th:href="@{'./' + ${currentComponent.slug} + '/' + ${currentComponent.latest ? '' : currentComponent.version.friendlyName() + '/'} + ${item.url}}">
-                        <i class="bi" th:classappend="${item.icon}"></i>
-                        <img th:if="${item.icon != null}"
-                             th:src="@{'./assets/' + ${currentComponent.slug} + '.' + ${currentComponent.version.friendlyName()} + '/' + ${item.icon}}"
+                        <i class="bi"
+                           th:if="${#strings.contains(item.icon, 'bi-')}"
+                           th:classappend="${item.icon}"></i>
+                        <img th:src="@{'./assets/' + ${currentComponent.slug} + '.' + ${currentComponent.version.friendlyName()} + '/' + ${item.icon}}"
+                             th:if="${!#strings.contains(item.icon, 'bi-')}"
                              width="32"
                              height="32">
                         <span th:utext="${item.name}"></span>
