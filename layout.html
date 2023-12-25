@@ -87,15 +87,15 @@
 
             <ul class="list-unstyled ps-0">
                 <li class="mb-1" th:each="item : ${navigationItems}">
-                    <a class="btn btn-toggle-no-children d-inline-flex align-items-center rounded border-0"
+                    <a class="btn btn-toggle-no-children d-inline-flex align-items-center rounded border-0 gap-2"
                        th:if="${item.children == null}"
                        th:classappend="${item.active ? 'active' : ''}"
                        th:href="@{'./' + ${currentComponent.slug} + '/' + ${currentComponent.latest ? '' : currentComponent.version.friendlyName() + '/'} + ${item.url}}">
                         <i class="bi"
-                           th:if="${#strings.contains(item.icon, 'bi-')}"
+                           th:if="${item.icon != null && #strings.contains(item.icon, 'bi-')}"
                            th:classappend="${item.icon}"></i>
                         <img th:src="@{'./assets/' + ${currentComponent.slug} + '.' + ${currentComponent.version.friendlyName()} + '/' + ${item.icon}}"
-                             th:if="${!#strings.contains(item.icon, 'bi-')}"
+                             th:if="${item.icon != null && !#strings.contains(item.icon, 'bi-')}"
                              width="32"
                              height="32">
                         <span th:utext="${item.name}"></span>
