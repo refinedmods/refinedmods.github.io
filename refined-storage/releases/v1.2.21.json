@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.21.json",
   "name": "v1.2.21",
-  "indexedAt": "2023-12-26T00:41:42Z",
+  "indexedAt": "2023-12-26T12:16:34Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110513118,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzExOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.21",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513118/assets",
+      "assets": [
+        {
+          "id": 115028762,
+          "nodeId": "RA_kwDOAtXBQM4G2zMa",
+          "name": "refinedstorage-1.2.21.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1407218,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.21/refinedstorage-1.2.21.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513118/assets{?name,label}",
+      "tagName": "v1.2.21",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed crash when placing head with Constructor.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:48:09Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.21",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.21",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513118",
+      "createdAt": "2017-02-07T11:58:59Z"
+    },
     {
       "id": 2378847,
       "dateModified": "2023-06-30T15:06:08Z",
@@ -64,6 +94,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "curseforge",
         "downloads": 44219
