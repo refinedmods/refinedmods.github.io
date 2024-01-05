@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.16.json",
   "name": "v1.2.16",
-  "indexedAt": "2024-01-05T00:43:44Z",
+  "indexedAt": "2024-01-05T12:17:09Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110513348,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzM0OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.16",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513348/assets",
+      "assets": [
+        {
+          "id": 115028990,
+          "nodeId": "RA_kwDOAtXBQM4G2zP-",
+          "name": "refinedstorage-1.2.16.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1391232,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.16/refinedstorage-1.2.16.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513348/assets{?name,label}",
+      "tagName": "v1.2.16",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed an autocrafting regression.\r\n- Fixed crash with External Storage.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:49:54Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.16",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.16",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513348",
+      "createdAt": "2017-01-04T15:04:39Z"
+    },
     {
       "id": 110513348,
       "nodeId": "MDc6UmVsZWFzZTExMDUxMzM0OA\u003d\u003d",
@@ -99,14 +129,18 @@
         "downloads": 0
       },
       {
+        "source": "github",
+        "downloads": 0
+      },
+      {
         "source": "curseforge",
-        "downloads": 191769
+        "downloads": 191770
       },
       {
         "source": "modrinth",
         "downloads": 1
       }
     ],
-    "totalDownloads": 191770
+    "totalDownloads": 191771
   }
 }
