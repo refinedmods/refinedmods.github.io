@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.1.3.json",
   "name": "v1.1.3",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110520706,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMDcwNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.1.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520706/assets",
+      "assets": [
+        {
+          "id": 115035413,
+          "nodeId": "RA_kwDOAtXBQM4G200V",
+          "name": "refinedstorage-1.1.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1019930,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.1.3/refinedstorage-1.1.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520706/assets{?name,label}",
+      "tagName": "v1.1.3",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed some clients not starting up due to too many Disk Drive model permutations.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:42:28Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.1.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.1.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520706",
+      "createdAt": "2016-10-07T19:52:23Z"
+    },
     {
       "id": 110520706,
       "nodeId": "MDc6UmVsZWFzZTExMDUyMDcwNg\u003d\u003d",
@@ -99,14 +129,18 @@
         "downloads": 1
       },
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "curseforge",
-        "downloads": 191669
+        "downloads": 191670
       },
       {
         "source": "modrinth",
         "downloads": 4
       }
     ],
-    "totalDownloads": 191674
+    "totalDownloads": 191676
   }
 }

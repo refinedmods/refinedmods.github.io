@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.14.json",
   "name": "v1.2.14",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110513412,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxMzQxMg\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.14",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513412/assets",
-      "assets": [
-        {
-          "id": 115029048,
-          "nodeId": "RA_kwDOAtXBQM4G2zQ4",
-          "name": "refinedstorage-1.2.14.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1390463,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.14/refinedstorage-1.2.14.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513412/assets{?name,label}",
-      "tagName": "v1.2.14",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed server crash.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T14:50:26Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.14",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.14",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513412",
-      "createdAt": "2016-12-24T13:13:06Z"
-    },
     {
       "id": 2359886,
       "dateModified": "2023-06-30T15:08:24Z",
@@ -95,18 +65,14 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 0
-      },
-      {
         "source": "curseforge",
-        "downloads": 288463
+        "downloads": 288464
       },
       {
         "source": "modrinth",
         "downloads": 4
       }
     ],
-    "totalDownloads": 288467
+    "totalDownloads": 288468
   }
 }

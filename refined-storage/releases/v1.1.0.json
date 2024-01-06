@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.1.0.json",
   "name": "v1.1.0",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110520816,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMDgxNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520816/assets",
+      "assets": [
+        {
+          "id": 115035497,
+          "nodeId": "RA_kwDOAtXBQM4G201p",
+          "name": "refinedstorage-1.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1029560,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.1.0/refinedstorage-1.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520816/assets{?name,label}",
+      "tagName": "v1.1.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- New art by CyanideX.\r\n- Added crafting preview screen.\r\n- Added max crafting task depth.\r\n- Added helpful tooltips to Solderer and Processing Pattern Encoder.\r\n\r\n### Changed\r\n\r\n- Every machine now compares on damage and NBT by default.\r\n- Updated JEI, fixes crashes.\r\n- Detector amount text field doesn\u0027t autoselect anymore.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Disk Manipulator.\r\n- Fixed autocrafting not giving back byproducts.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:43:24Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520816",
+      "createdAt": "2016-09-28T00:50:42Z"
+    },
     {
       "id": 110520816,
       "nodeId": "MDc6UmVsZWFzZTExMDUyMDgxNg\u003d\u003d",
@@ -94,6 +124,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "github",
         "downloads": 0

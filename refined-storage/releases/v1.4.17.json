@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.17.json",
   "name": "v1.4.17",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110492133,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjEzMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.17",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492133/assets",
+      "assets": [
+        {
+          "id": 115010185,
+          "nodeId": "RA_kwDOAtXBQM4G2uqJ",
+          "name": "refinedstorage-1.4.17.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1628899,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.17/refinedstorage-1.4.17.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492133/assets{?name,label}",
+      "tagName": "v1.4.17",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Filters not persisting correctly in Wireless Grid, Wireless Crafting Monitor and Portable Grid.\r\n- Fixed Disk Drive recipe not using ore dictionary for chest.\r\n- Fixed a bug where loading nodes would abort when a single node has an error while reading.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:17:00Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.17",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.17",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492133",
+      "createdAt": "2017-06-20T22:35:08Z"
+    },
     {
       "id": 2437759,
       "dateModified": "2023-06-30T12:55:59Z",
@@ -64,6 +94,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "curseforge",
         "downloads": 12350

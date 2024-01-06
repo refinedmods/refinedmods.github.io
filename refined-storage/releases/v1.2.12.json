@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.12.json",
   "name": "v1.2.12",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110513487,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxMzQ4Nw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.12",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513487/assets",
-      "assets": [
-        {
-          "id": 115029122,
-          "nodeId": "RA_kwDOAtXBQM4G2zSC",
-          "name": "refinedstorage-1.2.12.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1389182,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.12/refinedstorage-1.2.12.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513487/assets{?name,label}",
-      "tagName": "v1.2.12",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Updated French translation.\r\n\r\n### Fixed\r\n\r\n- Fixed TPS lag on very large crafting tasks.\r\n- Fixed not being able to use autocrafting on some EnderIO items.\r\n- Fixed not being able to start autocrafting for storage disks.\r\n- Fixed oredict button not having the correct position on a small resolution.\r\n- Fixed Constructor not using Crafting Upgrade when in item dropping mode.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T14:51:05Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.12",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.12",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513487",
-      "createdAt": "2016-12-16T18:43:21Z"
-    },
     {
       "id": 2356745,
       "dateModified": "2023-06-30T15:09:10Z",
@@ -94,10 +64,6 @@
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "github",
-        "downloads": 0
-      },
       {
         "source": "curseforge",
         "downloads": 63398

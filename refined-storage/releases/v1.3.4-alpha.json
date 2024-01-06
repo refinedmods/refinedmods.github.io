@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.3.4-alpha.json",
   "name": "v1.3.4-alpha",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "ALPHA",
   "sources": [
-    {
-      "id": 110493067,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ5MzA2Nw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.3.4-alpha",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110493067/assets",
-      "assets": [
-        {
-          "id": 115010964,
-          "nodeId": "RA_kwDOAtXBQM4G2u2U",
-          "name": "refinedstorage-1.3.4.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1391939,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.3.4-alpha/refinedstorage-1.3.4.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110493067/assets{?name,label}",
-      "tagName": "v1.3.4-alpha",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added option to check for oredict in the Grid Filter.\r\n- Added option to use a mod filter in the Grid Filter.\r\n- Added option to use a whitelist or blacklist in the Grid Filter.\r\n- Added Grid tabs using Grid Filters.\r\n- Added configuration option to enable large fonts in Grid.\r\n\r\n### Changed\r\n\r\n- The Grid now resizes based on screen size (max rows can be configured).\r\n- Made Solderer tooltip less big.\r\n- Made the Interface sideless, you can just insert or extract from any side.\r\n\r\n### Fixed\r\n\r\n- Fixed bug with opening a network item with food in offhand.\r\n- Fixed not respecting \"Extract only\" option for storages.\r\n- Fixed a few autocrafting bugs.\r\n- Fixed a crash with the Disk Manipulator.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T12:24:55Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.3.4-alpha",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.3.4-alpha",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110493067",
-      "createdAt": "2016-12-10T13:26:49Z"
-    },
     {
       "id": 2354411,
       "dateModified": "2023-06-30T13:42:01Z",
@@ -94,10 +64,6 @@
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "github",
-        "downloads": 0
-      },
       {
         "source": "curseforge",
         "downloads": 2851

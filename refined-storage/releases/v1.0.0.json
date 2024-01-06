@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110521012,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMTAxMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521012/assets",
+      "assets": [
+        {
+          "id": 115035773,
+          "nodeId": "RA_kwDOAtXBQM4G2059",
+          "name": "refinedstorage-1.0.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 729682,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.0/refinedstorage-1.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110521012/assets{?name,label}",
+      "tagName": "v1.0.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Interface now supports Crafting Upgrade.\r\n- Implemented multithreaded autocrafting.\r\n\r\n### Changed\r\n\r\n- Processing patterns now hold their items back for pushing until all the required items are gathered from the system.\r\n- Reworked Crafting Monitor GUI.\r\n- When shift clicking a recipe in the Crafting Grid, the player inventory is now leveraged as well.\r\n- Updated to Forge 2077.\r\n- Due to the new crafting system, all Crafting Patterns made before 1.0 have to be re-made.\r\n\r\n### Fixed\r\n\r\n- Fixed item and fluid storage stored count having incorrect values at times.\r\n- Fixed problems relating to Crafting Upgrade (scheduling a task wrongly, blocking other tasks, etc).\r\n- Fixed machines breaking on long distances.\r\n- Fixed Controller rebuilding network graph on energy change.\r\n- Fixed fluids not caring about NBT tags.\r\n- Fixed fluids that have less than 1 bucket stored render only partly in Fluid Grid.\r\n- Fixed Fluid Interface voiding bucket when shift clicking to out slot.\r\n- Fixed wrong machine connection logic.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:45:12Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521012",
+      "createdAt": "2016-09-12T20:06:58Z"
+    },
     {
       "id": 110521012,
       "nodeId": "MDc6UmVsZWFzZTExMDUyMTAxMg\u003d\u003d",
@@ -94,6 +124,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "github",
         "downloads": 0

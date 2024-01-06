@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.6.json",
   "name": "v1.2.6",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110513902,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxMzkwMg\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.6",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513902/assets",
-      "assets": [
-        {
-          "id": 115029240,
-          "nodeId": "RA_kwDOAtXBQM4G2zT4",
-          "name": "refinedstorage-1.2.6.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1383224,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.6/refinedstorage-1.2.6.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513902/assets{?name,label}",
-      "tagName": "v1.2.6",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Processing patterns can now insert buckets.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Exporters in fluid mode.\r\n\r\n### Removed\r\n\r\n- Removed Solderer progress percentage text.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T14:52:54Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.6",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.6",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513902",
-      "createdAt": "2016-11-26T12:38:33Z"
-    },
     {
       "id": 2349317,
       "dateModified": "2023-06-30T15:11:02Z",
@@ -94,10 +64,6 @@
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "github",
-        "downloads": 0
-      },
       {
         "source": "curseforge",
         "downloads": 15812

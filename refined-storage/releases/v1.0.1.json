@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.0.1.json",
   "name": "v1.0.1",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110520981,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMDk4MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520981/assets",
+      "assets": [
+        {
+          "id": 115035719,
+          "nodeId": "RA_kwDOAtXBQM4G205H",
+          "name": "refinedstorage-1.0.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 734537,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.1/refinedstorage-1.0.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520981/assets{?name,label}",
+      "tagName": "v1.0.1",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added \"autocrafting mode\" in Detector, to check if an item is being crafted. If no item is specified, it\u0027ll emit a signal if anything is crafting.\r\n- Added an option for the Crafter to trigger autocrafting with a redstone signal.\r\n\r\n### Changed\r\n\r\n- Updated to Forge 2084.\r\n\r\n### Fixed\r\n\r\n- Fixed advanced tooltips showing in Grid when not configured to do so.\r\n- Optimized crafting pattern loading.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T15:44:52Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520981",
+      "createdAt": "2016-09-13T14:24:10Z"
+    },
     {
       "id": 110520981,
       "nodeId": "MDc6UmVsZWFzZTExMDUyMDk4MQ\u003d\u003d",
@@ -99,14 +129,18 @@
         "downloads": 0
       },
       {
+        "source": "github",
+        "downloads": 0
+      },
+      {
         "source": "curseforge",
-        "downloads": 52816
+        "downloads": 52817
       },
       {
         "source": "modrinth",
         "downloads": 2
       }
     ],
-    "totalDownloads": 52818
+    "totalDownloads": 52819
   }
 }

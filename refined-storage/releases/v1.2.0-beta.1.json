@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.1.json",
   "name": "v1.2.0-beta.1",
-  "indexedAt": "2024-01-05T12:17:09Z",
+  "indexedAt": "2024-01-06T00:42:57Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 110514568,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDU2OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514568/assets",
+      "assets": [
+        {
+          "id": 115029847,
+          "nodeId": "RA_kwDOAtXBQM4G2zdX",
+          "name": "refinedstorage-1.2-beta1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1119456,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.1/refinedstorage-1.2-beta1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514568/assets{?name,label}",
+      "tagName": "v1.2.0-beta.1",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- First beta release for v1.2.0, featuring a new autocrafting system.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:57:17Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514568",
+      "createdAt": "2016-10-23T15:52:11Z"
+    },
     {
       "id": 110514568,
       "nodeId": "MDc6UmVsZWFzZTExMDUxNDU2OA\u003d\u003d",
@@ -94,6 +124,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "github",
         "downloads": 0
