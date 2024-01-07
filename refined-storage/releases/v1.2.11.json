@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.11.json",
   "name": "v1.2.11",
-  "indexedAt": "2024-01-06T00:42:57Z",
+  "indexedAt": "2024-01-07T00:48:39Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110513730,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzczMA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.11",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513730/assets",
+      "assets": [
+        {
+          "id": 115029163,
+          "nodeId": "RA_kwDOAtXBQM4G2zSr",
+          "name": "refinedstorage-1.2.11.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1386150,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.11/refinedstorage-1.2.11.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513730/assets{?name,label}",
+      "tagName": "v1.2.11",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added configuration option to enable large fonts in Grid.\r\n\r\n### Changed\r\n\r\n- The Grid now resizes based on screen size (max rows can be configured).\r\n- Made the Interface sideless, you can just insert or extract from any side.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:51:32Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.11",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.11",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513730",
+      "createdAt": "2016-12-10T19:23:12Z"
+    },
     {
       "id": 2354564,
       "dateModified": "2023-06-30T15:09:32Z",
@@ -64,6 +94,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "curseforge",
         "downloads": 23634

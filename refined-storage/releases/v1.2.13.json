@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.13.json",
   "name": "v1.2.13",
-  "indexedAt": "2024-01-06T00:42:57Z",
+  "indexedAt": "2024-01-07T00:48:39Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110513448,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzQ0OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.13",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513448/assets",
+      "assets": [
+        {
+          "id": 115029076,
+          "nodeId": "RA_kwDOAtXBQM4G2zRU",
+          "name": "refinedstorage-1.2.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1390952,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.13/refinedstorage-1.2.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513448/assets{?name,label}",
+      "tagName": "v1.2.13",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed memes not working.\r\n- Fixed controller causing network rebuild on every neighbor change.\r\n- Fixed Wireless Transmitter working even if it was disabled with redstone mode.\r\n- Fixed Solderer not accepting books created in an Anvil.\r\n- Autocrafting bugfixes.\r\n- Made sure External Storage always has the correct inventory in world.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:50:47Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.13",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.13",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513448",
+      "createdAt": "2016-12-23T19:04:15Z"
+    },
     {
       "id": 2359687,
       "dateModified": "2023-06-30T15:08:50Z",
@@ -64,6 +94,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "curseforge",
         "downloads": 1401

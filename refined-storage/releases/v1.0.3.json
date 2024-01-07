@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.0.3.json",
   "name": "v1.0.3",
-  "indexedAt": "2024-01-06T00:42:57Z",
+  "indexedAt": "2024-01-07T00:48:39Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,36 +29,6 @@
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2330647",
       "createdAt": "2016-09-17T10:52:43Z"
-    },
-    {
-      "id": 110520909,
-      "nodeId": "MDc6UmVsZWFzZTExMDUyMDkwOQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.3",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520909/assets",
-      "assets": [
-        {
-          "id": 115035642,
-          "nodeId": "RA_kwDOAtXBQM4G2036",
-          "name": "refinedstorage-1.0.3.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 755334,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.3/refinedstorage-1.0.3.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520909/assets{?name,label}",
-      "tagName": "v1.0.3",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added integration for Forge energy.\r\n\r\n### Changed\r\n\r\n- Solderer now accepts items from any side, allowing easier automation.\r\n- Solderer is now intelligent about items in slots, and will only accept an item if it is part of a recipe.\r\n- Changed recipe for upgrades in the Solderer, they now just take 1 of the unique item instead of 2, using redstone instead.\r\n- Updated to Forge 2088.\r\n\r\n### Fixed\r\n\r\n- Fixed item loading issue.\r\n- Fixed fluid autocrafting scheduling too much crafting tasks for buckets.\r\n- Fixed blocks in hand facing wrong direction.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T15:44:18Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.3",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.3",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520909",
-      "createdAt": "2016-09-17T11:09:08Z"
     },
     {
       "id": 110520909,
@@ -127,10 +97,6 @@
       {
         "source": "curseforge",
         "downloads": 493
-      },
-      {
-        "source": "github",
-        "downloads": 0
       },
       {
         "source": "github",

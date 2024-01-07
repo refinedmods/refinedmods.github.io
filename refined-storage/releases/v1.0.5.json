@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.0.5.json",
   "name": "v1.0.5",
-  "indexedAt": "2024-01-06T00:42:57Z",
+  "indexedAt": "2024-01-07T00:48:39Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110520854,
-      "nodeId": "MDc6UmVsZWFzZTExMDUyMDg1NA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.5",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520854/assets",
-      "assets": [
-        {
-          "id": 115035536,
-          "nodeId": "RA_kwDOAtXBQM4G202Q",
-          "name": "refinedstorage-1.0.5.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 767021,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.5/refinedstorage-1.0.5.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520854/assets{?name,label}",
-      "tagName": "v1.0.5",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Importer now takes a Destruction Core, and Exporter a Construction Core.\r\n- Added Disk Manipulator.\r\n- Added ingame config.\r\n- Added the ability to see the output of a Pattern by holding shift.\r\n- Exporter in fluid mode and Fluid Interface no longer duplicates fluids that are less than 1 bucket.\r\n\r\n### Changed\r\n\r\n- Changed default Grid sorting type to quantity.\r\n- Updated Dutch translation.\r\n- Updated Chinese translation.\r\n- When a machine is in use by a crafting pattern, inserting of items from other patterns will be avoided.\r\n\r\n### Fixed\r\n\r\n- Fixed crafting a complex item causes the process to flow off the Crafting Monitor\u0027s GUI.\r\n- Fixed shift clicking from Grid when player inventory is full throwing items in the world.\r\n",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T15:43:45Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.5",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.5",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520854",
-      "createdAt": "2016-09-21T15:43:34Z"
-    },
     {
       "id": 110520854,
       "nodeId": "MDc6UmVsZWFzZTExMDUyMDg1NA\u003d\u003d",
@@ -124,10 +94,6 @@
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "github",
-        "downloads": 0
-      },
       {
         "source": "github",
         "downloads": 0

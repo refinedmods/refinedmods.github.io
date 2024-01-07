@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.15.json",
   "name": "v1.2.15",
-  "indexedAt": "2024-01-06T00:42:57Z",
+  "indexedAt": "2024-01-07T00:48:39Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110513381,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzM4MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.15",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513381/assets",
+      "assets": [
+        {
+          "id": 115029007,
+          "nodeId": "RA_kwDOAtXBQM4G2zQP",
+          "name": "refinedstorage-1.2.15.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1391044,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.15/refinedstorage-1.2.15.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513381/assets{?name,label}",
+      "tagName": "v1.2.15",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Grid Filter hiding everything when 2 or more items are in it.\r\n- Fixed External Storage crash when breaking a connected inventory.\r\n- Autocrafting bugfixes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T14:50:11Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.15",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.15",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513381",
+      "createdAt": "2017-01-03T21:08:47Z"
+    },
     {
       "id": 2363912,
       "dateModified": "2023-06-30T15:08:09Z",
@@ -64,6 +94,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "curseforge",
         "downloads": 2000

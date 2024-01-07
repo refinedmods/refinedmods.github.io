@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.0.4.json",
   "name": "v1.0.4",
-  "indexedAt": "2024-01-06T00:42:57Z",
+  "indexedAt": "2024-01-07T00:48:39Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110520878,
-      "nodeId": "MDc6UmVsZWFzZTExMDUyMDg3OA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.0.4",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520878/assets",
-      "assets": [
-        {
-          "id": 115035585,
-          "nodeId": "RA_kwDOAtXBQM4G203B",
-          "name": "refinedstorage-1.0.4.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 755409,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.0.4/refinedstorage-1.0.4.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520878/assets{?name,label}",
-      "tagName": "v1.0.4",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed lag caused by Crafter.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T15:43:59Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.4",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.4",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520878",
-      "createdAt": "2016-09-17T13:04:32Z"
-    },
     {
       "id": 110520878,
       "nodeId": "MDc6UmVsZWFzZTExMDUyMDg3OA\u003d\u003d",
@@ -124,10 +94,6 @@
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "github",
-        "downloads": 0
-      },
       {
         "source": "github",
         "downloads": 0
