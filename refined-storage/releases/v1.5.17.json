@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.17.json",
   "name": "v1.5.17",
-  "indexedAt": "2024-01-08T12:17:34Z",
+  "indexedAt": "2024-01-09T00:44:10Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110471003,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTAwMw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.17",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471003/assets",
+      "assets": [
+        {
+          "id": 114987748,
+          "nodeId": "RA_kwDOAtXBQM4G2pLk",
+          "name": "refinedstorage-1.5.17.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1716574,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.17/refinedstorage-1.5.17.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471003/assets{?name,label}",
+      "tagName": "v1.5.17",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added support for OpenComputers.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:02:27Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.17",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.17",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471003",
+      "createdAt": "2017-08-19T13:02:14Z"
+    },
     {
       "id": 2466588,
       "dateModified": "2023-06-30T09:21:45Z",
@@ -67,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 0
+      },
+      {
         "source": "curseforge",
-        "downloads": 64520
+        "downloads": 64523
       },
       {
         "source": "modrinth",
         "downloads": 2
       }
     ],
-    "totalDownloads": 64522
+    "totalDownloads": 64525
   }
 }

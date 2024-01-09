@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.14.json",
   "name": "v1.4.14",
-  "indexedAt": "2024-01-08T12:17:34Z",
+  "indexedAt": "2024-01-09T00:44:10Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110492279,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjI3OQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.14",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492279/assets",
-      "assets": [
-        {
-          "id": 115010302,
-          "nodeId": "RA_kwDOAtXBQM4G2ur-",
-          "name": "refinedstorage-1.4.14.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1656550,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.14/refinedstorage-1.4.14.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492279/assets{?name,label}",
-      "tagName": "v1.4.14",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed Solderer not accepting books made in anvil.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T12:18:13Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.14",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.14",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492279",
-      "createdAt": "2017-06-13T21:35:44Z"
-    },
     {
       "id": 110492279,
       "nodeId": "MDc6UmVsZWFzZTExMDQ5MjI3OQ\u003d\u003d",
@@ -124,10 +94,6 @@
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "github",
-        "downloads": 0
-      },
       {
         "source": "github",
         "downloads": 0
