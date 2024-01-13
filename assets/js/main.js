@@ -2,6 +2,8 @@ import 'bootstrap';
 import tippy from 'tippy.js';
 import 'tippy.js/dist/tippy.css';
 import "tippy.js/themes/material.css";
+import docsearch from '@docsearch/js';
+import '@docsearch/css';
 
 const expandButton = document.querySelector('#nav-expand-button')
 if (expandButton) {
@@ -80,3 +82,12 @@ tippy('a[data-icon-id]', {
     theme: 'material',
     allowHTML: true,
 })
+
+docsearch({
+    appId: 'Q75KY3PFVW',
+    apiKey: '4984e05899a5559701b041f7fd00a9dc',
+    indexName: 'refinedmods',
+    insights: true,
+    container: '#search-container',
+    debug: false
+});
