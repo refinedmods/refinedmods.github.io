@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.26-beta.json",
   "name": "v1.5.26-beta",
-  "indexedAt": "2024-01-21T00:49:01Z",
+  "indexedAt": "2024-01-21T12:16:00Z",
   "type": "BETA",
   "sources": [
     {
@@ -31,6 +31,36 @@
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2507909",
       "createdAt": "2017-12-09T11:28:25Z"
+    },
+    {
+      "id": 110470525,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDUyNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.26-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470525/assets",
+      "assets": [
+        {
+          "id": 114987276,
+          "nodeId": "RA_kwDOAtXBQM4G2pEM",
+          "name": "refinedstorage-1.5.26.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1828870,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.26-beta/refinedstorage-1.5.26.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470525/assets{?name,label}",
+      "tagName": "v1.5.26-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Funky Locomotion integration.\r\n\r\n### Fixed\r\n\r\n- Fixed Exporter in Regulator Mode not regulating properly when same item is specified multiple times.\r\n- Fixed air appearing in Grid.\r\n- Fixed config categories not correctly appearing in ingame config GUI.\r\n- Fixed craftable items showing \"1 total\" if not stored in system in Grid.\r\n- Minor fixes to autocrafting.\r\n\r\n### Removed\r\n\r\n- Removed \"detailed\" Grid view type variant, made detailed tooltips a config option instead.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T08:58:15Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.26-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.26-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470525",
+      "createdAt": "2017-12-09T11:33:50Z"
     },
     {
       "id": 110470525,
@@ -101,6 +131,10 @@
       {
         "source": "curseforge",
         "downloads": 839
+      },
+      {
+        "source": "github",
+        "downloads": 0
       },
       {
         "source": "github",

@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.21.json",
   "name": "v1.5.21",
-  "indexedAt": "2024-01-21T00:49:01Z",
+  "indexedAt": "2024-01-21T12:16:00Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110470774,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDc3NA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.21",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470774/assets",
+      "assets": [
+        {
+          "id": 114987485,
+          "nodeId": "RA_kwDOAtXBQM4G2pHd",
+          "name": "refinedstorage-1.5.21.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1707371,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.21/refinedstorage-1.5.21.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470774/assets{?name,label}",
+      "tagName": "v1.5.21",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated Portuguese (Brazilian) translation.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with External Storage.\r\n- Fixed stack-crafting in the crafting grid (crafting table) causing lag on a dedicated server.\r\n- Fixed cable blocks, Wireless Transmitter, Detector and Portable Grid acting as full blocks (being able to place torches on them etc).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:00:31Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.21",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.21",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470774",
+      "createdAt": "2017-10-19T20:48:40Z"
+    },
     {
       "id": 110470774,
       "nodeId": "MDc6UmVsZWFzZTExMDQ3MDc3NA\u003d\u003d",
@@ -103,14 +133,18 @@
         "downloads": 0
       },
       {
+        "source": "github",
+        "downloads": 0
+      },
+      {
         "source": "curseforge",
-        "downloads": 166092
+        "downloads": 166094
       },
       {
         "source": "modrinth",
         "downloads": 3
       }
     ],
-    "totalDownloads": 166095
+    "totalDownloads": 166097
   }
 }

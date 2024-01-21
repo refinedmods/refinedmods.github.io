@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.18.json",
   "name": "v1.5.18",
-  "indexedAt": "2024-01-21T00:49:01Z",
+  "indexedAt": "2024-01-21T12:16:00Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110470924,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDkyNA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.18",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470924/assets",
+      "assets": [
+        {
+          "id": 114987649,
+          "nodeId": "RA_kwDOAtXBQM4G2pKB",
+          "name": "refinedstorage-1.5.18.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1725394,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.18/refinedstorage-1.5.18.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470924/assets{?name,label}",
+      "tagName": "v1.5.18",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Project E integration for the External Storage on the Transmutation Table.\r\n- Added Project E integration for the energy values of Solderer items.\r\n- Added support for more than 4 grid tabs in the Grid by putting filters IN filters.\r\n- Added protection for other mods causing crashes when drawing an item or display name.\r\n\r\n### Changed\r\n\r\n- Reader and Writer blocks now face the block you\u0027re placing it on, not the player.\r\n- Pressing SHIFT over an item in the Grid will no longer display the full unformatted count, instead, use CTRL + SHIFT and it will be displayed in the tooltip.\r\n- The Fortune Upgrade doesn\u0027t use NBT anymore to store the fortune level.\r\n\r\n### Fixed\r\n\r\n- Fixed network not disconnecting when Controller is broken.\r\n- Fixed bug where when multiple Fortune Upgrades are inserted, it chooses the first Fortune Upgrade instead of the highest one.\r\n- Fixed some translations having too big \"Craft\" text.\r\n- Fixed crash with GUI when toggling the Grid size quickly.\r\n- Fixed scrollbar not scrolling correctly when clicked with mouse when grid tabs are visible.\r\n- Fixed Reader and Writers GUIs still displaying channels even if not connected.\r\n- Fixed Solderer resetting progress when the inventory changes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:01:57Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.18",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.18",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470924",
+      "createdAt": "2017-09-08T12:18:26Z"
+    },
     {
       "id": 110470924,
       "nodeId": "MDc6UmVsZWFzZTExMDQ3MDkyNA\u003d\u003d",
@@ -103,14 +133,18 @@
         "downloads": 0
       },
       {
+        "source": "github",
+        "downloads": 0
+      },
+      {
         "source": "curseforge",
-        "downloads": 97971
+        "downloads": 97981
       },
       {
         "source": "modrinth",
         "downloads": 7
       }
     ],
-    "totalDownloads": 97978
+    "totalDownloads": 97988
   }
 }

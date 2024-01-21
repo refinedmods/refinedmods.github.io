@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.22.json",
   "name": "v1.5.22",
-  "indexedAt": "2024-01-21T00:49:01Z",
+  "indexedAt": "2024-01-21T12:16:00Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -31,6 +31,36 @@
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2499148",
       "createdAt": "2017-11-11T12:56:24Z"
+    },
+    {
+      "id": 110470743,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDc0Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.22",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470743/assets",
+      "assets": [
+        {
+          "id": 114987445,
+          "nodeId": "RA_kwDOAtXBQM4G2pG1",
+          "name": "refinedstorage-1.5.22.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1817553,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.22/refinedstorage-1.5.22.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470743/assets{?name,label}",
+      "tagName": "v1.5.22",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added oredict, blocking, processing, ore inputs access to OpenComputers API.\r\n- Added shortcut to clear Grid crafting matrix (CTRL+X).\r\n\r\n### Changed\r\n\r\n- The Crafter can now only store 1 stack size pattern per slot.\r\n- You can now re-insert a Pattern in the pattern output slot in the Pattern Grid to modify an existing pattern.\r\n- The Refined Storage jar is now signed.\r\n- Updated Chinese translation.\r\n\r\n### Fixed\r\n\r\n- Fixed not being able to use JEI R and U keys on Grid with tabs.\r\n- Fixed lag when opening a Grid with lots of items by offloading the grid sorting to another thread.\r\n- Performance improvement when adding patterns to the network.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:00:09Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.22",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.22",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470743",
+      "createdAt": "2017-11-11T12:57:38Z"
     },
     {
       "id": 110470743,
@@ -101,6 +131,10 @@
       {
         "source": "curseforge",
         "downloads": 8185
+      },
+      {
+        "source": "github",
+        "downloads": 0
       },
       {
         "source": "github",
