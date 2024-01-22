@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.13.json",
   "name": "v1.6.13",
-  "indexedAt": "2024-01-21T12:16:00Z",
+  "indexedAt": "2024-01-22T00:47:12Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110330670,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDY3MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.13",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330670/assets",
+      "assets": [
+        {
+          "id": 114836552,
+          "nodeId": "RA_kwDOAtXBQM4G2ERI",
+          "name": "refinedstorage-1.6.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1910243,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.13/refinedstorage-1.6.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330670/assets{?name,label}",
+      "tagName": "v1.6.13",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added keybindings to open wireless items. The default one set to open a Wireless Crafting Grid from Refined Storage Addons is CTRL + G.\r\n- Added Grid quantity formatting for item counts over 1 billion.\r\n\r\n### Changed\r\n\r\n- Updated German translation.\r\n- Updated Chinese translation.\r\n- The Constructor and Destructor now interacts with the world using their owner\u0027s profile.\r\n\r\n### Fixed\r\n\r\n- Fixed Interface with Crafting Upgrade being stuck if an earlier item configuration has missing items or fluids.\r\n- Fixed wrong item count for oredict patterns.\r\n- Fixed autocrafting duplication bug.\r\n- Fixed Crafting Pattern not rendering tile entity items like a chest.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:32:21Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.13",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.13",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330670",
+      "createdAt": "2019-03-23T13:51:04Z"
+    },
     {
       "id": 2690722,
       "dateModified": "2023-06-29T09:42:05Z",
@@ -65,14 +95,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 0
+      },
+      {
         "source": "curseforge",
-        "downloads": 1671
+        "downloads": 1672
       },
       {
         "source": "modrinth",
         "downloads": 6
       }
     ],
-    "totalDownloads": 1677
+    "totalDownloads": 1678
   }
 }

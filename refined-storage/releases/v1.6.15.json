@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.15.json",
   "name": "v1.6.15",
-  "indexedAt": "2024-01-21T12:16:00Z",
+  "indexedAt": "2024-01-22T00:47:12Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110330091,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDA5MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.15",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330091/assets",
+      "assets": [
+        {
+          "id": 114835801,
+          "nodeId": "RA_kwDOAtXBQM4G2EFZ",
+          "name": "refinedstorage-1.6.15.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1911631,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.15/refinedstorage-1.6.15.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330091/assets{?name,label}",
+      "tagName": "v1.6.15",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed recipes with more than 1 bucket of fluid not transferring from JEI.\r\n- Fixed oredict crafting patterns redefining recipes.\r\n- Fixed Portable Grids not keeping their enchantments when placed.\r\n- Fixed JEI hotkeys not working on fluid filter slots.\r\n- Fixed crash when opening Crafter Manager with FTB Quests installed.\r\n- Fixed a bug where the container slots weren\u0027t synced when opening a Grid.\r\n\r\n### Changed\r\n\r\n- Shortened crafting text for the Russion translation to fix Grid overlays.\r\n- GregTech Community Edition Wires and Machines are now banned from rendering on Refined Storage patterns because they are causing crashes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:31:15Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.15",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.15",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330091",
+      "createdAt": "2019-07-21T15:00:00Z"
+    },
     {
       "id": 2745458,
       "dateModified": "2023-06-29T09:41:32Z",
@@ -65,14 +95,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 0
+      },
+      {
         "source": "curseforge",
-        "downloads": 4746991
+        "downloads": 4747315
       },
       {
         "source": "modrinth",
         "downloads": 8
       }
     ],
-    "totalDownloads": 4746999
+    "totalDownloads": 4747323
   }
 }

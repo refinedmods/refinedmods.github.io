@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.25.json",
   "name": "v1.5.25",
-  "indexedAt": "2024-01-21T12:16:00Z",
+  "indexedAt": "2024-01-22T00:47:12Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110470574,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDU3NA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.25",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470574/assets",
-      "assets": [
-        {
-          "id": 114987308,
-          "nodeId": "RA_kwDOAtXBQM4G2pEs",
-          "name": "refinedstorage-1.5.25.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1832914,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.25/refinedstorage-1.5.25.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470574/assets{?name,label}",
-      "tagName": "v1.5.25",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed not being able to autocraft different Storage Drawers\u0027 wood drawers.\r\n- Fixed not being able to autocraft certain Modular Routers items.\r\n- Fixed last modified date not being sent when extracting from an External Storage.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T08:58:43Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.25",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.25",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470574",
-      "createdAt": "2017-11-28T10:15:44Z"
-    },
     {
       "id": 110470574,
       "nodeId": "MDc6UmVsZWFzZTExMDQ3MDU3NA\u003d\u003d",
@@ -128,10 +98,6 @@
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "github",
-        "downloads": 0
-      },
       {
         "source": "github",
         "downloads": 0

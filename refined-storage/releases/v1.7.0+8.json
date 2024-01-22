@@ -1,0 +1,47 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.7.0+8.json",
+  "name": "v1.7.0+8",
+  "indexedAt": "2024-01-22T00:47:12Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 86566765,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2NzY1",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.0%2B8",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566765/assets",
+      "assets": [
+        {
+          "id": 88798550,
+          "nodeId": "RA_kwDOAtXBQM4FSvVW",
+          "name": "refinedstorage-1.7.0+8.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1741876,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.0%2B8/refinedstorage-1.7.0%2B8.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566765/assets{?name,label}",
+      "tagName": "v1.7.0+8",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added the Constructor.\r\n- Re-added the Destructor.\r\n- Re-added the Disk Manipulator.\r\n- Re-added the Portable Grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2022-12-19T17:56:45Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.0+8",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.0+8",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566765",
+      "createdAt": "2019-10-27T12:39:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 0
+  }
+}

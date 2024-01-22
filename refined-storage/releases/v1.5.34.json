@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.34.json",
   "name": "v1.5.34",
-  "indexedAt": "2024-01-21T12:16:00Z",
+  "indexedAt": "2024-01-22T00:47:12Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110331436,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMTQzNg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.34",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331436/assets",
+      "assets": [
+        {
+          "id": 114837356,
+          "nodeId": "RA_kwDOAtXBQM4G2Eds",
+          "name": "refinedstorage-1.5.34.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1825275,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.34/refinedstorage-1.5.34.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110331436/assets{?name,label}",
+      "tagName": "v1.5.34",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added OR search operator to the Grid with \"|\".\r\n- Added new `getPattern(stack:table)` function for OpenComputers integration.\r\n\r\n### Changed\r\n\r\n- Empty patterns can no longer be inserted in the pattern result slot in the Pattern Grid with hoppers.\r\n- `getPatterns()` now only returns all the outputs, this to limit memory usage in OpenComputers (only affects OC integration).\r\n- Allow crafters to be daisy-chained.\r\n\r\n### Fixed\r\n\r\n- Fixed repeated key events not getting handled in some cases.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-29T09:38:44Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.34",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.34",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331436",
+      "createdAt": "2018-05-17T06:30:48Z"
+    },
     {
       "id": 2564334,
       "dateModified": "2023-06-29T09:46:42Z",
@@ -65,14 +95,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 0
+      },
+      {
         "source": "curseforge",
-        "downloads": 2384615
+        "downloads": 2384655
       },
       {
         "source": "modrinth",
         "downloads": 4
       }
     ],
-    "totalDownloads": 2384619
+    "totalDownloads": 2384659
   }
 }

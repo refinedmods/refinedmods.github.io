@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.24.json",
   "name": "v1.5.24",
-  "indexedAt": "2024-01-21T12:16:00Z",
+  "indexedAt": "2024-01-22T00:47:12Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110470623,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDYyMw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.24",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470623/assets",
-      "assets": [
-        {
-          "id": 114987340,
-          "nodeId": "RA_kwDOAtXBQM4G2pFM",
-          "name": "refinedstorage-1.5.24.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1832881,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.24/refinedstorage-1.5.24.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470623/assets{?name,label}",
-      "tagName": "v1.5.24",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added \"Last modified\" sorting option in the Grid.\r\n- Added a \"detailed\" variant for every Grid view type option, to disable the modified information on the tooltip.\r\n\r\n### Changed\r\n\r\n- The Grid now displays last modified information (player name and date) and size on tooltips of stacks.\r\n\r\n### Fixed\r\n\r\n- Fixed Exporter with Stack Upgrade not working correctly in Regulator Mode.\r\n- Fixed crash with the Constructor.\r\n- Fixed patterns being able to crash when no inputs are provided.\r\n- Fixed possible crash with network scanning.\r\n\r\n### Removed\r\n\r\n- Removed craft-only mode for the Exporter.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T08:59:07Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.24",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.24",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470623",
-      "createdAt": "2017-11-26T11:20:43Z"
-    },
     {
       "id": 110470623,
       "nodeId": "MDc6UmVsZWFzZTExMDQ3MDYyMw\u003d\u003d",
@@ -128,10 +98,6 @@
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "github",
-        "downloads": 0
-      },
       {
         "source": "github",
         "downloads": 0
