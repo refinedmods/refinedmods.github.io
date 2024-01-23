@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.1-beta.json",
   "name": "v1.5.1-beta",
-  "indexedAt": "2024-01-22T12:18:45Z",
+  "indexedAt": "2024-01-23T00:45:33Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 110472055,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MjA1NQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.1-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110472055/assets",
+      "assets": [
+        {
+          "id": 114988761,
+          "nodeId": "RA_kwDOAtXBQM4G2pbZ",
+          "name": "refinedstorage-1.5.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1666038,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.1-beta/refinedstorage-1.5.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110472055/assets{?name,label}",
+      "tagName": "v1.5.1-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Re-added MCMultiPart support.\r\n- Added back crafting recipes.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2340.\r\n- Changed Grid recipe.\r\n- Changed Crafting Monitor recipe.\r\n\r\n### Fixed\r\n\r\n- Fixed Filters not persisting correctly in Wireless Grid and Wireless Crafting Monitor.\r\n- Fixed Disk Drive recipe not using ore dictionary for chest.\r\n- Fixed crash when getting tooltip for grid item.\r\n\r\n### Removed\r\n\r\n- Removed Tesla integration.\r\n- Removed RS energy units, the entire mod is powered with Forge Energy now.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:11:39Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.1-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.1-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110472055",
+      "createdAt": "2017-06-20T14:20:46Z"
+    },
     {
       "id": 2437533,
       "dateModified": "2023-06-30T09:29:11Z",
@@ -64,6 +94,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "curseforge",
         "downloads": 680

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases.json",
   "name": "Refined Storage",
-  "indexedAt": "2024-01-22T12:18:45Z",
+  "indexedAt": "2024-01-23T00:45:33Z",
   "releases": [
     {
       "name": "v0.1.0-alpha",
@@ -1585,9 +1585,10 @@
       "url": "https://refinedmods.com/refined-storage/releases/v1.4.17.json",
       "sources": [
         "https://www.curseforge.com/api/v1/mods/243076/files/2437759",
-        "https://api.modrinth.com/v2/project/refined-storage/version/AdgoNEer"
+        "https://api.modrinth.com/v2/project/refined-storage/version/AdgoNEer",
+        "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492133"
       ],
-      "createdAt": "2017-06-20T22:43:08Z"
+      "createdAt": "2017-06-20T22:35:08Z"
     },
     {
       "name": "v1.4.18",
@@ -1639,9 +1640,10 @@
       "url": "https://refinedmods.com/refined-storage/releases/v1.5.1-beta.json",
       "sources": [
         "https://www.curseforge.com/api/v1/mods/243076/files/2437533",
-        "https://api.modrinth.com/v2/project/refined-storage/version/E1cAiFLP"
+        "https://api.modrinth.com/v2/project/refined-storage/version/E1cAiFLP",
+        "https://api.github.com/repos/refinedmods/refinedstorage/releases/110472055"
       ],
-      "createdAt": "2017-06-20T14:43:17Z"
+      "createdAt": "2017-06-20T14:20:46Z"
     },
     {
       "name": "v1.5.2-beta",
@@ -2919,13 +2921,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 33016
+        "downloads": 33197
       },
       {
         "source": "curseforge",
-        "downloads": 88188606
+        "downloads": 88225263
       }
     ],
-    "totalDownloads": 88222781
+    "totalDownloads": 88259619
   }
 }
