@@ -1,39 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.28.json",
   "name": "v1.5.28",
-  "indexedAt": "2024-01-28T12:14:17Z",
+  "indexedAt": "2024-01-29T00:41:41Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110470442,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDQ0Mg\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.28",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470442/assets",
-      "assets": [
-        {
-          "id": 114987145,
-          "nodeId": "RA_kwDOAtXBQM4G2pCJ",
-          "name": "refinedstorage-1.5.28.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1829602,
-          "downloadCount": 0,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.28/refinedstorage-1.5.28.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470442/assets{?name,label}",
-      "tagName": "v1.5.28",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Item Reader/Writers can now store 16 stacks.\r\n- Fluid Reader/Writers can now store 16 buckets.\r\n- Energy Reader/Writers can now store 16000 FE.\r\n\r\n### Fixed\r\n\r\n- Fixed Writers not pushing energy.",
-      "draft": false,
-      "prerelease": false,
-      "publishedAt": "2023-06-30T08:57:23Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.28",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.28",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470442",
-      "createdAt": "2017-12-12T12:00:32Z"
-    },
     {
       "id": 2509264,
       "dateModified": "2023-06-30T09:18:10Z",
@@ -99,18 +69,14 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 0
-      },
-      {
         "source": "curseforge",
-        "downloads": 138692
+        "downloads": 138696
       },
       {
         "source": "modrinth",
         "downloads": 6
       }
     ],
-    "totalDownloads": 138698
+    "totalDownloads": 138702
   }
 }

@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.15.json",
   "name": "v1.4.15",
-  "indexedAt": "2024-01-28T12:14:17Z",
+  "indexedAt": "2024-01-29T00:41:41Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110492243,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjI0Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.15",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492243/assets",
+      "assets": [
+        {
+          "id": 115010262,
+          "nodeId": "RA_kwDOAtXBQM4G2urW",
+          "name": "refinedstorage-1.4.15.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1656319,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.15/refinedstorage-1.4.15.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492243/assets{?name,label}",
+      "tagName": "v1.4.15",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Updated Storage Drawers API, fixes crashes.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:17:54Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.15",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.15",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492243",
+      "createdAt": "2017-06-14T10:10:51Z"
+    },
     {
       "id": 110492243,
       "nodeId": "MDc6UmVsZWFzZTExMDQ5MjI0Mw\u003d\u003d",
@@ -94,6 +124,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "github",
         "downloads": 0
