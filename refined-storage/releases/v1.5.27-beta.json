@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.27-beta.json",
   "name": "v1.5.27-beta",
-  "indexedAt": "2024-01-29T00:41:41Z",
+  "indexedAt": "2024-01-29T12:16:14Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 110470481,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDQ4MQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.27-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470481/assets",
+      "assets": [
+        {
+          "id": 114987198,
+          "nodeId": "RA_kwDOAtXBQM4G2pC-",
+          "name": "refinedstorage-1.5.27.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1828878,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.27-beta/refinedstorage-1.5.27.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470481/assets{?name,label}",
+      "tagName": "v1.5.27-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed non-oredict patterns not consuming resources.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T08:57:50Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.27-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.27-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470481",
+      "createdAt": "2017-12-09T16:06:31Z"
+    },
     {
       "id": 2507989,
       "dateModified": "2023-06-30T09:18:28Z",
@@ -68,6 +98,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "curseforge",
         "downloads": 26718

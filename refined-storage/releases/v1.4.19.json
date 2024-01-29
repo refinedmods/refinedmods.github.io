@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.19.json",
   "name": "v1.4.19",
-  "indexedAt": "2024-01-29T00:41:41Z",
+  "indexedAt": "2024-01-29T12:16:14Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110492048,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjA0OA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.19",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492048/assets",
+      "assets": [
+        {
+          "id": 115010121,
+          "nodeId": "RA_kwDOAtXBQM4G2upJ",
+          "name": "refinedstorage-1.4.19.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1631166,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.19/refinedstorage-1.4.19.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492048/assets{?name,label}",
+      "tagName": "v1.4.19",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Implemented controller update throttling, should fix lag issues with controllers that constantly turn off and on.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where players couldn\u0027t place regular blocks next to secured networks.\r\n- Fixed crashes relating to scrollbar in GUIs.\r\n- Fixed bug where disks have to be re-inserted in the Disk Drive in order to work again after rejoining a chunk.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T12:16:27Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.19",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.19",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492048",
+      "createdAt": "2017-07-15T08:49:42Z"
+    },
     {
       "id": 2450951,
       "dateModified": "2023-06-30T12:55:11Z",
@@ -64,6 +94,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "curseforge",
         "downloads": 574

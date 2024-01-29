@@ -1,9 +1,39 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.13.json",
   "name": "v1.5.13",
-  "indexedAt": "2024-01-29T00:41:41Z",
+  "indexedAt": "2024-01-29T12:16:14Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110471204,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTIwNA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.13",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471204/assets",
+      "assets": [
+        {
+          "id": 114987898,
+          "nodeId": "RA_kwDOAtXBQM4G2pN6",
+          "name": "refinedstorage-1.5.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1664155,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.13/refinedstorage-1.5.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471204/assets{?name,label}",
+      "tagName": "v1.5.13",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed Wireless Fluid Grid not using up energy.\r\n- Fixed Wireless Crafting Monitor remaining in network item list.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2023-06-30T09:04:13Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.13",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.13",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471204",
+      "createdAt": "2017-07-18T20:40:31Z"
+    },
     {
       "id": 2453534,
       "dateModified": "2023-06-30T09:22:58Z",
@@ -64,6 +94,10 @@
   ],
   "stats": {
     "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
       {
         "source": "curseforge",
         "downloads": 51382
