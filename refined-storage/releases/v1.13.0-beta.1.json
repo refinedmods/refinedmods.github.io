@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.13.0-beta.1.json",
+  "name": "v1.13.0-beta.1",
+  "indexedAt": "2024-02-13T00:41:45Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 141707350,
+      "nodeId": "RE_kwDOAtXBQM4IckhW",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.13.0-beta.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/141707350/assets",
+      "assets": [
+        {
+          "id": 151208552,
+          "nodeId": "RA_kwDOAtXBQM4JA0Jo",
+          "name": "refinedstorage-1.13.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3225581,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.13.0-beta.1/refinedstorage-1.13.0-beta.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/141707350/assets{?name,label}",
+      "tagName": "v1.13.0-beta.1",
+      "targetCommitish": "73da326715ae050ebe00fe9a811e2d2bd8f53b72",
+      "body": "### Added\n\n-   Ported to Minecraft 1.20.4.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-02-12T22:45:33Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.13.0-beta.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.13.0-beta.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/141707350",
+      "createdAt": "2024-02-12T22:41:29Z"
+    },
+    {
+      "id": "gx6X1mWN",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.13.0-beta.1",
+      "changelog": "### Added\n\n-   Ported to Minecraft 1.20.4.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "571d7a0da1f483f207397846c2ea6f356bcf6156ddf4b47159cd44cdf7065b499f9e33ebd4bea25cb404af20ee943da29b3a2c483ff305fd0c42268ae18738b8",
+            "sha1": "7017b40194f456534403483577547fc7a400affe"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/gx6X1mWN/refinedstorage-1.13.0-beta.1.jar",
+          "filename": "refinedstorage-1.13.0-beta.1.jar",
+          "primary": true,
+          "size": 3225581
+        }
+      ],
+      "gameVersions": [
+        "1.20.4"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.13.0-beta.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/gx6X1mWN",
+      "createdAt": "2024-02-12T22:48:50Z"
+    },
+    {
+      "id": 5103189,
+      "dateModified": "2024-02-12T23:02:03Z",
+      "fileLength": 3225581,
+      "fileName": "refinedstorage-1.13.0-beta.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 17",
+        "NeoForge",
+        "1.20.4"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/5103189",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/5103189",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/5103189",
+      "createdAt": "2024-02-12T22:49:10Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 2
+      },
+      {
+        "source": "modrinth",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 8
+  }
+}
