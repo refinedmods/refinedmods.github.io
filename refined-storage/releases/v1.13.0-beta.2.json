@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.13.0-beta.2.json",
+  "name": "v1.13.0-beta.2",
+  "indexedAt": "2024-02-17T00:40:32Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 142333814,
+      "nodeId": "RE_kwDOAtXBQM4Ie9d2",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.13.0-beta.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/142333814/assets",
+      "assets": [
+        {
+          "id": 151917324,
+          "nodeId": "RA_kwDOAtXBQM4JDhMM",
+          "name": "refinedstorage-1.13.0-beta.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3225623,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.13.0-beta.2/refinedstorage-1.13.0-beta.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/142333814/assets{?name,label}",
+      "tagName": "v1.13.0-beta.2",
+      "targetCommitish": "28283035b308b32c84fdde681e8955cb6979a5c3",
+      "body": "### Fixed\n\n-   Fixed JEI transfer in the Pattern Grid wrongly choosing \"Processing\" mode.\n-   Fixed JEI transfer not working in single player.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-02-16T14:17:02Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.13.0-beta.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.13.0-beta.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/142333814",
+      "createdAt": "2024-02-16T14:13:00Z"
+    },
+    {
+      "id": "D7iX5EWz",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.13.0-beta.2",
+      "changelog": "### Fixed\n\n-   Fixed JEI transfer in the Pattern Grid wrongly choosing \"Processing\" mode.\n-   Fixed JEI transfer not working in single player.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "2a9b4b5e5668828ecfe10a00c0a0178108768af1de11982d58db4a480ac30444ec74ef2752525c0d694a679600c0dc04140438cd5756de8f4f4c0e1526061646",
+            "sha1": "58fe905c90c09037711b833ca28a846cf8f044bb"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/D7iX5EWz/refinedstorage-1.13.0-beta.2.jar",
+          "filename": "refinedstorage-1.13.0-beta.2.jar",
+          "primary": true,
+          "size": 3225623
+        }
+      ],
+      "gameVersions": [
+        "1.20.4"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.13.0-beta.2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/D7iX5EWz",
+      "createdAt": "2024-02-16T14:20:30Z"
+    },
+    {
+      "id": 5112710,
+      "dateModified": "2024-02-16T14:28:19Z",
+      "fileLength": 3225623,
+      "fileName": "refinedstorage-1.13.0-beta.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 17",
+        "NeoForge",
+        "1.20.4"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/5112710",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/5112710",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/5112710",
+      "createdAt": "2024-02-16T14:20:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 3
+      },
+      {
+        "source": "modrinth",
+        "downloads": 8
+      },
+      {
+        "source": "curseforge",
+        "downloads": 30
+      }
+    ],
+    "totalDownloads": 41
+  }
+}

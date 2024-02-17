@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage-addons/releases/v0.11.0.json",
+  "name": "v0.11.0",
+  "indexedAt": "2024-02-17T00:41:16Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 142351842,
+      "nodeId": "RE_kwDOBc8fRM4IfB3i",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/tag/v0.11.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/142351842/assets",
+      "assets": [
+        {
+          "id": 151928710,
+          "nodeId": "RA_kwDOBc8fRM4JDj-G",
+          "name": "refinedstorageaddons-0.11.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 32557,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.11.0/refinedstorageaddons-0.11.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorageaddons/releases/142351842/assets{?name,label}",
+      "tagName": "v0.11.0",
+      "targetCommitish": "38587648de64c9904fc1c0b084cdf9d8d9db39ef",
+      "body": "### Changed\n\n-   Ported to Minecraft 1.20.4.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-02-16T15:22:46Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.11.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.11.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorageaddons/releases/142351842",
+      "createdAt": "2024-02-16T15:18:52Z"
+    },
+    {
+      "id": 5112820,
+      "dateModified": "2024-02-16T15:33:06Z",
+      "fileLength": 32557,
+      "fileName": "refinedstorageaddons-0.11.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 17",
+        "NeoForge",
+        "1.20.4"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/download/5112820",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/5112820",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/272302/files/5112820",
+      "createdAt": "2024-02-16T15:25:48Z"
+    },
+    {
+      "id": "QvbOfe9z",
+      "projectId": "Z4Z5ccuT",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "0.11.0",
+      "changelog": "### Changed\n\n-   Ported to Minecraft 1.20.4.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "77fdee9866f30e037483c61071235b7689ab4d353ba8f4bc94cc712712304d169c5b395b4e68bb1a99b1343a11b8532df1cfd10c4e2e6d2cbc09d1d898903d7b",
+            "sha1": "880441abdacf689a4ea53990f3c81cd8ceb119ea"
+          },
+          "url": "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/QvbOfe9z/refinedstorageaddons-0.11.0.jar",
+          "filename": "refinedstorageaddons-0.11.0.jar",
+          "primary": true,
+          "size": 32557
+        }
+      ],
+      "gameVersions": [
+        "1.20.4"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.11.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/QvbOfe9z",
+      "createdAt": "2024-02-16T15:25:57Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 3
+      },
+      {
+        "source": "curseforge",
+        "downloads": 25
+      },
+      {
+        "source": "modrinth",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 34
+  }
+}
