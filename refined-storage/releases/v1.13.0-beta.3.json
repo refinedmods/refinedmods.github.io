@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.13.0-beta.3.json",
+  "name": "v1.13.0-beta.3",
+  "indexedAt": "2024-03-06T00:41:23Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 144878893,
+      "nodeId": "RE_kwDOAtXBQM4Ioq0t",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.13.0-beta.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/144878893/assets",
+      "assets": [
+        {
+          "id": 155027920,
+          "nodeId": "RA_kwDOAtXBQM4JPYnQ",
+          "name": "refinedstorage-1.13.0-beta.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3225646,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.13.0-beta.3/refinedstorage-1.13.0-beta.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/144878893/assets{?name,label}",
+      "tagName": "v1.13.0-beta.3",
+      "targetCommitish": "5170ec4e5e4044dabc17b4082e7b57961b1c128c",
+      "body": "### Fixed\n\n-   Fixed items in disks deserializing with an empty NBT tag.\n-   Fixed placing fluids in the pattern grid disconnecting the client.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-03-05T14:33:29Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.13.0-beta.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.13.0-beta.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/144878893",
+      "createdAt": "2024-03-05T14:29:21Z"
+    },
+    {
+      "id": 5159837,
+      "dateModified": "2024-03-05T14:44:28Z",
+      "fileLength": 3225646,
+      "fileName": "refinedstorage-1.13.0-beta.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 17",
+        "NeoForge",
+        "1.20.4"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/5159837",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/5159837",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/5159837",
+      "createdAt": "2024-03-05T14:36:42Z"
+    },
+    {
+      "id": "rxLqtfB4",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.13.0-beta.3",
+      "changelog": "### Fixed\n\n-   Fixed items in disks deserializing with an empty NBT tag.\n-   Fixed placing fluids in the pattern grid disconnecting the client.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "75432049469db5359328d66b8ca3f07338941f0377f5398b88646ff239cde0af0fbe08f73b7adb780a374f7bd27526c5b4bc021b43c1262106f355cedc936cf1",
+            "sha1": "613335ca4593553ee2e51d35f63abb792f6042b4"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/rxLqtfB4/refinedstorage-1.13.0-beta.3.jar",
+          "filename": "refinedstorage-1.13.0-beta.3.jar",
+          "primary": true,
+          "size": 3225646
+        }
+      ],
+      "gameVersions": [
+        "1.20.4"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.13.0-beta.3",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/rxLqtfB4",
+      "createdAt": "2024-03-05T14:37:08Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 4
+      },
+      {
+        "source": "curseforge",
+        "downloads": 34
+      },
+      {
+        "source": "modrinth",
+        "downloads": 7
+      }
+    ],
+    "totalDownloads": 45
+  }
+}
