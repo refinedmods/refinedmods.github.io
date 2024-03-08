@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v1.13.0-beta.4.json",
+  "name": "v1.13.0-beta.4",
+  "indexedAt": "2024-03-08T00:41:17Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 145340793,
+      "nodeId": "RE_kwDOAtXBQM4Iqbl5",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.13.0-beta.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/145340793/assets",
+      "assets": [
+        {
+          "id": 155481160,
+          "nodeId": "RA_kwDOAtXBQM4JRHRI",
+          "name": "refinedstorage-1.13.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3231295,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.13.0-beta.4/refinedstorage-1.13.0-beta.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/145340793/assets{?name,label}",
+      "tagName": "v1.13.0-beta.4",
+      "targetCommitish": "69889748248aafedb7419efcb2dd526a9ac3390e",
+      "body": "### Added\n\n-   Added Hungarian translation.\n\n### Fixed\n\n-   Fixed an error that occurred when targeting the crafter with Jade installed",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-03-07T20:03:46Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.13.0-beta.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.13.0-beta.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/145340793",
+      "createdAt": "2024-03-07T19:59:31Z"
+    },
+    {
+      "id": 5165548,
+      "dateModified": "2024-03-07T20:11:34Z",
+      "fileLength": 3231295,
+      "fileName": "refinedstorage-1.13.0-beta.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 17",
+        "NeoForge",
+        "1.20.4"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/5165548",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/5165548",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/5165548",
+      "createdAt": "2024-03-07T20:07:05Z"
+    },
+    {
+      "id": "9qoWFpaq",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.13.0-beta.4",
+      "changelog": "### Added\n\n-   Added Hungarian translation.\n\n### Fixed\n\n-   Fixed an error that occurred when targeting the crafter with Jade installed",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "88bdd4f6776595a2abed319809f07bca9f7f9ff4a0db45356a5c132cb2fd31c23323c6b6ac5b69392510cdbf81222aa08d105ceb84a5adeab111c385a001f4aa",
+            "sha1": "9ec16b8ae3ce1b6695a51d0a7ce7e566ef28f6fb"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/9qoWFpaq/refinedstorage-1.13.0-beta.4.jar",
+          "filename": "refinedstorage-1.13.0-beta.4.jar",
+          "primary": true,
+          "size": 3231295
+        }
+      ],
+      "gameVersions": [
+        "1.20.4"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.13.0-beta.4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/9qoWFpaq",
+      "createdAt": "2024-03-07T20:07:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 3
+      },
+      {
+        "source": "curseforge",
+        "downloads": 21
+      },
+      {
+        "source": "modrinth",
+        "downloads": 2
+      }
+    ],
+    "totalDownloads": 26
+  }
+}
