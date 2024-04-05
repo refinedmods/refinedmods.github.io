@@ -1,0 +1,191 @@
+{
+  "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.3.5.json",
+  "name": "v2.0.0-milestone.3.5",
+  "indexedAt": "2024-04-05T00:43:01Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 149805729,
+      "nodeId": "RE_kwDOEkvWPM4I7dqh",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-milestone.3.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/149805729/assets",
+      "assets": [
+        {
+          "id": 160315833,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm5",
+          "name": "refinedstorage2-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315829,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm1",
+          "name": "refinedstorage2-core-api-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8436,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-core-api-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315832,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm4",
+          "name": "refinedstorage2-grid-api-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33315,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-grid-api-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315830,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm2",
+          "name": "refinedstorage2-network-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 86296,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-network-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315831,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm3",
+          "name": "refinedstorage2-network-api-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24175,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-network-api-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315842,
+          "nodeId": "RA_kwDOEkvWPM4JjjnC",
+          "name": "refinedstorage2-network-test-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 26478,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-network-test-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315836,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm8",
+          "name": "refinedstorage2-platform-api-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 90848,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-platform-api-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315834,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm6",
+          "name": "refinedstorage2-platform-common-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2236995,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-platform-common-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315840,
+          "nodeId": "RA_kwDOEkvWPM4JjjnA",
+          "name": "refinedstorage2-platform-fabric-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3849421,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-platform-fabric-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315835,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm7",
+          "name": "refinedstorage2-platform-forge-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2881749,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-platform-forge-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315837,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm9",
+          "name": "refinedstorage2-platform-test-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2727,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-platform-test-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315838,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm-",
+          "name": "refinedstorage2-query-parser-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28867,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-query-parser-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315839,
+          "nodeId": "RA_kwDOEkvWPM4Jjjm_",
+          "name": "refinedstorage2-resource-api-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 15720,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-resource-api-2.0.0-milestone.3.5.jar"
+        },
+        {
+          "id": 160315841,
+          "nodeId": "RA_kwDOEkvWPM4JjjnB",
+          "name": "refinedstorage2-storage-api-2.0.0-milestone.3.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 41660,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-storage-api-2.0.0-milestone.3.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/149805729/assets{?name,label}",
+      "tagName": "v2.0.0-milestone.3.5",
+      "targetCommitish": "697fb1235c2eab7f0c318ea578e7a5cb0d758b32",
+      "body": "### Added\n\n-   Security Card\n-   Fallback Security Card\n-   Security Manager\n\n### Changed\n\n-   The permissions for a Security Card must be configured through the card itself, instead of via the Security Manager.\n-   The Security Card can be bound to other (currently online) players via its GUI.\n-   The binding of a Security Card can now be cleared.\n-   The Security Card tooltip and GUI now show whether the permission has been touched/changed in any way.\n-   As soon as a Security Manager is placed, the storage network will be locked down by default. Start adding Security Cards to allow or deny specific access to players.\n-   To not lock the entire network by default for players who do not have a matching Security Card, a Fallback Security Card can be used to configure this behavior.\n-   Smooth scrolling, screen size and max row stretch are no longer Grid-specific settings, but are now global settings.\n\n### Fixed\n\n-   Wireless Grid name not being correct in the GUI.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-04-04T16:08:50Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.3.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.3.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/149805729",
+      "createdAt": "2024-04-04T15:57:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 13
+      }
+    ],
+    "totalDownloads": 13
+  }
+}
