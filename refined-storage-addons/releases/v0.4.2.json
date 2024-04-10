@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.2.json",
   "name": "v0.4.2",
-  "indexedAt": "2024-04-09T12:17:52Z",
+  "indexedAt": "2024-04-10T00:42:22Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 26524,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.4.2/refinedstorageaddons-0.4.2.jar"
         }
       ],
@@ -95,17 +95,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 0
+        "downloads": 1
       },
       {
         "source": "curseforge",
-        "downloads": 1202346
+        "downloads": 1202369
       },
       {
         "source": "modrinth",
         "downloads": 18
       }
     ],
-    "totalDownloads": 1202364
+    "totalDownloads": 1202388
   }
 }
