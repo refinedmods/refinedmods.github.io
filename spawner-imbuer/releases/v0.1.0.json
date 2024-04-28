@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/spawner-imbuer/releases/v0.1.0.json",
   "name": "v0.1.0",
-  "indexedAt": "2024-04-28T00:47:50Z",
+  "indexedAt": "2024-04-28T12:17:49Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -44,7 +44,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 5896,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/spawnerimbuer/releases/download/v0.1.0/spawnerimbuer-0.1.jar"
         }
       ],
@@ -99,17 +99,17 @@
     "downloads": [
       {
         "source": "curseforge",
-        "downloads": 13836
+        "downloads": 13839
       },
       {
         "source": "github",
-        "downloads": 0
+        "downloads": 1
       },
       {
         "source": "modrinth",
         "downloads": 72
       }
     ],
-    "totalDownloads": 13908
+    "totalDownloads": 13912
   }
 }
