@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.20.json",
   "name": "v1.5.20",
-  "indexedAt": "2024-05-12T00:48:51Z",
+  "indexedAt": "2024-05-12T12:18:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 1703415,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.20/refinedstorage-1.5.20.jar"
         }
       ],
@@ -100,7 +100,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "source": "curseforge",
@@ -111,6 +111,6 @@
         "downloads": 5
       }
     ],
-    "totalDownloads": 37337
+    "totalDownloads": 37338
   }
 }
