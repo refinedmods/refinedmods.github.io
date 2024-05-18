@@ -1,0 +1,191 @@
+{
+  "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.3.6.json",
+  "name": "v2.0.0-milestone.3.6",
+  "indexedAt": "2024-05-18T12:17:43Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 156365190,
+      "nodeId": "RE_kwDOEkvWPM4JUfGG",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-milestone.3.6",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/156365190/assets",
+      "assets": [
+        {
+          "id": 168667232,
+          "nodeId": "RA_kwDOEkvWPM4KDahg",
+          "name": "refinedstorage2-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667231,
+          "nodeId": "RA_kwDOEkvWPM4KDahf",
+          "name": "refinedstorage2-core-api-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8464,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-core-api-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667233,
+          "nodeId": "RA_kwDOEkvWPM4KDahh",
+          "name": "refinedstorage2-grid-api-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33315,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-grid-api-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667235,
+          "nodeId": "RA_kwDOEkvWPM4KDahj",
+          "name": "refinedstorage2-network-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 95752,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-network-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667234,
+          "nodeId": "RA_kwDOEkvWPM4KDahi",
+          "name": "refinedstorage2-network-api-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24947,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-network-api-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667239,
+          "nodeId": "RA_kwDOEkvWPM4KDahn",
+          "name": "refinedstorage2-network-test-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 30987,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-network-test-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667242,
+          "nodeId": "RA_kwDOEkvWPM4KDahq",
+          "name": "refinedstorage2-platform-api-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 93735,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-platform-api-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667236,
+          "nodeId": "RA_kwDOEkvWPM4KDahk",
+          "name": "refinedstorage2-platform-common-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2363964,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-platform-common-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667238,
+          "nodeId": "RA_kwDOEkvWPM4KDahm",
+          "name": "refinedstorage2-platform-fabric-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3992962,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-platform-fabric-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667243,
+          "nodeId": "RA_kwDOEkvWPM4KDahr",
+          "name": "refinedstorage2-platform-forge-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3025494,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-platform-forge-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667237,
+          "nodeId": "RA_kwDOEkvWPM4KDahl",
+          "name": "refinedstorage2-platform-test-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2727,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-platform-test-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667241,
+          "nodeId": "RA_kwDOEkvWPM4KDahp",
+          "name": "refinedstorage2-query-parser-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28867,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-query-parser-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667244,
+          "nodeId": "RA_kwDOEkvWPM4KDahs",
+          "name": "refinedstorage2-resource-api-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 15720,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-resource-api-2.0.0-milestone.3.6.jar"
+        },
+        {
+          "id": 168667240,
+          "nodeId": "RA_kwDOEkvWPM4KDaho",
+          "name": "refinedstorage2-storage-api-2.0.0-milestone.3.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 42677,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-storage-api-2.0.0-milestone.3.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/156365190/assets{?name,label}",
+      "tagName": "v2.0.0-milestone.3.6",
+      "targetCommitish": "d1b7e72b8c72642464aa865310aa61100163b58c",
+      "body": "### Added\n\n-   Relay\n\n### Changed\n\n-   The Detector, Network Receiver, Network Transmitter and Security Manager will now always connect regardless of color.\n-   The Relay now has a \"pass-through\" mode. By default, pass-through is on, which means that when the Relay is active, the network signal from the input network will be passed through as-is to the output side.\n-   When the \"pass-through\" mode on the Relay is off, the network signal from the input network will no longer be passed through as-is to the output side, but you can choose to pass the energy buffer, security settings or (specific) storage resources of the input network to the output network.\n-   When using the Relay when \"pass-through\" mode is off, and when passing all storage resources or specific storage resources, you can choose the filter mode, whether fuzzy mode is enabled, the access mode and the priority of the storage exposed to the output network.\n\n### Fixed\n\n-   Double slot highlighting in the Grid.\n-   Improved data corruption protection for storages.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-05-18T10:00:38Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.3.6",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.3.6",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/156365190",
+      "createdAt": "2024-05-18T09:49:48Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 0
+  }
+}
