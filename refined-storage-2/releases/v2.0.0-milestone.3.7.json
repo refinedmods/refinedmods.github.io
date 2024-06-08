@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.3.7.json",
   "name": "v2.0.0-milestone.3.7",
-  "indexedAt": "2024-06-07T12:20:53Z",
+  "indexedAt": "2024-06-08T00:47:06Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 2348145,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.7/refinedstorage2-platform-common-2.0.0-milestone.3.7.jar"
         },
         {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3976543,
-          "downloadCount": 8,
+          "downloadCount": 11,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.7/refinedstorage2-platform-fabric-2.0.0-milestone.3.7.jar"
         },
         {
@@ -183,9 +183,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 27
+        "downloads": 31
       }
     ],
-    "totalDownloads": 27
+    "totalDownloads": 31
   }
 }
