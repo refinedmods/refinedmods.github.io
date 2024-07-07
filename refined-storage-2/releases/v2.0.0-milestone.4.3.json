@@ -1,0 +1,180 @@
+{
+  "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.4.3.json",
+  "name": "v2.0.0-milestone.4.3",
+  "indexedAt": "2024-07-07T00:54:08Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 164272810,
+      "nodeId": "RE_kwDOEkvWPM4Jypqq",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-milestone.4.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/164272810/assets",
+      "assets": [
+        {
+          "id": 178102185,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-p",
+          "name": "refinedstorage-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102186,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-q",
+          "name": "refinedstorage-core-api-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8482,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-core-api-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102189,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-t",
+          "name": "refinedstorage-grid-api-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33284,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-grid-api-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102184,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-o",
+          "name": "refinedstorage-network-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 100697,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-network-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102190,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-u",
+          "name": "refinedstorage-network-api-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24793,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-network-api-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102193,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-x",
+          "name": "refinedstorage-network-test-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 31278,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-network-test-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102183,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-n",
+          "name": "refinedstorage-platform-api-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 96915,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-platform-api-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102187,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-r",
+          "name": "refinedstorage-platform-common-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2554278,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-platform-common-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102195,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-z",
+          "name": "refinedstorage-platform-fabric-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4082436,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-platform-fabric-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102192,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-w",
+          "name": "refinedstorage-platform-neoforge-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3151970,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-platform-neoforge-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102188,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-s",
+          "name": "refinedstorage-query-parser-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 29238,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-query-parser-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102194,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-y",
+          "name": "refinedstorage-resource-api-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 15800,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-resource-api-2.0.0-milestone.4.3.jar"
+        },
+        {
+          "id": 178102191,
+          "nodeId": "RA_kwDOEkvWPM4KnZ-v",
+          "name": "refinedstorage-storage-api-2.0.0-milestone.4.3.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 42823,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.3/refinedstorage-storage-api-2.0.0-milestone.4.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/164272810/assets{?name,label}",
+      "tagName": "v2.0.0-milestone.4.3",
+      "targetCommitish": "d099244ce45ad9fefdc55cbf41caf58a0ccbfd41",
+      "body": "### Added\n\n-   Ability to open Portable Grid with a keybinding.\n\n### Fixed\n\n-   Fixed Relay model not being able to load correctly.\n-   Fixed not being able to ghost drag resources from recipe viewers into filter slots on NeoForge.\n-   Fixed extra dark backgrounds due to drawing background on GUIs twice.\n-   Fixed Configuration Card not being able to transfer upgrades for the Wireless Transmitter.\n-   Fixed upgrade inventories not maintaining order after reloading. Upgrade inventories from the milestone 4.2 are incompatible and will be empty.\n-   Fixed Wireless Transmitter not dropping upgrades when breaking block.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-07-06T23:51:19Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/164272810",
+      "createdAt": "2024-07-06T23:42:28Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 0
+  }
+}

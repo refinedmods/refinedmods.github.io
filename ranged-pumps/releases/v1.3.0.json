@@ -1,0 +1,113 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v1.3.0.json",
+  "name": "v1.3.0",
+  "indexedAt": "2024-07-07T00:54:22Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 164262939,
+      "nodeId": "RE_kwDOA8bqCc4JynQb",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v1.3.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/164262939/assets",
+      "assets": [
+        {
+          "id": 178057907,
+          "nodeId": "RA_kwDOA8bqCc4KnPKz",
+          "name": "rangedpumps-1.3.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 25483,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v1.3.0/rangedpumps-1.3.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/164262939/assets{?name,label}",
+      "tagName": "v1.3.0",
+      "targetCommitish": "58aaea64af18421613df873ea7f9e9252997fff9",
+      "body": "### Changed\n\n-   Ported to Minecraft 1.21.\n-   Korean translation updated by [@gisellevonbingen](https://github.com/gisellevonbingen).",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-07-06T16:47:57Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v1.3.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v1.3.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/164262939",
+      "createdAt": "2024-07-06T16:47:00Z"
+    },
+    {
+      "id": 5508029,
+      "dateModified": "2024-07-06T16:53:23Z",
+      "fileLength": 25483,
+      "fileName": "rangedpumps-1.3.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "Java 21",
+        "1.21"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/5508029",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/5508029",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/5508029",
+      "createdAt": "2024-07-06T16:48:19Z"
+    },
+    {
+      "id": "UXBUFwl2",
+      "projectId": "ceOkTRlU",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.3.0",
+      "changelog": "### Changed\n\n-   Ported to Minecraft 1.21.\n-   Korean translation updated by [@gisellevonbingen](https://github.com/gisellevonbingen).",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "eaa65b987597e65f32349ae7301454fe84c7d77bb5c590673f7c71fc1431834c2963e565a50bdbfbae3c30f73c921b699a85a272c97198b16d409bb7600d1f95",
+            "sha1": "0e843f98e15bdab1945372c0d1f106300b4fc0f3"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/UXBUFwl2/rangedpumps-1.3.0.jar",
+          "filename": "rangedpumps-1.3.0.jar",
+          "primary": true,
+          "size": 25483
+        }
+      ],
+      "gameVersions": [
+        "1.21"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/1.3.0",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/UXBUFwl2",
+      "createdAt": "2024-07-06T16:57:09Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "curseforge",
+        "downloads": 47
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      }
+    ],
+    "totalDownloads": 51
+  }
+}
