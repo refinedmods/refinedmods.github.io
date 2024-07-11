@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-2/releases.json",
   "name": "Refined Storage 2",
-  "indexedAt": "2024-07-10T12:20:30Z",
+  "indexedAt": "2024-07-11T00:49:53Z",
   "releases": [
     {
       "name": "v2.0.0-milestone.1.0",
@@ -353,15 +353,24 @@
         "https://api.github.com/repos/refinedmods/refinedstorage2/releases/164272810"
       ],
       "createdAt": "2024-07-06T23:42:28Z"
+    },
+    {
+      "name": "v2.0.0-milestone.4.4",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.4.4.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/164867744"
+      ],
+      "createdAt": "2024-07-10T19:12:52Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 11433
+        "downloads": 11453
       }
     ],
-    "totalDownloads": 11433
+    "totalDownloads": 11453
   }
 }
