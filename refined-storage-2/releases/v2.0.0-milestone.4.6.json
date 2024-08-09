@@ -1,0 +1,202 @@
+{
+  "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.4.6.json",
+  "name": "v2.0.0-milestone.4.6",
+  "indexedAt": "2024-08-09T00:52:05Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 169360897,
+      "nodeId": "RE_kwDOEkvWPM4KGD4B",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-milestone.4.6",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/169360897/assets",
+      "assets": [
+        {
+          "id": 184716354,
+          "nodeId": "RA_kwDOEkvWPM4LAoxC",
+          "name": "refinedstorage-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716362,
+          "nodeId": "RA_kwDOEkvWPM4LAoxK",
+          "name": "refinedstorage-common-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2825448,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-common-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716352,
+          "nodeId": "RA_kwDOEkvWPM4LAoxA",
+          "name": "refinedstorage-common-api-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 102642,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-common-api-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716350,
+          "nodeId": "RA_kwDOEkvWPM4LAow-",
+          "name": "refinedstorage-core-api-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8944,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-core-api-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716353,
+          "nodeId": "RA_kwDOEkvWPM4LAoxB",
+          "name": "refinedstorage-fabric-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4374978,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-fabric-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716357,
+          "nodeId": "RA_kwDOEkvWPM4LAoxF",
+          "name": "refinedstorage-fabric-api-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4733,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-fabric-api-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716351,
+          "nodeId": "RA_kwDOEkvWPM4LAow_",
+          "name": "refinedstorage-grid-api-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33020,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-grid-api-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716361,
+          "nodeId": "RA_kwDOEkvWPM4LAoxJ",
+          "name": "refinedstorage-neoforge-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3440369,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-neoforge-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716363,
+          "nodeId": "RA_kwDOEkvWPM4LAoxL",
+          "name": "refinedstorage-neoforge-api-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3828,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-neoforge-api-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716358,
+          "nodeId": "RA_kwDOEkvWPM4LAoxG",
+          "name": "refinedstorage-network-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 100279,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-network-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716356,
+          "nodeId": "RA_kwDOEkvWPM4LAoxE",
+          "name": "refinedstorage-network-api-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24711,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-network-api-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716360,
+          "nodeId": "RA_kwDOEkvWPM4LAoxI",
+          "name": "refinedstorage-network-test-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 30819,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-network-test-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716359,
+          "nodeId": "RA_kwDOEkvWPM4LAoxH",
+          "name": "refinedstorage-query-parser-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 29256,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-query-parser-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716355,
+          "nodeId": "RA_kwDOEkvWPM4LAoxD",
+          "name": "refinedstorage-resource-api-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 17591,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-resource-api-2.0.0-milestone.4.6.jar"
+        },
+        {
+          "id": 184716364,
+          "nodeId": "RA_kwDOEkvWPM4LAoxM",
+          "name": "refinedstorage-storage-api-2.0.0-milestone.4.6.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 42408,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-storage-api-2.0.0-milestone.4.6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/169360897/assets{?name,label}",
+      "tagName": "v2.0.0-milestone.4.6",
+      "targetCommitish": "2f97ae8c49a6ed3d1512420ae1205ef0bb4a8c76",
+      "body": "### Added\r\n\r\n-   Pattern Grid\r\n-   Pattern\r\n\r\n### Changed\r\n\r\n-   The Pattern now shows the recipe in the tooltip.\r\n-   When a Pattern is created for a recipe, the Pattern will have a different texture and name to differentiate between empty patterns.\r\n-   The Pattern Grid now has additional support for encoding stonecutter and smithing table recipes.\r\n-   The Pattern output is now always rendered in the Pattern Grid result slot.\r\n-   You can now search in the Pattern Grid alternatives screen.\r\n-   In the Pattern Grid alternatives screen, all resources belonging to a tag or no longer shown at once. You can expand or collapse them.\r\n-   The tag names in the Pattern Grid alternatives screen will now be translated.\r\n-   \"Exact mode\" in the Pattern Grid has been replaced with \"Fuzzy mode\" (inverse).\r\n\r\n### Fixed\r\n\r\n-   Clicking on a scrollbar no longer makes a clicking sound.\r\n-   Incorrect and outdated (mentioning NBT tags) help explanations for fuzzy mode.\r\n-   Amount screen allowing more than the maximum for fluids.\r\n-   Potential text overflow in the Grid for localization with long \"Grid\" text.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-08-08T15:39:32Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.6",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.6",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/169360897",
+      "createdAt": "2024-08-08T15:28:59Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 4
+      }
+    ],
+    "totalDownloads": 4
+  }
+}
