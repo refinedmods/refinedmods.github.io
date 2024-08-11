@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v1.3.0.json",
   "name": "v1.3.0",
-  "indexedAt": "2024-08-10T12:19:26Z",
+  "indexedAt": "2024-08-11T00:56:02Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 25483,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v1.3.0/rangedpumps-1.3.0.jar"
         }
       ],
@@ -37,14 +37,15 @@
     },
     {
       "id": 5508029,
-      "dateModified": "2024-07-06T16:53:23Z",
+      "dateModified": "2024-08-10T18:14:53Z",
       "fileLength": 25483,
       "fileName": "rangedpumps-1.3.0.jar",
       "status": "APPROVED",
       "gameVersions": [
         "NeoForge",
         "Java 21",
-        "1.21"
+        "1.21",
+        "1.21.1"
       ],
       "releaseType": "RELEASE",
       "user": {
@@ -97,17 +98,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "source": "curseforge",
-        "downloads": 143211
+        "downloads": 147974
       },
       {
         "source": "modrinth",
         "downloads": 34
       }
     ],
-    "totalDownloads": 143246
+    "totalDownloads": 148010
   }
 }
