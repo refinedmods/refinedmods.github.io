@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html layout:decorate="~{layout.html}">
+<head>
+    <title th:utext="${title}"></title>
+</head>
+<body>
+<div layout:fragment="content">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb breadcrumb-chevron p-3 bg-body-tertiary rounded-3">
+            <li class="breadcrumb-item">
+                <a class="link-body-emphasis fw-semibold text-decoration-none"
+                   th:href="@{'./' + ${currentComponent.slug} + '/' + ${currentComponent.latest ? '' : currentComponent.version.friendlyName() + '/'} + '/news/index.html'}">
+                    <i class="bi bi-newspaper"></i>
+                    <span>News</span>
+                </a>
+            </li>
+            <li class="breadcrumb-item active">
+                <span th:utext="${title}"></span>
+            </li>
+        </ol>
+    </nav>
+    <main class="main-content">
+        <div class="mb-2 text-body-secondary">
+            <i class="bi bi-clock"></i> <span th:text="${#temporals.format(date, 'yyyy-MM-dd')}"></span>
+        </div>
+        <h2 class="h5" th:text="${description}"></h2>
+        <div th:utext="${content}" th:remove="tag">
+        </div>
+    </main>
+</div>
+</body>
+</html>
