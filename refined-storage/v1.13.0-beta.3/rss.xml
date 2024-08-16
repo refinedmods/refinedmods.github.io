@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel rdf:about="https://refinedmods.com/refined-storage/v1.13.0-beta.3/rss.xml">
     <title>Refined Storage news</title>
     <link>https://refinedmods.com/refined-storage/v1.13.0-beta.3/rss.xml</link>
     <description>The latest news about Refined Storage</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li />
+      </rdf:Seq>
+    </items>
   </channel>
+  <item rdf:about="https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20240815-hello-world.html">
+    <title>Hello World</title>
+    <link>https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20240815-hello-world.html</link>
+    <description>Just setting the news page up.</description>
+    <dc:date>2024-08-15T00:00:00Z</dc:date>
+  </item>
 </rdf:RDF>
