@@ -1,4 +1,4 @@
-$refinedSitesVersion = "0.4.0"
+$refinedSitesVersion = "0.0.0"
 
 # Remove directories and files if they exist
 Remove-Item -Recurse -Force gh-* 2>$null
@@ -18,7 +18,7 @@ Get-Content .env | ForEach-Object {
 }
 
 # Run the Java application
-java -jar "refinedsites-$refinedSitesVersion-all.jar" .
+java -jar "refinedsites-$refinedSitesVersion-all.jar" . playbook-local.json
 
 # Run the npm build command
 npm run build

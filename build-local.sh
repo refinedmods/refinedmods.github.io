@@ -1,4 +1,4 @@
-refinedSitesVersion="0.4.0"
+refinedSitesVersion="0.0.0"
 
 rm -rf gh-*
 rm -rf dist/

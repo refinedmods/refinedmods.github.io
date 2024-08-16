@@ -5,9 +5,3 @@ This is the repository that contains [the website](https://refinedmods.com) of R
 The website is built and published twice a day.
 
 This uses [refinedsites](https://github.com/refinedmods/refinedsites), a static site generator.
-
-## Building locally
-
-- Create an `.env` file containing a `GITHUB_TOKEN` environment variable.
-- Run `build-local.sh`.
-- The output will be in the `dist/` folder.
