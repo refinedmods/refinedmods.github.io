@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build \"output/**/**.html\" \"output/**/**.json\" \"output/**/**.xml\" \"output/robots.txt\""
+    "build": "parcel build \"output/**/**.html\" \"output/**/**.json\" \"output/**/**.xml\" \"output/robots.txt\"",
+    "serve": "http-server dist/"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +13,7 @@
   "devDependencies": {
     "@parcel/packager-xml": "^2.10.3",
     "@parcel/transformer-sass": "^2.10.3",
+    "http-server": "^14.1.1",
     "parcel": "^2.10.3"
   },
   "dependencies": {
