@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build 'output/**/**.html' 'output/**/**.json' 'output/**/**.xml' 'output/robots.txt'"
+    "build": "parcel build \"output/**/**.html\" \"output/**/**.json\" \"output/**/**.xml\" \"output/robots.txt\""
   },
   "keywords": [],
   "author": "",
