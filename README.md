@@ -4,4 +4,4 @@ This is the repository that contains [the website](https://refinedmods.com) of R
 
 The website is built and published twice a day.
 
-This uses [refinedsites](https://github.com/refinedmods/refinedsites), a static site generator.
+This uses [Refined Sites](https://github.com/refinedmods/refinedsites), a static site generator.
