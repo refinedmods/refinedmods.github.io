@@ -7,13 +7,48 @@
     <items>
       <rdf:Seq>
         <rdf:li />
+        <rdf:li />
+        <rdf:li />
+        <rdf:li />
+        <rdf:li />
+        <rdf:li />
       </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20240815-hello-world.html">
-    <title>Hello World</title>
-    <link>https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20240815-hello-world.html</link>
-    <description>Just setting the news page up.</description>
-    <dc:date>2024-08-15T00:00:00Z</dc:date>
+  <item rdf:about="https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20240628-refined-storage-2-milestone-3-completed.html">
+    <title>Refined Storage 2 - milestone 3 completed!</title>
+    <link>https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20240628-refined-storage-2-milestone-3-completed.html</link>
+    <description>Milestone 3 for Refined Storage 2 has been completed.</description>
+    <dc:date>2024-06-28T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20240319-refined-storage-2-status-update-march.html">
+    <title>Refined Storage 2 status update - March 2024</title>
+    <link>https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20240319-refined-storage-2-status-update-march.html</link>
+    <description>A status update on the development of Refined Storage 2.</description>
+    <dc:date>2024-03-19T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20230819-refined-storage-2-milestone-2-completed.html">
+    <title>Refined Storage 2 - milestone 2 completed!</title>
+    <link>https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20230819-refined-storage-2-milestone-2-completed.html</link>
+    <description>Milestone 2 for Refined Storage 2 has been completed.</description>
+    <dc:date>2023-08-19T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20230707-a-week-of-modding.html">
+    <title>A week of modding</title>
+    <link>https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20230707-a-week-of-modding.html</link>
+    <description>A week of modding for Refined Storage 1.x, Refined Storage Addons, and Ranged Pumps.</description>
+    <dc:date>2023-07-07T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20220704-a-big-milestone-for-refined-storage-2.html">
+    <title>A big milestone for Refined Storage 2</title>
+    <link>https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20220704-a-big-milestone-for-refined-storage-2.html</link>
+    <description>The first milestone for Refined Storage 2 has been completed.</description>
+    <dc:date>2022-07-04T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20210518-announcing-refined-storage-2.html">
+    <title>Announcing Refined Storage 2</title>
+    <link>https://refinedmods.com/refined-storage/v1.13.0-beta.3/news/20210518-announcing-refined-storage-2.html</link>
+    <description>A new major version of Refined Storage is in the works.</description>
+    <dc:date>2021-05-18T00:00:00Z</dc:date>
   </item>
 </rdf:RDF>
