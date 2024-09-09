@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.10.2.json",
   "name": "v1.10.2",
-  "indexedAt": "2024-09-08T12:19:18Z",
+  "indexedAt": "2024-09-09T00:55:24Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -34,6 +34,31 @@
       "source": "github",
       "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/62839865",
       "createdAt": "2022-03-26T11:44:39Z"
+    },
+    {
+      "id": 3712882,
+      "dateModified": "2022-03-26T12:53:19Z",
+      "fileLength": 3235367,
+      "fileName": "refinedstorage-1.10.2.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.18.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3712882",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3712882",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3712882",
+      "createdAt": "2022-03-26T12:49:08Z"
     },
     {
       "id": "DlxhxAMG",
@@ -74,10 +99,14 @@
         "downloads": 80
       },
       {
+        "source": "curseforge",
+        "downloads": 1764771
+      },
+      {
         "source": "modrinth",
         "downloads": 58
       }
     ],
-    "totalDownloads": 138
+    "totalDownloads": 1764909
   }
 }

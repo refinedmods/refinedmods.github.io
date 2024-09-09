@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.11.6.json",
   "name": "v1.11.6",
-  "indexedAt": "2024-09-08T12:19:18Z",
+  "indexedAt": "2024-09-09T00:55:24Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -34,6 +34,31 @@
       "source": "github",
       "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/97504738",
       "createdAt": "2023-03-30T15:30:56Z"
+    },
+    {
+      "id": 4465872,
+      "dateModified": "2023-03-30T15:39:28Z",
+      "fileLength": 3270375,
+      "fileName": "refinedstorage-1.11.6.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Forge",
+        "1.19.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/4465872",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4465872",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/4465872",
+      "createdAt": "2023-03-30T15:36:46Z"
     },
     {
       "id": "xm4PUTvq",
@@ -74,10 +99,14 @@
         "downloads": 128
       },
       {
+        "source": "curseforge",
+        "downloads": 2959254
+      },
+      {
         "source": "modrinth",
-        "downloads": 13579
+        "downloads": 13586
       }
     ],
-    "totalDownloads": 13707
+    "totalDownloads": 2972968
   }
 }

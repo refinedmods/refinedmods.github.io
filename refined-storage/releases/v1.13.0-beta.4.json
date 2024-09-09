@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.13.0-beta.4.json",
   "name": "v1.13.0-beta.4",
-  "indexedAt": "2024-09-08T12:19:18Z",
+  "indexedAt": "2024-09-09T00:55:24Z",
   "type": "BETA",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3231295,
-          "downloadCount": 113,
+          "downloadCount": 114,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.13.0-beta.4/refinedstorage-1.13.0-beta.4.jar"
         }
       ],
@@ -34,6 +34,32 @@
       "source": "github",
       "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/145340793",
       "createdAt": "2024-03-07T19:59:31Z"
+    },
+    {
+      "id": 5165548,
+      "dateModified": "2024-03-07T20:11:34Z",
+      "fileLength": 3231295,
+      "fileName": "refinedstorage-1.13.0-beta.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 17",
+        "NeoForge",
+        "1.20.4"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/5165548",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/5165548",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/5165548",
+      "createdAt": "2024-03-07T20:07:05Z"
     },
     {
       "id": "9qoWFpaq",
@@ -71,13 +97,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 113
+        "downloads": 114
+      },
+      {
+        "source": "curseforge",
+        "downloads": 38363
       },
       {
         "source": "modrinth",
-        "downloads": 1062
+        "downloads": 1066
       }
     ],
-    "totalDownloads": 1175
+    "totalDownloads": 39543
   }
 }

@@ -1,9 +1,35 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.5.json",
   "name": "v1.9.5",
-  "indexedAt": "2024-09-08T12:19:18Z",
+  "indexedAt": "2024-09-09T00:55:24Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 3050769,
+      "dateModified": "2022-12-10T20:11:06Z",
+      "fileLength": 1928746,
+      "fileName": "refinedstorage-1.9.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Java 8",
+        "Forge",
+        "1.16.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3050769",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3050769",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/3050769",
+      "createdAt": "2020-09-06T08:31:38Z"
+    },
     {
       "id": 85636287,
       "nodeId": "MDc6UmVsZWFzZTg1NjM2Mjg3",
@@ -69,6 +95,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "curseforge",
+        "downloads": 23281
+      },
+      {
         "source": "github",
         "downloads": 0
       },
@@ -77,6 +107,6 @@
         "downloads": 21
       }
     ],
-    "totalDownloads": 21
+    "totalDownloads": 23302
   }
 }
