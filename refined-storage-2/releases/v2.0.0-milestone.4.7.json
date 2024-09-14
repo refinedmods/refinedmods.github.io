@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.4.7.json",
   "name": "v2.0.0-milestone.4.7",
-  "indexedAt": "2024-09-14T00:54:00Z",
+  "indexedAt": "2024-09-14T12:20:10Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -62,7 +62,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4428161,
-          "downloadCount": 121,
+          "downloadCount": 125,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.7/refinedstorage-fabric-2.0.0-milestone.4.7.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4733,
-          "downloadCount": 31,
+          "downloadCount": 32,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.7/refinedstorage-fabric-api-2.0.0-milestone.4.7.jar"
         },
         {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3492166,
-          "downloadCount": 147,
+          "downloadCount": 148,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.7/refinedstorage-neoforge-2.0.0-milestone.4.7.jar"
         },
         {
@@ -194,9 +194,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 604
+        "downloads": 610
       }
     ],
-    "totalDownloads": 604
+    "totalDownloads": 610
   }
 }
