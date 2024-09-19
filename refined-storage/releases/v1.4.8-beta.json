@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.8-beta.json",
   "name": "v1.4.8-beta",
-  "indexedAt": "2024-09-19T00:54:43Z",
+  "indexedAt": "2024-09-19T12:21:48Z",
   "type": "BETA",
   "sources": [
     {
@@ -41,9 +41,8 @@
       "fileName": "refinedstorage-1.4.8.jar",
       "status": "APPROVED",
       "gameVersions": [
-        "Java 8",
-        "1.11.2",
-        "Forge"
+        "Forge",
+        "1.11.2"
       ],
       "releaseType": "BETA",
       "user": {
@@ -100,13 +99,13 @@
       },
       {
         "source": "curseforge",
-        "downloads": 820
+        "downloads": 821
       },
       {
         "source": "modrinth",
         "downloads": 14
       }
     ],
-    "totalDownloads": 834
+    "totalDownloads": 835
   }
 }

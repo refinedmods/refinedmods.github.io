@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.6.1.json",
   "name": "v0.6.1",
-  "indexedAt": "2024-09-19T00:55:28Z",
+  "indexedAt": "2024-09-19T12:22:31Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -41,7 +41,6 @@
       "fileName": "rangedpumps-0.6.1.jar",
       "status": "APPROVED",
       "gameVersions": [
-        "Java 8",
         "1.14.4",
         "Forge"
       ],
@@ -100,13 +99,13 @@
       },
       {
         "source": "curseforge",
-        "downloads": 559424
+        "downloads": 559433
       },
       {
         "source": "modrinth",
         "downloads": 57
       }
     ],
-    "totalDownloads": 559490
+    "totalDownloads": 559499
   }
 }

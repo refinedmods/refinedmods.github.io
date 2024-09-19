@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/spawner-imbuer/releases/v0.1.0.json",
   "name": "v0.1.0",
-  "indexedAt": "2024-09-19T00:55:34Z",
+  "indexedAt": "2024-09-19T12:22:36Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -12,9 +12,9 @@
       "status": "APPROVED",
       "gameVersions": [
         "1.10.2",
+        "Forge",
         "1.11.2",
-        "1.12.2",
-        "Forge"
+        "1.12.2"
       ],
       "releaseType": "RELEASE",
       "user": {
@@ -107,9 +107,9 @@
       },
       {
         "source": "modrinth",
-        "downloads": 131
+        "downloads": 133
       }
     ],
-    "totalDownloads": 14141
+    "totalDownloads": 14143
   }
 }

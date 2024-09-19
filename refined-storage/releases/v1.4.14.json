@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.14.json",
   "name": "v1.4.14",
-  "indexedAt": "2024-09-19T00:54:43Z",
+  "indexedAt": "2024-09-19T12:21:48Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -41,9 +41,8 @@
       "fileName": "refinedstorage-1.4.14.jar",
       "status": "APPROVED",
       "gameVersions": [
-        "Java 8",
-        "1.11.2",
-        "Forge"
+        "Forge",
+        "1.11.2"
       ],
       "releaseType": "RELEASE",
       "user": {
@@ -100,13 +99,13 @@
       },
       {
         "source": "curseforge",
-        "downloads": 2772
+        "downloads": 2773
       },
       {
         "source": "modrinth",
         "downloads": 12
       }
     ],
-    "totalDownloads": 2784
+    "totalDownloads": 2785
   }
 }

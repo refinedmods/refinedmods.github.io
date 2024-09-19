@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.5.1.json",
   "name": "v0.5.1",
-  "indexedAt": "2024-09-19T00:55:31Z",
+  "indexedAt": "2024-09-19T12:22:34Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -42,9 +42,8 @@
       "fileName": "refinedpipes-0.5.1.jar",
       "status": "APPROVED",
       "gameVersions": [
-        "Java 8",
-        "Forge",
-        "1.16.5"
+        "1.16.5",
+        "Forge"
       ],
       "releaseType": "RELEASE",
       "user": {
@@ -101,13 +100,13 @@
       },
       {
         "source": "curseforge",
-        "downloads": 247582
+        "downloads": 247598
       },
       {
         "source": "modrinth",
         "downloads": 32
       }
     ],
-    "totalDownloads": 247628
+    "totalDownloads": 247644
   }
 }

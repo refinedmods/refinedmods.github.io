@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.3.3-alpha.json",
   "name": "v1.3.3-alpha",
-  "indexedAt": "2024-09-19T00:54:43Z",
+  "indexedAt": "2024-09-19T12:21:48Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -41,7 +41,6 @@
       "fileName": "refinedstorage-1.3.3.jar",
       "status": "APPROVED",
       "gameVersions": [
-        "Java 8",
         "1.11",
         "Forge"
       ],
@@ -100,13 +99,13 @@
       },
       {
         "source": "curseforge",
-        "downloads": 4034
+        "downloads": 4035
       },
       {
         "source": "modrinth",
         "downloads": 8
       }
     ],
-    "totalDownloads": 4042
+    "totalDownloads": 4043
   }
 }

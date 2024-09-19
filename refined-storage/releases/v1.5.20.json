@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.20.json",
   "name": "v1.5.20",
-  "indexedAt": "2024-09-19T00:54:43Z",
+  "indexedAt": "2024-09-19T12:21:48Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -41,11 +41,10 @@
       "fileName": "refinedstorage-1.5.20.jar",
       "status": "APPROVED",
       "gameVersions": [
-        "Java 8",
-        "1.12",
         "1.12.1",
-        "1.12.2",
-        "Forge"
+        "1.12",
+        "Forge",
+        "1.12.2"
       ],
       "releaseType": "RELEASE",
       "user": {

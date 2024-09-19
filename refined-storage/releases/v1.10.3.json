@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.10.3.json",
   "name": "v1.10.3",
-  "indexedAt": "2024-09-19T00:54:43Z",
+  "indexedAt": "2024-09-19T12:21:48Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -42,8 +42,8 @@
       "fileName": "refinedstorage-1.10.3.jar",
       "status": "APPROVED",
       "gameVersions": [
-        "Forge",
-        "1.18.2"
+        "1.18.2",
+        "Forge"
       ],
       "releaseType": "RELEASE",
       "user": {
@@ -100,13 +100,13 @@
       },
       {
         "source": "curseforge",
-        "downloads": 1336142
+        "downloads": 1336170
       },
       {
         "source": "modrinth",
         "downloads": 45
       }
     ],
-    "totalDownloads": 1336320
+    "totalDownloads": 1336348
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.6.0.json",
   "name": "v0.6.0",
-  "indexedAt": "2024-09-19T00:55:25Z",
+  "indexedAt": "2024-09-19T12:22:28Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -41,7 +41,6 @@
       "fileName": "refinedstorageaddons-0.6.jar",
       "status": "APPROVED",
       "gameVersions": [
-        "Java 8",
         "Forge",
         "1.15.1"
       ],
@@ -100,13 +99,13 @@
       },
       {
         "source": "curseforge",
-        "downloads": 28281
+        "downloads": 28282
       },
       {
         "source": "modrinth",
         "downloads": 48
       }
     ],
-    "totalDownloads": 28333
+    "totalDownloads": 28334
   }
 }
