@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.8.8.json",
   "name": "v1.8.8",
-  "indexedAt": "2024-09-22T12:20:05Z",
+  "indexedAt": "2024-09-23T00:56:27Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 1890686,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.8.8/refinedstorage-1.8.8.jar"
         }
       ],
@@ -95,17 +95,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "source": "curseforge",
-        "downloads": 2290845
+        "downloads": 2290903
       },
       {
         "source": "modrinth",
-        "downloads": 95
+        "downloads": 97
       }
     ],
-    "totalDownloads": 2290942
+    "totalDownloads": 2291003
   }
 }
