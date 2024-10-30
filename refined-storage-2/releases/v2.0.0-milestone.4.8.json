@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.4.8.json",
   "name": "v2.0.0-milestone.4.8",
-  "indexedAt": "2024-10-30T00:57:55Z",
+  "indexedAt": "2024-10-30T12:23:39Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -40,7 +40,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3123463,
-          "downloadCount": 24,
+          "downloadCount": 25,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.8/refinedstorage-common-2.0.0-milestone.4.8.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4762453,
-          "downloadCount": 58,
+          "downloadCount": 60,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.8/refinedstorage-fabric-2.0.0-milestone.4.8.jar"
         },
         {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4739,
-          "downloadCount": 17,
+          "downloadCount": 18,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.8/refinedstorage-fabric-api-2.0.0-milestone.4.8.jar"
         },
         {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3775404,
-          "downloadCount": 140,
+          "downloadCount": 141,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.8/refinedstorage-neoforge-2.0.0-milestone.4.8.jar"
         },
         {
@@ -117,7 +117,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3828,
-          "downloadCount": 37,
+          "downloadCount": 38,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.8/refinedstorage-neoforge-api-2.0.0-milestone.4.8.jar"
         },
         {
@@ -205,9 +205,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 483
+        "downloads": 489
       }
     ],
-    "totalDownloads": 483
+    "totalDownloads": 489
   }
 }
