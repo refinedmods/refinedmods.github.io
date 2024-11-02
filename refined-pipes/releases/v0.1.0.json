@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.1.0.json",
   "name": "v0.1.0",
-  "indexedAt": "2024-11-01T12:23:19Z",
+  "indexedAt": "2024-11-02T00:56:42Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 110371,
-          "downloadCount": 7,
+          "downloadCount": 8,
           "downloadUrl": "https://github.com/refinedmods/refinedpipes/releases/download/v0.1.0/refinedpipes-0.1.jar"
         }
       ],
@@ -95,17 +95,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "source": "curseforge",
-        "downloads": 127
+        "downloads": 128
       },
       {
         "source": "modrinth",
         "downloads": 50
       }
     ],
-    "totalDownloads": 184
+    "totalDownloads": 186
   }
 }
