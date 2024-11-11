@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.27-beta.json",
   "name": "v1.5.27-beta",
-  "indexedAt": "2024-11-10T12:19:59Z",
+  "indexedAt": "2024-11-11T00:57:15Z",
   "type": "BETA",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 1828878,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.27-beta/refinedstorage-1.5.27.jar"
         }
       ],
@@ -99,7 +99,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "source": "curseforge",
@@ -110,6 +110,6 @@
         "downloads": 16
       }
     ],
-    "totalDownloads": 26801
+    "totalDownloads": 26802
   }
 }
