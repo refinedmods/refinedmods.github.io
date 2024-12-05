@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.13.0-beta.4.json",
   "name": "v1.13.0-beta.4",
-  "indexedAt": "2024-12-04T12:25:02Z",
+  "indexedAt": "2024-12-05T01:02:13Z",
   "type": "BETA",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3231295,
-          "downloadCount": 175,
+          "downloadCount": 176,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.13.0-beta.4/refinedstorage-1.13.0-beta.4.jar"
         }
       ],
@@ -96,17 +96,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 175
+        "downloads": 176
       },
       {
         "source": "curseforge",
-        "downloads": 44354
+        "downloads": 44381
       },
       {
         "source": "modrinth",
-        "downloads": 1357
+        "downloads": 1361
       }
     ],
-    "totalDownloads": 45886
+    "totalDownloads": 45918
   }
 }
