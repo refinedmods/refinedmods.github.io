@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.3-beta.json",
   "name": "v1.9.3-beta",
-  "indexedAt": "2024-12-11T01:02:09Z",
+  "indexedAt": "2024-12-11T12:25:22Z",
   "type": "BETA",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 1898716,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.3-beta/refinedstorage-1.9.3.jar"
         }
       ],
@@ -95,7 +95,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "source": "curseforge",
@@ -106,6 +106,6 @@
         "downloads": 22
       }
     ],
-    "totalDownloads": 1542
+    "totalDownloads": 1543
   }
 }
