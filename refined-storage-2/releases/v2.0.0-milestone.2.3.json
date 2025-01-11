@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.2.3.json",
   "name": "v2.0.0-milestone.2.3",
-  "indexedAt": "2025-01-11T00:58:10Z",
+  "indexedAt": "2025-01-11T12:21:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 28628,
-          "downloadCount": 38,
+          "downloadCount": 39,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.3/refinedstorage2-grid-api-2.0.0-milestone.2.3.jar"
         },
         {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 41751,
-          "downloadCount": 28,
+          "downloadCount": 29,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.3/refinedstorage2-platform-api-2.0.0-milestone.2.3%2B54162a5.jar"
         },
         {
@@ -238,9 +238,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 957
+        "downloads": 959
       }
     ],
-    "totalDownloads": 957
+    "totalDownloads": 959
   }
 }
