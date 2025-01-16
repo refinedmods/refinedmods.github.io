@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.23.json",
   "name": "v1.5.23",
-  "indexedAt": "2025-01-15T12:22:05Z",
+  "indexedAt": "2025-01-16T00:55:37Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -44,7 +44,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 1817957,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.23/refinedstorage-1.5.23.jar"
         }
       ],
@@ -99,17 +99,17 @@
     "downloads": [
       {
         "source": "curseforge",
-        "downloads": 208700
+        "downloads": 208702
       },
       {
         "source": "github",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "source": "modrinth",
         "downloads": 19
       }
     ],
-    "totalDownloads": 208721
+    "totalDownloads": 208724
   }
 }
