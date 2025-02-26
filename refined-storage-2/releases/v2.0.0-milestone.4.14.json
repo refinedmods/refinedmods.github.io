@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-2/releases/v2.0.0-milestone.4.14.json",
   "name": "v2.0.0-milestone.4.14",
-  "indexedAt": "2025-02-25T12:24:24Z",
+  "indexedAt": "2025-02-26T00:58:49Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 14,
+          "downloadCount": 16,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-2.0.0-milestone.4.14-sources.jar"
         },
         {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 29,
+          "downloadCount": 32,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-2.0.0-milestone.4.14.jar"
         },
         {
@@ -40,7 +40,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 39977,
-          "downloadCount": 7,
+          "downloadCount": 8,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-autocrafting-api-2.0.0-milestone.4.14-sources.jar"
         },
         {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 100604,
-          "downloadCount": 6,
+          "downloadCount": 8,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-autocrafting-api-2.0.0-milestone.4.14.jar"
         },
         {
@@ -62,7 +62,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 2659280,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-common-2.0.0-milestone.4.14-sources.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3536042,
-          "downloadCount": 11,
+          "downloadCount": 13,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-common-2.0.0-milestone.4.14.jar"
         },
         {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 109021,
-          "downloadCount": 5,
+          "downloadCount": 6,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-common-api-2.0.0-milestone.4.14.jar"
         },
         {
@@ -117,7 +117,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 8665,
-          "downloadCount": 5,
+          "downloadCount": 6,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-core-api-2.0.0-milestone.4.14.jar"
         },
         {
@@ -194,7 +194,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 147930,
-          "downloadCount": 5,
+          "downloadCount": 6,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-neoforge-2.0.0-milestone.4.14-sources.jar"
         },
         {
@@ -205,7 +205,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4338146,
-          "downloadCount": 66,
+          "downloadCount": 79,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-neoforge-2.0.0-milestone.4.14.jar"
         },
         {
@@ -216,7 +216,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3165,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-neoforge-api-2.0.0-milestone.4.14-sources.jar"
         },
         {
@@ -315,7 +315,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 28951,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.14/refinedstorage-query-parser-2.0.0-milestone.4.14.jar"
         },
         {
@@ -366,7 +366,7 @@
       "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/201896290/assets{?name,label}",
       "tagName": "v2.0.0-milestone.4.14",
       "targetCommitish": "df064df7675b83b906f22dce377d94a45d33b9bf",
-      "body": "### Added\n\n-   Autocrafting Upgrade\n\n### Changed\n\n-   The filter slots for the Exporter, Constructor and Interface now display whether a resource is missing, the destination does not accept it, the resource cannot be autocrafted due to missing resources, or whether the resource is currently autocrafting.\n-   \u0027B\u0027 is now displayed after fluid amounts, indicating the amount in buckets.\n-   The Autocrafter now only connects to other autocrafters through its front face. The reason for this is so that you can connect it to an Interface and accept multi-type autocrafting inputs without the Interface being connected to your network.\n-   When using Autocrafter chaining, you can now only configure the locking mode on the head of the chain.\n-   For now, it is not possible to rotate the Relay. This behavior will be restored later.\n\n### Fixed\n\n-   Fixed cables broken with a Wrench not stacking.\n-   Fixed colored importers, exporters, and external storages not dropping when broken.\n-   Fixed fluid amounts displaying to 0.1 buckets and not 0.001. The suffix \"m\" is used.\n-   Fixed Pattern Grid processing matrix input slots not mentioning \"SHIFT click to clear\".\n-   Fixed amount buttons not working in the Autocrafting Preview when the amount is \"0\" after clicking the \"Max\" button.\n-   Fixed not being able to insert resources in a Grid when clicking on something that is autocraftable.\n-   Fixed not being able to specify amount \u0026lt; 1 in filter and pattern creation slots.\n-   Fixed visual bug where fluid containers were being filled when hovering over a fluid in the Grid.\n-   Fixed clear button in the Pattern Grid for the smithing table not working.\n-   Fixed item count rendering behind the item in the Interface slots.\n-   Fixed pickaxes not influencing break speed of blocks.\n-   Fixed non-autocraftables Grid view filter still showing autocraftable resources as they get inserted.\n-   Fixed filter items from the Pattern Grid crafting matrix being dropped when the Pattern Grid is broken.\n-   Fixed created pattern not being insertable in an Autocrafter when it is dropped after breaking the Pattern Grid.\n-   Fixed autocrafting tasks being completed when not all processing outputs have been received yet.\n-   Fixed items not stacking when externally interacting with an Interface.\n-   Fixed Constructor in default scheduling mode not trying other filters when resource is not available.\n-   Fixed autocrafter chaining returning \"Machine not found\" when starting autocrafting.\n-   Fixed Regulator Upgrade not being allowed 4 times in the Importer or Exporter.",
+      "body": "### Added\r\n\r\n-   Autocrafting Upgrade\r\n\r\n### Changed\r\n\r\n-   The filter slots for the Exporter, Constructor and Interface now display whether a resource is missing, the destination does not accept it, the resource cannot be autocrafted due to missing resources, or whether the resource is currently autocrafting.\r\n-   \u0027B\u0027 is now displayed after fluid amounts, indicating the amount in buckets.\r\n-   The Autocrafter now only connects to other autocrafters through its front face. The reason for this is so that you can connect it to an Interface and accept multi-type autocrafting inputs without the Interface being connected to your network.\r\n-   When using Autocrafter chaining, you can now only configure the locking mode on the head of the chain.\r\n-   For now, it is not possible to rotate the Relay. This behavior will be restored later.\r\n\r\n### Fixed\r\n\r\n-   Fixed cables broken with a Wrench not stacking with any other cables.\r\n-   Fixed colored importers, exporters, and external storages not dropping when broken.\r\n-   Fixed fluid amounts displaying to 0.1 buckets and not 0.001. The suffix \"m\" is used.\r\n-   Fixed Pattern Grid processing matrix input slots not mentioning \"SHIFT click to clear\".\r\n-   Fixed amount buttons not working in the Autocrafting Preview when the amount is \"0\" after clicking the \"Max\" button.\r\n-   Fixed not being able to insert resources in a Grid when clicking on something that is autocraftable.\r\n-   Fixed not being able to specify amount \u0026lt; 1 in filter and pattern creation slots.\r\n-   Fixed visual bug where fluid containers were being filled when hovering over a fluid in the Grid.\r\n-   Fixed clear button in the Pattern Grid for the smithing table not working.\r\n-   Fixed item count rendering behind the item in the Interface slots.\r\n-   Fixed pickaxes not influencing break speed of blocks.\r\n-   Fixed non-autocraftables Grid view filter still showing autocraftable resources as they get inserted.\r\n-   Fixed filter items from the Pattern Grid crafting matrix being dropped when the Pattern Grid is broken.\r\n-   Fixed created pattern not being insertable in an Autocrafter when it is dropped after breaking the Pattern Grid.\r\n-   Fixed autocrafting tasks being completed when not all processing outputs have been received yet.\r\n-   Fixed items not stacking when externally interacting with an Interface.\r\n-   Fixed Constructor in default scheduling mode not trying other filters when resource is not available.\r\n-   Fixed autocrafter chaining returning \"Machine not found\" when starting autocrafting.\r\n-   Fixed Regulator Upgrade not being allowed 4 times in the Importer or Exporter.",
       "draft": false,
       "prerelease": false,
       "publishedAt": "2025-02-23T11:20:40Z",
@@ -381,9 +381,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 192
+        "downloads": 221
       }
     ],
-    "totalDownloads": 192
+    "totalDownloads": 221
   }
 }
