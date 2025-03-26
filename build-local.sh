@@ -1,15 +1,18 @@
-refinedSitesVersion="0.0.0"
+#!/bin/bash
+
+refinedSitesVersion="0.5.1"
 
 rm -rf gh-*
 rm -rf dist/
 rm -rf output/
+rm -rf .parcel-cache
 
 if [ ! -f "refinedsites-$refinedSitesVersion-all.jar" ]; then
   echo "Downloading Refined Sites $refinedSitesVersion"
-  wget "https://github.com/refinedmods/refinedsites/releases/download/v$refinedSitesVersion/refinedsites-$refinedSitesVersion-all.jar"
+  curl -L "https://github.com/refinedmods/refinedsites/releases/download/v$refinedSitesVersion/refinedsites-$refinedSitesVersion-all.jar" -o "refinedsites-$refinedSitesVersion-all.jar"
 fi
 
 export "$(cat .env | xargs)"
 
-java -jar refinedsites-$refinedSitesVersion-all.jar .
+java -jar "refinedsites-$refinedSitesVersion-all.jar" .
 npm run build

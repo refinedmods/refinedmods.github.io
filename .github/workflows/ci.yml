@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "0 0,12 * * *"
 env:
-  refinedSitesVersion: 0.5.0
+  refinedSitesVersion: 0.5.1
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,7 +22,7 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 23
       - run: npm ci
       - run: npm run build
       - name: Deploy to GitHub Pages
@@ -31,10 +31,3 @@ jobs:
           branch: gh-pages
           folder: dist/
           clean: true
-          clean-exclude: |
-            refined-storage/wiki/*.html
-            refined-storage/releases/*.html
-            refined-storage-addons/*.html
-            refined-storage-addons/wiki/*.html
-            ranged-pumps/wiki/*.html
-            ranged-pumps/releases/*.html
