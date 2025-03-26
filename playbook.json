@@ -7,12 +7,17 @@
       "github": {
         "organization": "refinedmods",
         "repository": "refinedstorage",
-        "minimumVersion": "1.12.5",
-        "snapshotBranch": "develop"
+        "minimumVersion": "1.13.0-beta.4"
       }
     },
     {
-      "name": "Refined Storage 2"
+      "name": "Refined Storage",
+      "github": {
+        "organization": "refinedmods",
+        "repository": "refinedstorage2",
+        "minimumVersion": "2.0.0",
+        "snapshotBranch": "develop"
+      }
     },
     {
       "name": "Refined Storage Addons"
@@ -35,18 +40,15 @@
   ],
   "releases": {
     "Refined Storage": {
-      "github": "refinedmods/refinedstorage",
+      "github": ["refinedmods/refinedstorage", "refinedmods/refinedstorage2"],
       "curseforge": {
         "id": "243076",
         "slug": "refined-storage"
       },
       "modrinth": "refined-storage"
     },
-    "Refined Storage 2": {
-      "github": "refinedmods/refinedstorage2"
-    },
     "Refined Storage Addons": {
-      "github": "refinedmods/refinedstorageaddons",
+      "github": ["refinedmods/refinedstorageaddons"],
       "curseforge": {
         "id": "272302",
         "slug": "refined-storage-addons"
@@ -54,7 +56,7 @@
       "modrinth": "refined-storage-addons"
     },
     "Ranged Pumps": {
-      "github": "refinedmods/rangedpumps",
+      "github": ["refinedmods/rangedpumps"],
       "curseforge": {
         "id": "247496",
         "slug": "ranged-pumps"
@@ -62,7 +64,7 @@
       "modrinth": "ranged-pumps"
     },
     "Refined Pipes": {
-      "github": "refinedmods/refinedpipes",
+      "github": ["refinedmods/refinedpipes"],
       "curseforge": {
         "id": "370696",
         "slug": "refined-pipes"
@@ -70,7 +72,7 @@
       "modrinth": "refined-pipes"
     },
     "Spawner Imbuer": {
-      "github": "refinedmods/spawnerimbuer",
+      "github": ["refinedmods/spawnerimbuer"],
       "curseforge": {
         "id": "261930",
         "slug": "spawner-imbuer"

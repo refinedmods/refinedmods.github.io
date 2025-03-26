@@ -118,3 +118,12 @@ td p {
   width: 100%;
   margin: 0;
 }
+
+blockquote {
+  border-left: 3px solid var(--bs-secondary-bg);
+  padding-left: 0.5rem;
+}
+
+#preamble {
+  font-size: 1.25rem;
+}

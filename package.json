@@ -1,9 +1,8 @@
 {
-  "name": "ui",
+  "name": "refinedmods",
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "parcel build \"output/**/**.html\" \"output/**/**.json\" \"output/**/**.xml\" \"output/robots.txt\"",
     "serve": "http-server dist/"
   },
@@ -11,16 +10,16 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@parcel/packager-xml": "^2.10.3",
-    "@parcel/transformer-sass": "^2.10.3",
+    "@parcel/packager-xml": "^2.14.2",
+    "@parcel/transformer-sass": "^2.14.2",
     "http-server": "^14.1.1",
-    "parcel": "^2.10.3"
+    "parcel": "^2.14.2"
   },
   "dependencies": {
-    "@docsearch/js": "^3.5.2",
+    "@docsearch/js": "^3.9.0",
     "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.2",
-    "bootstrap-icons": "^1.11.1",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
     "tippy.js": "^6.3.7"
   }
 }
