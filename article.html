@@ -19,11 +19,28 @@
             </li>
         </ol>
     </nav>
+    <nav aria-label="Table of contents" th:if="${#lists.size(toc) > 0}" class="float-end px-3 toc">
+        <b class="text-body-secondary">On this article</b>
+        <ol class="border-start border-3 mt-2">
+            <li th:each="item : ${toc}">
+                <a th:href="${'#' + item.id}" th:utext="${item.title}"></a>
+                <ol>
+                    <li th:each="sub : ${item.children}">
+                        <a th:href="${'#' + sub.id}" th:utext="${sub.title}"></a>
+                        <ol>
+                            <li th:each="sub2 : ${sub.children}">
+                                <a th:href="${'#' + sub2.id}" th:utext="${sub2.title}"></a>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+            </li>
+        </ol>
+    </nav>
     <main class="main-content">
         <div class="mb-2 text-body-secondary">
             <i class="bi bi-clock"></i> <span th:text="${#temporals.format(date, 'yyyy-MM-dd')}"></span>
         </div>
-        <h2 class="h5" th:text="${description}"></h2>
         <div th:utext="${content}" th:remove="tag">
         </div>
     </main>
