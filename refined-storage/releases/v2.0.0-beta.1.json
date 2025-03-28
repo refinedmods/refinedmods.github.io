@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.1.json",
   "name": "v2.0.0-beta.1",
-  "indexedAt": "2025-03-28T09:13:26Z",
+  "indexedAt": "2025-03-28T09:40:35Z",
   "type": "BETA",
   "sources": [
     {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4352397,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.1/refinedstorage-neoforge-2.0.0-beta.1.jar"
         },
         {
@@ -356,7 +356,7 @@
     },
     {
       "id": 6358594,
-      "dateModified": "2025-03-28T09:08:12Z",
+      "dateModified": "2025-03-28T09:27:10Z",
       "fileLength": 5356476,
       "fileName": "refinedstorage-fabric-2.0.0-beta.1.jar",
       "status": "APPROVED",
@@ -381,7 +381,7 @@
     },
     {
       "id": 6358597,
-      "dateModified": "2025-03-28T09:08:08Z",
+      "dateModified": "2025-03-28T09:27:47Z",
       "fileLength": 4352397,
       "fileName": "refinedstorage-neoforge-2.0.0-beta.1.jar",
       "status": "APPROVED",
@@ -403,13 +403,75 @@
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/6358597",
       "createdAt": "2025-03-28T09:04:18Z"
+    },
+    {
+      "id": "eWiykVl5",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.0-beta.1",
+      "changelog": "These are the changes in v2.0.0-beta.1.\n\nRefined Storage 2 has been development for almost 5 years.\n\nRead more about all the changes here: https://refinedmods.com/refined-storage/news/20250328-whats-new-in-refined-storage-2.html\n\n\n### Changed\n\n-   The External Storage now supports multiple resource types on a single connected inventory.\n-   Tooltips for upgrade slots are now ordered.\n-   Grid tag search now uses the `#` prefix, tooltips use the `$` prefix.\n\n### Fixed\n\n-   Fixed cables broken with a Wrench not stacking with newly crafted cables.\n-   Fixed slow performance in the Grid when searching.\n-   Fixed storages failing to load after removing an addon that adds more storage types.\n-   Fixed crash when trying to open block in spectator mode.\n-   Fixed crash when trying to open Grid with EnderIO autocrafting pattern in network.\n-   Fixed External Storage making resources flicker when the connected inventory is causing neighbor updates.\n-   Fixed not being able to search for Water Bottles.\n-   Fixed crash when creating a Pattern for a shield.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "f179853bb095adfad72cd7c5a58be77bf4649e0ddb9252bdd91d325984d95bbf9b029d0ad776280a64a273ec73da2cd37a1280ee816f51f61098a554dbedf0ac",
+            "sha1": "3d12880d75329b2f9e8827040226335fdf2b1b3a"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/eWiykVl5/refinedstorage-fabric-2.0.0-beta.1.jar",
+          "filename": "refinedstorage-fabric-2.0.0-beta.1.jar",
+          "primary": true,
+          "size": 5356476
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/2.0.0-beta.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/eWiykVl5",
+      "createdAt": "2025-03-28T09:23:10Z"
+    },
+    {
+      "id": "ATgks6tx",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.0-beta.1",
+      "changelog": "These are the changes in v2.0.0-beta.1.\n\nRefined Storage 2 has been development for almost 5 years.\n\nRead more about all the changes here: https://refinedmods.com/refined-storage/news/20250328-whats-new-in-refined-storage-2.html\n\n\n### Changed\n\n-   The External Storage now supports multiple resource types on a single connected inventory.\n-   Tooltips for upgrade slots are now ordered.\n-   Grid tag search now uses the `#` prefix, tooltips use the `$` prefix.\n\n### Fixed\n\n-   Fixed cables broken with a Wrench not stacking with newly crafted cables.\n-   Fixed slow performance in the Grid when searching.\n-   Fixed storages failing to load after removing an addon that adds more storage types.\n-   Fixed crash when trying to open block in spectator mode.\n-   Fixed crash when trying to open Grid with EnderIO autocrafting pattern in network.\n-   Fixed External Storage making resources flicker when the connected inventory is causing neighbor updates.\n-   Fixed not being able to search for Water Bottles.\n-   Fixed crash when creating a Pattern for a shield.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "319361a4f631251ad5b96fe4ac0afd664721edf421cec8765cf2dc619180254cefc0a6892fcb2f816e50d0a8049c05bc0d5281d9c041a05e66d16c78da7bc5bf",
+            "sha1": "b86bc62033f5da73cdb3f7f96b6719dc598aefa9"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ATgks6tx/refinedstorage-neoforge-2.0.0-beta.1.jar",
+          "filename": "refinedstorage-neoforge-2.0.0-beta.1.jar",
+          "primary": true,
+          "size": 4352397
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/2.0.0-beta.1",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/ATgks6tx",
+      "createdAt": "2025-03-28T09:25:01Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 0
+        "downloads": 1
       },
       {
         "source": "curseforge",
@@ -418,8 +480,16 @@
       {
         "source": "curseforge",
         "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
       }
     ],
-    "totalDownloads": 0
+    "totalDownloads": 2
   }
 }
