@@ -1,6 +1,6 @@
 #!/bin/bash
 
-refinedSitesVersion="0.6.0"
+refinedSitesVersion="0.6.1"
 
 rm -rf gh-*
 rm -rf dist/
