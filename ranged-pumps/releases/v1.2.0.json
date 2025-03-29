@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v1.2.0.json",
   "name": "v1.2.0",
-  "indexedAt": "2025-03-29T12:24:18Z",
+  "indexedAt": "2025-03-29T13:59:22Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -58,6 +58,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/5067870",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/247496/files/5067870",
+      "platform": "NEOFORGE",
       "createdAt": "2024-01-29T19:29:07Z"
     },
     {
@@ -86,9 +87,10 @@
       "loaders": [
         "neoforge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/1.2.0",
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/DG5jTaTN",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/DG5jTaTN",
+      "platform": "NEOFORGE",
       "createdAt": "2024-01-29T19:29:16Z"
     }
   ],
@@ -99,12 +101,12 @@
         "downloads": 9
       },
       {
-        "source": "curseforge",
-        "downloads": 3036
-      },
-      {
         "source": "modrinth",
         "downloads": 142
+      },
+      {
+        "source": "curseforge",
+        "downloads": 3036
       }
     ],
     "totalDownloads": 3187

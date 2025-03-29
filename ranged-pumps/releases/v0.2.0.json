@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.2.0.json",
   "name": "v0.2.0",
-  "indexedAt": "2025-03-29T12:24:18Z",
+  "indexedAt": "2025-03-29T13:59:22Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -84,9 +84,10 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/0.2.0",
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/1cPLw2DI",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/1cPLw2DI",
+      "platform": "FORGE",
       "createdAt": "2023-07-01T20:37:02Z"
     }
   ],
@@ -97,12 +98,12 @@
         "downloads": 8
       },
       {
-        "source": "curseforge",
-        "downloads": 7921
-      },
-      {
         "source": "modrinth",
         "downloads": 65
+      },
+      {
+        "source": "curseforge",
+        "downloads": 7921
       }
     ],
     "totalDownloads": 7994

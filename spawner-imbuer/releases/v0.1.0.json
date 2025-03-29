@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/spawner-imbuer/releases/v0.1.0.json",
   "name": "v0.1.0",
-  "indexedAt": "2025-03-29T12:24:23Z",
+  "indexedAt": "2025-03-29T13:59:27Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,6 +29,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/spawner-imbuer/files/2387905",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/261930/files/2387905",
+      "platform": "FORGE",
       "createdAt": "2017-03-02T12:15:15Z"
     },
     {
@@ -89,18 +90,15 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/spawner-imbuer/version/0.1.0",
+      "htmlUrl": "https://modrinth.com/mod/spawner-imbuer/version/dxWW9iDw",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/spawner-imbuer/version/dxWW9iDw",
+      "platform": "FORGE",
       "createdAt": "2023-07-01T21:04:15Z"
     }
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "curseforge",
-        "downloads": 14193
-      },
       {
         "source": "github",
         "downloads": 3
@@ -108,6 +106,10 @@
       {
         "source": "modrinth",
         "downloads": 188
+      },
+      {
+        "source": "curseforge",
+        "downloads": 14193
       }
     ],
     "totalDownloads": 14384

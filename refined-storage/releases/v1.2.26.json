@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.26.json",
   "name": "v1.2.26",
-  "indexedAt": "2025-03-29T12:23:40Z",
+  "indexedAt": "2025-03-29T13:58:38Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2431884",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2431884",
+      "platform": "FORGE",
       "createdAt": "2017-06-10T20:05:10Z"
     },
     {
@@ -85,27 +86,28 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.26",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/Map4zjlx",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage/version/Map4zjlx",
+      "platform": "FORGE",
       "createdAt": "2023-07-04T19:58:00Z"
     }
   ],
   "stats": {
     "downloads": [
       {
-        "source": "curseforge",
-        "downloads": 9894360
-      },
-      {
         "source": "github",
         "downloads": 1
       },
       {
         "source": "modrinth",
-        "downloads": 518
+        "downloads": 519
+      },
+      {
+        "source": "curseforge",
+        "downloads": 9894498
       }
     ],
-    "totalDownloads": 9894879
+    "totalDownloads": 9895018
   }
 }

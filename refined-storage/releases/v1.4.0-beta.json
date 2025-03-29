@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.0-beta.json",
   "name": "v1.4.0-beta",
-  "indexedAt": "2025-03-29T12:23:40Z",
+  "indexedAt": "2025-03-29T13:58:38Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2378642",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2378642",
+      "platform": "FORGE",
       "createdAt": "2017-02-06T21:12:59Z"
     },
     {
@@ -85,18 +86,15 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.4.0-beta",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/G3U09EQR",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage/version/G3U09EQR",
+      "platform": "FORGE",
       "createdAt": "2023-07-04T19:57:39Z"
     }
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "curseforge",
-        "downloads": 18420
-      },
       {
         "source": "github",
         "downloads": 1
@@ -104,6 +102,10 @@
       {
         "source": "modrinth",
         "downloads": 26
+      },
+      {
+        "source": "curseforge",
+        "downloads": 18420
       }
     ],
     "totalDownloads": 18447

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.5.2.json",
   "name": "v0.5.2",
-  "indexedAt": "2025-03-29T12:24:21Z",
+  "indexedAt": "2025-03-29T13:59:25Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -58,6 +58,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-pipes/files/3630290",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/370696/files/3630290",
+      "platform": "FORGE",
       "createdAt": "2022-01-30T14:05:35Z"
     },
     {
@@ -86,9 +87,10 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/0.5.2",
+      "htmlUrl": "https://modrinth.com/mod/refined-pipes/version/RHUg0ip2",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-pipes/version/RHUg0ip2",
+      "platform": "FORGE",
       "createdAt": "2023-07-01T21:04:01Z"
     }
   ],
@@ -99,14 +101,14 @@
         "downloads": 19
       },
       {
-        "source": "curseforge",
-        "downloads": 2730394
+        "source": "modrinth",
+        "downloads": 10967
       },
       {
-        "source": "modrinth",
-        "downloads": 10954
+        "source": "curseforge",
+        "downloads": 2730445
       }
     ],
-    "totalDownloads": 2741367
+    "totalDownloads": 2741431
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.1.json",
   "name": "v2.0.0-beta.1",
-  "indexedAt": "2025-03-29T12:23:40Z",
+  "indexedAt": "2025-03-29T13:58:38Z",
   "type": "BETA",
   "sources": [
     {
@@ -377,6 +377,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/6358594",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/6358594",
+      "platform": "FABRIC",
       "createdAt": "2025-03-28T09:04:16Z"
     },
     {
@@ -402,6 +403,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/6358597",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/6358597",
+      "platform": "NEOFORGE",
       "createdAt": "2025-03-28T09:04:18Z"
     },
     {
@@ -430,9 +432,10 @@
       "loaders": [
         "fabric"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/2.0.0-beta.1",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/eWiykVl5",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage/version/eWiykVl5",
+      "platform": "FABRIC",
       "createdAt": "2025-03-28T09:23:10Z"
     },
     {
@@ -461,9 +464,10 @@
       "loaders": [
         "neoforge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/2.0.0-beta.1",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/ATgks6tx",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage/version/ATgks6tx",
+      "platform": "NEOFORGE",
       "createdAt": "2025-03-28T09:25:01Z"
     }
   ],
@@ -474,22 +478,14 @@
         "downloads": 72
       },
       {
-        "source": "curseforge",
-        "downloads": 235
-      },
-      {
-        "source": "curseforge",
-        "downloads": 634
-      },
-      {
         "source": "modrinth",
-        "downloads": 65
+        "downloads": 170
       },
       {
-        "source": "modrinth",
-        "downloads": 97
+        "source": "curseforge",
+        "downloads": 932
       }
     ],
-    "totalDownloads": 1103
+    "totalDownloads": 1174
   }
 }

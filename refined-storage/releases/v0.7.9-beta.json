@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.9-beta.json",
   "name": "v0.7.9-beta",
-  "indexedAt": "2025-03-29T12:23:40Z",
+  "indexedAt": "2025-03-29T13:58:38Z",
   "type": "BETA",
   "sources": [
     {
@@ -57,6 +57,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2306758",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2306758",
+      "platform": "FORGE",
       "createdAt": "2016-06-11T08:23:23Z"
     },
     {
@@ -85,9 +86,10 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/0.7.9-beta",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/FFosy93i",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage/version/FFosy93i",
+      "platform": "FORGE",
       "createdAt": "2023-07-04T19:57:11Z"
     }
   ],
@@ -98,12 +100,12 @@
         "downloads": 1
       },
       {
-        "source": "curseforge",
-        "downloads": 987
-      },
-      {
         "source": "modrinth",
         "downloads": 13
+      },
+      {
+        "source": "curseforge",
+        "downloads": 987
       }
     ],
     "totalDownloads": 1001

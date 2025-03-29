@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.24.json",
   "name": "v1.2.24",
-  "indexedAt": "2025-03-29T12:23:40Z",
+  "indexedAt": "2025-03-29T13:58:38Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2394485",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2394485",
+      "platform": "FORGE",
       "createdAt": "2017-03-18T13:47:00Z"
     },
     {
@@ -85,18 +86,15 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.2.24",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/ZwA2eWbr",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage/version/ZwA2eWbr",
+      "platform": "FORGE",
       "createdAt": "2023-07-04T19:57:39Z"
     }
   ],
   "stats": {
     "downloads": [
-      {
-        "source": "curseforge",
-        "downloads": 120323
-      },
       {
         "source": "github",
         "downloads": 1
@@ -104,6 +102,10 @@
       {
         "source": "modrinth",
         "downloads": 14
+      },
+      {
+        "source": "curseforge",
+        "downloads": 120323
       }
     ],
     "totalDownloads": 120338

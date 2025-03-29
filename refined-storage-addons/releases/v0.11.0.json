@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.11.0.json",
   "name": "v0.11.0",
-  "indexedAt": "2025-03-29T12:24:16Z",
+  "indexedAt": "2025-03-29T13:59:19Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -58,6 +58,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/5112820",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/272302/files/5112820",
+      "platform": "NEOFORGE",
       "createdAt": "2024-02-16T15:25:48Z"
     },
     {
@@ -86,9 +87,10 @@
       "loaders": [
         "neoforge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.11.0",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/QvbOfe9z",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/QvbOfe9z",
+      "platform": "NEOFORGE",
       "createdAt": "2024-02-16T15:25:57Z"
     }
   ],
@@ -99,14 +101,14 @@
         "downloads": 43
       },
       {
-        "source": "curseforge",
-        "downloads": 46213
-      },
-      {
         "source": "modrinth",
         "downloads": 1007
+      },
+      {
+        "source": "curseforge",
+        "downloads": 46219
       }
     ],
-    "totalDownloads": 47263
+    "totalDownloads": 47269
   }
 }

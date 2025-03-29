@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.13.0-beta.1.json",
   "name": "v1.13.0-beta.1",
-  "indexedAt": "2025-03-29T12:23:40Z",
+  "indexedAt": "2025-03-29T13:58:38Z",
   "type": "BETA",
   "sources": [
     {
@@ -61,9 +61,10 @@
       "loaders": [
         "neoforge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1.13.0-beta.1",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/gx6X1mWN",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage/version/gx6X1mWN",
+      "platform": "NEOFORGE",
       "createdAt": "2024-02-12T22:48:50Z"
     },
     {
@@ -89,6 +90,7 @@
       "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/5103189",
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/5103189",
+      "platform": "NEOFORGE",
       "createdAt": "2024-02-12T22:49:10Z"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.2.json",
   "name": "v0.4.2",
-  "indexedAt": "2025-03-29T12:24:16Z",
+  "indexedAt": "2025-03-29T13:59:19Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -84,9 +84,10 @@
       "loaders": [
         "forge"
       ],
-      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/0.4.2",
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-addons/version/DkuISs2Q",
       "source": "modrinth",
       "url": "https://api.modrinth.com/v2/project/refined-storage-addons/version/DkuISs2Q",
+      "platform": "FORGE",
       "createdAt": "2023-07-01T21:03:32Z"
     }
   ],
@@ -97,14 +98,14 @@
         "downloads": 4
       },
       {
-        "source": "curseforge",
-        "downloads": 1208904
-      },
-      {
         "source": "modrinth",
         "downloads": 68
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1208905
       }
     ],
-    "totalDownloads": 1208976
+    "totalDownloads": 1208977
   }
 }
