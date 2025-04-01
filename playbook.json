@@ -21,6 +21,27 @@
       }
     },
     {
+      "name": "Refined Storage - Quartz Arsenal"
+    },
+    {
+      "name": "Refined Storage - Mekanism Integration"
+    },
+    {
+      "name": "Refined Storage - JEI Integration"
+    },
+    {
+      "name": "Refined Storage - REI Integration"
+    },
+    {
+      "name": "Refined Storage - EMI Integration"
+    },
+    {
+      "name": "Refined Storage - Curios Integration"
+    },
+    {
+      "name": "Refined Storage - Trinkets Integration"
+    },
+    {
       "name": "Refined Storage Addons"
     },
     {
@@ -41,15 +62,90 @@
   ],
   "releases": {
     "Refined Storage": {
-      "github": ["refinedmods/refinedstorage", "refinedmods/refinedstorage2"],
+      "github": [
+        "refinedmods/refinedstorage",
+        "refinedmods/refinedstorage2"
+      ],
       "curseforge": {
         "id": "243076",
         "slug": "refined-storage"
       },
       "modrinth": "refined-storage"
     },
+    "Refined Storage - Quartz Arsenal": {
+      "github": [
+        "refinedmods/refinedstorage-quartz-arsenal"
+      ],
+      "curseforge": {
+        "id": "1230483",
+        "slug": "refined-storage-quartz-arsenal"
+      },
+      "modrinth": "refined-storage-quartz-arsenal"
+    },
+    "Refined Storage - Mekanism Integration": {
+      "github": [
+        "refinedmods/refinedstorage-mekanism-integration"
+      ],
+      "curseforge": {
+        "id": "1230504",
+        "slug": "refined-storage-mekanism-integration"
+      },
+      "modrinth": "refined-storage-mekanism-integration"
+    },
+    "Refined Storage - JEI Integration": {
+      "github": [
+        "refinedmods/refinedstorage-jei-integration"
+      ],
+      "curseforge": {
+        "id": "1230497",
+        "slug": "refined-storage-jei-integration"
+      },
+      "modrinth": "refined-storage-jei-integration"
+    },
+    "Refined Storage - REI Integration": {
+      "github": [
+        "refinedmods/refinedstorage-rei-integration"
+      ],
+      "curseforge": {
+        "id": "1230647",
+        "slug": "refined-storage-rei-integration"
+      },
+      "modrinth": "refined-storage-rei-integration"
+    },
+    "Refined Storage - EMI Integration": {
+      "github": [
+        "refinedmods/refinedstorage-emi-integration"
+      ],
+      "curseforge": {
+        "id": "1230691",
+        "slug": "refined-storage-emi-integration"
+      },
+      "modrinth": "refined-storage-emi-integration"
+    },
+    "Refined Storage - Curios Integration": {
+      "github": [
+        "refinedmods/refinedstorage-curios-integration"
+      ],
+      "curseforge": {
+        "id": "1230729",
+        "slug": "refined-storage-curios-integration"
+      },
+      "modrinth": "refined-storage-curios-integration"
+    },
+    "Refined Storage - Trinkets Integration": {
+      "github": [
+        "refinedmods/refinedstorage-trinkets-integration"
+      ],
+      "curseforge": {
+        "id": "1230748",
+        "slug": "refined-storage-trinkets-integration"
+      },
+      "modrinth": "refined-storage-trinkets-integration"
+    },
     "Refined Storage Addons": {
-      "github": ["refinedmods/refinedstorageaddons"],
+      "github": [
+        "refinedmods/refinedstorageaddons"
+      ],
       "curseforge": {
         "id": "272302",
         "slug": "refined-storage-addons"
@@ -57,7 +153,9 @@
       "modrinth": "refined-storage-addons"
     },
     "Ranged Pumps": {
-      "github": ["refinedmods/rangedpumps"],
+      "github": [
+        "refinedmods/rangedpumps"
+      ],
       "curseforge": {
         "id": "247496",
         "slug": "ranged-pumps"
@@ -65,7 +163,9 @@
       "modrinth": "ranged-pumps"
     },
     "Refined Pipes": {
-      "github": ["refinedmods/refinedpipes"],
+      "github": [
+        "refinedmods/refinedpipes"
+      ],
       "curseforge": {
         "id": "370696",
         "slug": "refined-pipes"
@@ -73,7 +173,9 @@
       "modrinth": "refined-pipes"
     },
     "Spawner Imbuer": {
-      "github": ["refinedmods/spawnerimbuer"],
+      "github": [
+        "refinedmods/spawnerimbuer"
+      ],
       "curseforge": {
         "id": "261930",
         "slug": "spawner-imbuer"
