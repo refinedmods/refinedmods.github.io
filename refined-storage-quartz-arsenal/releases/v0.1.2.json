@@ -1,0 +1,125 @@
+{
+  "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v0.1.2.json",
+  "name": "v0.1.2",
+  "indexedAt": "2025-04-01T05:03:49Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 197213926,
+      "nodeId": "RE_kwDONQqxt84LwT7m",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/tag/v0.1.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/197213926/assets",
+      "assets": [
+        {
+          "id": 224351527,
+          "nodeId": "RA_kwDONQqxt84NX1Un",
+          "name": "refinedstorage-quartz-arsenal-0.1.2-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.2/refinedstorage-quartz-arsenal-0.1.2-sources.jar"
+        },
+        {
+          "id": 224351528,
+          "nodeId": "RA_kwDONQqxt84NX1Uo",
+          "name": "refinedstorage-quartz-arsenal-0.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 8,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.2/refinedstorage-quartz-arsenal-0.1.2.jar"
+        },
+        {
+          "id": 224351532,
+          "nodeId": "RA_kwDONQqxt84NX1Us",
+          "name": "refinedstorage-quartz-arsenal-common-0.1.2-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33778,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.2/refinedstorage-quartz-arsenal-common-0.1.2-sources.jar"
+        },
+        {
+          "id": 224351531,
+          "nodeId": "RA_kwDONQqxt84NX1Ur",
+          "name": "refinedstorage-quartz-arsenal-common-0.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 50599,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.2/refinedstorage-quartz-arsenal-common-0.1.2.jar"
+        },
+        {
+          "id": 224351529,
+          "nodeId": "RA_kwDONQqxt84NX1Up",
+          "name": "refinedstorage-quartz-arsenal-fabric-0.1.2-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 6998,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.2/refinedstorage-quartz-arsenal-fabric-0.1.2-sources.jar"
+        },
+        {
+          "id": 224351526,
+          "nodeId": "RA_kwDONQqxt84NX1Um",
+          "name": "refinedstorage-quartz-arsenal-fabric-0.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 65641,
+          "downloadCount": 22,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.2/refinedstorage-quartz-arsenal-fabric-0.1.2.jar"
+        },
+        {
+          "id": 224351525,
+          "nodeId": "RA_kwDONQqxt84NX1Ul",
+          "name": "refinedstorage-quartz-arsenal-neoforge-0.1.2-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 6635,
+          "downloadCount": 11,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.2/refinedstorage-quartz-arsenal-neoforge-0.1.2-sources.jar"
+        },
+        {
+          "id": 224351530,
+          "nodeId": "RA_kwDONQqxt84NX1Uq",
+          "name": "refinedstorage-quartz-arsenal-neoforge-0.1.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 66189,
+          "downloadCount": 149,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.2/refinedstorage-quartz-arsenal-neoforge-0.1.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/197213926/assets{?name,label}",
+      "tagName": "v0.1.2",
+      "targetCommitish": "9d8d0b2604f0b60f0895c8a1907aeb6d4eee6f80",
+      "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-milestone.4.12.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2025-01-28T18:26:36Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/tarball/v0.1.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/zipball/v0.1.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/197213926",
+      "createdAt": "2025-01-28T18:24:31Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 205
+      }
+    ],
+    "totalDownloads": 205
+  }
+}

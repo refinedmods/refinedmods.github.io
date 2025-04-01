@@ -1,0 +1,125 @@
+{
+  "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v1.0.0.json",
+  "name": "v1.0.0",
+  "indexedAt": "2025-04-01T05:03:58Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 209035815,
+      "nodeId": "RE_kwDOMKNAB84MdaIn",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/tag/v1.0.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/209035815/assets",
+      "assets": [
+        {
+          "id": 241659052,
+          "nodeId": "RA_kwDOMKNAB84OZ2ys",
+          "name": "refinedstorage-trinkets-integration-1.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8816,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v1.0.0/refinedstorage-trinkets-integration-1.0.0-sources.jar"
+        },
+        {
+          "id": 241659051,
+          "nodeId": "RA_kwDOMKNAB84OZ2yr",
+          "name": "refinedstorage-trinkets-integration-1.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 11723,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v1.0.0/refinedstorage-trinkets-integration-1.0.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/209035815/assets{?name,label}",
+      "tagName": "v1.0.0",
+      "targetCommitish": "723e9fc249b29a6c0d1a6bb568e0ab2bf9397d62",
+      "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.1.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2025-03-28T19:12:33Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/tarball/v1.0.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/zipball/v1.0.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/209035815",
+      "createdAt": "2025-03-28T19:10:51Z"
+    },
+    {
+      "id": "G9QXGkZR",
+      "projectId": "EkNHO3Uw",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.0.0",
+      "changelog": "### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.1.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "12d968c9415ac6d23be55ee145853a2ab1ac53086be0b1ac80f2bdfe52f066e8d4ee96b9296c726e4a1b8e157cd649ed1746a98fe70df063e1b754fe7c6de94a",
+            "sha1": "e36920ebbb2bff16dba12095aa979490d96f039e"
+          },
+          "url": "https://cdn.modrinth.com/data/EkNHO3Uw/versions/G9QXGkZR/refinedstorage-trinkets-integration-1.0.0.jar",
+          "filename": "refinedstorage-trinkets-integration-1.0.0.jar",
+          "primary": true,
+          "size": 11723
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-trinkets-integration/version/G9QXGkZR",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-trinkets-integration/version/G9QXGkZR",
+      "platform": "FABRIC",
+      "createdAt": "2025-03-28T19:12:59Z"
+    },
+    {
+      "id": 6360583,
+      "dateModified": "2025-03-29T09:53:11Z",
+      "fileLength": 11723,
+      "fileName": "refinedstorage-trinkets-integration-1.0.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Fabric",
+        "1.21.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-trinkets-integration/download/6360583",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-trinkets-integration/files/6360583",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230748/files/6360583",
+      "platform": "FABRIC",
+      "createdAt": "2025-03-28T19:13:24Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 2
+      },
+      {
+        "source": "modrinth",
+        "downloads": 35
+      },
+      {
+        "source": "curseforge",
+        "downloads": 56
+      }
+    ],
+    "totalDownloads": 93
+  }
+}

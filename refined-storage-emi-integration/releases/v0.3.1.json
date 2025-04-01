@@ -1,0 +1,81 @@
+{
+  "url": "https://refinedmods.com/refined-storage-emi-integration/releases/v0.3.1.json",
+  "name": "v0.3.1",
+  "indexedAt": "2025-04-01T05:03:55Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 164875579,
+      "nodeId": "RE_kwDOMLbYO84J0807",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/tag/v0.3.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/releases/164875579/assets",
+      "assets": [
+        {
+          "id": 178836522,
+          "nodeId": "RA_kwDOMLbYO84KqNQq",
+          "name": "refinedstorage-emi-integration-0.3.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.3.1/refinedstorage-emi-integration-0.3.1.jar"
+        },
+        {
+          "id": 178836520,
+          "nodeId": "RA_kwDOMLbYO84KqNQo",
+          "name": "refinedstorage-emi-integration-common-0.3.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 22315,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.3.1/refinedstorage-emi-integration-common-0.3.1.jar"
+        },
+        {
+          "id": 178836521,
+          "nodeId": "RA_kwDOMLbYO84KqNQp",
+          "name": "refinedstorage-emi-integration-fabric-0.3.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 25755,
+          "downloadCount": 8,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.3.1/refinedstorage-emi-integration-fabric-0.3.1.jar"
+        },
+        {
+          "id": 178836523,
+          "nodeId": "RA_kwDOMLbYO84KqNQr",
+          "name": "refinedstorage-emi-integration-neoforge-0.3.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 25214,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.3.1/refinedstorage-emi-integration-neoforge-0.3.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-emi-integration/releases/164875579/assets{?name,label}",
+      "tagName": "v0.3.1",
+      "targetCommitish": "a7fe33d6cdfcc6adb59e42b76da0565143450991",
+      "body": "",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-07-10T20:15:11Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/tarball/v0.3.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/zipball/v0.3.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/releases/164875579",
+      "createdAt": "2024-07-10T20:13:12Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 19
+      }
+    ],
+    "totalDownloads": 19
+  }
+}

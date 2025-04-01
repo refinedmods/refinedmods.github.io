@@ -1,0 +1,59 @@
+{
+  "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v0.3.0.json",
+  "name": "v0.3.0",
+  "indexedAt": "2025-04-01T05:03:58Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 201901274,
+      "nodeId": "RE_kwDOMKNAB84MCMTa",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/tag/v0.3.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/201901274/assets",
+      "assets": [
+        {
+          "id": 231815150,
+          "nodeId": "RA_kwDOMKNAB84N0Tfu",
+          "name": "refinedstorage-trinkets-integration-0.3.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8821,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v0.3.0/refinedstorage-trinkets-integration-0.3.0-sources.jar"
+        },
+        {
+          "id": 231815149,
+          "nodeId": "RA_kwDOMKNAB84N0Tft",
+          "name": "refinedstorage-trinkets-integration-0.3.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 11730,
+          "downloadCount": 18,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v0.3.0/refinedstorage-trinkets-integration-0.3.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/201901274/assets{?name,label}",
+      "tagName": "v0.3.0",
+      "targetCommitish": "b5209ec5adb6b925990f715fb0b56389b1966be9",
+      "body": "### Added\n\n-   Support for the Wireless Crafting Grid from Quartz Arsenal.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2025-02-23T12:51:03Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/tarball/v0.3.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/zipball/v0.3.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/201901274",
+      "createdAt": "2025-02-23T12:48:23Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 20
+      }
+    ],
+    "totalDownloads": 20
+  }
+}

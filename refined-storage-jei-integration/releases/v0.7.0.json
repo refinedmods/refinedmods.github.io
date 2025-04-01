@@ -1,0 +1,81 @@
+{
+  "url": "https://refinedmods.com/refined-storage-jei-integration/releases/v0.7.0.json",
+  "name": "v0.7.0",
+  "indexedAt": "2025-04-01T05:03:51Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 189602636,
+      "nodeId": "RE_kwDOMEAkB84LTRtM",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/tag/v0.7.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/189602636/assets",
+      "assets": [
+        {
+          "id": 211930010,
+          "nodeId": "RA_kwDOMEAkB84Mocua",
+          "name": "refinedstorage-jei-integration-0.7.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 57,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.7.0/refinedstorage-jei-integration-0.7.0.jar"
+        },
+        {
+          "id": 211930012,
+          "nodeId": "RA_kwDOMEAkB84Mocuc",
+          "name": "refinedstorage-jei-integration-common-0.7.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 54111,
+          "downloadCount": 12,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.7.0/refinedstorage-jei-integration-common-0.7.0.jar"
+        },
+        {
+          "id": 211930011,
+          "nodeId": "RA_kwDOMEAkB84Mocub",
+          "name": "refinedstorage-jei-integration-fabric-0.7.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 59126,
+          "downloadCount": 28,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.7.0/refinedstorage-jei-integration-fabric-0.7.0.jar"
+        },
+        {
+          "id": 211930013,
+          "nodeId": "RA_kwDOMEAkB84Mocud",
+          "name": "refinedstorage-jei-integration-neoforge-0.7.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 57965,
+          "downloadCount": 535,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.7.0/refinedstorage-jei-integration-neoforge-0.7.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/189602636/assets{?name,label}",
+      "tagName": "v0.7.0",
+      "targetCommitish": "3e7de1276005e5cbbaf68b1069644f1b17aa4145",
+      "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-milestone.4.11.\n-   Recipe transfer not working in the Wireless Crafting Grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-12-08T18:20:27Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/tarball/v0.7.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/zipball/v0.7.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/189602636",
+      "createdAt": "2024-12-08T18:18:21Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 632
+      }
+    ],
+    "totalDownloads": 632
+  }
+}

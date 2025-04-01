@@ -1,0 +1,64 @@
+{
+  "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases.json",
+  "name": "Refined Storage - Quartz Arsenal",
+  "indexedAt": "2025-04-01T05:03:49Z",
+  "releases": [
+    {
+      "name": "v0.1.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v0.1.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/187136448"
+      ],
+      "createdAt": "2024-11-24T00:40:29Z"
+    },
+    {
+      "name": "v0.1.1",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v0.1.1.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/189601194"
+      ],
+      "createdAt": "2024-12-08T17:41:51Z"
+    },
+    {
+      "name": "v0.1.2",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v0.1.2.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/197213926"
+      ],
+      "createdAt": "2025-01-28T18:24:31Z"
+    },
+    {
+      "name": "v1.0.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v1.0.0.json",
+      "sources": [
+        "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/U0ktFwRH",
+        "https://www.curseforge.com/api/v1/mods/1230483/files/6358925",
+        "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/208923246",
+        "https://www.curseforge.com/api/v1/mods/1230483/files/6358924",
+        "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/l3Ip1j4y"
+      ],
+      "createdAt": "2025-03-28T11:08:10Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 352
+      },
+      {
+        "source": "modrinth",
+        "downloads": 116
+      },
+      {
+        "source": "curseforge",
+        "downloads": 654
+      }
+    ],
+    "totalDownloads": 1122
+  }
+}

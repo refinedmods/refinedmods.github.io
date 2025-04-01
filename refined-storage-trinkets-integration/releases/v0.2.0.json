@@ -1,0 +1,48 @@
+{
+  "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v0.2.0.json",
+  "name": "v0.2.0",
+  "indexedAt": "2025-04-01T05:03:58Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 166364765,
+      "nodeId": "RE_kwDOMKNAB84J6oZd",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/tag/v0.2.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/166364765/assets",
+      "assets": [
+        {
+          "id": 180798885,
+          "nodeId": "RA_kwDOMKNAB84KxsWl",
+          "name": "refinedstorage-trinkets-integration-0.2.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 15330,
+          "downloadCount": 8,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v0.2.0/refinedstorage-trinkets-integration-0.2.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/166364765/assets{?name,label}",
+      "tagName": "v0.2.0",
+      "targetCommitish": "13cfa5b6028532882cf519ab56acd628374015f7",
+      "body": "### Changed\n\n-   Support for Refined Storage v2.0.0-milestone.4.4.\n-   The Portable Grid can now also be equipped as a trinket.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-07-20T18:25:29Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/tarball/v0.2.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/zipball/v0.2.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/166364765",
+      "createdAt": "2024-07-20T18:23:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 8
+      }
+    ],
+    "totalDownloads": 8
+  }
+}

@@ -1,10 +1,14 @@
 {
   "url": "https://refinedmods.com/releases.json",
-  "indexedAt": "2025-04-01T01:11:02Z",
+  "indexedAt": "2025-04-01T05:03:07Z",
   "projects": [
     {
       "url": "https://refinedmods.com/refined-storage/releases.json",
       "name": "Refined Storage"
+    },
+    {
+      "url": "https://refinedmods.com/refined-storage-rei-integration/releases.json",
+      "name": "Refined Storage - REI Integration"
     },
     {
       "url": "https://refinedmods.com/refined-storage-addons/releases.json",
@@ -15,29 +19,53 @@
       "name": "Refined Pipes"
     },
     {
+      "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases.json",
+      "name": "Refined Storage - Mekanism Integration"
+    },
+    {
+      "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases.json",
+      "name": "Refined Storage - Quartz Arsenal"
+    },
+    {
+      "url": "https://refinedmods.com/refined-storage-emi-integration/releases.json",
+      "name": "Refined Storage - EMI Integration"
+    },
+    {
       "url": "https://refinedmods.com/ranged-pumps/releases.json",
       "name": "Ranged Pumps"
     },
     {
+      "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases.json",
+      "name": "Refined Storage - Trinkets Integration"
+    },
+    {
       "url": "https://refinedmods.com/spawner-imbuer/releases.json",
       "name": "Spawner Imbuer"
+    },
+    {
+      "url": "https://refinedmods.com/refined-storage-curios-integration/releases.json",
+      "name": "Refined Storage - Curios Integration"
+    },
+    {
+      "url": "https://refinedmods.com/refined-storage-jei-integration/releases.json",
+      "name": "Refined Storage - JEI Integration"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 31223
+        "downloads": 33924
       },
       {
         "source": "modrinth",
-        "downloads": 390753
+        "downloads": 391545
       },
       {
         "source": "curseforge",
-        "downloads": 263867084
+        "downloads": 263897027
       }
     ],
-    "totalDownloads": 264289060
+    "totalDownloads": 264322496
   }
 }

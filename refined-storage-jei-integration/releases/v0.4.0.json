@@ -1,0 +1,81 @@
+{
+  "url": "https://refinedmods.com/refined-storage-jei-integration/releases/v0.4.0.json",
+  "name": "v0.4.0",
+  "indexedAt": "2025-04-01T05:03:51Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 169377159,
+      "nodeId": "RE_kwDOMEAkB84KGH2H",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/tag/v0.4.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/169377159/assets",
+      "assets": [
+        {
+          "id": 184742368,
+          "nodeId": "RA_kwDOMEAkB84LAvHg",
+          "name": "refinedstorage-jei-integration-0.4.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.4.0/refinedstorage-jei-integration-0.4.0.jar"
+        },
+        {
+          "id": 184742369,
+          "nodeId": "RA_kwDOMEAkB84LAvHh",
+          "name": "refinedstorage-jei-integration-common-0.4.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 36412,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.4.0/refinedstorage-jei-integration-common-0.4.0.jar"
+        },
+        {
+          "id": 184742370,
+          "nodeId": "RA_kwDOMEAkB84LAvHi",
+          "name": "refinedstorage-jei-integration-fabric-0.4.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 41289,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.4.0/refinedstorage-jei-integration-fabric-0.4.0.jar"
+        },
+        {
+          "id": 184742372,
+          "nodeId": "RA_kwDOMEAkB84LAvHk",
+          "name": "refinedstorage-jei-integration-neoforge-0.4.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 40262,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.4.0/refinedstorage-jei-integration-neoforge-0.4.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/169377159/assets{?name,label}",
+      "tagName": "v0.4.0",
+      "targetCommitish": "f5b4f469f0a7862b28340c9f1d34c6e5ab53febb",
+      "body": "### Added\n\n-   Recipe transfer support for the Pattern Grid.\n\n### Fixed\n\n-   Recipe transfer not prioritizing displayed item.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-08-08T17:13:54Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/tarball/v0.4.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/zipball/v0.4.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/169377159",
+      "createdAt": "2024-08-08T17:10:46Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 8
+      }
+    ],
+    "totalDownloads": 8
+  }
+}

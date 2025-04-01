@@ -1,0 +1,59 @@
+{
+  "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v0.3.0.json",
+  "name": "v0.3.0",
+  "indexedAt": "2025-04-01T05:03:50Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 201899767,
+      "nodeId": "RE_kwDOMA56iM4MCL73",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/tag/v0.3.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/201899767/assets",
+      "assets": [
+        {
+          "id": 231810131,
+          "nodeId": "RA_kwDOMA56iM4N0SRT",
+          "name": "refinedstorage-mekanism-integration-0.3.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 110264,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v0.3.0/refinedstorage-mekanism-integration-0.3.0-sources.jar"
+        },
+        {
+          "id": 231810132,
+          "nodeId": "RA_kwDOMA56iM4N0SRU",
+          "name": "refinedstorage-mekanism-integration-0.3.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 157142,
+          "downloadCount": 132,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v0.3.0/refinedstorage-mekanism-integration-0.3.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/201899767/assets{?name,label}",
+      "tagName": "v0.3.0",
+      "targetCommitish": "568dec635c442df7160357a3700063fc25d0290b",
+      "body": "### Changed\n\n-   \u0027B\u0027 is now displayed after chemical amounts, indicating the amount in buckets.\n\n### Fixed\n\n-   Support for Refined Storage v2.0.0-milestone.4.14.\n-   Fixed potential crash when trying to extract from empty chemical tank.\n-   Fixed chemical amounts displaying to 0.1 buckets and not 0.001. The suffix \"m\" is used.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2025-02-23T12:18:02Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/tarball/v0.3.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/zipball/v0.3.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/201899767",
+      "createdAt": "2025-02-23T12:15:10Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 135
+      }
+    ],
+    "totalDownloads": 135
+  }
+}

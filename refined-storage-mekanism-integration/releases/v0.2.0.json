@@ -1,0 +1,59 @@
+{
+  "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v0.2.0.json",
+  "name": "v0.2.0",
+  "indexedAt": "2025-04-01T05:03:50Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 197934773,
+      "nodeId": "RE_kwDOMA56iM4LzD61",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/tag/v0.2.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/197934773/assets",
+      "assets": [
+        {
+          "id": 225455643,
+          "nodeId": "RA_kwDOMA56iM4NcC4b",
+          "name": "refinedstorage-mekanism-integration-0.2.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 110239,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v0.2.0/refinedstorage-mekanism-integration-0.2.0-sources.jar"
+        },
+        {
+          "id": 225455642,
+          "nodeId": "RA_kwDOMA56iM4NcC4a",
+          "name": "refinedstorage-mekanism-integration-0.2.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 156190,
+          "downloadCount": 56,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v0.2.0/refinedstorage-mekanism-integration-0.2.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/197934773/assets{?name,label}",
+      "tagName": "v0.2.0",
+      "targetCommitish": "96c071771c9ea29958ca76364309b8cf9d82f7fd",
+      "body": "### Added\n\n-   You can now use chemicals in autocrafting.\n\n### Fixed\n\n-   Support for Refined Storage v2.0.0-milestone.4.12.\n-   Missing tag translation for chemical storage disks.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2025-02-01T18:21:05Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/tarball/v0.2.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/zipball/v0.2.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/197934773",
+      "createdAt": "2025-02-01T18:19:35Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 62
+      }
+    ],
+    "totalDownloads": 62
+  }
+}

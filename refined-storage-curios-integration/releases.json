@@ -1,0 +1,62 @@
+{
+  "url": "https://refinedmods.com/refined-storage-curios-integration/releases.json",
+  "name": "Refined Storage - Curios Integration",
+  "indexedAt": "2025-04-01T05:03:57Z",
+  "releases": [
+    {
+      "name": "v0.1.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-curios-integration/releases/v0.1.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/160698551"
+      ],
+      "createdAt": "2024-06-16T10:51:30Z"
+    },
+    {
+      "name": "v0.2.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-curios-integration/releases/v0.2.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/200598729"
+      ],
+      "createdAt": "2025-02-16T22:30:10Z"
+    },
+    {
+      "name": "v0.3.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-curios-integration/releases/v0.3.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/201900539"
+      ],
+      "createdAt": "2025-02-23T12:37:31Z"
+    },
+    {
+      "name": "v1.0.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-curios-integration/releases/v1.0.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/209032032",
+        "https://api.modrinth.com/v2/project/refined-storage-curios-integration/version/Mth1azz7",
+        "https://www.curseforge.com/api/v1/mods/1230729/files/6360514"
+      ],
+      "createdAt": "2025-03-28T18:52:25Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 223
+      },
+      {
+        "source": "modrinth",
+        "downloads": 84
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1758
+      }
+    ],
+    "totalDownloads": 2065
+  }
+}

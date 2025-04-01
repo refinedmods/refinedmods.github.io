@@ -1,0 +1,81 @@
+{
+  "url": "https://refinedmods.com/refined-storage-jei-integration/releases/v0.2.1.json",
+  "name": "v0.2.1",
+  "indexedAt": "2025-04-01T05:03:51Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 160691965,
+      "nodeId": "RE_kwDOMEAkB84Jk_b9",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/tag/v0.2.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/160691965/assets",
+      "assets": [
+        {
+          "id": 174080588,
+          "nodeId": "RA_kwDOMEAkB84KYEJM",
+          "name": "refinedstorage-jei-integration-0.2.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.2.1/refinedstorage-jei-integration-0.2.1.jar"
+        },
+        {
+          "id": 174080590,
+          "nodeId": "RA_kwDOMEAkB84KYEJO",
+          "name": "refinedstorage-jei-integration-common-0.2.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27603,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.2.1/refinedstorage-jei-integration-common-0.2.1.jar"
+        },
+        {
+          "id": 174080589,
+          "nodeId": "RA_kwDOMEAkB84KYEJN",
+          "name": "refinedstorage-jei-integration-fabric-0.2.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 31927,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.2.1/refinedstorage-jei-integration-fabric-0.2.1.jar"
+        },
+        {
+          "id": 174080587,
+          "nodeId": "RA_kwDOMEAkB84KYEJL",
+          "name": "refinedstorage-jei-integration-forge-0.2.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 30112,
+          "downloadCount": 8,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.2.1/refinedstorage-jei-integration-forge-0.2.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/160691965/assets{?name,label}",
+      "tagName": "v0.2.1",
+      "targetCommitish": "0a360b7eef2aee7b1ee4cd9c6a70bb8f26545c0c",
+      "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-milestone.3.9.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-06-16T07:33:50Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/tarball/v0.2.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/zipball/v0.2.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/160691965",
+      "createdAt": "2024-06-16T07:28:55Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 22
+      }
+    ],
+    "totalDownloads": 22
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://refinedmods.com/refined-storage-rei-integration/releases/v0.4.0.json",
+  "name": "v0.4.0",
+  "indexedAt": "2025-04-01T05:03:53Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 179653723,
+      "nodeId": "RE_kwDOMGyWg84KtUxb",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/tag/v0.4.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-rei-integration/releases/179653723/assets",
+      "assets": [
+        {
+          "id": 198649614,
+          "nodeId": "RA_kwDOMGyWg84L1ycO",
+          "name": "refinedstorage-rei-integration-0.4.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v0.4.0/refinedstorage-rei-integration-0.4.0.jar"
+        },
+        {
+          "id": 198649613,
+          "nodeId": "RA_kwDOMGyWg84L1ycN",
+          "name": "refinedstorage-rei-integration-common-0.4.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3229,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v0.4.0/refinedstorage-rei-integration-common-0.4.0.jar"
+        },
+        {
+          "id": 198649616,
+          "nodeId": "RA_kwDOMGyWg84L1ycQ",
+          "name": "refinedstorage-rei-integration-fabric-0.4.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 44857,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v0.4.0/refinedstorage-rei-integration-fabric-0.4.0.jar"
+        },
+        {
+          "id": 198649615,
+          "nodeId": "RA_kwDOMGyWg84L1ycP",
+          "name": "refinedstorage-rei-integration-neoforge-0.4.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 41490,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v0.4.0/refinedstorage-rei-integration-neoforge-0.4.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-rei-integration/releases/179653723/assets{?name,label}",
+      "tagName": "v0.4.0",
+      "targetCommitish": "83aa69fa831fc22942f805db00ff8d96253e81cc",
+      "body": "### Added\n\n-   The recipe transfer support in the Pattern Grid and Crafting Grid now indicates whether all or some resources are autocraftable.\n-   You can now start autocrafting for missing autocraftable items from the Crafting Grid via the recipe transfer.\n\n### Fixed\n\n-   Support for Refined Storage v2.0.0-milestone.4.8.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-10-12T18:14:18Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-rei-integration/tarball/v0.4.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-rei-integration/zipball/v0.4.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-rei-integration/releases/179653723",
+      "createdAt": "2024-10-12T18:12:28Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 13
+      }
+    ],
+    "totalDownloads": 13
+  }
+}

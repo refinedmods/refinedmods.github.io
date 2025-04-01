@@ -1,0 +1,62 @@
+{
+  "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases.json",
+  "name": "Refined Storage - Mekanism Integration",
+  "indexedAt": "2025-04-01T05:03:50Z",
+  "releases": [
+    {
+      "name": "v0.1.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v0.1.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/189606774"
+      ],
+      "createdAt": "2024-12-08T20:02:32Z"
+    },
+    {
+      "name": "v0.2.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v0.2.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/197934773"
+      ],
+      "createdAt": "2025-02-01T18:19:35Z"
+    },
+    {
+      "name": "v0.3.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v0.3.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/201899767"
+      ],
+      "createdAt": "2025-02-23T12:15:10Z"
+    },
+    {
+      "name": "v1.0.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v1.0.0.json",
+      "sources": [
+        "https://www.curseforge.com/api/v1/mods/1230504/files/6359071",
+        "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/208935892",
+        "https://api.modrinth.com/v2/project/refined-storage-mekanism-integration/version/AusMHQqM"
+      ],
+      "createdAt": "2025-03-28T12:15:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 332
+      },
+      {
+        "source": "modrinth",
+        "downloads": 75
+      },
+      {
+        "source": "curseforge",
+        "downloads": 1958
+      }
+    ],
+    "totalDownloads": 2365
+  }
+}

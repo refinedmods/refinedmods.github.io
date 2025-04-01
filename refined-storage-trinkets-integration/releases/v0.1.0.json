@@ -1,0 +1,48 @@
+{
+  "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v0.1.0.json",
+  "name": "v0.1.0",
+  "indexedAt": "2025-04-01T05:03:58Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 161024758,
+      "nodeId": "RE_kwDOMKNAB84JmQr2",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/tag/v0.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/161024758/assets",
+      "assets": [
+        {
+          "id": 174443311,
+          "nodeId": "RA_kwDOMKNAB84KZcsv",
+          "name": "refinedstorage-trinkets-integration-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 11272,
+          "downloadCount": 10,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v0.1.0/refinedstorage-trinkets-integration-0.1.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/161024758/assets{?name,label}",
+      "tagName": "v0.1.0",
+      "targetCommitish": "5ebafd771660f8979730e9716376e2d0ddf4c414",
+      "body": "### Added\n\n-   Initial release.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-06-18T08:12:53Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/tarball/v0.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/zipball/v0.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/161024758",
+      "createdAt": "2024-06-18T08:10:47Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 10
+      }
+    ],
+    "totalDownloads": 10
+  }
+}

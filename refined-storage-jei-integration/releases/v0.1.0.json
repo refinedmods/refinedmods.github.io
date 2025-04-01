@@ -1,0 +1,81 @@
+{
+  "url": "https://refinedmods.com/refined-storage-jei-integration/releases/v0.1.0.json",
+  "name": "v0.1.0",
+  "indexedAt": "2025-04-01T05:03:51Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 159520085,
+      "nodeId": "RE_kwDOMEAkB84JghVV",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/tag/v0.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/159520085/assets",
+      "assets": [
+        {
+          "id": 172667489,
+          "nodeId": "RA_kwDOMEAkB84KSrJh",
+          "name": "refinedstorage-jei-integration-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.1.0/refinedstorage-jei-integration-0.1.0.jar"
+        },
+        {
+          "id": 172667492,
+          "nodeId": "RA_kwDOMEAkB84KSrJk",
+          "name": "refinedstorage-jei-integration-common-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27588,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.1.0/refinedstorage-jei-integration-common-0.1.0.jar"
+        },
+        {
+          "id": 172667491,
+          "nodeId": "RA_kwDOMEAkB84KSrJj",
+          "name": "refinedstorage-jei-integration-fabric-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 31901,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.1.0/refinedstorage-jei-integration-fabric-0.1.0.jar"
+        },
+        {
+          "id": 172667490,
+          "nodeId": "RA_kwDOMEAkB84KSrJi",
+          "name": "refinedstorage-jei-integration-forge-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 30097,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v0.1.0/refinedstorage-jei-integration-forge-0.1.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/159520085/assets{?name,label}",
+      "tagName": "v0.1.0",
+      "targetCommitish": "1a57bd62aede21a238bdb9d30528eb8a83d34022",
+      "body": "### Added\n\n-   Support for JEI exclusion zones.\n-   Support for JEI ghost ingredient dragging.\n-   Support for using the R/U keys on Grid slots and filtering slots.\n-   Recipe transfer integration for the Crafting Grid.\n-   Grid / JEI search box synchronization options.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-06-08T16:48:19Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/tarball/v0.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/zipball/v0.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/159520085",
+      "createdAt": "2024-06-08T16:43:44Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 16
+      }
+    ],
+    "totalDownloads": 16
+  }
+}

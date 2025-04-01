@@ -1,0 +1,81 @@
+{
+  "url": "https://refinedmods.com/refined-storage-emi-integration/releases/v0.1.0.json",
+  "name": "v0.1.0",
+  "indexedAt": "2025-04-01T05:03:55Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 161539415,
+      "nodeId": "RE_kwDOMLbYO84JoOVX",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/tag/v0.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/releases/161539415/assets",
+      "assets": [
+        {
+          "id": 174969556,
+          "nodeId": "RA_kwDOMLbYO84KbdLU",
+          "name": "refinedstorage-emi-integration-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.1.0/refinedstorage-emi-integration-0.1.0.jar"
+        },
+        {
+          "id": 174969559,
+          "nodeId": "RA_kwDOMLbYO84KbdLX",
+          "name": "refinedstorage-emi-integration-common-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 20856,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.1.0/refinedstorage-emi-integration-common-0.1.0.jar"
+        },
+        {
+          "id": 174969558,
+          "nodeId": "RA_kwDOMLbYO84KbdLW",
+          "name": "refinedstorage-emi-integration-fabric-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24224,
+          "downloadCount": 11,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.1.0/refinedstorage-emi-integration-fabric-0.1.0.jar"
+        },
+        {
+          "id": 174969557,
+          "nodeId": "RA_kwDOMLbYO84KbdLV",
+          "name": "refinedstorage-emi-integration-forge-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 22987,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.1.0/refinedstorage-emi-integration-forge-0.1.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-emi-integration/releases/161539415/assets{?name,label}",
+      "tagName": "v0.1.0",
+      "targetCommitish": "c78ebefb66721997b80308b295b98acff01f0a7e",
+      "body": "### Added\n\n-   Support for EMI exclusion zones.\n-   Support for EMI ghost ingredient dragging.\n-   Support for using the R/U keys on Grid slots and filtering slots.\n-   Recipe transfer integration for the Crafting Grid.\n-   Grid / EMI search box synchronization options.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-06-20T18:44:20Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/tarball/v0.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/zipball/v0.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/releases/161539415",
+      "createdAt": "2024-06-20T18:39:16Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 19
+      }
+    ],
+    "totalDownloads": 19
+  }
+}

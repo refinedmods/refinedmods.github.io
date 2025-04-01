@@ -1,0 +1,81 @@
+{
+  "url": "https://refinedmods.com/refined-storage-emi-integration/releases/v0.6.0.json",
+  "name": "v0.6.0",
+  "indexedAt": "2025-04-01T05:03:55Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 189603688,
+      "nodeId": "RE_kwDOMLbYO84LTR9o",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/tag/v0.6.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/releases/189603688/assets",
+      "assets": [
+        {
+          "id": 211932903,
+          "nodeId": "RA_kwDOMLbYO84Modbn",
+          "name": "refinedstorage-emi-integration-0.6.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 37,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.6.0/refinedstorage-emi-integration-0.6.0.jar"
+        },
+        {
+          "id": 211932901,
+          "nodeId": "RA_kwDOMLbYO84Modbl",
+          "name": "refinedstorage-emi-integration-common-0.6.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 40195,
+          "downloadCount": 14,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.6.0/refinedstorage-emi-integration-common-0.6.0.jar"
+        },
+        {
+          "id": 211932902,
+          "nodeId": "RA_kwDOMLbYO84Modbm",
+          "name": "refinedstorage-emi-integration-fabric-0.6.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 43754,
+          "downloadCount": 31,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.6.0/refinedstorage-emi-integration-fabric-0.6.0.jar"
+        },
+        {
+          "id": 211932904,
+          "nodeId": "RA_kwDOMLbYO84Modbo",
+          "name": "refinedstorage-emi-integration-neoforge-0.6.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 43124,
+          "downloadCount": 119,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.6.0/refinedstorage-emi-integration-neoforge-0.6.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-emi-integration/releases/189603688/assets{?name,label}",
+      "tagName": "v0.6.0",
+      "targetCommitish": "061963914d6ebf7d3eeb075bdcc82d57de9e8983",
+      "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-milestone.4.11.\n-   Recipe transfer not working in the Wireless Crafting Grid.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-12-08T18:45:23Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/tarball/v0.6.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/zipball/v0.6.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/releases/189603688",
+      "createdAt": "2024-12-08T18:43:33Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 201
+      }
+    ],
+    "totalDownloads": 201
+  }
+}

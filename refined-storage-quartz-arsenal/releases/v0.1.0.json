@@ -1,0 +1,81 @@
+{
+  "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v0.1.0.json",
+  "name": "v0.1.0",
+  "indexedAt": "2025-04-01T05:03:49Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 187136448,
+      "nodeId": "RE_kwDONQqxt84LJ3nA",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/tag/v0.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/187136448/assets",
+      "assets": [
+        {
+          "id": 208636385,
+          "nodeId": "RA_kwDONQqxt84Mb4nh",
+          "name": "refinedstorage-quartz-arsenal-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.0/refinedstorage-quartz-arsenal-0.1.0.jar"
+        },
+        {
+          "id": 208636387,
+          "nodeId": "RA_kwDONQqxt84Mb4nj",
+          "name": "refinedstorage-quartz-arsenal-common-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 39972,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.0/refinedstorage-quartz-arsenal-common-0.1.0.jar"
+        },
+        {
+          "id": 208636386,
+          "nodeId": "RA_kwDONQqxt84Mb4ni",
+          "name": "refinedstorage-quartz-arsenal-fabric-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 54713,
+          "downloadCount": 13,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.0/refinedstorage-quartz-arsenal-fabric-0.1.0.jar"
+        },
+        {
+          "id": 208636388,
+          "nodeId": "RA_kwDONQqxt84Mb4nk",
+          "name": "refinedstorage-quartz-arsenal-neoforge-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 55562,
+          "downloadCount": 16,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v0.1.0/refinedstorage-quartz-arsenal-neoforge-0.1.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/187136448/assets{?name,label}",
+      "tagName": "v0.1.0",
+      "targetCommitish": "0fdbf99625a350856e57b53ac1990bbd12142997",
+      "body": "### Added\n\n-   Wireless Crafting Grid\n\n### Changed\n\n-   You can now configure the energy usage of the Wireless Crafting Grid\u0027s recipe transfer and autocrafting.\n-   You can now use the Wireless Crafting Grid without being connected to a network.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-11-24T00:42:39Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/tarball/v0.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/zipball/v0.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/187136448",
+      "createdAt": "2024-11-24T00:40:29Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 35
+      }
+    ],
+    "totalDownloads": 35
+  }
+}

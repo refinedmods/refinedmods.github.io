@@ -1,0 +1,48 @@
+{
+  "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v0.1.0.json",
+  "name": "v0.1.0",
+  "indexedAt": "2025-04-01T05:03:50Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 189606774,
+      "nodeId": "RE_kwDOMA56iM4LTSt2",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/tag/v0.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/189606774/assets",
+      "assets": [
+        {
+          "id": 211943202,
+          "nodeId": "RA_kwDOMA56iM4Mof8i",
+          "name": "refinedstorage-mekanism-integration-0.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 136454,
+          "downloadCount": 124,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v0.1.0/refinedstorage-mekanism-integration-0.1.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/189606774/assets{?name,label}",
+      "tagName": "v0.1.0",
+      "targetCommitish": "f29e95e06d0e1b580f7abab88d1b9cea6f6be449",
+      "body": "## Added\r\n\r\n- Chemical Storage Disk\r\n- Chemical Storage blocks\r\n- Chemical support in the Grid.\r\n- Chemical support in the Storage Monitor.\r\n- Chemical support in the Importer.\r\n- Chemical support in the Exporter.\r\n- Chemical support in the External Storage.\r\n- Ghost dragging support for chemicals in JEI and EMI.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-12-08T20:04:23Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/tarball/v0.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/zipball/v0.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/189606774",
+      "createdAt": "2024-12-08T20:02:32Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 124
+      }
+    ],
+    "totalDownloads": 124
+  }
+}

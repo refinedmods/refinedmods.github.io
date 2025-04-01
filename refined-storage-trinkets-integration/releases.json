@@ -1,0 +1,71 @@
+{
+  "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases.json",
+  "name": "Refined Storage - Trinkets Integration",
+  "indexedAt": "2025-04-01T05:03:58Z",
+  "releases": [
+    {
+      "name": "v0.1.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v0.1.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/161024758"
+      ],
+      "createdAt": "2024-06-18T08:10:47Z"
+    },
+    {
+      "name": "v0.2.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v0.2.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/166364765"
+      ],
+      "createdAt": "2024-07-20T18:23:07Z"
+    },
+    {
+      "name": "v0.2.1",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v0.2.1.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/167418360"
+      ],
+      "createdAt": "2024-07-26T19:01:42Z"
+    },
+    {
+      "name": "v0.3.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v0.3.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/201901274"
+      ],
+      "createdAt": "2025-02-23T12:48:23Z"
+    },
+    {
+      "name": "v1.0.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v1.0.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/209035815",
+        "https://www.curseforge.com/api/v1/mods/1230748/files/6360583",
+        "https://api.modrinth.com/v2/project/refined-storage-trinkets-integration/version/G9QXGkZR"
+      ],
+      "createdAt": "2025-03-28T19:10:51Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 73
+      },
+      {
+        "source": "modrinth",
+        "downloads": 35
+      },
+      {
+        "source": "curseforge",
+        "downloads": 56
+      }
+    ],
+    "totalDownloads": 164
+  }
+}

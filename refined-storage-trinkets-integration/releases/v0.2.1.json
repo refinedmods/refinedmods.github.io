@@ -1,0 +1,48 @@
+{
+  "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v0.2.1.json",
+  "name": "v0.2.1",
+  "indexedAt": "2025-04-01T05:03:58Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 167418360,
+      "nodeId": "RE_kwDOMKNAB84J-pn4",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/tag/v0.2.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/167418360/assets",
+      "assets": [
+        {
+          "id": 182062804,
+          "nodeId": "RA_kwDOMKNAB84K2g7U",
+          "name": "refinedstorage-trinkets-integration-0.2.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 15214,
+          "downloadCount": 33,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v0.2.1/refinedstorage-trinkets-integration-0.2.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/167418360/assets{?name,label}",
+      "tagName": "v0.2.1",
+      "targetCommitish": "df61a673dcbe2ad6b19bf4f334e75c1973dcdfe3",
+      "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-milestone.4.5.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2024-07-26T19:03:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/tarball/v0.2.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/zipball/v0.2.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-trinkets-integration/releases/167418360",
+      "createdAt": "2024-07-26T19:01:42Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 33
+      }
+    ],
+    "totalDownloads": 33
+  }
+}

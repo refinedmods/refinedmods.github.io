@@ -1,0 +1,249 @@
+{
+  "url": "https://refinedmods.com/refined-storage-rei-integration/releases/v1.0.0.json",
+  "name": "v1.0.0",
+  "indexedAt": "2025-04-01T05:03:53Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 209009368,
+      "nodeId": "RE_kwDOMGyWg84MdTrY",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/tag/v1.0.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-rei-integration/releases/209009368/assets",
+      "assets": [
+        {
+          "id": 241634622,
+          "nodeId": "RA_kwDOMGyWg84OZw0-",
+          "name": "refinedstorage-rei-integration-1.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v1.0.0/refinedstorage-rei-integration-1.0.0-sources.jar"
+        },
+        {
+          "id": 241634623,
+          "nodeId": "RA_kwDOMGyWg84OZw0_",
+          "name": "refinedstorage-rei-integration-1.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v1.0.0/refinedstorage-rei-integration-1.0.0.jar"
+        },
+        {
+          "id": 241634626,
+          "nodeId": "RA_kwDOMGyWg84OZw1C",
+          "name": "refinedstorage-rei-integration-common-1.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8948,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v1.0.0/refinedstorage-rei-integration-common-1.0.0-sources.jar"
+        },
+        {
+          "id": 241634627,
+          "nodeId": "RA_kwDOMGyWg84OZw1D",
+          "name": "refinedstorage-rei-integration-common-1.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 9496,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v1.0.0/refinedstorage-rei-integration-common-1.0.0.jar"
+        },
+        {
+          "id": 241634624,
+          "nodeId": "RA_kwDOMGyWg84OZw1A",
+          "name": "refinedstorage-rei-integration-fabric-1.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 21703,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v1.0.0/refinedstorage-rei-integration-fabric-1.0.0-sources.jar"
+        },
+        {
+          "id": 241634629,
+          "nodeId": "RA_kwDOMGyWg84OZw1F",
+          "name": "refinedstorage-rei-integration-fabric-1.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 51597,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v1.0.0/refinedstorage-rei-integration-fabric-1.0.0.jar"
+        },
+        {
+          "id": 241634628,
+          "nodeId": "RA_kwDOMGyWg84OZw1E",
+          "name": "refinedstorage-rei-integration-neoforge-1.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19358,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v1.0.0/refinedstorage-rei-integration-neoforge-1.0.0-sources.jar"
+        },
+        {
+          "id": 241634625,
+          "nodeId": "RA_kwDOMGyWg84OZw1B",
+          "name": "refinedstorage-rei-integration-neoforge-1.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 48051,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v1.0.0/refinedstorage-rei-integration-neoforge-1.0.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-rei-integration/releases/209009368/assets{?name,label}",
+      "tagName": "v1.0.0",
+      "targetCommitish": "4e21ab7f8bbb128f958f95f5e910074e5517ef8b",
+      "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.1.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2025-03-28T16:53:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-rei-integration/tarball/v1.0.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-rei-integration/zipball/v1.0.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-rei-integration/releases/209009368",
+      "createdAt": "2025-03-28T16:51:50Z"
+    },
+    {
+      "id": "LSiWqkiI",
+      "projectId": "RGAJWsc3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.0.0",
+      "changelog": "### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.1.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "78ed630ee2238fc50441d0deaa0fef4a760a8e302fe0f90c29c8b07926c0ce3aba1a5fd0d6a18a194c74b069ca489a171fbb718eccc4908f67fba402178e1440",
+            "sha1": "00c61ce6b8e6eb40507192705daea2aabe892e2c"
+          },
+          "url": "https://cdn.modrinth.com/data/RGAJWsc3/versions/LSiWqkiI/refinedstorage-rei-integration-fabric-1.0.0.jar",
+          "filename": "refinedstorage-rei-integration-fabric-1.0.0.jar",
+          "primary": true,
+          "size": 51597
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-rei-integration/version/LSiWqkiI",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-rei-integration/version/LSiWqkiI",
+      "platform": "FABRIC",
+      "createdAt": "2025-03-28T16:54:36Z"
+    },
+    {
+      "id": "yXirT7N4",
+      "projectId": "RGAJWsc3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.0.0",
+      "changelog": "### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.1.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "d79022150c30deffe6beb6891bd6c19644d375b3278ee7a035ece81c4637d60b8d0a86843c40bab5ab927c50a2d985e3df8c3aa3596efc37752ee201bfd50796",
+            "sha1": "09bb78b082036cd25c06087c2f195cabab247233"
+          },
+          "url": "https://cdn.modrinth.com/data/RGAJWsc3/versions/yXirT7N4/refinedstorage-rei-integration-neoforge-1.0.0.jar",
+          "filename": "refinedstorage-rei-integration-neoforge-1.0.0.jar",
+          "primary": true,
+          "size": 48051
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-rei-integration/version/yXirT7N4",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-rei-integration/version/yXirT7N4",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-03-28T16:54:36Z"
+    },
+    {
+      "id": 6360103,
+      "dateModified": "2025-03-29T09:47:11Z",
+      "fileLength": 51597,
+      "fileName": "refinedstorage-rei-integration-fabric-1.0.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Fabric",
+        "1.21.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-rei-integration/download/6360103",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-rei-integration/files/6360103",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230647/files/6360103",
+      "platform": "FABRIC",
+      "createdAt": "2025-03-28T16:54:39Z"
+    },
+    {
+      "id": 6360104,
+      "dateModified": "2025-03-29T09:47:11Z",
+      "fileLength": 48051,
+      "fileName": "refinedstorage-rei-integration-neoforge-1.0.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "1.21.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-rei-integration/download/6360104",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-rei-integration/files/6360104",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230647/files/6360104",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-03-28T16:54:39Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "modrinth",
+        "downloads": 42
+      },
+      {
+        "source": "curseforge",
+        "downloads": 146
+      }
+    ],
+    "totalDownloads": 194
+  }
+}
