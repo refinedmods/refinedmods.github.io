@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.5.json",
   "name": "v2.0.0-milestone.4.5",
-  "indexedAt": "2025-04-03T01:03:33Z",
+  "indexedAt": "2025-04-03T12:27:36Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 48,
+          "downloadCount": 49,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.5/refinedstorage-2.0.0-milestone.4.5.jar"
         },
         {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3170637,
-          "downloadCount": 130,
+          "downloadCount": 133,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.5/refinedstorage-neoforge-2.0.0-milestone.4.5.jar"
         },
         {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3828,
-          "downloadCount": 14,
+          "downloadCount": 16,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.5/refinedstorage-neoforge-api-2.0.0-milestone.4.5.jar"
         },
         {
@@ -117,7 +117,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 100667,
-          "downloadCount": 15,
+          "downloadCount": 16,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.5/refinedstorage-network-2.0.0-milestone.4.5.jar"
         },
         {
@@ -194,9 +194,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 604
+        "downloads": 611
       }
     ],
-    "totalDownloads": 604
+    "totalDownloads": 611
   }
 }
