@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2025-05-13T01:08:48Z",
+  "indexedAt": "2025-05-13T12:30:40Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 156373,
-          "downloadCount": 13,
+          "downloadCount": 14,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v1.0.0/refinedstorage-mekanism-integration-1.0.0.jar"
         }
       ],
@@ -109,17 +109,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 14
+        "downloads": 15
       },
       {
         "source": "modrinth",
-        "downloads": 1169
+        "downloads": 1179
       },
       {
         "source": "curseforge",
-        "downloads": 679867
+        "downloads": 685098
       }
     ],
-    "totalDownloads": 681050
+    "totalDownloads": 686292
   }
 }
