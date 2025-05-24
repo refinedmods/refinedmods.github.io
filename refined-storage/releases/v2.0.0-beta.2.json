@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.2.json",
   "name": "v2.0.0-beta.2",
-  "indexedAt": "2025-05-24T01:05:17Z",
+  "indexedAt": "2025-05-24T12:26:49Z",
   "type": "BETA",
   "sources": [
     {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 85,
+          "downloadCount": 86,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-2.0.0-beta.2.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3576334,
-          "downloadCount": 19,
+          "downloadCount": 21,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-common-2.0.0-beta.2.jar"
         },
         {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4368296,
-          "downloadCount": 68,
+          "downloadCount": 70,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-neoforge-2.0.0-beta.2.jar"
         },
         {
@@ -205,7 +205,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3829,
-          "downloadCount": 15,
+          "downloadCount": 16,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-neoforge-api-2.0.0-beta.2.jar"
         },
         {
@@ -475,17 +475,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 391
+        "downloads": 397
       },
       {
         "source": "modrinth",
-        "downloads": 11861
+        "downloads": 11963
       },
       {
         "source": "curseforge",
-        "downloads": 926281
+        "downloads": 934616
       }
     ],
-    "totalDownloads": 938533
+    "totalDownloads": 946976
   }
 }
