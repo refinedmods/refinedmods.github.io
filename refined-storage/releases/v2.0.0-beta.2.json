@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.2.json",
   "name": "v2.0.0-beta.2",
-  "indexedAt": "2025-05-26T01:10:09Z",
+  "indexedAt": "2025-05-26T12:29:20Z",
   "type": "BETA",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 42,
+          "downloadCount": 43,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-2.0.0-beta.2-sources.jar"
         },
         {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4368296,
-          "downloadCount": 70,
+          "downloadCount": 71,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-neoforge-2.0.0-beta.2.jar"
         },
         {
@@ -475,17 +475,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 403
+        "downloads": 405
       },
       {
         "source": "modrinth",
-        "downloads": 12457
+        "downloads": 12552
       },
       {
         "source": "curseforge",
-        "downloads": 974915
+        "downloads": 981076
       }
     ],
-    "totalDownloads": 987775
+    "totalDownloads": 994033
   }
 }
