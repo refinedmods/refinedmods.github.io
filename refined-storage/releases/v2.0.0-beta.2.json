@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.2.json",
   "name": "v2.0.0-beta.2",
-  "indexedAt": "2025-06-02T12:30:40Z",
+  "indexedAt": "2025-06-03T01:09:59Z",
   "type": "BETA",
   "sources": [
     {
@@ -282,7 +282,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 13485,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-query-parser-2.0.0-beta.2-sources.jar"
         },
         {
@@ -475,17 +475,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 431
+        "downloads": 432
       },
       {
         "source": "modrinth",
-        "downloads": 14478
+        "downloads": 14631
       },
       {
         "source": "curseforge",
-        "downloads": 1118949
+        "downloads": 1132181
       }
     ],
-    "totalDownloads": 1133858
+    "totalDownloads": 1147244
   }
 }
