@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.3.1.json",
   "name": "v2.0.0-milestone.3.1",
-  "indexedAt": "2025-06-26T01:10:21Z",
+  "indexedAt": "2025-06-26T12:30:18Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -117,7 +117,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 2353107,
-          "downloadCount": 10,
+          "downloadCount": 11,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.1/refinedstorage2-platform-forge-2.0.0-milestone.3.1.jar"
         },
         {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 28867,
-          "downloadCount": 8,
+          "downloadCount": 9,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.1/refinedstorage2-query-parser-2.0.0-milestone.3.1.jar"
         },
         {
@@ -183,9 +183,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 196
+        "downloads": 198
       }
     ],
-    "totalDownloads": 196
+    "totalDownloads": 198
   }
 }
