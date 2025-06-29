@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.9.json",
   "name": "v2.0.0-milestone.4.9",
-  "indexedAt": "2025-06-29T01:17:57Z",
+  "indexedAt": "2025-06-29T12:27:56Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 101605,
-          "downloadCount": 14,
+          "downloadCount": 15,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.9/refinedstorage-common-api-2.0.0-milestone.4.9.jar"
         },
         {
@@ -62,7 +62,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 8640,
-          "downloadCount": 16,
+          "downloadCount": 17,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.9/refinedstorage-core-api-2.0.0-milestone.4.9.jar"
         },
         {
@@ -205,9 +205,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 766
+        "downloads": 768
       }
     ],
-    "totalDownloads": 766
+    "totalDownloads": 768
   }
 }
