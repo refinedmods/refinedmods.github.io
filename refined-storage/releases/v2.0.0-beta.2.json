@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.2.json",
   "name": "v2.0.0-beta.2",
-  "indexedAt": "2025-07-04T12:29:49Z",
+  "indexedAt": "2025-07-05T01:08:08Z",
   "type": "BETA",
   "sources": [
     {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 110,
+          "downloadCount": 111,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-2.0.0-beta.2.jar"
         },
         {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 100552,
-          "downloadCount": 16,
+          "downloadCount": 17,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-autocrafting-api-2.0.0-beta.2.jar"
         },
         {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4368296,
-          "downloadCount": 93,
+          "downloadCount": 94,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-neoforge-2.0.0-beta.2.jar"
         },
         {
@@ -475,17 +475,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 566
+        "downloads": 569
       },
       {
         "source": "modrinth",
-        "downloads": 24913
+        "downloads": 25092
       },
       {
         "source": "curseforge",
-        "downloads": 1787239
+        "downloads": 1801940
       }
     ],
-    "totalDownloads": 1812718
+    "totalDownloads": 1827601
   }
 }
