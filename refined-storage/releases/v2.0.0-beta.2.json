@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.2.json",
   "name": "v2.0.0-beta.2",
-  "indexedAt": "2025-07-11T12:29:49Z",
+  "indexedAt": "2025-07-12T01:14:07Z",
   "type": "BETA",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 100552,
-          "downloadCount": 17,
+          "downloadCount": 18,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-autocrafting-api-2.0.0-beta.2.jar"
         },
         {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 71304,
-          "downloadCount": 6,
+          "downloadCount": 7,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-common-api-2.0.0-beta.2-sources.jar"
         },
         {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5373623,
-          "downloadCount": 68,
+          "downloadCount": 69,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-fabric-2.0.0-beta.2.jar"
         },
         {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4368296,
-          "downloadCount": 94,
+          "downloadCount": 95,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.2/refinedstorage-neoforge-2.0.0-beta.2.jar"
         },
         {
@@ -475,17 +475,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 592
+        "downloads": 596
       },
       {
         "source": "modrinth",
-        "downloads": 27087
+        "downloads": 27281
       },
       {
         "source": "curseforge",
-        "downloads": 1940772
+        "downloads": 1953365
       }
     ],
-    "totalDownloads": 1968451
+    "totalDownloads": 1981242
   }
 }
