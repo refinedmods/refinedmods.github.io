@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases.json",
   "name": "Refined Storage",
-  "indexedAt": "2025-07-22T12:32:49Z",
+  "indexedAt": "2025-07-22T14:57:14Z",
   "releases": [
     {
       "name": "v0.1.0-alpha",
@@ -3431,23 +3431,36 @@
         "https://www.curseforge.com/api/v1/mods/243076/files/6391988"
       ],
       "createdAt": "2025-04-06T15:58:44Z"
+    },
+    {
+      "name": "v2.0.0-beta.3",
+      "type": "BETA",
+      "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.3.json",
+      "sources": [
+        "https://www.curseforge.com/api/v1/mods/243076/files/6798974",
+        "https://api.modrinth.com/v2/project/refined-storage/version/EFmMItAi",
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/234258954",
+        "https://api.modrinth.com/v2/project/refined-storage/version/3RIca2GP",
+        "https://www.curseforge.com/api/v1/mods/243076/files/6798977"
+      ],
+      "createdAt": "2025-07-22T14:02:35Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 32632
+        "downloads": 32689
       },
       {
         "source": "modrinth",
-        "downloads": 365796
+        "downloads": 366004
       },
       {
         "source": "curseforge",
-        "downloads": 123164833
+        "downloads": 123173308
       }
     ],
-    "totalDownloads": 123563261
+    "totalDownloads": 123572001
   }
 }
