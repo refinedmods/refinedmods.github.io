@@ -1,0 +1,491 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.7.json",
+  "name": "v2.0.0-beta.7",
+  "indexedAt": "2025-08-05T12:34:00Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 237626455,
+      "nodeId": "RE_kwDOEkvWPM4OKeRX",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-beta.7",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/237626455/assets",
+      "assets": [
+        {
+          "id": 279522365,
+          "nodeId": "RA_kwDOEkvWPM4QqSw9",
+          "name": "refinedstorage-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522367,
+          "nodeId": "RA_kwDOEkvWPM4QqSw_",
+          "name": "refinedstorage-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522369,
+          "nodeId": "RA_kwDOEkvWPM4QqSxB",
+          "name": "refinedstorage-autocrafting-api-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 44841,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-autocrafting-api-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522381,
+          "nodeId": "RA_kwDOEkvWPM4QqSxN",
+          "name": "refinedstorage-autocrafting-api-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 110847,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-autocrafting-api-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522368,
+          "nodeId": "RA_kwDOEkvWPM4QqSxA",
+          "name": "refinedstorage-common-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2760691,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-common-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522376,
+          "nodeId": "RA_kwDOEkvWPM4QqSxI",
+          "name": "refinedstorage-common-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3648660,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-common-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522385,
+          "nodeId": "RA_kwDOEkvWPM4QqSxR",
+          "name": "refinedstorage-common-api-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 71782,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-common-api-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522366,
+          "nodeId": "RA_kwDOEkvWPM4QqSw-",
+          "name": "refinedstorage-common-api-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 109545,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-common-api-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522371,
+          "nodeId": "RA_kwDOEkvWPM4QqSxD",
+          "name": "refinedstorage-core-api-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5271,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-core-api-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522375,
+          "nodeId": "RA_kwDOEkvWPM4QqSxH",
+          "name": "refinedstorage-core-api-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8665,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-core-api-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522380,
+          "nodeId": "RA_kwDOEkvWPM4QqSxM",
+          "name": "refinedstorage-fabric-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1159905,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-fabric-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522383,
+          "nodeId": "RA_kwDOEkvWPM4QqSxP",
+          "name": "refinedstorage-fabric-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5458584,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-fabric-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522370,
+          "nodeId": "RA_kwDOEkvWPM4QqSxC",
+          "name": "refinedstorage-fabric-api-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5359,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-fabric-api-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522374,
+          "nodeId": "RA_kwDOEkvWPM4QqSxG",
+          "name": "refinedstorage-fabric-api-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 6279,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-fabric-api-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522372,
+          "nodeId": "RA_kwDOEkvWPM4QqSxE",
+          "name": "refinedstorage-neoforge-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1181171,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-neoforge-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522377,
+          "nodeId": "RA_kwDOEkvWPM4QqSxJ",
+          "name": "refinedstorage-neoforge-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4461585,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-neoforge-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522378,
+          "nodeId": "RA_kwDOEkvWPM4QqSxK",
+          "name": "refinedstorage-neoforge-api-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3165,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-neoforge-api-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522373,
+          "nodeId": "RA_kwDOEkvWPM4QqSxF",
+          "name": "refinedstorage-neoforge-api-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3829,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-neoforge-api-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522384,
+          "nodeId": "RA_kwDOEkvWPM4QqSxQ",
+          "name": "refinedstorage-network-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 70950,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-network-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522390,
+          "nodeId": "RA_kwDOEkvWPM4QqSxW",
+          "name": "refinedstorage-network-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 139411,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-network-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522379,
+          "nodeId": "RA_kwDOEkvWPM4QqSxL",
+          "name": "refinedstorage-network-api-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24200,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-network-api-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522388,
+          "nodeId": "RA_kwDOEkvWPM4QqSxU",
+          "name": "refinedstorage-network-api-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 34494,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-network-api-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522391,
+          "nodeId": "RA_kwDOEkvWPM4QqSxX",
+          "name": "refinedstorage-network-test-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19935,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-network-test-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522389,
+          "nodeId": "RA_kwDOEkvWPM4QqSxV",
+          "name": "refinedstorage-network-test-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33185,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-network-test-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522392,
+          "nodeId": "RA_kwDOEkvWPM4QqSxY",
+          "name": "refinedstorage-query-parser-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 13485,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-query-parser-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522382,
+          "nodeId": "RA_kwDOEkvWPM4QqSxO",
+          "name": "refinedstorage-query-parser-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28951,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-query-parser-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522394,
+          "nodeId": "RA_kwDOEkvWPM4QqSxa",
+          "name": "refinedstorage-resource-api-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 18301,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-resource-api-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522393,
+          "nodeId": "RA_kwDOEkvWPM4QqSxZ",
+          "name": "refinedstorage-resource-api-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 31004,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-resource-api-2.0.0-beta.7.jar"
+        },
+        {
+          "id": 279522386,
+          "nodeId": "RA_kwDOEkvWPM4QqSxS",
+          "name": "refinedstorage-storage-api-2.0.0-beta.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27883,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-storage-api-2.0.0-beta.7-sources.jar"
+        },
+        {
+          "id": 279522387,
+          "nodeId": "RA_kwDOEkvWPM4QqSxT",
+          "name": "refinedstorage-storage-api-2.0.0-beta.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 44545,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-storage-api-2.0.0-beta.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/237626455/assets{?name,label}",
+      "tagName": "v2.0.0-beta.7",
+      "targetCommitish": "9923c0ae9196927558e7632872f272fe12c4a085",
+      "body": "### Added\n\n-   Added Debug Stick and network debug overlay, enabled with a config option (NeoForge-only).\n\n### Fixed\n\n-   Fixed crash when closing a Wireless Grid that became available after opening the GUI.\n-   Fixed networks breaking when modifying the receiving end when using Network Transmitters and Network Receivers.\n-   Rotating Relays was disabled since v2.0.0-milestone.4.14 because of a crash. This crash has now been fixed and Relays can once again be rotated.",
+      "draft": false,
+      "prerelease": false,
+      "publishedAt": "2025-08-05T11:04:34Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.7",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.7",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/237626455",
+      "createdAt": "2025-08-05T10:57:27Z"
+    },
+    {
+      "id": 6850425,
+      "dateModified": "2025-08-05T11:10:03Z",
+      "fileLength": 5458584,
+      "fileName": "refinedstorage-fabric-2.0.0-beta.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Fabric",
+        "1.21.1"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/6850425",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/6850425",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/6850425",
+      "platform": "FABRIC",
+      "createdAt": "2025-08-05T11:06:13Z"
+    },
+    {
+      "id": 6850426,
+      "dateModified": "2025-08-05T11:10:03Z",
+      "fileLength": 4461585,
+      "fileName": "refinedstorage-neoforge-2.0.0-beta.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "1.21.1"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/6850426",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/6850426",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/6850426",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-08-05T11:06:13Z"
+    },
+    {
+      "id": "LA7H6hhg",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.0-beta.7",
+      "changelog": "### Added\n\n-   Added Debug Stick and network debug overlay, enabled with a config option (NeoForge-only).\n\n### Fixed\n\n-   Fixed crash when closing a Wireless Grid that became available after opening the GUI.\n-   Fixed networks breaking when modifying the receiving end when using Network Transmitters and Network Receivers.\n-   Rotating Relays was disabled since v2.0.0-milestone.4.14 because of a crash. This crash has now been fixed and Relays can once again be rotated.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "1891eedef79462546107ecbd3f769e013db6faa99f7e73ae06913926785a3c2576ccc010bfa9c94ab8d0f9983c0258670ec4bfae1f610d34dfbba4f74a5d122d",
+            "sha1": "a417d3d2ebb5a1cbe1c436171b76d5c3070a34be"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/LA7H6hhg/refinedstorage-neoforge-2.0.0-beta.7.jar",
+          "filename": "refinedstorage-neoforge-2.0.0-beta.7.jar",
+          "primary": true,
+          "size": 4461585
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/LA7H6hhg",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/LA7H6hhg",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-08-05T11:06:25Z"
+    },
+    {
+      "id": "JhEMq0WX",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.0-beta.7",
+      "changelog": "### Added\n\n-   Added Debug Stick and network debug overlay, enabled with a config option (NeoForge-only).\n\n### Fixed\n\n-   Fixed crash when closing a Wireless Grid that became available after opening the GUI.\n-   Fixed networks breaking when modifying the receiving end when using Network Transmitters and Network Receivers.\n-   Rotating Relays was disabled since v2.0.0-milestone.4.14 because of a crash. This crash has now been fixed and Relays can once again be rotated.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "2ee66a0e5c9aa6c656f7ad415c01e53211e4ee17676ba6feea1b408e2bb836281e4293fc37f50550ef6d86e3e716b01e3997fc76d5af0b69e22eb15356f77537",
+            "sha1": "46cafb9d6e47d3c36d876c9c0f7791d1d832f480"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/JhEMq0WX/refinedstorage-fabric-2.0.0-beta.7.jar",
+          "filename": "refinedstorage-fabric-2.0.0-beta.7.jar",
+          "primary": true,
+          "size": 5458584
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/JhEMq0WX",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/JhEMq0WX",
+      "platform": "FABRIC",
+      "createdAt": "2025-08-05T11:06:25Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 6
+      },
+      {
+        "source": "modrinth",
+        "downloads": 4
+      },
+      {
+        "source": "curseforge",
+        "downloads": 28
+      }
+    ],
+    "totalDownloads": 38
+  }
+}
