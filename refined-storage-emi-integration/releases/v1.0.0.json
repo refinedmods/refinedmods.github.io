@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-emi-integration/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2025-08-10T01:21:15Z",
+  "indexedAt": "2025-08-11T01:18:31Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 43976,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v1.0.0/refinedstorage-emi-integration-fabric-1.0.0.jar"
         },
         {
@@ -233,17 +233,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 30
+        "downloads": 31
       },
       {
         "source": "modrinth",
-        "downloads": 6799
+        "downloads": 6854
       },
       {
         "source": "curseforge",
-        "downloads": 75357
+        "downloads": 76042
       }
     ],
-    "totalDownloads": 82186
+    "totalDownloads": 82927
   }
 }
