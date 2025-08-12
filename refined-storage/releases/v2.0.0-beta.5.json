@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.5.json",
   "name": "v2.0.0-beta.5",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -347,6 +347,7 @@
       "body": "### Changed\n\n-   You need to crouch now to place the Portable Grid in the world.\n\n### Fixed\n\n-   Fixed item quantities being able to overlap when using mB.\n-   Fixed crash with Exporter when the connected inventory incorrectly reported a higher remainder than the originally inserted amount.\n-   Fixed being able to move the Portable Grid to another inventory slot when using a hotkey.\n-   Fixed Portable Grid losing energy when switching disks.\n-   Fixed crash when submerging Detector in water.\n-   Fixed Interface not dropping upgrades.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-07-31T14:32:38Z",
       "publishedAt": "2025-07-31T14:32:37Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.5",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.5",
@@ -479,13 +480,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 1187
+        "downloads": 1190
       },
       {
         "source": "curseforge",
-        "downloads": 59525
+        "downloads": 59672
       }
     ],
-    "totalDownloads": 60728
+    "totalDownloads": 60878
   }
 }

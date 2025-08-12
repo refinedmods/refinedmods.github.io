@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.18.json",
   "name": "v1.9.18",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed potential Pattern crash when loading Minecraft.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T19:10:23Z",
       "publishedAt": "2022-05-28T12:04:35Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.18",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.18",
@@ -101,13 +102,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 20191
+        "downloads": 20227
       },
       {
         "source": "curseforge",
-        "downloads": 8281915
+        "downloads": 8284741
       }
     ],
-    "totalDownloads": 8302225
+    "totalDownloads": 8305087
   }
 }

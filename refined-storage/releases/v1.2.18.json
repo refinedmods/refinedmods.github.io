@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.18.json",
   "name": "v1.2.18",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Fluid Grid now first tries to get buckets from your inventory instead of the storage.\r\n- Performance improvements with oredict autocrafting.\r\n\r\n### Fixed\r\n\r\n- Fixed client side crash with cable.\r\n- Fixed client side crash with disk drive.\r\n- Fixed crash with external storage in fluid mode.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T14:49:07Z",
       "publishedAt": "2023-06-30T14:49:07Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.18",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.18",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 373871
+        "downloads": 373873
       }
     ],
-    "totalDownloads": 373922
+    "totalDownloads": 373924
   }
 }

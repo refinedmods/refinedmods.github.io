@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.16.json",
   "name": "v1.9.16",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added Covers for all cable types.\r\n- Added Polish translation.\r\n- Added Italian translation.\r\n- Addons can now override how crafters insert items.\r\n\r\n### Changed\r\n\r\n- Improved JEI integration to pick the best option when transferring items.\r\n\r\n### Fixed\r\n\r\n- Fixed an issue where too many items in a grid would kick the player.\r\n- Fixed an issue where the portable grid does not open from Inventory anymore after some use.\r\n- Fixed craftable view in grids not showing items that were already in storage.\r\n- Fixed Wireless Crafting Monitor not working as Curio.\r\n- Fixed wrong slot being locked in some cases when opening a wireless item.\r\n- Slightly sped up External Storage item look up.\r\n- Fixed extraction from Storage Monitor not respecting maximum stack size.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T19:51:33Z",
       "publishedAt": "2022-12-10T19:51:33Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.16",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.16",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 2627083
+        "downloads": 2627190
       }
     ],
-    "totalDownloads": 2627309
+    "totalDownloads": 2627416
   }
 }

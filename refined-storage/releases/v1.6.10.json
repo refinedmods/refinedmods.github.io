@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.10.json",
   "name": "v1.6.10",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added fluid functions for the fluid autocrafting to the OpenComputers integration.\r\n\r\n### Changed\r\n\r\n- Updated Russian translation.\r\n- Slightly increased performance of the External Storage.\r\n\r\n### Fixed\r\n\r\n- Fixed client FPS stalling when using \"@\" mod search in the Grid.\r\n- Fixed client FPS stalling when using \"#\" tooltip search in the Grid.\r\n- Fixed fluid inputs/outputs in the Pattern Grid not being set when you re-insert a Pattern with fluid inputs/outputs.\r\n- Fixed bug where the Pattern Grid doesn\u0027t update it\u0027s output slot when manually configuring a crafting pattern.\r\n- Fixed network node scanning allowing multiple controllers in some cases.\r\n- Fixed OpenComputers integration not giving back a crafting task instance in the schedule task API.\r\n- Fixed OpenComputers integration causing log spam when getting processing patterns.\r\n- Fixed OpenComputers voiding items with extract item API when there is no inventory space.\r\n- Fixed CraftingTweaks buttons resetting sometimes in the Crafting Grid.\r\n- Fixed Refined Storage jars not being signed.\r\n- Fixed crafting task stalling when there\u0027s not enough space in the inventory.\r\n- Fixed another duplication bug with a disconnected Crafting Grid.\r\n- Fixed oredict mode in autocrafting not working at all.\r\n\r\n### Removed\r\n\r\n- Removed getMissingItem.\r\n- Removed the Interdimensional Upgrade, Network Transmitters are now cross dimensional by default.\r\n- Removed the per block FE cost of the Network Transmitter, it draws a fixed amount of FE/t now.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-29T09:33:38Z",
       "publishedAt": "2023-06-29T09:33:38Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.10",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.10",

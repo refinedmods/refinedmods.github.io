@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.6.11-alpha.json",
   "name": "v0.6.11-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Converted all inventories in the mod to Forge\u0027s item handler capability system.\r\n\r\n### Fixed\r\n\r\n- Fixed crafting patterns crashing when item of an input or output no longer exists.\r\n- Fixed Grid letting the current held item flicker.\r\n- Fixed Importer / Exporter / External Storage not being able to push or pull out of the other side of a double chest.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T15:15:49Z",
       "publishedAt": "2023-07-04T15:15:49Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.11-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.11-alpha",

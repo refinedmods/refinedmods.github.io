@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-emi-integration/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2025-08-11T12:34:00Z",
+  "indexedAt": "2025-08-12T01:11:37Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -105,6 +105,7 @@
       "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.1.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-03-28T17:39:41Z",
       "publishedAt": "2025-03-28T17:39:41Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/tarball/v1.0.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-emi-integration/zipball/v1.0.0",
@@ -237,13 +238,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 6876
+        "downloads": 6900
       },
       {
         "source": "curseforge",
-        "downloads": 76253
+        "downloads": 76583
       }
     ],
-    "totalDownloads": 83160
+    "totalDownloads": 83514
   }
 }

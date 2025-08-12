@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.12.json",
   "name": "v1.6.12",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added a completion percentage to the Crafting Monitor.\r\n\r\n### Changed\r\n\r\n- Updated Russian translation.\r\n- Increased the speed of autocrafting.\r\n\r\n### Fixed\r\n\r\n- Fixed External Storage sending storage updates when it is disabled.\r\n- Fixed slight performance issue with loading Crafters from disk.\r\n- Fixed storage GUIs overflowing on large numbers.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-29T09:32:48Z",
       "publishedAt": "2023-06-29T09:32:48Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.12",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.12",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 3096010
+        "downloads": 3096093
       }
     ],
-    "totalDownloads": 3096141
+    "totalDownloads": 3096224
   }
 }

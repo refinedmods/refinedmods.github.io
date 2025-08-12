@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.10.5.json",
   "name": "v1.10.5",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\n\n- Fixed rare multithreading crash\n- Fixed Constructor being able to drop more than the maximum stack size for an item",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-02-12T10:08:01Z",
       "publishedAt": "2023-02-12T10:08:00Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.5",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.5",
@@ -102,13 +103,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 3429
+        "downloads": 3432
       },
       {
         "source": "curseforge",
-        "downloads": 1437283
+        "downloads": 1437635
       }
     ],
-    "totalDownloads": 1440737
+    "totalDownloads": 1441092
   }
 }

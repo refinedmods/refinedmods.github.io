@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.2-beta.2.json",
   "name": "v1.9.2-beta.2",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed duplication bug with the Constructor.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-12-24T09:47:30Z",
       "publishedAt": "2023-12-24T09:47:30Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.2-beta.2",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.2-beta.2",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 135064
+        "downloads": 135065
       }
     ],
-    "totalDownloads": 135193
+    "totalDownloads": 135194
   }
 }

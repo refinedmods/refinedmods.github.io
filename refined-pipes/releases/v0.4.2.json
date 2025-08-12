@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.4.2.json",
   "name": "v0.4.2",
-  "indexedAt": "2025-08-11T12:34:11Z",
+  "indexedAt": "2025-08-12T01:11:53Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed extremely high memory usage by [@Chocohead](https://github.com/Chocohead).",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-11-28T13:12:08Z",
       "publishedAt": "2021-11-28T13:12:08Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.4.2",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.4.2",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 2666712
+        "downloads": 2666738
       }
     ],
-    "totalDownloads": 2666847
+    "totalDownloads": 2666873
   }
 }

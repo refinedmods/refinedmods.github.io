@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.2.2.json",
   "name": "v2.0.0-milestone.2.2",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -226,6 +226,7 @@
       "body": "### Changed\n\n- All directional blocks no longer transmit a network signal out of the direction.\n- All directional blocks no longer accept a network signal from the facing direction.\n- Upgrade items now state the applicable destinations in the tooltip.\n- Upgrade items can now have a maximum of 1 type per upgrade inventory.\n- You can now SHIFT + CLICK transfer resources in the filter slots again.\n\n### Fixed\n\n- Fixed network connection state not rebuilding after using Wrench on a directional block.\n- Fixed Grid tooltip being too small in some cases and item durability not being rendered.\n\n### Added\n\n- Upgrade\n- Speed Upgrade\n- Stack Upgrade",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-08-06T14:33:19Z",
       "publishedAt": "2022-08-06T14:33:15Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.2",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.2",

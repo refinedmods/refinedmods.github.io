@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.2.json",
   "name": "v2.0.0-beta.2",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -347,6 +347,7 @@
       "body": "### Changed\n\n-   Updated Disk Drive textures.\n-   Updated Machine Casing textures.\n-   Updated Crafting Grid textures.\n-   Updated Storage Monitor textures.\n-   Updated Controller casing textures.\n-   Updated Autocrafter casing textures.\n-   Updated Configuration Card, Processor Binding, Silicon, Quartz Enriched Iron and Quartz Enriched Copper textures.\n\n### Fixed\n\n-   Fixed Relay always requiring 8 energy on NeoForge.\n-   Fixed crash with processing patterns that have no outputs due to removing mods.\n-   Fixed not being able to shift click items in the Crafting Grid when an External Storage was connected, on NeoForge.\n-   Fixed locking mode on the Autocrafter \"Lock until connected machine is empty\" inserting too many resources when using speed upgrades.\n-   Fixed processing and crafting pattern tooltips sometimes not being large enough.\n-   Fixed crash when adding pattern for EnderIO conduits in single player.\n-   Fixed Portable Grid and Controller doubling stored energy when placed.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-04-06T16:08:45Z",
       "publishedAt": "2025-04-06T16:08:44Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.2",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.2",
@@ -479,13 +480,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 33448
+        "downloads": 33466
       },
       {
         "source": "curseforge",
-        "downloads": 2369638
+        "downloads": 2370493
       }
     ],
-    "totalDownloads": 2403749
+    "totalDownloads": 2404622
   }
 }

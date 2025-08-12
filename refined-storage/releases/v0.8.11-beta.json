@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.11-beta.json",
   "name": "v0.8.11-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added X button to Processing Pattern Encoder to clear configuration of inputs and outputs.\r\n- Added Grid view toggle buttons (regular, craftable items only, no craftable items).\r\n- Added ability to shift click items into Importer, Exporter, Constructor, Destructor and Detector to set up whitelist / blacklist configurations easier.\r\n- Re-added opposite facing on shift click functionality.\r\n\r\n### Changed\r\n\r\n- Solderer upgrades go to upgrades slots first now when shift clicking.\r\n- Updated to Forge 2014.\r\n\r\n### Fixed\r\n\r\n- Fixed minor dupe bug with JEI transferring.\r\n- Fixed exporter crafting upgrades taking priority over other tasks.\r\n- Fixed NPE with incorrectly initialized disks.\r\n- Fixed not being able to take out items of Grid 2K16.\r\n- Fixed not being able to start autocrafting for certain items (most notably IC2 items).",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:17:11Z",
       "publishedAt": "2023-07-04T14:17:11Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.11-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.11-beta",

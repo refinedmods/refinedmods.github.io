@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.11.0.json",
   "name": "v0.11.0",
-  "indexedAt": "2025-08-11T12:34:04Z",
+  "indexedAt": "2025-08-12T01:11:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 32557,
-          "downloadCount": 51,
+          "downloadCount": 52,
           "downloadUrl": "https://github.com/refinedmods/refinedstorageaddons/releases/download/v0.11.0/refinedstorageaddons-0.11.0.jar"
         }
       ],
@@ -28,6 +28,7 @@
       "body": "### Changed\n\n-   Ported to Minecraft 1.20.4.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-02-16T15:22:47Z",
       "publishedAt": "2024-02-16T15:22:46Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.11.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.11.0",
@@ -98,17 +99,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 51
+        "downloads": 52
       },
       {
         "source": "modrinth",
-        "downloads": 1199
+        "downloads": 1201
       },
       {
         "source": "curseforge",
-        "downloads": 48590
+        "downloads": 48596
       }
     ],
-    "totalDownloads": 49840
+    "totalDownloads": 49849
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v1.3.0.json",
   "name": "v1.3.0",
-  "indexedAt": "2025-08-11T12:34:08Z",
+  "indexedAt": "2025-08-12T01:11:49Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Changed\n\n-   Ported to Minecraft 1.21.\n-   Korean translation updated by [@gisellevonbingen](https://github.com/gisellevonbingen).",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-07-06T16:47:58Z",
       "publishedAt": "2024-07-06T16:47:57Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v1.3.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v1.3.0",
@@ -103,13 +104,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 224
+        "downloads": 225
       },
       {
         "source": "curseforge",
-        "downloads": 5761700
+        "downloads": 5768671
       }
     ],
-    "totalDownloads": 5761937
+    "totalDownloads": 5768909
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.10.3.json",
   "name": "v1.10.3",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\n\n- Fixed Destructor dupe bug\n- Fixed being unable to insert items into the Storage Monitor\n- Fixed Storage Monitor not showing all matching items in non-exact mode\n- Fixed items getting lost on Creative Disk when more than 2,147,483,647 of one type is stored\n- Fixed incorrect autocrafting keybind prompt on macOS\n- Fixed crashing the game when a network block was removed in a bad way\n- Fixed duplication bug with Constructors and Shulker Boxes\n- Fixed breaking blocks with pickaxe taking too much time\n\n### Changed\n\n- Improved performance for grid updates\n- Improved waterlogging to behave more like vanilla\n- JEI version 9.7.1 or higher is now required\n\n### Added\n\n- Forge relocation and Packing Tape blacklist tag entries to prevent block movement\n- Japanese translations for certain autocrafting actions",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-08-06T15:46:26Z",
       "publishedAt": "2022-08-06T15:46:25Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.3",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.3",
@@ -106,9 +107,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 1353990
+        "downloads": 1354029
       }
     ],
-    "totalDownloads": 1354266
+    "totalDownloads": 1354305
   }
 }

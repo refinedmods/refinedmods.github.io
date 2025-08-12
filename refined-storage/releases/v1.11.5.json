@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.11.5.json",
   "name": "v1.11.5",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\r\n\r\n- Fixed some craftable items not showing as craftable in JEI\r\n- Fixed Grid crashing on exit if JEI mod is not used\r\n- Fixed rare multithreading crash\r\n- Fixed Constructor being able to drop more than the maximum stack size for an item",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-02-12T10:11:09Z",
       "publishedAt": "2023-02-12T09:29:57Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.5",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.5",
@@ -106,9 +107,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 744457
+        "downloads": 744459
       }
     ],
-    "totalDownloads": 744648
+    "totalDownloads": 744650
   }
 }

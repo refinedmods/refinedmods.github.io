@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.4.json",
   "name": "v2.0.0-beta.4",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -347,6 +347,7 @@
       "body": "### Added\n\n-   The crafting preview can now show a crafting tree.\n\n### Fixed\n\n-   The Interface\u0027s resource container is protected against empty fluid stacks now, avoiding crashes with certain mods.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-07-29T19:00:08Z",
       "publishedAt": "2025-07-29T19:00:05Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.4",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.4",
@@ -479,13 +480,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 614
+        "downloads": 615
       },
       {
         "source": "curseforge",
-        "downloads": 5787
+        "downloads": 5870
       }
     ],
-    "totalDownloads": 6414
+    "totalDownloads": 6498
   }
 }

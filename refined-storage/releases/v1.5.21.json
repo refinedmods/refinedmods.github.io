@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.21.json",
   "name": "v1.5.21",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Updated Portuguese (Brazilian) translation.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with External Storage.\r\n- Fixed stack-crafting in the crafting grid (crafting table) causing lag on a dedicated server.\r\n- Fixed cable blocks, Wireless Transmitter, Detector and Portable Grid acting as full blocks (being able to place torches on them etc).",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T09:00:31Z",
       "publishedAt": "2023-06-30T09:00:31Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.21",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.21",

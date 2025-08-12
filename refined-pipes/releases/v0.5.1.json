@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.5.1.json",
   "name": "v0.5.1",
-  "indexedAt": "2025-08-11T12:34:11Z",
+  "indexedAt": "2025-08-12T01:11:53Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "\n### Added\n\n- Added Italian translation by [@maicol07](https://github.com/maicol07).\n- Updated Russian translation by [@KnottyManatee55](https://github.com/KnottyManatee55).\n- Updated Spanish translations by [@d-l-n](https://github.com/d-l-n).\n\n### Changed\n\n- Changed textures and models by [@Pierniki](https://github.com/Pierniki).\n- Use tags in recipes for glass and slimeballs.\n\n### Fixed\n\n- Fixed crash when breaking fluid pipe.\n- Fixed Extractor Attachment failing when it can\u0027t extract from the first slot it finds.\n- Fixed Extractor Attachment not trying other destinations when an item can\u0027t be inserted in a single destination.\n- Fixed another pipe rendering crash by [@lone-wolf-akela](https://github.com/lone-wolf-akela).",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-11-28T15:54:40Z",
       "publishedAt": "2021-11-28T15:54:39Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.5.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.5.1",
@@ -106,9 +107,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 253743
+        "downloads": 253749
       }
     ],
-    "totalDownloads": 253829
+    "totalDownloads": 253835
   }
 }

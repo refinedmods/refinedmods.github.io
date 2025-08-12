@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.10.0.json",
   "name": "v1.10.0",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "\n### Fixed\n\n- Fixed multiple bugs related to transferring recipes into the Crafting Grid.\n- Processing patterns now use the order of items/fluids specified in the pattern\n  by [@necauqua](https://github.com/necauqua) and [@Darkere](https://github.com/Darkere).\n- Fixed autocrafting task getting stuck if two tasks fulfilled each others requirements.\n- Fixed fluid autocrafting breaking when using 2 stacks of the same fluid in a pattern.\n- Amount specifying screen is now limited to valid values.\n- Fixed crash on servers when starting with latest Forge.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-01-25T17:31:29Z",
       "publishedAt": "2022-01-25T17:31:28Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.0",
@@ -106,9 +107,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 374656
+        "downloads": 374658
       }
     ],
-    "totalDownloads": 374818
+    "totalDownloads": 374820
   }
 }

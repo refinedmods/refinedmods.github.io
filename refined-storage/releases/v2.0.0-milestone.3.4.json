@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.3.4.json",
   "name": "v2.0.0-milestone.3.4",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -171,6 +171,7 @@
       "body": "### Added\n\n-   Void excess mode to storages.\n\n### Fixed\n\n-   Fixed losing disk when using Wrench dismantling on the Portable Grid.\n-   Fixed losing energy when using Wrench dismantling on the Portable Grid and the Controller.\n-   Fixed changing side buttons not working on Forge.\n-   Fixed External Storage not displaying empty allowlist warning.\n-   Fixed incrementing starting from 1 in amount screens not having an intended off-by-one.\n-   Fixed problems moving network devices with \"Carry On\" mod.\n-   Fixed escape key not working on auto-selected Grid search box.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-03-16T12:00:10Z",
       "publishedAt": "2024-03-16T12:00:09Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.3.4",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.3.4",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.6.json",
   "name": "v2.0.0-milestone.4.6",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -182,6 +182,7 @@
       "body": "### Added\r\n\r\n-   Pattern Grid\r\n-   Pattern\r\n\r\n### Changed\r\n\r\n-   The Pattern now shows the recipe in the tooltip.\r\n-   When a Pattern is created for a recipe, the Pattern will have a different texture and name to differentiate between empty patterns.\r\n-   The Pattern Grid now has additional support for encoding stonecutter and smithing table recipes.\r\n-   The Pattern output is now always rendered in the Pattern Grid result slot.\r\n-   You can now search in the Pattern Grid alternatives screen.\r\n-   In the Pattern Grid alternatives screen, all resources belonging to a tag or no longer shown at once. You can expand or collapse them.\r\n-   The tag names in the Pattern Grid alternatives screen will now be translated.\r\n-   \"Exact mode\" in the Pattern Grid has been replaced with \"Fuzzy mode\" (inverse).\r\n\r\n### Fixed\r\n\r\n-   Clicking on a scrollbar no longer makes a clicking sound.\r\n-   Incorrect and outdated (mentioning NBT tags) help explanations for fuzzy mode.\r\n-   Amount screen allowing more than the maximum for fluids.\r\n-   Potential text overflow in the Grid for localization with long \"Grid\" text.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-08-08T16:57:13Z",
       "publishedAt": "2024-08-08T15:39:32Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.6",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.6",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.13.0-beta.3.json",
   "name": "v1.13.0-beta.3",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\n\n-   Fixed items in disks deserializing with an empty NBT tag.\n-   Fixed placing fluids in the pattern grid disconnecting the client.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-03-05T14:33:29Z",
       "publishedAt": "2024-03-05T14:33:29Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.13.0-beta.3",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.13.0-beta.3",

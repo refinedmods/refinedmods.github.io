@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.10.json",
   "name": "v1.9.10",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Update Japanese translation.\r\n\r\n### Fixed\r\n\r\n- Improve performance of the Grid view.\r\n- Fixed Disk Manipulator model glitches.\r\n- Improve performance of the Disk Manipulator.\r\n- Fixed being unable to set quantity in output slots of the Pattern Grid.\r\n- Fixed External Storage in fluid mode losing track of fluids sometimes.\r\n- Added code to avoid / minimize data corruption issues caused by Minecraft.\r\n- Fixed processing autocrafting orders stealing items from each other.\r\n- Fixed Constructor in fluid mode voiding fluid source blocks in front of it.\r\n- Fixed crash when recoloring blocks that have no rotation component.\r\n- Fixed reloading resource packs breaking Refined Storage textures.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T20:00:16Z",
       "publishedAt": "2022-12-10T20:00:02Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.10",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.10",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.20.json",
   "name": "v1.4.20",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed crash relating to MCMP.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:16:01Z",
       "publishedAt": "2023-06-30T12:16:01Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.20",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.20",
@@ -101,13 +102,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 144
+        "downloads": 145
       },
       {
         "source": "curseforge",
-        "downloads": 163577
+        "downloads": 163584
       }
     ],
-    "totalDownloads": 163722
+    "totalDownloads": 163730
   }
 }

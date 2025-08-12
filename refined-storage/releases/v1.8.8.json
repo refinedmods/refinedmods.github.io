@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.8.8.json",
   "name": "v1.8.8",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed duplication bug and weird behavior in the Crafting Grid matrix.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-19T17:48:59Z",
       "publishedAt": "2022-12-19T17:48:59Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.8",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.8",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 2311047
+        "downloads": 2311084
       }
     ],
-    "totalDownloads": 2311236
+    "totalDownloads": 2311273
   }
 }

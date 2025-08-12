@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.9.0.json",
   "name": "v0.9.0",
-  "indexedAt": "2025-08-11T12:34:04Z",
+  "indexedAt": "2025-08-12T01:11:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Changed\n\n- Ported to Minecraft 1.19.2.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-09-30T12:19:07Z",
       "publishedAt": "2022-09-30T12:19:06Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.9.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.9.0",
@@ -102,13 +103,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 65772
+        "downloads": 65798
       },
       {
         "source": "curseforge",
-        "downloads": 6058350
+        "downloads": 6058912
       }
     ],
-    "totalDownloads": 6124253
+    "totalDownloads": 6124841
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.10.0.json",
   "name": "v0.10.0",
-  "indexedAt": "2025-08-11T12:34:04Z",
+  "indexedAt": "2025-08-12T01:11:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Added\r\n\r\n-   Brazilian Portuguese translation.\r\n\r\n### Changed\r\n\r\n-   Ported to Minecraft 1.20.1.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-05T11:11:46Z",
       "publishedAt": "2023-07-05T11:07:35Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.10.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.10.0",
@@ -104,13 +105,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 90691
+        "downloads": 90916
       },
       {
         "source": "curseforge",
-        "downloads": 13516792
+        "downloads": 13523543
       }
     ],
-    "totalDownloads": 13607534
+    "totalDownloads": 13614510
   }
 }

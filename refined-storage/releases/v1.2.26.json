@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.26.json",
   "name": "v1.2.26",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -53,6 +53,7 @@
       "body": "### Fixed\r\n\r\n- Fixed Interface duping items on extract-only storages.\r\n- Fixed calculating crafting resources for more than 9 unique items, for addon mods.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T14:45:59Z",
       "publishedAt": "2023-06-30T14:45:59Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.26",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.26",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 10100824
+        "downloads": 10101578
       }
     ],
-    "totalDownloads": 10101682
+    "totalDownloads": 10102436
   }
 }

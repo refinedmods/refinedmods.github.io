@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.7.json",
   "name": "v2.0.0-milestone.4.7",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -182,6 +182,7 @@
       "body": "### Added\n\n-   You can now upgrade Storage Disks and Storage Blocks to a higher tier by combining with a higher tier Storage Part. The original Storage Part will be returned.\n\n### Changed\n\n-   Updated to Minecraft 1.21.1.\n-   The Network Transmitter and Wireless Transmitter GUI now has an inactive and active GUI animation.\n-   The Wireless Transmitter now shows whether it\u0027s inactive in GUI instead of always showing the range.\n\n### Fixed\n\n-   Use new slimeballs convention tag for Processor Binding.\n-   Portable Grid search bar texture being positioned in the wrong way.\n-   External Storage screen unnecessarily showing upgrade slots.\n-   Grid setting changes not persisting after restarting Minecraft.\n-   Fixed not being able to extract fluids from the Grid with an empty bucket or other empty fluid container.\n-   All blocks and items now correctly retain their custom name.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-08-11T15:41:45Z",
       "publishedAt": "2024-08-11T15:41:44Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.7",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.7",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.9.json",
   "name": "v1.6.9",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- You can now interact with the fluid container input slot in the Fluid Interface.\r\n\r\n### Fixed\r\n\r\n- Fixed OpenComputers \"unknown error\" when using extract item API.\r\n- Fixed client FPS stuttering when opening a Crafting Grid.\r\n- Fixed rare Grid crashing issue.\r\n",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-29T09:34:01Z",
       "publishedAt": "2023-06-29T09:34:01Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.9",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.9",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 773255
+        "downloads": 773258
       }
     ],
-    "totalDownloads": 773388
+    "totalDownloads": 773391
   }
 }

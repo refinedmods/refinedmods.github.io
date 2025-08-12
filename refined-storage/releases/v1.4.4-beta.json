@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.4-beta.json",
   "name": "v1.4.4-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Updated Forge to 2284.\r\n\r\n### Fixed\r\n\r\n- Fixed Disk Manipulator crashing due to empty stack.\r\n- Fixed issue where empty stacks show up in the system.\r\n- Fixed Storage Monitor not respecting security settings.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:21:38Z",
       "publishedAt": "2023-06-30T12:21:38Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.4-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.4-beta",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 28652
+        "downloads": 28653
       }
     ],
-    "totalDownloads": 28691
+    "totalDownloads": 28692
   }
 }

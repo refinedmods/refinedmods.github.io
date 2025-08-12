@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.2.11.json",
   "name": "v2.0.0-milestone.2.11",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 2922031,
-          "downloadCount": 255,
+          "downloadCount": 256,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.11/refinedstorage2-platform-fabric-2.0.0-milestone.2.11.jar"
         },
         {
@@ -171,6 +171,7 @@
       "body": "### Added\n\n-   Ported to Minecraft 1.20.1.\n\n### Fixed\n\n-   Fixed not firing block break event on Fabric for the Destructor.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T21:06:02Z",
       "publishedAt": "2023-07-04T21:06:00Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.11",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.11",
@@ -183,9 +184,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 615
+        "downloads": 616
       }
     ],
-    "totalDownloads": 615
+    "totalDownloads": 616
   }
 }

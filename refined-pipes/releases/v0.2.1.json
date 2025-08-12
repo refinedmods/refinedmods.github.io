@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.2.1.json",
   "name": "v0.2.1",
-  "indexedAt": "2025-08-11T12:34:11Z",
+  "indexedAt": "2025-08-12T01:11:53Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "Note: Due to refactoring of the network architecture, pipes from version 0.2 and earlier are incompatible and won\u0027t be\r\nfunctioning. This can be fixed by breaking and replacing all the pipes in a network.\r\n\r\n### Added\r\n\r\n- Added ghost hitboxes when holding an attachment in hand.\r\n\r\n### Changed\r\n\r\n- Refactored network architecture.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-11-28T13:09:35Z",
       "publishedAt": "2021-11-28T13:09:35Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.2.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.2.1",

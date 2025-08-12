@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.1.json",
   "name": "v2.0.0-beta.1",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -347,6 +347,7 @@
       "body": "### Changed\n\n-   The External Storage now supports multiple resource types on a single connected inventory.\n-   Tooltips for upgrade slots are now ordered.\n-   Grid tag search now uses the `#` prefix, tooltips use the `$` prefix.\n\n### Fixed\n\n-   Fixed cables broken with a Wrench not stacking with newly crafted cables.\n-   Fixed slow performance in the Grid when searching.\n-   Fixed storages failing to load after removing an addon that adds more storage types.\n-   Fixed crash when trying to open block in spectator mode.\n-   Fixed crash when trying to open Grid with EnderIO autocrafting pattern in network.\n-   Fixed External Storage making resources flicker when the connected inventory is causing neighbor updates.\n-   Fixed not being able to search for Water Bottles.\n-   Fixed crash when creating a Pattern for a shield.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-03-28T09:03:27Z",
       "publishedAt": "2025-03-28T09:03:26Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.1",
@@ -479,13 +480,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 2770
+        "downloads": 2771
       },
       {
         "source": "curseforge",
-        "downloads": 22998
+        "downloads": 23000
       }
     ],
-    "totalDownloads": 26028
+    "totalDownloads": 26031
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.2.10.json",
   "name": "v2.0.0-milestone.2.10",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -160,6 +160,7 @@
       "body": "### Added\n\n-   Ported to Minecraft 1.19.4\n-   Destructor\n-   Fortune Upgrade (I, II and III)\n-   Silk Touch Upgrade\n\n### Changed\n\n-   The Detector screen now is a proper amount screen by having increment/decrement buttons and scrollbar support.\n-   The amount in an amount screen is now colored red if the amount is invalid.\n-   The Destructor crafting recipe now takes 2 diamonds instead of 2 redstone.\n\n### Fixed\n\n-   Fixed missing Speed Upgrade energy usage config on Forge.\n-   Fixed Grid screen not handling network changes properly.\n-   Fixed Grid scrollbar scrolling when using SHIFT or CTRL.\n-   Fixed wrong Controller tooltip.\n\n### Removed\n\n-   Removed \"Fuzzy mode\" from the Destructor as the filter in the Destructor compares with the block anyway.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-05-29T15:01:26Z",
       "publishedAt": "2023-05-29T15:01:25Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.10",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.10",

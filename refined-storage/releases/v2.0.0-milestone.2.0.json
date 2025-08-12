@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.2.0.json",
   "name": "v2.0.0-milestone.2.0",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -226,6 +226,7 @@
       "body": "### Changed\r\n\r\n- Ported to Minecraft 1.19.\r\n\r\n### Added\r\n\r\n- Added JEI support to Fabric.\r\n- Added REI support to Forge.\r\n\r\n### Fixed\r\n\r\n- Fixed resource filter container updates not arriving properly on Forge.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-01-10T12:12:58Z",
       "publishedAt": "2022-07-05T19:35:02Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.0",

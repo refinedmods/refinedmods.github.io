@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.6-beta.json",
   "name": "v0.8.6-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Re-added Controllers exploding when two of them are connected to the same network.\r\n- Added new textures.\r\n- Added model for External Storage.\r\n- Added model for Importer.\r\n- Added model for Exporter.\r\n- Added model for Detector.\r\n\r\n### Changed\r\n\r\n- Huge performance improvements to large storage networks.\r\n- Limited some blocks to only have a direction on the x-axis.\r\n- Decreased amount of block updates significantly.\r\n\r\n### Fixed\r\n\r\n- Fixed External Storage disconnecting on world reload.\r\n- Fixed External Storage not updating correctly.\r\n- Fixed wireless signal starting from Controller instead of per Wireless Transmitter individually.\r\n- Fixed Controller\u0027s redstone state not saving.\r\n- Fixed crafting tasks not saving properly.\r\n\r\n### Removed\r\n\r\n- Removed opposite facing on placement mechanic.\r\n- Removed Quartz Enriched Iron Block.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:19:44Z",
       "publishedAt": "2023-07-04T14:19:44Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.6-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.6-beta",

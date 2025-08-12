@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.17.json",
   "name": "v1.4.17",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed Filters not persisting correctly in Wireless Grid, Wireless Crafting Monitor and Portable Grid.\r\n- Fixed Disk Drive recipe not using ore dictionary for chest.\r\n- Fixed a bug where loading nodes would abort when a single node has an error while reading.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:17:00Z",
       "publishedAt": "2023-06-30T12:17:00Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.17",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.17",

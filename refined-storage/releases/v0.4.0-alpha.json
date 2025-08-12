@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.4.0-alpha.json",
   "name": "v0.4.0-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Relays.\r\n- Interfaces.\r\n\r\n### Changed\r\n\r\n- Cables now have actual collision.\r\n\r\n### Fixed\r\n\r\n- Fix Minecraft reporting that retrieving Grid type fails.\r\n- Fullness percentage in Creative Storage Blocks going under 0%.\r\n- The Controller shouldn\u0027t display the base usage when not working.\r\n- Check if item is valid for slot before pushing to inventories.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T15:53:10Z",
       "publishedAt": "2023-07-04T15:53:10Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.4.0-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.4.0-alpha",

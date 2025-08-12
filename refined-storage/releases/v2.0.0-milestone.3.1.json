@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.3.1.json",
   "name": "v2.0.0-milestone.3.1",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -171,6 +171,7 @@
       "body": "### Added\n\n-   \"Open Wireless Grid\" keybinding.\n-   Curios integration on Forge.\n-   Trinkets integration on Fabric.\n-   Storage Monitor\n\n### Changed\n\n-   You can now recharge the Controller in item form.\n\n### Fixed\n\n-   Fixed a random Grid crash.\n\n### Removed\n\n-   The `useEnergy` config option for the Wireless Grid. If you do not wish to use energy, use the\n    Creative Wireless Grid.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-10-30T19:49:26Z",
       "publishedAt": "2023-10-30T19:49:25Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.3.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.3.1",

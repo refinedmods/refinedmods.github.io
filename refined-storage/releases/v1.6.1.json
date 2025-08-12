@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.1.json",
   "name": "v1.6.1",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added fluid autocrafting.\r\n- Added Crafting Upgrade support for fluids on the Exporter, Constructor and Fluid Interface.\r\n- Added config option to hide covers in the creative mode tabs and JEI.\r\n\r\n### Changed\r\n\r\n- The Portable Grid now supports fluid disks.\r\n- Filters now support fluids and can be inserted in the Fluid Grid.\r\n- You can now keep fluids in stock by attaching a External Storage in fluid mode to a Fluid Interface with a Crafting Upgrade.\r\n- You can now specify the amount to export in the Fluid Interface.\r\n- Updated Russian translation.\r\n- Overhauled and updated German translation.\r\n- The Crafting Upgrade no longer schedules requests when there are items or fluids missing.\r\n- Made the Crafting Preview window bigger.\r\n\r\n### Fixed\r\n\r\n- Fixed crash log when opening Pattern Grid GUI.\r\n- Fixed being able to put non fluid containers in Fluid Interface input slot.\r\n- Fixed Grid filters not updating Grid.\r\n\r\n### Removed\r\n\r\n- Removed \"emit signal when item is being autocrafted\" option in the Detector.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-29T09:37:13Z",
       "publishedAt": "2023-06-29T09:37:13Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.1",

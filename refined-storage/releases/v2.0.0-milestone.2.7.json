@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.2.7.json",
   "name": "v2.0.0-milestone.2.7",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -160,6 +160,7 @@
       "body": "### Added\n\n-   Added a \"Storage channel\" filter in the Grid that determines which resource type is shown. Defaults to \"All\".\n\n### Changed\n\n-   Ported to Minecraft 1.19.3.\n-   The regular Grid now shows fluids as well.\n-   You can insert fluids in the Grid by right-clicking a fluid container in the Grid slots.\n-   You no longer have to explicitly select a resource type for the filter configuration slots. You can set a fluid\n    by right-clicking a fluid container in the filter slots.\n-   You can no longer insert fluids into the Grid or filter slots straight from the player inventory slots, you have to\n    insert the fluid while holding the fluid container.\n\n### Removed\n\n-   Removed the Fluid Grid, which has been combined into the regular Grid.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-01-31T21:45:37Z",
       "publishedAt": "2023-01-31T21:44:37Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.7",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.7",

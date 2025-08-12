@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.0-beta.json",
   "name": "v1.4.0-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -53,6 +53,7 @@
       "body": "### Added\r\n\r\n- Added Security Manager.\r\n- Added Security Card.\r\n- Added Wireless Fluid Grid.\r\n- Added craft-only toggle to Exporter.\r\n- Added Reader.\r\n- Added Writer.\r\n- Added blocking mode to patterns in autocrafting.\r\n- Added Grid size toggle (stretched, small, medium, large).\r\n- Added dismantling mode to the Wrench.\r\n- Added Block of Quartz Enriched Iron.\r\n- Added integration for Collosal Chests for the External Storage, Importer and Exporter improving performance.\r\n- Added filtering slots for the Crafting Monitor.\r\n- Added way to hide tasks created in an automated way in the Crafting Monitor.\r\n- Added Grid sorting by ID.\r\n- Added Solderer particles.\r\n- Added ore dictionary Grid filter (use `$` as prefix like in JEI).\r\n\r\n### Changed\r\n\r\n- You can now bind multiple crafters with the same pattern to machines, to spread or balance out autocrafting.\r\n- Fluid Grid now first tries to get buckets from your inventory instead of the storage.\r\n- Updated Forge to 2226.\r\n- Updated Chinese translation.\r\n- Converting blocks instead of ingots to Printed Processors is now a little faster.\r\n- The Stack Upgrade in a Constructor in item dropping mode will drop stacks of items at a time.\r\n- Ignore damage for damageable items when transferring into crafting grid.\r\n- Ignore tags from given items when transferring into crafting grid.\r\n- Removed sidedness from fluid interface.\r\n- Using tab in a grid that isn\u0027t in autoselected mode will focus on the search box.\r\n- Exposed the Network Card inventory of the Network Transmitter so other tiles can interact with it.\r\n- Increased size of Detector textbox.\r\n- Handle breaking and placing blocks better for Constructor and Destructor.\r\n- Pressing shift while starting a crafting task will skip the crafting preview.\r\n\r\n### Fixed\r\n\r\n- Fixed Regulator mode not working.\r\n- Fixed Fluid Interface still being sided.\r\n- Fixed Constructor not working on Botania flowers.\r\n- Fixed Wireless Transmitter working even if it was disabled with redstone mode.\r\n- Fixed Solderer not accepting books created in an Anvil.\r\n- Fixed bug where network machines stopped working on chunk borders.\r\n- Fixed memes not working.\r\n- Fixed External Storage crashes.\r\n- Fixed Constructor in liquid mode being able to place fluids \u003c1000 mB.\r\n- Fixed Solderer recipe conflicts, allowing for easier automation.\r\n- Fixed stack upgrades not working in exporter when stack size is 16.\r\n- Fixed crash when rotating External Storage.\r\n- Fixed disk textures not working on latest Forge.\r\n- Fixed crash when placing head with Constructor.\r\n- Autocrafting bugfixes.\r\n- Made sure External Storage always has the correct inventory in world.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:23:18Z",
       "publishedAt": "2023-06-30T12:23:18Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.0-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.0-beta",

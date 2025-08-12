@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.7.json",
   "name": "v2.0.0-beta.7",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -40,7 +40,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 44841,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-autocrafting-api-2.0.0-beta.7-sources.jar"
         },
         {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 110847,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-autocrafting-api-2.0.0-beta.7.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3648660,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-common-2.0.0-beta.7.jar"
         },
         {
@@ -117,7 +117,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 8665,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-core-api-2.0.0-beta.7.jar"
         },
         {
@@ -194,7 +194,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3165,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-neoforge-api-2.0.0-beta.7-sources.jar"
         },
         {
@@ -205,7 +205,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3829,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-neoforge-api-2.0.0-beta.7.jar"
         },
         {
@@ -304,7 +304,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 18301,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-resource-api-2.0.0-beta.7-sources.jar"
         },
         {
@@ -347,6 +347,7 @@
       "body": "### Added\n\n-   Added Debug Stick and network debug overlay, enabled with a config option (NeoForge-only).\n\n### Fixed\n\n-   Fixed crash when closing a Wireless Grid that became available after opening the GUI.\n-   Fixed networks breaking when modifying the receiving end when using Network Transmitters and Network Receivers.\n-   Rotating Relays was disabled since v2.0.0-milestone.4.14 because of a crash. This crash has now been fixed and Relays can once again be rotated.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-08-05T11:04:35Z",
       "publishedAt": "2025-08-05T11:04:34Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.7",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.7",
@@ -475,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 24
+        "downloads": 31
       },
       {
         "source": "modrinth",
-        "downloads": 1008
+        "downloads": 1011
       },
       {
         "source": "curseforge",
-        "downloads": 64525
+        "downloads": 71050
       }
     ],
-    "totalDownloads": 65557
+    "totalDownloads": 72092
   }
 }

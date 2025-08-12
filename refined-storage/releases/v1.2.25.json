@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.25.json",
   "name": "v1.2.25",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Fire event on completion of an autocrafting task.\r\n- Fire player crafting event when shift clicking in the grid.\r\n- Allow INodeNetwork instances to return an ItemStack for display in Controller GUI.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T14:46:20Z",
       "publishedAt": "2023-06-30T14:46:20Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.25",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.25",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 1920984
+        "downloads": 1921004
       }
     ],
-    "totalDownloads": 1921017
+    "totalDownloads": 1921037
   }
 }

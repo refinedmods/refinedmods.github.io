@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.2.4.json",
   "name": "v2.0.0-milestone.2.4",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -237,6 +237,7 @@
       "body": "### Fixed\n\n- Fixed missing AutoConfig config option translations on Fabric.\n- Fixed Grid resource failing to insert if another resource with the same name but different NBT data already exists.\n- Fixed Importer not dropping upgrades when broken.\n- Fixed Disk Drive inventory not being available as external inventory on Forge.\n\n### Added\n\n- Exporter\n- Interface\n- External Storage\n\n### Changed\n\n- You can now select a \"Scheduling mode\" in the Exporter: first available, round robin, random.\n- The Interface no longer has dedicated import slots. The imported items now go into the export slots.\n- The Interface now imports items immediately.\n- \"Exact mode\" has been replaced with \"Fuzzy mode\", which is off by default for performance.\n- The External Storage no longer shows the amount of resources stored on the GUI.\n- The External Storage now supports multiple resource types at the same time.\n- The External Storage no longer checks for external changes every tick, but rather has a cooldown system.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-11-01T22:57:02Z",
       "publishedAt": "2022-11-01T22:57:01Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.4",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.4",

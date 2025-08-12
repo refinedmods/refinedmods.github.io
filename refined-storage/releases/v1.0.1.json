@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.0.1.json",
   "name": "v1.0.1",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added \"autocrafting mode\" in Detector, to check if an item is being crafted. If no item is specified, it\u0027ll emit a signal if anything is crafting.\r\n- Added an option for the Crafter to trigger autocrafting with a redstone signal.\r\n\r\n### Changed\r\n\r\n- Updated to Forge 2084.\r\n\r\n### Fixed\r\n\r\n- Fixed advanced tooltips showing in Grid when not configured to do so.\r\n- Optimized crafting pattern loading.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T15:44:52Z",
       "publishedAt": "2023-06-30T15:44:52Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.1",

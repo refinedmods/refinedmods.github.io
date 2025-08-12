@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v1.1.0.json",
   "name": "v1.1.0",
-  "indexedAt": "2025-08-11T12:34:08Z",
+  "indexedAt": "2025-08-12T01:11:49Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Changed\n\n-   Ported to Minecraft 1.20.1.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-07T10:59:58Z",
       "publishedAt": "2023-07-07T10:59:58Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v1.1.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v1.1.0",
@@ -104,13 +105,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 1931
+        "downloads": 1932
       },
       {
         "source": "curseforge",
-        "downloads": 6485637
+        "downloads": 6487964
       }
     ],
-    "totalDownloads": 6487580
+    "totalDownloads": 6489908
   }
 }

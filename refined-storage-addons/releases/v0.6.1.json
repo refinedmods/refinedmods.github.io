@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.6.1.json",
   "name": "v0.6.1",
-  "indexedAt": "2025-08-11T12:34:04Z",
+  "indexedAt": "2025-08-12T01:11:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Port to Minecraft 1.15.2.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-12-14T15:21:54Z",
       "publishedAt": "2021-12-14T15:21:54Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.6.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.6.1",
@@ -101,13 +102,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 75
+        "downloads": 76
       },
       {
         "source": "curseforge",
-        "downloads": 1309781
+        "downloads": 1309795
       }
     ],
-    "totalDownloads": 1309868
+    "totalDownloads": 1309883
   }
 }

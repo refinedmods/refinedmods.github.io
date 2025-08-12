@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.15.json",
   "name": "v1.9.15",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed Refined Storage Addons compatibility.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T19:51:56Z",
       "publishedAt": "2022-12-10T19:51:56Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.15",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.15",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 4015195
+        "downloads": 4015259
       }
     ],
-    "totalDownloads": 4015336
+    "totalDownloads": 4015400
   }
 }

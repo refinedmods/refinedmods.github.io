@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.1.json",
   "name": "v1.2.1",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added Wireless Crafting Monitor (with temporary textures).\r\n- Added support for JEI R and U keys in Grids.\r\n\r\n### Changed\r\n\r\n- You can now decompose storage disks if the item count is below zero by any chance.\r\n\r\n### Fixed\r\n\r\n- Fixed crafting upgrade having weird behavior.\r\n- Fixed external storage not updating when loading chunk.\r\n- Fixed external storage crash.\r\n- Fixed weird autocrafting behavior.\r\n\r\n### Removed\r\n\r\n- Removed controller explosions when multiple controllers are connected to the same network.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T14:54:37Z",
       "publishedAt": "2023-06-30T14:54:37Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.1",

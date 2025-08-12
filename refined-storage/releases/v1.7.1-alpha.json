@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.7.1-alpha.json",
   "name": "v1.7.1-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed Pattern Grid causing world hanging on load.\r\n- Fixed External Storage not refreshing when the storage is broken or replaced.\r\n- Fixed delay in block update when placing a cable block.\r\n- Fixed holder of cable blocks sometimes conflicting with a cable connection while rendering.\r\n- Fixed being able to move wireless items in inventory when using a keybinding to open.\r\n- Fixed crash when breaking a Grid, Crafting Monitor, Crafter Manager or Portable Grid when another player is still\r\n  using it.\r\n\r\n### Changed\r\n\r\n- The Pattern Grid now switches automatically between crafting pattern and processing pattern mode when using JEI\r\n  transfer.\r\n- The Pattern Grid now switches automatically between crafting pattern and processing pattern mode when re-inserting an\r\n  existing Pattern.\r\n- Grids now do not sort if you interact with it while holding shift.\r\n\r\n### Removed\r\n\r\n- Exact mode for processing patterns no longer exist, you can now define per-slot which item/fluid tags are allowed to\r\n  be used by autocrafting, by using CTRL + click on the filter slot in the Pattern Grid.\r\n- Removed migration code for the development builds that were released on Discord (not on CurseForge). If you used the\r\n  development builds and never used version 1.7.0 before, first switch to 1.7.0, open your world, modify a storage disk,\r\n  and then upgrade to 1.7.1.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-19T17:55:12Z",
       "publishedAt": "2022-12-19T17:55:12Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.1-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.1-alpha",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 215929
+        "downloads": 215935
       }
     ],
-    "totalDownloads": 216000
+    "totalDownloads": 216006
   }
 }

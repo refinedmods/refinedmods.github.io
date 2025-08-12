@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.9.3-beta.json",
   "name": "v0.9.3-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added Chinese translation.\r\n- Added Crafting Tweaks integration.\r\n\r\n### Changed\r\n\r\n- Updated German translation for Fluid Storage.\r\n- Updated Dutch translation for Fluid Storage.\r\n- Reworked storage network code, should fix weird machine disconnection issues.\r\n\r\n### Fixed\r\n\r\n- Fixed that the Fluid Storage Disk recipe returns an invalid disk.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T15:45:53Z",
       "publishedAt": "2023-06-30T15:45:53Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.9.3-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.9.3-beta",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 10263
+        "downloads": 10265
       }
     ],
-    "totalDownloads": 10290
+    "totalDownloads": 10292
   }
 }

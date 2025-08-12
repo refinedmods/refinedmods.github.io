@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.3.0.json",
   "name": "v0.3.0",
-  "indexedAt": "2025-08-11T12:34:11Z",
+  "indexedAt": "2025-08-12T01:11:53Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "Note: Due to fluid networks now being split up by their tier, all fluid pipes from version 0.2.1 and earlier are\r\nincompatible and won\u0027t be functioning. This can be fixed by breaking and replacing all the fluid pipes in a network.\r\n\r\n### Added\r\n\r\n- Implemented pick block on attachments.\r\n- Added energy pipes.\r\n- Added new tiers for the Fluid Pipe: Elite and Ultimate.\r\n\r\n### Fixed\r\n\r\n- Improved performance of calculating pipe shapes.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-11-28T13:10:15Z",
       "publishedAt": "2021-11-28T13:10:15Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.3.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.3.0",

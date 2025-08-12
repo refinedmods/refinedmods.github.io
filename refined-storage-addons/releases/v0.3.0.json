@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.3.0.json",
   "name": "v0.3.0",
-  "indexedAt": "2025-08-11T12:34:04Z",
+  "indexedAt": "2025-08-12T01:11:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -51,6 +51,7 @@
       "body": "### Fixed\r\n\r\n- Fixed stack-crafting in the Wireless Crafting Grid (crafting table) causing lag on a dedicated server.\r\n\r\n### Added\r\n\r\n- Refined Storage 1.5.33 compatibility.\r\n",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-12-14T15:16:43Z",
       "publishedAt": "2021-12-14T15:16:43Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.3.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.3.0",
@@ -103,9 +104,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 2423770
+        "downloads": 2423777
       }
     ],
-    "totalDownloads": 2423831
+    "totalDownloads": 2423838
   }
 }

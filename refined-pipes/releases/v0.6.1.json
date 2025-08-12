@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.6.1.json",
   "name": "v0.6.1",
-  "indexedAt": "2025-08-11T12:34:11Z",
+  "indexedAt": "2025-08-12T01:11:53Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "\n### Added\n\n- Added German translation by [@Wizqok](https://github.com/Wizqok).\n- Added Korean translation by [@mindy15963](https://github.com/mindy15963).\n\n### Fixed\n\n- Fixed random client crashes by [@malte0811](https://github.com/malte0811).\n- Fixed crash when Extractor Attachment is interacting with inventories that have no slots.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-01-30T11:52:17Z",
       "publishedAt": "2022-01-30T11:52:17Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.6.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.6.1",
@@ -106,9 +107,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 62560
+        "downloads": 62562
       }
     ],
-    "totalDownloads": 62668
+    "totalDownloads": 62670
   }
 }

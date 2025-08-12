@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.9.json",
   "name": "v1.9.9",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed Refined Storage sidebuttons displaying over the JEI bookmark pagination buttons.\r\n- Fixed issue where Crafters may fail to recognize an inventory/tank for some patterns.\r\n- Fixed issue where the Crafter Manager can crash on invalid patterns.\r\n- Fixed issue where alternatives in the Pattern Grid weren\u0027t being saved properly.\r\n- Fixed not being able to change the Exporter filter slot count with regulator mode without closing and re-opening the\r\n  container.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T20:00:40Z",
       "publishedAt": "2022-12-10T20:00:40Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.9",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.9",
@@ -107,9 +108,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 760187
+        "downloads": 760188
       }
     ],
-    "totalDownloads": 760248
+    "totalDownloads": 760249
   }
 }

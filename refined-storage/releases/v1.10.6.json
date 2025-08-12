@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.10.6.json",
   "name": "v1.10.6",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\n\n-   Fixed a bunch of issues where chunks would unintentionally be loaded by RS.\n-   Reduced block updates when a controller is turning on and off constantly.\n-   Various world corruption issues if Refined Storage blocks were removed unexpectedly or with another mod.\n-   Fixed JEI transfer crash for larger processing recipes.\n-   Fixed rare autocrafting crash.\n-   Fixed duplication bug with the Crafting Grid.\n-   Fixed fluid duplication bug with the Importer in certain situations.\n-   Attempted to fix issue where Grid doesn\u0027t load items and requires a client restart.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-11-26T12:04:11Z",
       "publishedAt": "2023-11-26T12:04:10Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.10.6",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.10.6",
@@ -102,13 +103,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 27919
+        "downloads": 27980
       },
       {
         "source": "curseforge",
-        "downloads": 5377269
+        "downloads": 5381672
       }
     ],
-    "totalDownloads": 5405236
+    "totalDownloads": 5409700
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.6.12-alpha.json",
   "name": "v0.6.12-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Crafting tasks are now sorted from new to old in the Crafting Monitor.\r\n\r\n### Fixed\r\n\r\n- Fixed Crafting Grid / Pattern Grid not throwing items on break.\r\n- Fixed NPE in some tiles.\r\n- Fixed going out of crafting GUI not restoring state (scrollbar and search term).\r\n- Fixed not being able to place cake or string.\r\n- Fixed Importer getting stuck on slot.\r\n- Fixed silicon + quartz enriched iron not having oredict names.\r\n- Performance improvement to Grids.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T15:15:32Z",
       "publishedAt": "2023-07-04T15:15:32Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.12-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.12-alpha",

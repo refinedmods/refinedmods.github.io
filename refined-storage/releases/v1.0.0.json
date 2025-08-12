@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Interface now supports Crafting Upgrade.\r\n- Implemented multithreaded autocrafting.\r\n\r\n### Changed\r\n\r\n- Processing patterns now hold their items back for pushing until all the required items are gathered from the system.\r\n- Reworked Crafting Monitor GUI.\r\n- When shift clicking a recipe in the Crafting Grid, the player inventory is now leveraged as well.\r\n- Updated to Forge 2077.\r\n- Due to the new crafting system, all Crafting Patterns made before 1.0 have to be re-made.\r\n\r\n### Fixed\r\n\r\n- Fixed item and fluid storage stored count having incorrect values at times.\r\n- Fixed problems relating to Crafting Upgrade (scheduling a task wrongly, blocking other tasks, etc).\r\n- Fixed machines breaking on long distances.\r\n- Fixed Controller rebuilding network graph on energy change.\r\n- Fixed fluids not caring about NBT tags.\r\n- Fixed fluids that have less than 1 bucket stored render only partly in Fluid Grid.\r\n- Fixed Fluid Interface voiding bucket when shift clicking to out slot.\r\n- Fixed wrong machine connection logic.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T15:45:12Z",
       "publishedAt": "2023-06-30T15:45:12Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.0.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.0.0",

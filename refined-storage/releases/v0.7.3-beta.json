@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.3-beta.json",
   "name": "v0.7.3-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Crafting tasks are now sorted from new to old in the Crafting Monitor.\r\n- Broke Interface block inventory compatibility: make sure to take all your items out of your Interface blocks before you apply the update.\r\n\r\n### Fixed\r\n\r\n- Fixed grid performance by not sending grid data so often.\r\n- Fixed silicon + quartz enriched iron not having oredict names.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:30:19Z",
       "publishedAt": "2023-07-04T14:30:19Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.3-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.3-beta",

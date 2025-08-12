@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.3.5.json",
   "name": "v2.0.0-milestone.3.5",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -171,6 +171,7 @@
       "body": "### Added\n\n-   Security Card\n-   Fallback Security Card\n-   Security Manager\n\n### Changed\n\n-   The permissions for a Security Card must be configured through the card itself, instead of via the Security Manager.\n-   The Security Card can be bound to other (currently online) players via its GUI.\n-   The binding of a Security Card can now be cleared.\n-   The Security Card tooltip and GUI now show whether the permission has been touched/changed in any way.\n-   As soon as a Security Manager is placed, the storage network will be locked down by default. Start adding Security Cards to allow or deny specific access to players.\n-   To not lock the entire network by default for players who do not have a matching Security Card, a Fallback Security Card can be used to configure this behavior.\n-   Smooth scrolling, screen size and max row stretch are no longer Grid-specific settings, but are now global settings.\n\n### Fixed\n\n-   Wireless Grid name not being correct in the GUI.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-04-04T16:08:51Z",
       "publishedAt": "2024-04-04T16:08:50Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.3.5",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.3.5",

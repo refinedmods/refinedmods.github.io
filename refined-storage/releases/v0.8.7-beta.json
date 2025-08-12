@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.7-beta.json",
   "name": "v0.8.7-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added better hitbox for the Solderer.\r\n\r\n### Changed\r\n\r\n- Wireless Transmitter is now only bright red when connected.\r\n- Improved detector model, add a better hitbox for it.\r\n- Improved the Wireless Transmitter texture.\r\n- Made the Solderer beams be bright red when they are working.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with External Storage.\r\n- Fixed Detector not unpowering when disconnected from the network.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:19:19Z",
       "publishedAt": "2023-07-04T14:19:19Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.7-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.7-beta",
@@ -107,9 +108,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 881
+        "downloads": 882
       }
     ],
-    "totalDownloads": 906
+    "totalDownloads": 907
   }
 }

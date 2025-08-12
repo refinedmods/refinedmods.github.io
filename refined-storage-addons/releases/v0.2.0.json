@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.2.0.json",
   "name": "v0.2.0",
-  "indexedAt": "2025-08-11T12:34:04Z",
+  "indexedAt": "2025-08-12T01:11:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Updated Forge to 2493 (MC 1.12.2.\r\n- Infinite Wireless Transmitter (can be configured).\r\n- Network Picker.\r\n- Network Bag.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-12-14T15:16:16Z",
       "publishedAt": "2021-12-14T15:16:16Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.2.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.2.0",
@@ -107,9 +108,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 2273462
+        "downloads": 2273481
       }
     ],
-    "totalDownloads": 2273647
+    "totalDownloads": 2273666
   }
 }

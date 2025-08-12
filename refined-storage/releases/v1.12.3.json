@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.12.3.json",
   "name": "v1.12.3",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\n\n-   Fixed not being able to type \"e\" in Grid search box.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-07T19:28:21Z",
       "publishedAt": "2023-07-07T19:28:20Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.12.3",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.12.3",
@@ -102,13 +103,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 8421
+        "downloads": 8426
       },
       {
         "source": "curseforge",
-        "downloads": 1424745
+        "downloads": 1424770
       }
     ],
-    "totalDownloads": 1433263
+    "totalDownloads": 1433293
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.3.0-alpha.json",
   "name": "v1.3.0-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Port to Minecraft 1.11.\r\n\r\n### Removed\r\n\r\n- Removed RF support, use Forge Energy instead.\r\n- Removed IC2 support.\r\n- Removed MCMultiPart support (will be re-added as soon as MCMultiPart for MC 1.11 is available).",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:26:23Z",
       "publishedAt": "2023-06-30T12:26:23Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.3.0-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.3.0-alpha",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.11.3.json",
   "name": "v1.11.3",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\n\n- Fixed external storage cache being de-synced from the network cache.\n- Fixed external storage using an out of date block entity for getting handler.\n- Fixed inventory slots being reused incorrectly in rare cases in the JEI transfer handler.\n\n### Changed\n\n- Increased packet size limit.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-20T13:42:41Z",
       "publishedAt": "2022-12-20T13:42:40Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.3",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.3",

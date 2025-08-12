@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.3.2-alpha.json",
   "name": "v1.3.2-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed being able to exceed max stack size while shift clicking.\r\n- Fixed Wrench clearing NBT data when reset causing problems with Morph O Tool.\r\n- Fixed client crash when placing network blocks.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:25:46Z",
       "publishedAt": "2023-06-30T12:25:46Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.3.2-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.3.2-alpha",

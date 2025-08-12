@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.5.json",
   "name": "v2.0.0-milestone.4.5",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -182,6 +182,7 @@
       "body": "### Added\n\n-   Ability to extract fluids from the Interface using an empty bucket or other empty fluid container.\n-   Support for the NeoForge config screen.\n\n### Fixed\n\n-   Fixed crash when trying to export fluids into an Interface on Fabric.\n-   Fixed Relay configuration not being correct on NeoForge.\n-   Fixed crash in logs when trying to quick craft an empty result slot in the Crafting Grid.\n-   Fixed recipes not using silicon tag and Refined Storage silicon not being tagged properly.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-07-26T07:27:00Z",
       "publishedAt": "2024-07-26T07:26:59Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.5",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.5",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.6.json",
   "name": "v1.9.6",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Port to Minecraft 1.16.3.\r\n- Added colored block variants.\r\n- Added functionality to show missing items in the JEI transfer screen.\r\n- Added functionality to request missing items from autocrafting in the JEI transfer screen.\r\n- Added client config option to remember the Grid search query.\r\n\r\n### Fixed\r\n\r\n- Fixed Portable Grid losing enchantments when placing and breaking.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T20:01:55Z",
       "publishedAt": "2022-12-10T20:01:55Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.6",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.6",
@@ -101,13 +102,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 43
+        "downloads": 44
       },
       {
         "source": "curseforge",
         "downloads": 4153
       }
     ],
-    "totalDownloads": 4201
+    "totalDownloads": 4202
   }
 }

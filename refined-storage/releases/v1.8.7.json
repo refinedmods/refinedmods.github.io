@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.8.7.json",
   "name": "v1.8.7",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed Regulator mode item and fluid counts not saving properly.\r\n- Fixed Wireless Crafting Monitor not closing properly.\r\n- Fixed Controller always using energy, even when disabled with redstone.\r\n- Fixed internal crafting inventory not being returned when Controller is broken.\r\n- Fixed bug where autocrafting tasks started on the same tick make the wrong assumption about available items and\r\n  fluids.\r\n- Fixed bug where the \"To craft\" amount in the Crafting Preview window is wrong.\r\n- Fixed bug where non-pattern items are able to be inserted into the Crafter Manager (Darkere)\r\n- Fixed performance issue where shapes of cable blocks were constantly being recalculated.\r\n\r\n### Changed\r\n\r\n- Drastically improved shift clicking performance in Crafting Grid.\r\n\r\n### Removed\r\n\r\n- Removed autocrafting engine version from crafting preview screen.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-19T17:49:29Z",
       "publishedAt": "2022-12-19T17:49:29Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.7",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.7",

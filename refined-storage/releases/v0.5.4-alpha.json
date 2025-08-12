@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.5.4-alpha.json",
   "name": "v0.5.4-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Shift clicking on placing Constructor and Destructor will have opposite direction.\r\n\r\n### Fixed\r\n\r\n- Fixed machines out of the Controller\u0027s chunk range only connecting after block break when rejoining the world.\r\n- Fixed scrollbar skipping some rows when scrolling with mouse wheel.\r\n- Fixed machines from a long distance not being visible in the Controller.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T15:51:16Z",
       "publishedAt": "2023-07-04T15:51:16Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.5.4-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.5.4-alpha",

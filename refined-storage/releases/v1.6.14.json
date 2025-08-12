@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.14.json",
   "name": "v1.6.14",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed server crash",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-29T09:31:59Z",
       "publishedAt": "2023-06-29T09:31:59Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.14",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.14",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 3134988
+        "downloads": 3135055
       }
     ],
-    "totalDownloads": 3135098
+    "totalDownloads": 3135165
   }
 }

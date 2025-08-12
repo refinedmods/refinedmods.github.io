@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.23.json",
   "name": "v1.5.23",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -55,6 +55,7 @@
       "body": "### Fixed\r\n\r\n- Fixed duplication bug with autocrafting.\r\n- Fixed Fluid Interface with Stack Upgrade not exporting fluids.\r\n- Fixed fluids in Fluid Grid not showing actual mB on tooltip when pressing CTRL + SHIFT.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T08:59:39Z",
       "publishedAt": "2023-06-30T08:59:39Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.23",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.23",
@@ -109,9 +110,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 209037
+        "downloads": 209038
       }
     ],
-    "totalDownloads": 209074
+    "totalDownloads": 209075
   }
 }

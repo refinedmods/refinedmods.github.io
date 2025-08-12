@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.5.0-alpha.json",
   "name": "v0.5.0-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Deep Storage Unit integration (with this several barrel mods are now supported too!).\r\n- When placing Importer, Exporter or External Storage with SHIFT, it will have the opposite direction. This is for easy placement behind other blocks (furnaces for example).\r\n- Added mass crafting of items with shift in Crafting Grid.\r\n- Added JEI recipe transfering in Crafting Grid.\r\n- New textures.\r\n- Scrollbar in Grid and Crafting Grid.\r\n- Display of connected machines in the Controller GUI.\r\n- Nice formatting for items \u003e\u003d 1K (pressing shift while hovering over an item will still display the real item count).\r\n- Grid can now synchronize with JEI.\r\n\r\n### Changed\r\n\r\n- Updated to the latest Forge and JEI.\r\n- Renamed Drives to Disk Drives.\r\n- Renamed Storage Cells to Storage Disks.\r\n- Wireless Grid is now bound to a Controller instead of a Grid.\r\n- Drives have a better interface and there are now blacklist and whitelist filters for the Storage Disks in it too.\r\n- Destructors have the ability to whitelist and blacklist certain items now.\r\n- Side buttons in machine GUIs are now left, not right.\r\n- Shift clicking stuff in the Interface.\r\n- Made the normal Grid 1 row larger.\r\n- Machines don\u0027t need to be connected with cables anymore, they can be next to each other too.\r\n- Made the amount text in the Grid for items smaller.\r\n\r\n### Fixed\r\n\r\n- Fixed clicking sound in Grid.\r\n- Fixed a bunch of crashes.\r\n- Fixed Exporter not exporting is some cases.\r\n- Fixed Importer not importing in some cases.\r\n- Fixed Controller drawing RF every 20 ticks instead of every tick.\r\n- Fixed not being able to shift click from Crafting Grid crafting slots.\r\n- Fixed new items inserted after crafting in Grid being laggy.\r\n- Fixed flickering of items in Grid.\r\n- Fixed getting a stack of unstackable items from Grid.\r\n- Fixed Cable not having a collision box.\r\n- Check if the Constructor can actually place said block in the world.\r\n\r\n### Removed\r\n\r\n- Removed Wireless Transmitters.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T15:52:29Z",
       "publishedAt": "2023-07-04T15:52:29Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.5.0-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.5.0-alpha",

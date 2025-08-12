@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.5.0.json",
   "name": "v0.5.0",
-  "indexedAt": "2025-08-11T12:34:08Z",
+  "indexedAt": "2025-08-12T01:11:49Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Port to Minecraft 1.12.\r\n\r\n### Changed\r\n\r\n- Changed scanning system to scan nearest blocks first.\r\n- The pump no longer requires a redstone signal. If a redstone signal is given, the pump will pause instead.\r\n- The pump now auto-pushes liquids to neighboring tanks.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-12-18T12:48:30Z",
       "publishedAt": "2021-12-18T12:48:30Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.5.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.5.0",
@@ -103,13 +104,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 3964
+        "downloads": 3974
       },
       {
         "source": "curseforge",
-        "downloads": 27437083
+        "downloads": 27439846
       }
     ],
-    "totalDownloads": 27441061
+    "totalDownloads": 27443834
   }
 }

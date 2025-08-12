@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.8.json",
   "name": "v2.0.0-milestone.4.8",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -193,6 +193,7 @@
       "body": "### Added\r\n\r\n-   Autocrafter\r\n    - Note: autocrafting itself hasn\u0027t been implemented yet. This is the in-game content, but not the autocrafting engine itself yet. \r\n-   The Relay now has support for propagating autocrafting when not in pass-through mode.\r\n\r\n### Changed\r\n\r\n-   The Crafter has been renamed to \"Autocrafter\".\r\n-   Optimized memory usage and startup time of cable models. After updating, cables will appear disconnected, but this is only visual. Cause a block update to fix this.\r\n-   Optimized performance of searching in the Grid.\r\n-   Custom titles that overflow will now have a marquee effect instead, for every GUI.\r\n-   You can now define a priority in the Autocrafter.\r\n-   You can now change the name of a Autocrafter in the GUI.\r\n-   Changed \"Crafter mode\" to \"Locking mode\" with following options:\r\n    -   Never\r\n    -   Lock until redstone pulse is received\r\n    -   Lock until connected machine is empty (new, facilitates easier \"blocking mode\" without redstone)\r\n    -   Lock until all outputs are received (new, facilitates easier \"blocking mode\" without redstone)\r\n    -   Lock until low redstone signal\r\n    -   Lock until high redstone signal\r\n-   Resources in the Grid that are autocraftable now display an orange backdrop and tooltip to indicate whether the resource is autocraftable at a glance.\r\n-   Slots used in the Pattern Grid for pattern encoding and Crafting Grid crafting matrix slots now display an orange backdrop and tooltip to indicate whether the item is autocraftable at a glance. This checks patterns from your network and from your inventory.\r\n-   Added help tooltip for filtering based on recipe items in the Crafting Grid.\r\n-   The crafting amount and crafting preview screens have been merged. Changing the amount will update the live preview.\r\n-   The numbers on the crafting preview screen are now compacted with units.\r\n-   When requesting autocrafting multiple resources at once, which can happen via a recipe mod, all the crafting requests are now listed on the side of the GUI.\r\n-   You can now request autocrafting from the Storage Monitor if the resource count reaches zero.\r\n\r\n### Fixed\r\n\r\n-   Fixed mouse keybindings not working on NeoForge.\r\n-   Fixed upgrade destinations not being shown on upgrades.\r\n-   Fixed resources with changed data format or ID causing entire storage to fail to load.\r\n-   Fixed crash when trying to export fluids from an External Storage on Fabric.\r\n-   The Configuration Card can now also transfer the (configured) Regulator Upgrade.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-10-12T18:18:35Z",
       "publishedAt": "2024-10-12T15:48:43Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.8",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.8",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.3.json",
   "name": "v2.0.0-beta.3",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -347,6 +347,7 @@
       "body": "### Changed\n\n-   Closing the Crafting Preview window (via cancel or escape) will now properly cancel pending calculations.\n-   Autocrafting requests that take too long will be automatically stopped after 5 seconds.\n-   It is no longer possible to queue an unlimited amount of autocrafting requests when the autocrafting system is busy.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-07-22T14:11:02Z",
       "publishedAt": "2025-07-22T14:11:01Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.3",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.3",
@@ -479,13 +480,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 2428
+        "downloads": 2438
       },
       {
         "source": "curseforge",
-        "downloads": 248818
+        "downloads": 255413
       }
     ],
-    "totalDownloads": 251324
+    "totalDownloads": 257929
   }
 }

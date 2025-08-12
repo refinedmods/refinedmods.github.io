@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.16.json",
   "name": "v1.6.16",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed erroring controller tile entity.\r\n- Fixed Inventory Tweaks sorting not respecting locked slots.\r\n- Fixed OpenComputers driver voiding excess fluids.\r\n- Fixed being able to move wireless items in inventory.\r\n\r\n### Changed\r\n\r\n- Updated Russian translation.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-06T15:24:24Z",
       "publishedAt": "2023-06-29T09:27:24Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.16",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.16",
@@ -101,13 +102,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 39253
+        "downloads": 39297
       },
       {
         "source": "curseforge",
-        "downloads": 16016325
+        "downloads": 16018662
       }
     ],
-    "totalDownloads": 16055591
+    "totalDownloads": 16057972
   }
 }

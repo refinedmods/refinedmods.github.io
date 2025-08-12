@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.6.json",
   "name": "v2.0.0-beta.6",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -347,6 +347,7 @@
       "body": "### Changed\n\n-   Opened GUIs will now automatically close if you go out of reach or the block is destroyed.\n-   Quartz Enriched Iron and Copper are now part of the `c:ingots` item tag.\n\n### Fixed\n\n-   Fixed Pattern output not rendering sometimes.\n-   Fixed patterns being displaced after scrolling and clicking in the search bar of the Autocrafter Manager.\n-   Fixed crash when exploding TNT next to an opened Grid.\n-   Fixed crafting events not being triggered from the Crafting Grid.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-08-03T18:50:40Z",
       "publishedAt": "2025-08-03T18:50:39Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.6",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.6",
@@ -479,13 +480,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 607
+        "downloads": 610
       },
       {
         "source": "curseforge",
-        "downloads": 13850
+        "downloads": 14193
       }
     ],
-    "totalDownloads": 14490
+    "totalDownloads": 14836
   }
 }

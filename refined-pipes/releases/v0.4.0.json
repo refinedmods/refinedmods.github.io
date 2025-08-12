@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.4.0.json",
   "name": "v0.4.0",
-  "indexedAt": "2025-08-11T12:34:11Z",
+  "indexedAt": "2025-08-12T01:11:53Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -53,6 +53,7 @@
       "body": "### Added\r\n\r\n- Added filtering options for the Extractor Attachment.\r\n- Added redstone mode options for the Extractor Attachment.\r\n- Added whitelist / blacklist options for the Extractor Attachment.\r\n- Added routing mode (nearest first, furthest first, random and round robin) options for the Extractor Attachment.\r\n- Added exact mode (NBT sensitivity) options for the Extractor Attachment.\r\n- Added stack size configurability to the Extractor Attachment.\r\n\r\n### Fixed\r\n\r\n- Improved performance of rendering pipes.\r\n- Fixed rendering bug where fluid remained in pipes.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-11-28T13:10:53Z",
       "publishedAt": "2021-11-28T13:10:53Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.4.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.4.0",

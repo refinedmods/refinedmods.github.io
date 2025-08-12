@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.4.3.json",
   "name": "v0.4.3",
-  "indexedAt": "2025-08-11T12:34:04Z",
+  "indexedAt": "2025-08-12T01:11:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Client FPS stuttering when opening a Wireless Crafting Grid.\r\n",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-12-14T15:18:27Z",
       "publishedAt": "2021-12-14T15:18:27Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.4.3",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.4.3",
@@ -103,9 +104,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 3346370
+        "downloads": 3346415
       }
     ],
-    "totalDownloads": 3346498
+    "totalDownloads": 3346543
   }
 }

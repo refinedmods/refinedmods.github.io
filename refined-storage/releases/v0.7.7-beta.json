@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.7-beta.json",
   "name": "v0.7.7-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added the Stack Upgrade.\r\n- Added Quartz Enriched Iron Block.\r\n- Added French translation by Leventovitch.\r\n\r\n### Changed\r\n\r\n- New items now go to the first available storage that has items in it already.\r\n- Tweaked some recipes.\r\n\r\n### Fixed\r\n\r\n- Fixed buggy reequip animation on wireless grid.\r\n- Fixed solderer not supporting ore dictionary.\r\n- Fixed recipes not supporting ore dictionary.\r\n- Fixed destructor not being able to destroy some blocks.\r\n- Fixed not being able to place or destroy sugar cane.\r\n- Fixed storage blocks not being dismantable.\r\n- Fixed getting more items than needed sometimes.\r\n- Performance improvements.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:29:10Z",
       "publishedAt": "2023-07-04T14:29:10Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.7-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.7-beta",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 568
+        "downloads": 569
       }
     ],
-    "totalDownloads": 589
+    "totalDownloads": 590
   }
 }

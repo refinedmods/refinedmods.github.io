@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.11.json",
   "name": "v1.9.11",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed disks and network devices not loading when they did not previously exist\r\n  - If you are affected by this please go to the world/data/ folder and remove the \".temp\" ending from the files\r\n    before launching.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T19:59:42Z",
       "publishedAt": "2022-12-10T19:59:42Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.11",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.11",
@@ -101,13 +102,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 50
+        "downloads": 51
       },
       {
         "source": "curseforge",
-        "downloads": 960290
+        "downloads": 960294
       }
     ],
-    "totalDownloads": 960343
+    "totalDownloads": 960348
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.13.json",
   "name": "v2.0.0-milestone.4.13",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -369,6 +369,7 @@
       "body": "### Added\n\n-   Colored variants are now moved to a separate creative mode tab.\n-   You can now start autocrafting tasks in the Relay\u0027s output network, using patterns and autocrafters from the input network.\n\n### Fixed\n\n-   Fixed Crafter and Security Manager bottom sides being lit on NeoForge.\n-   Fixed pattern input slot in the Pattern Grid not being accessible as an external inventory.\n-   Fixed duplication bug with the Crafting Grid matrix and insert-only storages.\n-   Fixed not being able to deselect the Grid search box.\n-   Fixed Storage Block not showing the amount and capacity when inactive.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-02-01T18:27:54Z",
       "publishedAt": "2025-02-01T18:27:53Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.13",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.13",

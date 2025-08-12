@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.0.json",
   "name": "v2.0.0-milestone.4.0",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -160,6 +160,7 @@
       "body": "### Added\n\n-   Ported to Minecraft 1.21.\n-   More help information for items.\n-   Quartz Enriched Copper, used to craft cables.\n-   Block of Quartz Enriched Copper\n\n### Changed\n\n-   The mod ID has been changed from \"refinedstorage2\" to \"refinedstorage\". Worlds that used milestone 3 on Minecraft 1.20.4 are no longer compatible.\n-   Recipes now use common tag conventions from NeoForge and Fabric.\n\n### Fixed\n\n-   Regulator Upgrade having wrong GUI title.\n-   Crafting Grid not dropping crafting matrix contents when broken.\n-   \"+1\" button on amount screen not doing anything.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-07-04T12:51:51Z",
       "publishedAt": "2024-07-04T12:51:51Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.0",

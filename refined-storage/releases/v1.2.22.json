@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.22.json",
   "name": "v1.2.22",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed recipe for Processing Pattern Encoder not using oredictionary for the workbench.\r\n- Fixed Fluid Interface not dropping inventory contents.\r\n- Fixed glitchy upgrade recipes in the Solderer.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T14:47:11Z",
       "publishedAt": "2023-06-30T14:47:11Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.22",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.22",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 546118
+        "downloads": 546119
       }
     ],
-    "totalDownloads": 546167
+    "totalDownloads": 546168
   }
 }

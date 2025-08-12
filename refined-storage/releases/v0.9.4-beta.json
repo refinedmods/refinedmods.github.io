@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.9.4-beta.json",
   "name": "v0.9.4-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Reduced explosion radius when multiple controllers are connected to the same network.\r\n\r\n### Fixed\r\n\r\n- Fixed mod not working without JEI.\r\n- Little fixes in German translation.\r\n- Reverted network changes that caused buggy behavior.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T15:45:32Z",
       "publishedAt": "2023-06-30T15:45:32Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.9.4-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.9.4-beta",

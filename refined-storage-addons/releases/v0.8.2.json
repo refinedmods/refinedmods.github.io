@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.8.2.json",
   "name": "v0.8.2",
-  "indexedAt": "2025-08-11T12:34:04Z",
+  "indexedAt": "2025-08-12T01:11:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "\n### Added\n\n- French translation by [@dracnis](https://github.com/dracnis).\n\n### Changed\n\n- Ported to Minecraft 1.18.2.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-03-26T14:18:33Z",
       "publishedAt": "2022-03-26T14:18:33Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.8.2",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.8.2",
@@ -102,13 +103,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 14236
+        "downloads": 14259
       },
       {
         "source": "curseforge",
-        "downloads": 7562458
+        "downloads": 7564576
       }
     ],
-    "totalDownloads": 7576739
+    "totalDownloads": 7578880
   }
 }

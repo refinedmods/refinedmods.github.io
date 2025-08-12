@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.8.json",
   "name": "v1.9.8",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added a JEI synchronized (two-way) search box mode to the Grid.\r\n- Added a nag message when a player joins the world that asks the player to enable the experimental Forge lighting\r\n  pipeline to ensure correct rendering.\r\n\r\n### Fixed\r\n\r\n- Fixed server crash when scrolling in Grid.\r\n- Fixed various issues with Grid interactions working without power.\r\n- Fixed changing rotation not updating blocks.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T20:01:10Z",
       "publishedAt": "2022-12-10T20:01:10Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.8",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.8",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 219088
+        "downloads": 219092
       }
     ],
-    "totalDownloads": 219122
+    "totalDownloads": 219126
   }
 }

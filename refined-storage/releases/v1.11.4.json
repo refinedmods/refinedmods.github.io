@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.11.4.json",
   "name": "v1.11.4",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\r\n\r\n- Fixed duplication bug in the Interface.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-20T15:56:17Z",
       "publishedAt": "2022-12-20T15:32:47Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.4",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.4",
@@ -106,9 +107,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 821573
+        "downloads": 821575
       }
     ],
-    "totalDownloads": 821741
+    "totalDownloads": 821743
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.2-beta.1.json",
   "name": "v1.9.2-beta.1",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Re-added interdimensional networks with the Network Transmitter and Network Receiver.\r\n- Re-added MouseTweaks integration.\r\n\r\n### Changed\r\n\r\n- Networks that are in a chunk that isn\u0027t loaded will no longer work, they will turn off. Chunkload the Controller to\r\n  maintain a functioning network over long distances.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Forge version 67.\r\n- Fixed cases where Refined Storage unwillingly acts like a chunkloader.\r\n- Fixed Network Transmitters being able to connect to any network device.\r\n- Fixed Crafting Tweaks buttons being in the wrong position after changing the size configuration of the Grid.\r\n",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-12-24T09:43:38Z",
       "publishedAt": "2023-12-24T09:43:38Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.2-beta.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.2-beta.1",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 389579
+        "downloads": 389596
       }
     ],
-    "totalDownloads": 389654
+    "totalDownloads": 389671
   }
 }

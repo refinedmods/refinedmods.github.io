@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.12.json",
   "name": "v2.0.0-milestone.4.12",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -193,6 +193,7 @@
       "body": "### Added\n\n-   Autocrafting engine.\n-   The crafting preview now has the ability to fill out the maximum amount of a resource you can currently craft.\n-   In the crafting preview, you can now indicate whether you want to be notified when an autocrafting task is finished.\n\n### Changed\n\n-   Autocrafting now handles multiple patterns with the same output correctly by trying to use the pattern with the\n    highest priority first. If there are missing resources, lower priority patterns are checked.\n-   The Autocrafter now faces the block you\u0027re clicking when placing it, like the other cable blocks (like the Exporter or Importer).\n-   You can no longer cancel autocrafting tasks if there is not enough space in storage to return the intermediate task storage.\n-   The Autocrafting Monitor now shows the machine in which a resource is processing.\n\n### Fixed\n\n-   Fixed amount in amount screens resetting when resizing the screen.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-01-27T22:33:49Z",
       "publishedAt": "2025-01-27T22:33:47Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.12",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.12",

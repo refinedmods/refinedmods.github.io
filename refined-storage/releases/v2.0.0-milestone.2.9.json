@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.2.9.json",
   "name": "v2.0.0-milestone.2.9",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -160,6 +160,7 @@
       "body": "### Fixed\n\n-   Fixed not being able to update filter slots on servers.\n\n### Added\n\n-   Detector\n\n### Changed\n\n-   Detectors can now be placed sideways or upside down.\n-   Detectors no longer detect all resources when unconfigured.\n-   Redstone updates by Detectors are now rate-limited to once per second.\n-   For fluids, the Detector now always accepts the amount in buckets.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-03-31T19:17:47Z",
       "publishedAt": "2023-03-31T19:17:46Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.9",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.9",

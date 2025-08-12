@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.3.6.json",
   "name": "v2.0.0-milestone.3.6",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -171,6 +171,7 @@
       "body": "### Added\n\n-   Relay\n\n### Changed\n\n-   The Detector, Network Receiver, Network Transmitter and Security Manager will now always connect regardless of color.\n-   The Relay now has a \"pass-through\" mode. By default, pass-through is on, which means that when the Relay is active, the network signal from the input network will be passed through as-is to the output side.\n-   When the \"pass-through\" mode on the Relay is off, the network signal from the input network will no longer be passed through as-is to the output side, but you can choose to pass the energy buffer, security settings or (specific) storage resources of the input network to the output network.\n-   When using the Relay when \"pass-through\" mode is off, and when passing all storage resources or specific storage resources, you can choose the filter mode, whether fuzzy mode is enabled, the access mode and the priority of the storage exposed to the output network.\n\n### Fixed\n\n-   Double slot highlighting in the Grid.\n-   Improved data corruption protection for storages.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-05-18T10:00:39Z",
       "publishedAt": "2024-05-18T10:00:38Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.3.6",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.3.6",

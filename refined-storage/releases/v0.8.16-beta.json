@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.16-beta.json",
   "name": "v0.8.16-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added German translation by ChillUpX.\r\n- Added MCMultiPart integration for Cable Parts.\r\n\r\n### Changed\r\n\r\n- You now have to click the actual cable part head in order to get the GUI open.\r\n- Grid Filters can now only filter 9 items, but, Grids take 4 filters now instead.\r\n- Grid Filters can now be configured to compare on NBT and/ or damage.\r\n- It is now possible to shift click items to the Storage Device filters.\r\n- Updated to Forge 2046.\r\n- Updated Tesla.\r\n- Java 8 is now a requirement.\r\n- Slight performance increase and network efficiency improvement in all GUI\u0027s.\r\n- Slight performance increase in Grid GUI.\r\n- Improved collisions of Cable parts.\r\n\r\n### Fixed\r\n\r\n- Fixed issue with IC2 integration causing console spam.\r\n- Fixed not being able to change some configs in blocks.\r\n- Fixed serverside configs not syncing up with clientside.\r\n- Fixed not being able to move inventory items in Grid GUI\u0027s to hotbar via the number keys.\r\n- Fixed Relays when being in \"Ignore Redstone\" mode using up energy.\r\n- Fixed Crafter facing bottom side on placement.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:10:57Z",
       "publishedAt": "2023-07-04T14:10:57Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.16-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.16-beta",

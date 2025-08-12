@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-addons/releases/v0.7.4.json",
   "name": "v0.7.4",
-  "indexedAt": "2025-08-11T12:34:04Z",
+  "indexedAt": "2025-08-12T01:11:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n- Refined Storage 1.9.16 compatibility.\r\n- Italian translation by [@maicol07](https://github.com/maicol07).\r\n- Polish translation by [@joker876](https://github.com/joker876).\r\n\r\n### Changed\r\n- Fixes to Russian translation by [@Bytegm](https://github.com/Bytegm).\r\n\r\n### Fixed\r\n\r\n- Fixed a bug where items could be duplicated or voided.\r\n",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-12-14T15:24:43Z",
       "publishedAt": "2021-12-14T15:24:43Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/tarball/v0.7.4",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorageaddons/zipball/v0.7.4",
@@ -101,13 +102,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 10241
+        "downloads": 10254
       },
       {
         "source": "curseforge",
-        "downloads": 11030793
+        "downloads": 11032957
       }
     ],
-    "totalDownloads": 11041054
+    "totalDownloads": 11043231
   }
 }

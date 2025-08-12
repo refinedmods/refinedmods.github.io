@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.17.json",
   "name": "v1.5.17",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Re-added support for OpenComputers.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with Grid.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T09:02:27Z",
       "publishedAt": "2023-06-30T09:02:27Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.17",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.17",
@@ -107,9 +108,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 66503
+        "downloads": 66507
       }
     ],
-    "totalDownloads": 66525
+    "totalDownloads": 66529
   }
 }

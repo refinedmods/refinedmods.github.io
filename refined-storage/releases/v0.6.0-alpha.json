@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.6.0-alpha.json",
   "name": "v0.6.0-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added autocrafting.\r\n- Added the Pattern Grid.\r\n- Added the Crafting Monitor.\r\n- Added the Crafter.\r\n- Added the Processing Pattern Encoder.\r\n- Added a Pattern item.\r\n- Added the Wireless Transmitter.\r\n- Added Speed Upgrades which are applicable on a bunch of machines.\r\n- Added Range Upgrades for in the Wireless Transmitter.\r\n- Added Crafting Upgrades.\r\n- Added recipe category -\u003e item JEI integration.\r\n- Added Storage Housing.\r\n\r\n### Changed\r\n\r\n- Changed Grid modes to have a autoselected option.\r\n\r\n### Fixed\r\n\r\n- Fixed Destructor not playing block break sound.\r\n- Fixed Constructor not playing block place sound.\r\n- Fixed picking up from crafting result slot.\r\n- Fixed being able to use right click on crafting result slot.\r\n- Fixed item duplication issue with the Interface.\r\n- Fixed Importers and Exporters not working when changing facing with a wrench.\r\n- Fixed Crafting Grid not respecting remainder in recipes.\r\n- Fixed Crafting Grid giving back the wrong amount of items when shift clicking.\r\n- Fixed items disappearing in Grid when doing a weird combination of inputs.\r\n- Fixed Solderer not stacking items.\r\n- Fixed Importer voiding Storage Disks from the Disk Drive.\r\n- Fixed Controller not saving energy.\r\n- Massive performance improvements which reduces lag and lets machines connect almost instantly.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T15:19:15Z",
       "publishedAt": "2023-07-04T15:19:15Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.0-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.0-alpha",

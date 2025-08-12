@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.9.json",
   "name": "v2.0.0-milestone.4.9",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -193,6 +193,7 @@
       "body": "### Added\n\n-   Autocrafter Manager\n-   You can now configure the view type of the Autocrafter Manager:\n    -   Visible (only show autocrafters that are configured to be visible to the Autocrafter Manager)\n    -   Not full (only show autocrafters that are not full yet)\n    -   All (show all autocrafters)\n\n### Changed\n\n-   The search field in the Autocrafter Manager can now search in:\n    -   Pattern inputs\n    -   Pattern outputs\n    -   Autocrafter names\n    -   All of the above (by default)\n-   Due to technical limitations and the new filtering options listed above being client-side only, you can no longer shift-click patterns in the Autocrafter Manager.\n-   In the Autocrafter, you can now configure whether it is visible to the Autocrafter Manager (by default it\u0027s visible).",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-11-01T11:41:49Z",
       "publishedAt": "2024-11-01T11:41:47Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.9",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.9",

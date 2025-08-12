@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.9-beta.json",
   "name": "v0.7.9-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added an API.\r\n- Added Storage Drawers integration.\r\n- Added handling for patterns that return the same item.\r\n- Added stack splitting between multiple storages.\r\n- Added handling for patterns that give back the same item.\r\n\r\n### Changed\r\n\r\n- Increased cable recipe to 12 cables.\r\n\r\n### Fixed\r\n\r\n- Fixed not being able to place sugar cane.\r\n- Fixed not being able to place seeds.\r\n- Fixed stacks not splitting between storages correctly.\r\n- Fixed storage not saving ItemStack capabilities.\r\n- Fixed dropping items into crafting grid with mouse won\u0027t work if your mouse is in between items.\r\n- Fixed controller still drawing power even if disabled.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:26:42Z",
       "publishedAt": "2023-07-04T14:26:42Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.9-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.9-beta",

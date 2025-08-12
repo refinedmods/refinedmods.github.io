@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.12.2.json",
   "name": "v1.12.2",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\n\n-   The Grid detailed tooltip now has a small font size again.\n-   Fixed not being able to close GUIs anymore with autoselected search box mode.\n-   Fixed lingering tooltips of side buttons.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-05T14:34:19Z",
       "publishedAt": "2023-07-05T14:34:19Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.12.2",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.12.2",
@@ -106,9 +107,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 26912
+        "downloads": 26913
       }
     ],
-    "totalDownloads": 27251
+    "totalDownloads": 27252
   }
 }

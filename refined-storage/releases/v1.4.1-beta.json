@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.1-beta.json",
   "name": "v1.4.1-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -53,6 +53,7 @@
       "body": "### Added\r\n\r\n- Added Storage Monitor.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2232.\r\n\r\n### Fixed\r\n\r\n- Fixed Processing Pattern Encoder and Security Manager recipes not supporting oredict workbench and chest.\r\n- Fixed network nodes not respecting redstone mode.\r\n- Fixed \"Clear\" and \"Create Pattern\" buttons not working correctly when using Grid Filter tabs.\r\n- Fixed Wrench in Dismantling Mode voiding Storage Block contents.\r\n- Fixed OPs not having global permissions on secured storage systems.\r\n- Fixed crash when Destructor tries to break secured network block.\r\n- Fixed Fluid Interface not dropping inventory contents.\r\n- Fixed Disk Manipulator crash.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:22:51Z",
       "publishedAt": "2023-06-30T12:22:51Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.1-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.1-beta",

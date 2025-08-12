@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.11.json",
   "name": "v2.0.0-milestone.4.11",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -193,6 +193,7 @@
       "body": "### Added\r\n\r\n-   Ability to differentiate between insert and extract storage priorities. By default, the extract priority will match the insert priority unless configured otherwise.\r\n\r\n### Fixed\r\n\r\n-   Fixed External Storage not connecting properly to fluid storages.\r\n-   Fixed Interface filter not respecting maximum stack size of a resource.\r\n-   Fixed potential crash when trying to build cable shapes.\r\n-   Fixed storage disk upgrade recipes not showing properly in recipe viewers.\r\n-   Protect against crashes from other mods when trying to build the cached Grid tooltip.\r\n-   Fixed charging energy items not working on Fabric.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-12-08T18:58:01Z",
       "publishedAt": "2024-12-08T11:36:42Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.11",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.11",

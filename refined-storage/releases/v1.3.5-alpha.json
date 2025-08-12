@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.3.5-alpha.json",
   "name": "v1.3.5-alpha",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added regulator mode to Exporter.\r\n\r\n### Changed\r\n\r\n- Updated French translation.\r\n\r\n### Fixed\r\n\r\n- Fixed TPS lag on very large crafting tasks.\r\n- Fixed not being able to use autocrafting on some EnderIO items.\r\n- Fixed server crash with ore dictionary checks.\r\n- Fixed Controller not using energy.\r\n- Fixed dupe bug when inserting bucket in Fluid Grid.\r\n- Fixed not being able to start autocrafting for storage disks.\r\n- Fixed oredict button not having the correct position on a small resolution.\r\n- Fixed Constructor not using Crafting Upgrade when in item dropping mode.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:24:08Z",
       "publishedAt": "2023-06-30T12:24:08Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.3.5-alpha",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.3.5-alpha",

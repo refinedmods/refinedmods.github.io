@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.3.2.json",
   "name": "v2.0.0-milestone.3.2",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3507331,
-          "downloadCount": 1567,
+          "downloadCount": 1568,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.2/refinedstorage2-platform-fabric-2.0.0-milestone.3.2.jar"
         },
         {
@@ -171,6 +171,7 @@
       "body": "### Added\n\n-   Configuration Card. It copies device configurations and can transfer upgrades.\n-   Network Receiver\n-   Network Card\n-   Network Transmitter\n\n### Changed\n\n-   The Network Transmitter now goes into an \"errored\" state if there is no connection (anymore) with the Network Receiver (due to chunk unloading for example).\n-   The Network Transmitter will actively try to reconnect with the Network Receiver if connection is lost.\n\n### Fixed\n\n-   Inactive Wireless Transmitter model being emissive.\n-   Unneeded network graph updating after placing a network device.\n-   Cable blocks not updating connections properly when using wrench.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-11-03T21:30:01Z",
       "publishedAt": "2023-11-03T21:30:00Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.3.2",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.3.2",
@@ -183,9 +184,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 2482
+        "downloads": 2483
       }
     ],
-    "totalDownloads": 2482
+    "totalDownloads": 2483
   }
 }

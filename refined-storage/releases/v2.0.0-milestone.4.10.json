@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.10.json",
   "name": "v2.0.0-milestone.4.10",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -193,6 +193,7 @@
       "body": "### Added\n\n-   Autocrafting Monitor\n-   Wireless Autocrafting Monitor\n-   Creative Wireless Autocrafting Monitor\n\n### Changed\n\n-   The Autocrafting Monitor now has a sidebar with all tasks instead of using tabs.\n-   The auto-selected search box mode is now a global option used in the Autocrafter Manager as well.\n\n### Removed\n\n-   Block of Quartz Enriched Iron (has been moved to addon mod)\n-   Block of Quartz Enriched Copper (has been moved to addon mod)",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-11-24T00:14:33Z",
       "publishedAt": "2024-11-24T00:14:32Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.10",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.10",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.1.1.json",
   "name": "v2.0.0-milestone.1.1",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -57,6 +57,7 @@
       "body": "### Added\r\n\r\n- New Grid size: \"Extra large\" (12 rows)\r\n\r\n### Fixed\r\n\r\n- Fix crash when transferring items in the Controller screen.\r\n- Fix Disk Drive leds not being stable.\r\n- Fix block variants not being present on Patchouli book entries.\r\n\r\n### Changed\r\n\r\n- Ported to Minecraft 1.17.1.\r\n- Implemented a new networking system.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-10-17T11:06:49Z",
       "publishedAt": "2021-08-16T19:38:38Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.1.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.1.1",

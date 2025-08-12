@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.14-beta.json",
   "name": "v0.7.14-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added shift clicking support to every inventory (for upgrades etc).\r\n- Added grid filtering options: @ for searching on mod items, # for searching on tooltips.\r\n- Added a way to clear patterns (shift + right click in inventory).\r\n\r\n### Changed\r\n\r\n- Updated Forge to build 1965.\r\n- Tweaked some recipes.\r\n- Tweaked energy usage in some machines.\r\n\r\n### Fixed\r\n\r\n- Fixed item overflow bug with storage drawers and external storage.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:24:29Z",
       "publishedAt": "2023-07-04T14:24:29Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.14-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.14-beta",

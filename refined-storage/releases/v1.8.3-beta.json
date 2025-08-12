@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.8.3-beta.json",
   "name": "v1.8.3-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- A new experimental autocrafting engine that\u0027s enabled by default. This should improve autocrafting performance.\r\n- The Regulator Upgrade that can be inserted into a Exporter. This ensures a certain amount of items and fluids is\r\n  kept in stock in a connected inventory.\r\n- Debug logging on the server when an expensive operation occurs.\r\n\r\n### Fixed\r\n\r\n- Fixed Exporter not exporting anything when using a Stack Upgrade and there isn\u0027t space for 64 items in the inventory.\r\n- Fixed Controller always using the base usage even when turned off.\r\n- Fixed severe memory leak in the storage cache.\r\n\r\n### Changed\r\n\r\n- Wireless Transmitters can now be placed on any block and in any direction.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-19T17:51:25Z",
       "publishedAt": "2022-12-19T17:51:25Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.3-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.3-beta",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 352045
+        "downloads": 352049
       }
     ],
-    "totalDownloads": 352121
+    "totalDownloads": 352125
   }
 }

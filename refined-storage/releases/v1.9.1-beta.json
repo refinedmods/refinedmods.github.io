@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.1-beta.json",
   "name": "v1.9.1-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed server crash.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T20:03:49Z",
       "publishedAt": "2022-12-10T20:03:49Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.1-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.1-beta",
@@ -101,13 +102,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 86
+        "downloads": 87
       },
       {
         "source": "curseforge",
         "downloads": 11850
       }
     ],
-    "totalDownloads": 11939
+    "totalDownloads": 11940
   }
 }

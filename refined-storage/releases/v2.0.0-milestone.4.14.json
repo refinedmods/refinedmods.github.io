@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.14.json",
   "name": "v2.0.0-milestone.4.14",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -369,6 +369,7 @@
       "body": "### Added\r\n\r\n-   Autocrafting Upgrade\r\n\r\n### Changed\r\n\r\n-   The filter slots for the Exporter, Constructor and Interface now display whether a resource is missing, the destination does not accept it, the resource cannot be autocrafted due to missing resources, or whether the resource is currently autocrafting.\r\n-   \u0027B\u0027 is now displayed after fluid amounts, indicating the amount in buckets.\r\n-   The Autocrafter now only connects to other autocrafters through its front face. The reason for this is so that you can connect it to an Interface and accept multi-type autocrafting inputs without the Interface being connected to your network.\r\n-   When using Autocrafter chaining, you can now only configure the locking mode on the head of the chain.\r\n-   For now, it is not possible to rotate the Relay. This behavior will be restored later.\r\n\r\n### Fixed\r\n\r\n-   Fixed cables broken with a Wrench not stacking with any other cables.\r\n-   Fixed colored importers, exporters, and external storages not dropping when broken.\r\n-   Fixed fluid amounts displaying to 0.1 buckets and not 0.001. The suffix \"m\" is used.\r\n-   Fixed Pattern Grid processing matrix input slots not mentioning \"SHIFT click to clear\".\r\n-   Fixed amount buttons not working in the Autocrafting Preview when the amount is \"0\" after clicking the \"Max\" button.\r\n-   Fixed not being able to insert resources in a Grid when clicking on something that is autocraftable.\r\n-   Fixed not being able to specify amount \u0026lt; 1 in filter and pattern creation slots.\r\n-   Fixed visual bug where fluid containers were being filled when hovering over a fluid in the Grid.\r\n-   Fixed clear button in the Pattern Grid for the smithing table not working.\r\n-   Fixed item count rendering behind the item in the Interface slots.\r\n-   Fixed pickaxes not influencing break speed of blocks.\r\n-   Fixed non-autocraftables Grid view filter still showing autocraftable resources as they get inserted.\r\n-   Fixed filter items from the Pattern Grid crafting matrix being dropped when the Pattern Grid is broken.\r\n-   Fixed created pattern not being insertable in an Autocrafter when it is dropped after breaking the Pattern Grid.\r\n-   Fixed autocrafting tasks being completed when not all processing outputs have been received yet.\r\n-   Fixed items not stacking when externally interacting with an Interface.\r\n-   Fixed Constructor in default scheduling mode not trying other filters when resource is not available.\r\n-   Fixed autocrafter chaining returning \"Machine not found\" when starting autocrafting.\r\n-   Fixed Regulator Upgrade not being allowed 4 times in the Importer or Exporter.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-02-25T15:47:56Z",
       "publishedAt": "2025-02-23T11:20:40Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.14",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.14",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.15.json",
   "name": "v1.2.15",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed Grid Filter hiding everything when 2 or more items are in it.\r\n- Fixed External Storage crash when breaking a connected inventory.\r\n- Autocrafting bugfixes.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T14:50:11Z",
       "publishedAt": "2023-06-30T14:50:11Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.15",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.15",

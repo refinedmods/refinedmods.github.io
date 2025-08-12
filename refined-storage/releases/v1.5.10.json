@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.10.json",
   "name": "v1.5.10",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed crash relating to MCMP.\r\n\r\n### Changed\r\n\r\n- Converted Solderer recipes to JSON.\r\n- Implemented controller update throttling, should fix lag issues with controllers that constantly turn off and on.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T09:05:32Z",
       "publishedAt": "2023-06-30T09:05:32Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.10",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.10",

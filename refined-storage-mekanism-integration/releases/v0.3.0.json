@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v0.3.0.json",
   "name": "v0.3.0",
-  "indexedAt": "2025-08-11T12:33:54Z",
+  "indexedAt": "2025-08-12T01:11:28Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -39,6 +39,7 @@
       "body": "### Changed\n\n-   \u0027B\u0027 is now displayed after chemical amounts, indicating the amount in buckets.\n\n### Fixed\n\n-   Support for Refined Storage v2.0.0-milestone.4.14.\n-   Fixed potential crash when trying to extract from empty chemical tank.\n-   Fixed chemical amounts displaying to 0.1 buckets and not 0.001. The suffix \"m\" is used.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-02-23T12:18:03Z",
       "publishedAt": "2025-02-23T12:18:02Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/tarball/v0.3.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/zipball/v0.3.0",

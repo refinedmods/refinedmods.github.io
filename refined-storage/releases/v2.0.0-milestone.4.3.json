@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.3.json",
   "name": "v2.0.0-milestone.4.3",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -160,6 +160,7 @@
       "body": "### Added\n\n-   Ability to open Portable Grid with a keybinding.\n\n### Fixed\n\n-   Fixed Relay model not being able to load correctly.\n-   Fixed not being able to ghost drag resources from recipe viewers into filter slots on NeoForge.\n-   Fixed extra dark backgrounds due to drawing background on GUIs twice.\n-   Fixed Configuration Card not being able to transfer upgrades for the Wireless Transmitter.\n-   Fixed upgrade inventories not maintaining order after reloading. Upgrade inventories from the milestone 4.2 are incompatible and will be empty.\n-   Fixed Wireless Transmitter not dropping upgrades when breaking block.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-07-06T23:51:20Z",
       "publishedAt": "2024-07-06T23:51:19Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.4.3",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.4.3",

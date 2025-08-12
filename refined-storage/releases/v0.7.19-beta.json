@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.19-beta.json",
   "name": "v0.7.19-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed controller being buggy with reconnecting.\r\n- Fixed controller texture updating too slow when energy changes.\r\n- Fixed not being able to take item from grid at times.\r\n- Fixed external storage on storage drawer sending an item count of 0 over.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:22:15Z",
       "publishedAt": "2023-07-04T14:22:15Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.19-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.19-beta",

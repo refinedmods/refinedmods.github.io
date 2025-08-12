@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2025-08-11T12:33:52Z",
+  "indexedAt": "2025-08-12T01:11:25Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -105,6 +105,7 @@
       "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.1.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2025-03-28T11:10:09Z",
       "publishedAt": "2025-03-28T11:10:08Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/tarball/v1.0.0",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/zipball/v1.0.0",
@@ -237,13 +238,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 6617
+        "downloads": 6619
       },
       {
         "source": "curseforge",
-        "downloads": 2125376
+        "downloads": 2126132
       }
     ],
-    "totalDownloads": 2132049
+    "totalDownloads": 2132807
   }
 }

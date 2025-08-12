@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.11.json",
   "name": "v1.4.11",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added support for External Storage on Interfaces and other Refined Storage blocks, so you can keep items in stock easier.\r\n- You now have to sneak to place the Portable Grid in the world.\r\n\r\n### Changed\r\n\r\n- The Machine Casing now requires 1 piece of stone in the middle.\r\n- Changed recipe of Disk Drive to no longer require a Solderer.\r\n- Changed recipe of Interface to no longer require a Basic Processor, but a Machine Casing instead.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where storages that are removed remain visible.\r\n- Fixed bug where the GUI didn\u0027t close when a block is broken, causing a dupe bug with the Portable Grid.\r\n\r\n### Removed\r\n\r\n- Removed debug log configuration option, as it\u0027s no longer needed.\r\n- Removed \"autocraft on redstone signal\" option in the Crafter, use an External Storage in combination with an Interface with the Crafting Upgrade instead.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:19:18Z",
       "publishedAt": "2023-06-30T12:19:18Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.11",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.11",

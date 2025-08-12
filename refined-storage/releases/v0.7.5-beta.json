@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.5-beta.json",
   "name": "v0.7.5-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed wrong ascending / descending order in Grid.\r\n- Fixed autocrafting not giving back byproducts.\r\n- Fixed Solderer causing too many chunk updates.\r\n- Fixed Solderer slot sides being weird.\r\n- Performance improvements.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:29:46Z",
       "publishedAt": "2023-07-04T14:29:46Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.5-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.5-beta",

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.2.8.json",
   "name": "v2.0.0-milestone.2.8",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -160,6 +160,7 @@
       "body": "### Fixed\n\n-   Fixed Disk Drive having 9 slots instead of 8.\n-   Fixed slow world loading.\n\n### Added\n\n-   The upgrade slots now show their supported upgrades.\n-   Different Cable colors. They only connect to same colored cables or the default cable.\n-   Colored variant of exporters, importers and external storages. They connect the same way as colored cables.\n-   Support for using the R/U keys in JEI and REI on Grid slots and filtering slots\n-   Crafting Grid.\n-   JEI and REI recipe transfer integration for the Crafting Grid.\n-   The crafting matrix in the Crafting Grid now has a button and keybinding to clear to the player inventory.\n    The keybinding is only available on Forge.\n-   A config option to clear items from the Crafting Grid crafting matrix to the player or network inventory.\n-   Support for collapsable entries for REI.\n-   Pressing CTRL + SHIFT on the crafting result slot filters the Grid view based on the items in the crafting matrix.\n    The reason for this is that you can quickly see how much you have left in the storage network.\n\n### Changed\n\n-   The button to clear to the network inventory next to the crafting matrix in the Crafting Grid is now disabled if\n    the Crafting Grid is inactive.\n-   The keybinding to clear the Crafting Grid matrix to the network inventory is only available on Forge.\n-   The JEI recipe transfer integration for the Crafting Grid now only supports regular crafting recipes.\n-   Decreased amount of logging to the info level. Now most logging happens on the debug level.\n\n### Removed\n\n-   Removed amount of stacks and max stacks stored on item storage tooltips.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-03-04T22:05:05Z",
       "publishedAt": "2023-03-04T22:05:04Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-milestone.2.8",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-milestone.2.8",

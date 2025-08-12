@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.2-beta.json",
   "name": "v1.4.2-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Implemented support for the Forge update JSON system.\r\n- Added integration for MCMultiPart, this is an optional dependency.\r\n- You can now specify more items to export, import, filter, etc. by inserting the Filter item.\r\n- Made the keybinding to focus on the Grid search bar configurable.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2261.\r\n- The Detector no longer outputs a strong redstone signal.\r\n- Fire event on completion of an autocrafting task.\r\n- Fire \"player crafting\" event when shift clicking in the grid.\r\n\r\n### Fixed\r\n\r\n- Fixed a crash with the Constructor.\r\n- Fixed Crafting Pattern model.\r\n- Fixed Quartz Enriched Iron and the block form of it not having an oredictionary entry.\r\n- Fixed crash in storage cache.\r\n- Fixed slow oredict comparisons causing TPS lag.\r\n- Fixed controller model warning during launch.\r\n- Fixed not rendering some tooltips correctly.\r\n- Fixed crash with External Storage.\r\n- Fixed Interface duping items on extract-only storages.\r\n- Fixed controls menu showing unlocalized text for Refined Storage keybindings.\r\n- Autocrafting bugfixes.\r\n- Improved memory usage of some models.\r\n- Performance improvements related to storage inserting and extracting.\r\n\r\n### Removed\r\n\r\n- Removed support for the Deep Storage Unit API.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:22:23Z",
       "publishedAt": "2023-06-30T12:22:23Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.2-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.2-beta",

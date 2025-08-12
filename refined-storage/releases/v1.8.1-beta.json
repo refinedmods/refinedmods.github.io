@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.8.1-beta.json",
   "name": "v1.8.1-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Port to Minecraft 1.15.2.\r\n- Fluid support for the Storage Monitor.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-19T17:52:27Z",
       "publishedAt": "2022-12-19T17:52:27Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.8.1-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.8.1-beta",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 886734
+        "downloads": 886744
       }
     ],
-    "totalDownloads": 886817
+    "totalDownloads": 886827
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.34.json",
   "name": "v1.5.34",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added OR search operator to the Grid with \"|\".\r\n- Added new `getPattern(stack:table)` function for OpenComputers integration.\r\n\r\n### Changed\r\n\r\n- Empty patterns can no longer be inserted in the pattern result slot in the Pattern Grid with hoppers.\r\n- `getPatterns()` now only returns all the outputs, this to limit memory usage in OpenComputers (only affects OC integration).\r\n- Allow crafters to be daisy-chained.\r\n\r\n### Fixed\r\n\r\n- Fixed repeated key events not getting handled in some cases.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-29T09:38:44Z",
       "publishedAt": "2023-06-29T09:38:44Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.34",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.34",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 2398715
+        "downloads": 2398723
       }
     ],
-    "totalDownloads": 2398772
+    "totalDownloads": 2398780
   }
 }

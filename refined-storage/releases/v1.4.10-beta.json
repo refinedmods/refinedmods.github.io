@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.10-beta.json",
   "name": "v1.4.10-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Improved performance of network scanning.\r\n\r\n### Fixed\r\n\r\n- Fixed crash when attempting to get direction of a node.\r\n- Fixed bug where some network parts don\u0027t want to connect to the storage system.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T12:19:35Z",
       "publishedAt": "2023-06-30T12:19:35Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.10-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.10-beta",
@@ -105,9 +106,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 30171
+        "downloads": 30172
       }
     ],
-    "totalDownloads": 30201
+    "totalDownloads": 30202
   }
 }

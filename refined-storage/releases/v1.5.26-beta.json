@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.26-beta.json",
   "name": "v1.5.26-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -55,6 +55,7 @@
       "body": "### Added\r\n\r\n- Added Funky Locomotion integration.\r\n\r\n### Fixed\r\n\r\n- Fixed Exporter in Regulator Mode not regulating properly when same item is specified multiple times.\r\n- Fixed air appearing in Grid.\r\n- Fixed config categories not correctly appearing in ingame config GUI.\r\n- Fixed craftable items showing \"1 total\" if not stored in system in Grid.\r\n- Minor fixes to autocrafting.\r\n\r\n### Removed\r\n\r\n- Removed \"detailed\" Grid view type variant, made detailed tooltips a config option instead.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T08:58:15Z",
       "publishedAt": "2023-06-30T08:58:15Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.26-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.26-beta",

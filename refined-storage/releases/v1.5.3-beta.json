@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.3-beta.json",
   "name": "v1.5.3-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- The Portable Grid now exposes an inventory for interaction with other mods or vanilla.\r\n- The Interface now exposes the entire storage inventory (if no slots are set for exporting) for interaction with other mods or vanilla.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2359.\r\n- Updated MCMultiPart to 2.2.1.\r\n\r\n### Fixed\r\n\r\n- Fixed Solderer crashing.\r\n- Fixed Solderer being able to work with insufficient ingredients.\r\n- Fixed Interface extracting from itself when trying to keep items in stock.\r\n- Fixed Quartz Enriched Iron recipe only giving 1 instead of 4.\r\n- Fixed Debug Storage disks not working correctly.\r\n- Fixed Disk Drive giving incorrect capacity for creative and debug storage disks.\r\n\r\n### Removed\r\n\r\n- The Relay now reacts instantly to a redstone signal again, removed throttling for it.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-06-30T09:10:17Z",
       "publishedAt": "2023-06-30T09:10:17Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.3-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.3-beta",

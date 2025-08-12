@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.12.json",
   "name": "v1.9.12",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Fixed\r\n\r\n- Fixed some issues when using the Grid when it\u0027s offline.\r\n- Fixed crafting events not being fired in some cases in the Grid.\r\n- Fixed not being able to set fluid filter slot output quantity.\r\n- Fixed mod id search not working for Industrial Foregoing.\r\n- Fixed fluid autocrafting duplicating fluids.\r\n- Fixed some Grid crashes.\r\n- Fixed constructor not using compare mode correctly in some cases.\r\n- Fixed duplication bug in the Interface.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T19:59:14Z",
       "publishedAt": "2022-12-10T19:59:14Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.9.12",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.9.12",
@@ -107,9 +108,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 3729006
+        "downloads": 3729024
       }
     ],
-    "totalDownloads": 3729119
+    "totalDownloads": 3729137
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.11.1.json",
   "name": "v1.11.1",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -28,6 +28,7 @@
       "body": "### Fixed\r\n\r\n- Fixed not using Forge silicon tag for recipes.\r\n- Small corrections to the Korean translation.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2022-12-10T20:18:03Z",
       "publishedAt": "2022-10-30T12:10:54Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.11.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.11.1",
@@ -106,9 +107,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 622790
+        "downloads": 622793
       }
     ],
-    "totalDownloads": 623000
+    "totalDownloads": 623003
   }
 }

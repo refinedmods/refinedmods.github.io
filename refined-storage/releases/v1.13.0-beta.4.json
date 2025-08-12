@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.13.0-beta.4.json",
   "name": "v1.13.0-beta.4",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3231295,
-          "downloadCount": 334,
+          "downloadCount": 335,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.13.0-beta.4/refinedstorage-1.13.0-beta.4.jar"
         }
       ],
@@ -28,6 +28,7 @@
       "body": "### Added\n\n-   Added Hungarian translation.\n\n### Fixed\n\n-   Fixed an error that occurred when targeting the crafter with Jade installed",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2024-03-07T20:03:47Z",
       "publishedAt": "2024-03-07T20:03:46Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.13.0-beta.4",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.13.0-beta.4",
@@ -98,17 +99,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 334
+        "downloads": 335
       },
       {
         "source": "modrinth",
-        "downloads": 1975
+        "downloads": 1976
       },
       {
         "source": "curseforge",
-        "downloads": 52263
+        "downloads": 52275
       }
     ],
-    "totalDownloads": 54572
+    "totalDownloads": 54586
   }
 }

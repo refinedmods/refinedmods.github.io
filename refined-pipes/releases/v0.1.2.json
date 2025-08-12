@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.1.2.json",
   "name": "v0.1.2",
-  "indexedAt": "2025-08-11T12:34:11Z",
+  "indexedAt": "2025-08-12T01:11:53Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Changed\r\n\r\n- Changed the textures slightly.\r\n- Changed the recipes slightly.\r\n- Inventories connected with a pipe and an attachment are no longer marked as a valid destination.\r\n\r\n### Added\r\n\r\n- Added inventory connector to make placing attachments easier.\r\n- Added new tiers for the Extractor Attachment: Elite and Ultimate.\r\n\r\n### Fixed\r\n\r\n- Fixed Extractor Attachments not extracting properly.\r\n\r\n### Removed\r\n\r\n- Removed simple tier for the Item Pipe.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-11-28T13:07:25Z",
       "publishedAt": "2021-11-28T13:07:25Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.1.2",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.1.2",

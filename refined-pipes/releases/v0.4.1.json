@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-pipes/releases/v0.4.1.json",
   "name": "v0.4.1",
-  "indexedAt": "2025-08-11T12:34:11Z",
+  "indexedAt": "2025-08-12T01:11:53Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added formatting to quantities in the tooltips.\r\n\r\n### Fixed\r\n\r\n- Fixed invalid cast server crash.\r\n- Fixed log spamming when destination for items are not found.\r\n- Fixed crash when item pipe in round robin mode no longer has any destination.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2021-11-28T13:11:28Z",
       "publishedAt": "2021-11-28T13:11:28Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/tarball/v0.4.1",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedpipes/zipball/v0.4.1",

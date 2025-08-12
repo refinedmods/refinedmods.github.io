@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.9-beta.json",
   "name": "v0.8.9-beta",
-  "indexedAt": "2025-08-11T12:33:03Z",
+  "indexedAt": "2025-08-12T01:10:14Z",
   "type": "BETA",
   "sources": [
     {
@@ -27,6 +27,7 @@
       "body": "### Added\r\n\r\n- Added a model for the Constructor.\r\n- Added a model for the Destructor.\r\n\r\n### Changed\r\n\r\n- Wireless Transmitters next to each other without any cable or without being connected to a machine won\u0027t work anymore, they need to be explictly connected to a cable or other machine.\r\n- Some models / texture tweaks.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where Grid crafting doesn\u0027t handle remainder sometimes.\r\n- Fixed caching issues with External Storage.\r\n- Fixed possible crash with Disk Drives.",
       "draft": false,
       "prerelease": false,
+      "updatedAt": "2023-07-04T14:18:28Z",
       "publishedAt": "2023-07-04T14:18:28Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.9-beta",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.9-beta",
