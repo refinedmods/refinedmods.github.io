@@ -1,9 +1,52 @@
 {
   "url": "https://refinedmods.com/refined-storage-curios-integration/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2025-08-19T15:44:12Z",
+  "indexedAt": "2025-08-20T01:07:27Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 209032032,
+      "nodeId": "RE_kwDOMKBqa84MdZNg",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/tag/v1.0.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/209032032/assets",
+      "assets": [
+        {
+          "id": 241655282,
+          "nodeId": "RA_kwDOMKBqa84OZ13y",
+          "name": "refinedstorage-curios-integration-1.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 7773,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/download/v1.0.0/refinedstorage-curios-integration-1.0.0-sources.jar"
+        },
+        {
+          "id": 241655283,
+          "nodeId": "RA_kwDOMKBqa84OZ13z",
+          "name": "refinedstorage-curios-integration-1.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 11177,
+          "downloadCount": 15,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/download/v1.0.0/refinedstorage-curios-integration-1.0.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/209032032/assets{?name,label}",
+      "tagName": "v1.0.0",
+      "targetCommitish": "cd9b6b3d815c5801f1f84947b76cfe4cd0c44391",
+      "body": "### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.1.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2025-03-28T18:54:12Z",
+      "publishedAt": "2025-03-28T18:54:11Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/tarball/v1.0.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/zipball/v1.0.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/209032032",
+      "createdAt": "2025-03-28T18:52:25Z"
+    },
     {
       "id": "Mth1azz7",
       "projectId": "s6zjL86N",
@@ -66,14 +109,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 15
+      },
+      {
         "source": "modrinth",
-        "downloads": 3583
+        "downloads": 3589
       },
       {
         "source": "curseforge",
-        "downloads": 2624358
+        "downloads": 2634918
       }
     ],
-    "totalDownloads": 2627941
+    "totalDownloads": 2638522
   }
 }
