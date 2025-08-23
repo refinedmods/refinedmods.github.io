@@ -1,0 +1,250 @@
+{
+  "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v1.0.5.json",
+  "name": "v1.0.5",
+  "indexedAt": "2025-08-23T01:05:02Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 241951666,
+      "nodeId": "RE_kwDONQqxt84Oa-Oy",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/tag/v1.0.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/241951666/assets",
+      "assets": [
+        {
+          "id": 285269551,
+          "nodeId": "RA_kwDONQqxt84RAN4v",
+          "name": "refinedstorage-quartz-arsenal-1.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.5/refinedstorage-quartz-arsenal-1.0.5-sources.jar"
+        },
+        {
+          "id": 285269554,
+          "nodeId": "RA_kwDONQqxt84RAN4y",
+          "name": "refinedstorage-quartz-arsenal-1.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.5/refinedstorage-quartz-arsenal-1.0.5.jar"
+        },
+        {
+          "id": 285269560,
+          "nodeId": "RA_kwDONQqxt84RAN44",
+          "name": "refinedstorage-quartz-arsenal-common-1.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 34002,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.5/refinedstorage-quartz-arsenal-common-1.0.5-sources.jar"
+        },
+        {
+          "id": 285269557,
+          "nodeId": "RA_kwDONQqxt84RAN41",
+          "name": "refinedstorage-quartz-arsenal-common-1.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 50884,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.5/refinedstorage-quartz-arsenal-common-1.0.5.jar"
+        },
+        {
+          "id": 285269555,
+          "nodeId": "RA_kwDONQqxt84RAN4z",
+          "name": "refinedstorage-quartz-arsenal-fabric-1.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24740,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.5/refinedstorage-quartz-arsenal-fabric-1.0.5-sources.jar"
+        },
+        {
+          "id": 285269558,
+          "nodeId": "RA_kwDONQqxt84RAN42",
+          "name": "refinedstorage-quartz-arsenal-fabric-1.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 65946,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.5/refinedstorage-quartz-arsenal-fabric-1.0.5.jar"
+        },
+        {
+          "id": 285269556,
+          "nodeId": "RA_kwDONQqxt84RAN40",
+          "name": "refinedstorage-quartz-arsenal-neoforge-1.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 23509,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.5/refinedstorage-quartz-arsenal-neoforge-1.0.5-sources.jar"
+        },
+        {
+          "id": 285269559,
+          "nodeId": "RA_kwDONQqxt84RAN43",
+          "name": "refinedstorage-quartz-arsenal-neoforge-1.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 66484,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.5/refinedstorage-quartz-arsenal-neoforge-1.0.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/241951666/assets{?name,label}",
+      "tagName": "v1.0.5",
+      "targetCommitish": "f1dcb0bbe926bfc410618abfaee423b4b30d182f",
+      "body": "### Fixed\n\n-   Fixed the Wireless Crafting Grid being unable to be charged on Fabric.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2025-08-22T20:51:23Z",
+      "publishedAt": "2025-08-22T20:51:22Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/tarball/v1.0.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/zipball/v1.0.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/241951666",
+      "createdAt": "2025-08-22T20:49:17Z"
+    },
+    {
+      "id": "HL03NOAf",
+      "projectId": "gnwGOmBf",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.0.5",
+      "changelog": "### Fixed\n\n-   Fixed the Wireless Crafting Grid being unable to be charged on Fabric.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "336cd8769ef0763de864bb39c199effb34e7aa634eeee779c2f800f032254aaa1099c49e1dbb6f4a44401e43d95ef2eb4ef89c743e9afc361a40d7e7ed453479",
+            "sha1": "dfed3b4a1c000962af4244a3f771766917d3ff80"
+          },
+          "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/HL03NOAf/refinedstorage-quartz-arsenal-neoforge-1.0.5.jar",
+          "filename": "refinedstorage-quartz-arsenal-neoforge-1.0.5.jar",
+          "primary": true,
+          "size": 66484
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-quartz-arsenal/version/HL03NOAf",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/HL03NOAf",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-08-22T20:52:08Z"
+    },
+    {
+      "id": "KHojO8nV",
+      "projectId": "gnwGOmBf",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.0.5",
+      "changelog": "### Fixed\n\n-   Fixed the Wireless Crafting Grid being unable to be charged on Fabric.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "bbf3e4335540b56c46048c8b9c2b6a678c4dbce82b56e456ef714fa43153395e78a321d12761e0bd5ce9d2c84d52cb76256d28dae4678bd67f299accc1a598c1",
+            "sha1": "0c06a858417d2f2b3430ca42e9acc980f425aee3"
+          },
+          "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/KHojO8nV/refinedstorage-quartz-arsenal-fabric-1.0.5.jar",
+          "filename": "refinedstorage-quartz-arsenal-fabric-1.0.5.jar",
+          "primary": true,
+          "size": 65946
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-quartz-arsenal/version/KHojO8nV",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/KHojO8nV",
+      "platform": "FABRIC",
+      "createdAt": "2025-08-22T20:52:08Z"
+    },
+    {
+      "id": 6916454,
+      "dateModified": "2025-08-22T20:55:39Z",
+      "fileLength": 65946,
+      "fileName": "refinedstorage-quartz-arsenal-fabric-1.0.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Fabric",
+        "1.21.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal/download/6916454",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal/files/6916454",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230483/files/6916454",
+      "platform": "FABRIC",
+      "createdAt": "2025-08-22T20:52:38Z"
+    },
+    {
+      "id": 6916455,
+      "dateModified": "2025-08-22T20:55:39Z",
+      "fileLength": 66484,
+      "fileName": "refinedstorage-quartz-arsenal-neoforge-1.0.5.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "1.21.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal/download/6916455",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal/files/6916455",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230483/files/6916455",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-08-22T20:52:38Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "modrinth",
+        "downloads": 23
+      },
+      {
+        "source": "curseforge",
+        "downloads": 115
+      }
+    ],
+    "totalDownloads": 139
+  }
+}
