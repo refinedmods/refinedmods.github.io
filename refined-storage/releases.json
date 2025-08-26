@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases.json",
   "name": "Refined Storage",
-  "indexedAt": "2025-08-25T12:31:07Z",
+  "indexedAt": "2025-08-26T01:07:54Z",
   "releases": [
     {
       "name": "v0.1.0-alpha",
@@ -3535,23 +3535,36 @@
         "https://api.github.com/repos/refinedmods/refinedstorage2/releases/240982794"
       ],
       "createdAt": "2025-08-19T18:12:21Z"
+    },
+    {
+      "name": "v2.0.0-beta.11",
+      "type": "BETA",
+      "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.11.json",
+      "sources": [
+        "https://api.modrinth.com/v2/project/refined-storage/version/GmgjaeA2",
+        "https://www.curseforge.com/api/v1/mods/243076/files/6927798",
+        "https://www.curseforge.com/api/v1/mods/243076/files/6927797",
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/242359409",
+        "https://api.modrinth.com/v2/project/refined-storage/version/BdowGmPX"
+      ],
+      "createdAt": "2025-08-25T18:55:29Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 33537
+        "downloads": 33565
       },
       {
         "source": "modrinth",
-        "downloads": 414053
+        "downloads": 414756
       },
       {
         "source": "curseforge",
-        "downloads": 125647848
+        "downloads": 125694096
       }
     ],
-    "totalDownloads": 126095438
+    "totalDownloads": 126142417
   }
 }
