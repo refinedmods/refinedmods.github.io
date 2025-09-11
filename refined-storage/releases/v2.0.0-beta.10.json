@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.10.json",
   "name": "v2.0.0-beta.10",
-  "indexedAt": "2025-09-11T01:04:45Z",
+  "indexedAt": "2025-09-11T12:28:42Z",
   "type": "BETA",
   "sources": [
     {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 5,
+          "downloadCount": 6,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.10/refinedstorage-2.0.0-beta.10.jar"
         },
         {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 110580,
-          "downloadCount": 5,
+          "downloadCount": 6,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.10/refinedstorage-autocrafting-api-2.0.0-beta.10.jar"
         },
         {
@@ -172,7 +172,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 1184519,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.10/refinedstorage-neoforge-2.0.0-beta.10-sources.jar"
         },
         {
@@ -238,7 +238,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 24200,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.10/refinedstorage-network-api-2.0.0-beta.10-sources.jar"
         },
         {
@@ -315,7 +315,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 31004,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.10/refinedstorage-resource-api-2.0.0-beta.10.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 92
+        "downloads": 97
       },
       {
         "source": "modrinth",
-        "downloads": 2075
+        "downloads": 2080
       },
       {
         "source": "curseforge",
-        "downloads": 296274
+        "downloads": 299349
       }
     ],
-    "totalDownloads": 298441
+    "totalDownloads": 301526
   }
 }
