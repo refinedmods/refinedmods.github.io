@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases.json",
   "name": "Refined Storage - Quartz Arsenal",
-  "indexedAt": "2025-09-12T12:30:13Z",
+  "indexedAt": "2025-09-13T01:00:38Z",
   "releases": [
     {
       "name": "v0.1.0",
@@ -107,23 +107,36 @@
         "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/KHojO8nV"
       ],
       "createdAt": "2025-08-22T20:49:17Z"
+    },
+    {
+      "name": "v1.0.6",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v1.0.6.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/246851473",
+        "https://www.curseforge.com/api/v1/mods/1230483/files/6990042",
+        "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/h1u9fD0G",
+        "https://www.curseforge.com/api/v1/mods/1230483/files/6990043",
+        "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/Z6zil2J0"
+      ],
+      "createdAt": "2025-09-12T17:53:04Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 400
+        "downloads": 401
       },
       {
         "source": "modrinth",
-        "downloads": 10684
+        "downloads": 10734
       },
       {
         "source": "curseforge",
-        "downloads": 3202402
+        "downloads": 3213738
       }
     ],
-    "totalDownloads": 3213486
+    "totalDownloads": 3224873
   }
 }
