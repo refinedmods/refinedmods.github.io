@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.13.json",
   "name": "v2.0.0-beta.13",
-  "indexedAt": "2025-09-17T01:03:26Z",
+  "indexedAt": "2025-09-17T12:29:10Z",
   "type": "BETA",
   "sources": [
     {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5476959,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.13/refinedstorage-fabric-2.0.0-beta.13.jar"
         },
         {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4482617,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.13/refinedstorage-neoforge-2.0.0-beta.13.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 10
+        "downloads": 12
       },
       {
         "source": "modrinth",
-        "downloads": 910
+        "downloads": 998
       },
       {
         "source": "curseforge",
-        "downloads": 7804
+        "downloads": 8765
       }
     ],
-    "totalDownloads": 8724
+    "totalDownloads": 9775
   }
 }
