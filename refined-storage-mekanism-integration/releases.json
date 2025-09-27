@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases.json",
   "name": "Refined Storage - Mekanism Integration",
-  "indexedAt": "2025-09-26T12:31:31Z",
+  "indexedAt": "2025-09-27T09:57:35Z",
   "releases": [
     {
       "name": "v0.1.0",
@@ -40,23 +40,34 @@
         "https://api.modrinth.com/v2/project/refined-storage-mekanism-integration/version/AusMHQqM"
       ],
       "createdAt": "2025-03-28T12:15:38Z"
+    },
+    {
+      "name": "v1.1.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v1.1.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/250484712",
+        "https://www.curseforge.com/api/v1/mods/1230504/files/7038111",
+        "https://api.modrinth.com/v2/project/refined-storage-mekanism-integration/version/Jkeuv9qg"
+      ],
+      "createdAt": "2025-09-27T09:36:54Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 349
+        "downloads": 352
       },
       {
         "source": "modrinth",
-        "downloads": 4469
+        "downloads": 4501
       },
       {
         "source": "curseforge",
-        "downloads": 3018306
+        "downloads": 3032224
       }
     ],
-    "totalDownloads": 3023124
+    "totalDownloads": 3037077
   }
 }

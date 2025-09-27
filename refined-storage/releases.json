@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases.json",
   "name": "Refined Storage",
-  "indexedAt": "2025-09-26T12:29:58Z",
+  "indexedAt": "2025-09-27T09:56:16Z",
   "releases": [
     {
       "name": "v0.1.0-alpha",
@@ -3600,23 +3600,49 @@
         "https://api.github.com/repos/refinedmods/refinedstorage2/releases/249608732"
       ],
       "createdAt": "2025-09-24T09:36:00Z"
+    },
+    {
+      "name": "v2.0.0-beta.16",
+      "type": "BETA",
+      "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.16.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/250350806",
+        "https://api.modrinth.com/v2/project/refined-storage/version/fSWZW2ZV",
+        "https://api.modrinth.com/v2/project/refined-storage/version/CLYOMBkW",
+        "https://www.curseforge.com/api/v1/mods/243076/files/7035634",
+        "https://www.curseforge.com/api/v1/mods/243076/files/7035633"
+      ],
+      "createdAt": "2025-09-26T15:47:07Z"
+    },
+    {
+      "name": "v2.0.0-beta.17",
+      "type": "BETA",
+      "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.17.json",
+      "sources": [
+        "https://api.modrinth.com/v2/project/refined-storage/version/zZHzSYg8",
+        "https://api.modrinth.com/v2/project/refined-storage/version/NoKJjkXz",
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/250475731",
+        "https://www.curseforge.com/api/v1/mods/243076/files/7037831",
+        "https://www.curseforge.com/api/v1/mods/243076/files/7037832"
+      ],
+      "createdAt": "2025-09-27T07:18:26Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 33828
+        "downloads": 33832
       },
       {
         "source": "modrinth",
-        "downloads": 454672
+        "downloads": 456437
       },
       {
         "source": "curseforge",
-        "downloads": 127694810
+        "downloads": 127751472
       }
     ],
-    "totalDownloads": 128183310
+    "totalDownloads": 128241741
   }
 }

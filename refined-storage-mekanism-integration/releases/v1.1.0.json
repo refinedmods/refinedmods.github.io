@@ -1,0 +1,126 @@
+{
+  "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v1.1.0.json",
+  "name": "v1.1.0",
+  "indexedAt": "2025-09-27T09:57:35Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 250484712,
+      "nodeId": "RE_kwDOMA56iM4O7hfo",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/tag/v1.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/250484712/assets",
+      "assets": [
+        {
+          "id": 297852840,
+          "nodeId": "RA_kwDOMA56iM4RwN-o",
+          "name": "refinedstorage-mekanism-integration-1.1.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 112610,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v1.1.0/refinedstorage-mekanism-integration-1.1.0-sources.jar"
+        },
+        {
+          "id": 297852841,
+          "nodeId": "RA_kwDOMA56iM4RwN-p",
+          "name": "refinedstorage-mekanism-integration-1.1.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 160579,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v1.1.0/refinedstorage-mekanism-integration-1.1.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/250484712/assets{?name,label}",
+      "tagName": "v1.1.0",
+      "targetCommitish": "7715a4276024659caa04696f252deb3bb6d33135",
+      "body": "### Added\n\n-   You can now insert and extract chemicals in the Interface via automation.\n\n### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.17.\n-   Storage blocks not having mineable tag.\n-   Recipes not using osmium ingot tag.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2025-09-27T09:38:40Z",
+      "publishedAt": "2025-09-27T09:38:39Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/tarball/v1.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/zipball/v1.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/250484712",
+      "createdAt": "2025-09-27T09:36:54Z"
+    },
+    {
+      "id": 7038111,
+      "dateModified": "2025-09-27T09:42:43Z",
+      "fileLength": 160579,
+      "fileName": "refinedstorage-mekanism-integration-1.1.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "1.21.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-mekanism-integration/download/7038111",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-mekanism-integration/files/7038111",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230504/files/7038111",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-09-27T09:39:05Z"
+    },
+    {
+      "id": "Jkeuv9qg",
+      "projectId": "QHMDf0Sd",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.1.0",
+      "changelog": "### Added\n\n-   You can now insert and extract chemicals in the Interface via automation.\n\n### Fixed\n\n-   Support for Refined Storage v2.0.0-beta.17.\n-   Storage blocks not having mineable tag.\n-   Recipes not using osmium ingot tag.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c8d545d7de12f21b14c9e07e04354c6550e4902a772d55d3c407b150c19c01a5a121eede907ad25265e36bd8b51692905569d395e93d4ebbac06aea9d9c96611",
+            "sha1": "c91abbcc6afbd08d68c7d3939108481ecfa39b02"
+          },
+          "url": "https://cdn.modrinth.com/data/QHMDf0Sd/versions/Jkeuv9qg/refinedstorage-mekanism-integration-1.1.0.jar",
+          "filename": "refinedstorage-mekanism-integration-1.1.0.jar",
+          "primary": true,
+          "size": 160579
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-mekanism-integration/version/Jkeuv9qg",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-mekanism-integration/version/Jkeuv9qg",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-09-27T09:39:07Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 2
+      },
+      {
+        "source": "modrinth",
+        "downloads": 0
+      },
+      {
+        "source": "curseforge",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 2
+  }
+}
