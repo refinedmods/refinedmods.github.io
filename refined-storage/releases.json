@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases.json",
   "name": "Refined Storage",
-  "indexedAt": "2025-09-27T14:29:14Z",
+  "indexedAt": "2025-09-27T15:16:44Z",
   "releases": [
     {
       "name": "v0.1.0-alpha",
@@ -3626,6 +3626,19 @@
         "https://www.curseforge.com/api/v1/mods/243076/files/7037832"
       ],
       "createdAt": "2025-09-27T07:18:26Z"
+    },
+    {
+      "name": "v2.0.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage/releases/v2.0.0.json",
+      "sources": [
+        "https://api.modrinth.com/v2/project/refined-storage/version/fIZaajlN",
+        "https://api.modrinth.com/v2/project/refined-storage/version/rfFqJDcN",
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/250502805",
+        "https://www.curseforge.com/api/v1/mods/243076/files/7039043",
+        "https://www.curseforge.com/api/v1/mods/243076/files/7039042"
+      ],
+      "createdAt": "2025-09-27T14:48:05Z"
     }
   ],
   "stats": {
@@ -3636,13 +3649,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 456848
+        "downloads": 456921
       },
       {
         "source": "curseforge",
-        "downloads": 127762851
+        "downloads": 127766212
       }
     ],
-    "totalDownloads": 128253531
+    "totalDownloads": 128256965
   }
 }

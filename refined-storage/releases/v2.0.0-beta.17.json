@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.17.json",
   "name": "v2.0.0-beta.17",
-  "indexedAt": "2025-09-27T14:29:14Z",
+  "indexedAt": "2025-09-27T15:16:44Z",
   "type": "BETA",
   "sources": [
     {
@@ -344,10 +344,10 @@
       "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/250475731/assets{?name,label}",
       "tagName": "v2.0.0-beta.17",
       "targetCommitish": "797194eb4a9ae34481a9617e8cfd0b488bde7b2c",
-      "body": "### Fixed\n\n-   Final beta before the official release. This release contains breaking changes meant for addon developers. Do not update to this version!",
+      "body": "",
       "draft": false,
       "prerelease": false,
-      "updatedAt": "2025-09-27T07:32:12Z",
+      "updatedAt": "2025-09-27T15:10:32Z",
       "publishedAt": "2025-09-27T07:32:11Z",
       "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.17",
       "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.17",
@@ -357,7 +357,7 @@
     },
     {
       "id": 7037832,
-      "dateModified": "2025-09-27T07:44:40Z",
+      "dateModified": "2025-09-27T15:07:31Z",
       "fileLength": 4482360,
       "fileName": "refinedstorage-neoforge-2.0.0-beta.17.jar",
       "status": "APPROVED",
@@ -383,7 +383,7 @@
     },
     {
       "id": 7037831,
-      "dateModified": "2025-09-27T07:44:42Z",
+      "dateModified": "2025-09-27T15:07:39Z",
       "fileLength": 5477529,
       "fileName": "refinedstorage-fabric-2.0.0-beta.17.jar",
       "status": "APPROVED",
@@ -412,7 +412,7 @@
       "projectId": "KDvYkUg3",
       "authorId": "R9RLzzR6",
       "versionNumber": "2.0.0-beta.17",
-      "changelog": "### Fixed\n\n-   Final beta before the official release. This release contains breaking changes meant for addon developers. Do not update to this version!",
+      "changelog": "",
       "versionType": "beta",
       "status": "listed",
       "files": [
@@ -444,7 +444,7 @@
       "projectId": "KDvYkUg3",
       "authorId": "R9RLzzR6",
       "versionNumber": "2.0.0-beta.17",
-      "changelog": "### Fixed\n\n-   Final beta before the official release. This release contains breaking changes meant for addon developers. Do not update to this version!",
+      "changelog": "",
       "versionType": "beta",
       "status": "listed",
       "files": [
@@ -480,13 +480,13 @@
       },
       {
         "source": "modrinth",
-        "downloads": 102
+        "downloads": 117
       },
       {
         "source": "curseforge",
-        "downloads": 445
+        "downloads": 540
       }
     ],
-    "totalDownloads": 547
+    "totalDownloads": 657
   }
 }
