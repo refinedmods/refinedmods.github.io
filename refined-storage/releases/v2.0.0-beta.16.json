@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.16.json",
   "name": "v2.0.0-beta.16",
-  "indexedAt": "2025-10-13T01:07:23Z",
+  "indexedAt": "2025-10-13T12:30:39Z",
   "type": "BETA",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 110450,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.16/refinedstorage-common-api-2.0.0-beta.16.jar"
         },
         {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5271,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.16/refinedstorage-core-api-2.0.0-beta.16-sources.jar"
         },
         {
@@ -172,7 +172,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 1191003,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.16/refinedstorage-neoforge-2.0.0-beta.16-sources.jar"
         },
         {
@@ -282,7 +282,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 13485,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.16/refinedstorage-query-parser-2.0.0-beta.16-sources.jar"
         },
         {
@@ -337,7 +337,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 44545,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.16/refinedstorage-storage-api-2.0.0-beta.16.jar"
         }
       ],
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 25
+        "downloads": 30
       },
       {
         "source": "modrinth",
-        "downloads": 396
+        "downloads": 399
       },
       {
         "source": "curseforge",
-        "downloads": 1911
+        "downloads": 1914
       }
     ],
-    "totalDownloads": 2332
+    "totalDownloads": 2343
   }
 }
