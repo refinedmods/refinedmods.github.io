@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.7.json",
   "name": "v2.0.0-beta.7",
-  "indexedAt": "2025-10-25T01:04:02Z",
+  "indexedAt": "2025-10-25T12:26:09Z",
   "type": "BETA",
   "sources": [
     {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3648660,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.7/refinedstorage-common-2.0.0-beta.7.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 91
+        "downloads": 92
       },
       {
         "source": "modrinth",
-        "downloads": 1199
+        "downloads": 1200
       },
       {
         "source": "curseforge",
-        "downloads": 284581
+        "downloads": 285436
       }
     ],
-    "totalDownloads": 285871
+    "totalDownloads": 286728
   }
 }
