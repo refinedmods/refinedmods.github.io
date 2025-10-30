@@ -1,0 +1,126 @@
+{
+  "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v1.1.1.json",
+  "name": "v1.1.1",
+  "indexedAt": "2025-10-30T01:10:52Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 258184292,
+      "nodeId": "RE_kwDOMA56iM4PY5Rk",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/tag/v1.1.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/258184292/assets",
+      "assets": [
+        {
+          "id": 310139902,
+          "nodeId": "RA_kwDOMA56iM4SfFv-",
+          "name": "refinedstorage-mekanism-integration-1.1.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 112638,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v1.1.1/refinedstorage-mekanism-integration-1.1.1-sources.jar"
+        },
+        {
+          "id": 310139903,
+          "nodeId": "RA_kwDOMA56iM4SfFv_",
+          "name": "refinedstorage-mekanism-integration-1.1.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 160633,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v1.1.1/refinedstorage-mekanism-integration-1.1.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/258184292/assets{?name,label}",
+      "tagName": "v1.1.1",
+      "targetCommitish": "fbc665d08a126a2530f4e3604a836999ba48c040",
+      "body": "",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2025-10-29T14:25:11Z",
+      "publishedAt": "2025-10-29T14:25:10Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/tarball/v1.1.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/zipball/v1.1.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/258184292",
+      "createdAt": "2025-10-29T14:23:13Z"
+    },
+    {
+      "id": 7163500,
+      "dateModified": "2025-10-29T14:35:58Z",
+      "fileLength": 160633,
+      "fileName": "refinedstorage-mekanism-integration-1.1.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "1.21.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-mekanism-integration/download/7163500",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-mekanism-integration/files/7163500",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230504/files/7163500",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-10-29T14:25:45Z"
+    },
+    {
+      "id": "m5pFB06e",
+      "projectId": "QHMDf0Sd",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.1.1",
+      "changelog": "",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "94db16610bed3015cafb4fe28f3a2a0e2d2ed354dae2fb269f561a0046f96cbc4314b5095bbadeb615f288d3e1aa25f3722cc24dc86b2764e44408b9c0439d6a",
+            "sha1": "7d1e60d2f6301da44043ad3a017bb0563b71755a"
+          },
+          "url": "https://cdn.modrinth.com/data/QHMDf0Sd/versions/m5pFB06e/refinedstorage-mekanism-integration-1.1.1.jar",
+          "filename": "refinedstorage-mekanism-integration-1.1.1.jar",
+          "primary": true,
+          "size": 160633
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-mekanism-integration/version/m5pFB06e",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-mekanism-integration/version/m5pFB06e",
+      "platform": "NEOFORGE",
+      "createdAt": "2025-10-29T14:25:53Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 29
+      },
+      {
+        "source": "curseforge",
+        "downloads": 357
+      }
+    ],
+    "totalDownloads": 386
+  }
+}
