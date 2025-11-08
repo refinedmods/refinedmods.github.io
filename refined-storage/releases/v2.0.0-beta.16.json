@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.16.json",
   "name": "v2.0.0-beta.16",
-  "indexedAt": "2025-11-08T01:04:57Z",
+  "indexedAt": "2025-11-08T12:26:13Z",
   "type": "BETA",
   "sources": [
     {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5480036,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.16/refinedstorage-fabric-2.0.0-beta.16.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 58
+        "downloads": 59
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 2105
       }
     ],
-    "totalDownloads": 2587
+    "totalDownloads": 2588
   }
 }
