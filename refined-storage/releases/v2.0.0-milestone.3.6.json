@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.3.6.json",
   "name": "v2.0.0-milestone.3.6",
-  "indexedAt": "2025-11-10T12:31:25Z",
+  "indexedAt": "2025-11-11T01:08:12Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -62,7 +62,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 24947,
-          "downloadCount": 7,
+          "downloadCount": 8,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-network-api-2.0.0-milestone.3.6.jar"
         },
         {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 93735,
-          "downloadCount": 8,
+          "downloadCount": 9,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-platform-api-2.0.0-milestone.3.6.jar"
         },
         {
@@ -150,7 +150,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 15720,
-          "downloadCount": 9,
+          "downloadCount": 10,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.6/refinedstorage2-resource-api-2.0.0-milestone.3.6.jar"
         },
         {
@@ -184,9 +184,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 225
+        "downloads": 228
       }
     ],
-    "totalDownloads": 225
+    "totalDownloads": 228
   }
 }
