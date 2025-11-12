@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.14.json",
   "name": "v2.0.0-beta.14",
-  "indexedAt": "2025-11-11T12:31:04Z",
+  "indexedAt": "2025-11-12T01:07:38Z",
   "type": "BETA",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 111776,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.14/refinedstorage-autocrafting-api-2.0.0-beta.14.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 77
+        "downloads": 78
       },
       {
         "source": "modrinth",
-        "downloads": 1252
+        "downloads": 1253
       },
       {
         "source": "curseforge",
-        "downloads": 37967
+        "downloads": 37976
       }
     ],
-    "totalDownloads": 39296
+    "totalDownloads": 39307
   }
 }
