@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.7.0-alpha.json",
   "name": "v1.7.0-alpha",
-  "indexedAt": "2025-11-13T01:08:28Z",
+  "indexedAt": "2025-11-13T12:32:20Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -43,7 +43,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 1814621,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.0-alpha/refinedstorage-1.7.jar"
         }
       ],
@@ -98,7 +98,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "source": "modrinth",
@@ -109,6 +109,6 @@
         "downloads": 53503
       }
     ],
-    "totalDownloads": 53715
+    "totalDownloads": 53716
   }
 }

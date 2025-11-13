@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.12.3.json",
   "name": "v1.12.3",
-  "indexedAt": "2025-11-13T01:08:28Z",
+  "indexedAt": "2025-11-13T12:32:20Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3291779,
-          "downloadCount": 97,
+          "downloadCount": 98,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.12.3/refinedstorage-1.12.3.jar"
         }
       ],
@@ -99,17 +99,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 97
+        "downloads": 98
       },
       {
         "source": "modrinth",
-        "downloads": 9358
+        "downloads": 9361
       },
       {
         "source": "curseforge",
-        "downloads": 1428918
+        "downloads": 1428931
       }
     ],
-    "totalDownloads": 1438373
+    "totalDownloads": 1438390
   }
 }
