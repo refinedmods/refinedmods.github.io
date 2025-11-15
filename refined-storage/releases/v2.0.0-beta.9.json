@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.9.json",
   "name": "v2.0.0-beta.9",
-  "indexedAt": "2025-11-14T12:30:41Z",
+  "indexedAt": "2025-11-15T12:27:03Z",
   "type": "BETA",
   "sources": [
     {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5464771,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-fabric-2.0.0-beta.9.jar"
         },
         {
@@ -194,7 +194,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3165,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-neoforge-api-2.0.0-beta.9-sources.jar"
         },
         {
@@ -304,7 +304,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 18301,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-resource-api-2.0.0-beta.9-sources.jar"
         },
         {
@@ -315,7 +315,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 31004,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-resource-api-2.0.0-beta.9.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 42
+        "downloads": 46
       },
       {
         "source": "modrinth",
-        "downloads": 1797
+        "downloads": 1802
       },
       {
         "source": "curseforge",
-        "downloads": 79967
+        "downloads": 79977
       }
     ],
-    "totalDownloads": 81806
+    "totalDownloads": 81825
   }
 }
