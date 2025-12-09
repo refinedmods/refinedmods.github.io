@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.12.json",
   "name": "v2.0.0-beta.12",
-  "indexedAt": "2025-12-09T01:09:21Z",
+  "indexedAt": "2025-12-09T12:32:36Z",
   "type": "BETA",
   "sources": [
     {
@@ -117,7 +117,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 8665,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.12/refinedstorage-core-api-2.0.0-beta.12.jar"
         },
         {
@@ -150,7 +150,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5361,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.12/refinedstorage-fabric-api-2.0.0-beta.12-sources.jar"
         },
         {
@@ -227,7 +227,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 140821,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.12/refinedstorage-network-2.0.0-beta.12.jar"
         },
         {
@@ -356,32 +356,6 @@
       "createdAt": "2025-09-12T17:24:09Z"
     },
     {
-      "id": 6989993,
-      "dateModified": "2025-09-12T17:41:48Z",
-      "fileLength": 5476890,
-      "fileName": "refinedstorage-fabric-2.0.0-beta.12.jar",
-      "status": "APPROVED",
-      "gameVersions": [
-        "Fabric",
-        "1.21.1"
-      ],
-      "releaseType": "BETA",
-      "user": {
-        "username": "raoulvdberge",
-        "id": "24123658"
-      },
-      "additionalFilesCount": 0,
-      "hasServerPack": false,
-      "additionalServerPackFilesCount": 0,
-      "isEarlyAccessContent": false,
-      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/6989993",
-      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/6989993",
-      "source": "curseforge",
-      "url": "https://www.curseforge.com/api/v1/mods/243076/files/6989993",
-      "platform": "FABRIC",
-      "createdAt": "2025-09-12T17:36:19Z"
-    },
-    {
       "id": 6989994,
       "dateModified": "2025-09-12T17:42:03Z",
       "fileLength": 4482540,
@@ -405,6 +379,32 @@
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/6989994",
       "platform": "NEOFORGE",
+      "createdAt": "2025-09-12T17:36:19Z"
+    },
+    {
+      "id": 6989993,
+      "dateModified": "2025-09-12T17:41:48Z",
+      "fileLength": 5476890,
+      "fileName": "refinedstorage-fabric-2.0.0-beta.12.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Fabric",
+        "1.21.1"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/6989993",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/6989993",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/6989993",
+      "platform": "FABRIC",
       "createdAt": "2025-09-12T17:36:19Z"
     },
     {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 54
+        "downloads": 57
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 2361
       }
     ],
-    "totalDownloads": 2860
+    "totalDownloads": 2863
   }
 }
