@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.6.json",
   "name": "v2.0.0-beta.6",
-  "indexedAt": "2025-12-10T12:32:44Z",
+  "indexedAt": "2025-12-11T01:12:10Z",
   "type": "BETA",
   "sources": [
     {
@@ -40,7 +40,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 44841,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.6/refinedstorage-autocrafting-api-2.0.0-beta.6-sources.jar"
         },
         {
@@ -62,7 +62,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 2757533,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.6/refinedstorage-common-2.0.0-beta.6-sources.jar"
         },
         {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 109545,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.6/refinedstorage-common-api-2.0.0-beta.6.jar"
         },
         {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5455019,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.6/refinedstorage-fabric-2.0.0-beta.6.jar"
         },
         {
@@ -161,7 +161,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 6279,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.6/refinedstorage-fabric-api-2.0.0-beta.6.jar"
         },
         {
@@ -205,7 +205,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3829,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.6/refinedstorage-neoforge-api-2.0.0-beta.6.jar"
         },
         {
@@ -293,7 +293,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 28951,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.6/refinedstorage-query-parser-2.0.0-beta.6.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 100
+        "downloads": 107
       },
       {
         "source": "modrinth",
-        "downloads": 777
+        "downloads": 778
       },
       {
         "source": "curseforge",
-        "downloads": 16535
+        "downloads": 16543
       }
     ],
-    "totalDownloads": 17412
+    "totalDownloads": 17428
   }
 }

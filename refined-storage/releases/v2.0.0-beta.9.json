@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.9.json",
   "name": "v2.0.0-beta.9",
-  "indexedAt": "2025-12-10T12:32:44Z",
+  "indexedAt": "2025-12-11T01:12:10Z",
   "type": "BETA",
   "sources": [
     {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5464771,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-fabric-2.0.0-beta.9.jar"
         },
         {
@@ -150,7 +150,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5359,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-fabric-api-2.0.0-beta.9-sources.jar"
         },
         {
@@ -161,7 +161,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 6279,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-fabric-api-2.0.0-beta.9.jar"
         },
         {
@@ -194,7 +194,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3165,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-neoforge-api-2.0.0-beta.9-sources.jar"
         },
         {
@@ -238,7 +238,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 24200,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-network-api-2.0.0-beta.9-sources.jar"
         },
         {
@@ -304,7 +304,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 18301,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-resource-api-2.0.0-beta.9-sources.jar"
         },
         {
@@ -337,7 +337,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 44545,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.9/refinedstorage-storage-api-2.0.0-beta.9.jar"
         }
       ],
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 69
+        "downloads": 76
       },
       {
         "source": "modrinth",
-        "downloads": 1843
+        "downloads": 1844
       },
       {
         "source": "curseforge",
-        "downloads": 80349
+        "downloads": 80357
       }
     ],
-    "totalDownloads": 82261
+    "totalDownloads": 82277
   }
 }
