@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v1.0.6.json",
   "name": "v1.0.6",
-  "indexedAt": "2025-12-19T12:33:06Z",
+  "indexedAt": "2025-12-20T01:09:46Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 66342,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.6/refinedstorage-quartz-arsenal-fabric-1.0.6.jar"
         },
         {
@@ -234,17 +234,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "source": "modrinth",
-        "downloads": 7927
+        "downloads": 8017
       },
       {
         "source": "curseforge",
-        "downloads": 1972079
+        "downloads": 1989417
       }
     ],
-    "totalDownloads": 1980010
+    "totalDownloads": 1997439
   }
 }
