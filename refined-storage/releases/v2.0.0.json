@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0.json",
   "name": "v2.0.0",
-  "indexedAt": "2025-12-21T12:29:11Z",
+  "indexedAt": "2025-12-22T01:16:09Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5478138,
-          "downloadCount": 24,
+          "downloadCount": 25,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0/refinedstorage-fabric-2.0.0.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 298
+        "downloads": 299
       },
       {
         "source": "modrinth",
-        "downloads": 41597
+        "downloads": 42126
       },
       {
         "source": "curseforge",
-        "downloads": 2109098
+        "downloads": 2138072
       }
     ],
-    "totalDownloads": 2150993
+    "totalDownloads": 2180497
   }
 }
