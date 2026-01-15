@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.3.json",
   "name": "v2.0.0-beta.3",
-  "indexedAt": "2026-01-14T12:34:08Z",
+  "indexedAt": "2026-01-15T01:13:44Z",
   "type": "BETA",
   "sources": [
     {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 8,
+          "downloadCount": 9,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.3/refinedstorage-2.0.0-beta.3.jar"
         },
         {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 103396,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.3/refinedstorage-autocrafting-api-2.0.0-beta.3.jar"
         },
         {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 71752,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.3/refinedstorage-common-api-2.0.0-beta.3-sources.jar"
         },
         {
@@ -238,7 +238,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 24200,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.3/refinedstorage-network-api-2.0.0-beta.3-sources.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 133
+        "downloads": 137
       },
       {
         "source": "modrinth",
@@ -484,9 +484,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 353513
+        "downloads": 353516
       }
     ],
-    "totalDownloads": 356332
+    "totalDownloads": 356339
   }
 }
