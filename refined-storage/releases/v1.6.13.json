@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.13.json",
   "name": "v1.6.13",
-  "indexedAt": "2026-02-10T01:54:46Z",
+  "indexedAt": "2026-02-10T13:01:31Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 1910243,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.13/refinedstorage-1.6.13.jar"
         }
       ],
@@ -98,7 +98,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "source": "modrinth",
@@ -109,6 +109,6 @@
         "downloads": 1927
       }
     ],
-    "totalDownloads": 1980
+    "totalDownloads": 1981
   }
 }
