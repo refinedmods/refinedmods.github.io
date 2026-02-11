@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.6.json",
   "name": "v2.0.0-milestone.4.6",
-  "indexedAt": "2026-02-10T13:01:31Z",
+  "indexedAt": "2026-02-11T01:51:29Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 8944,
-          "downloadCount": 9,
+          "downloadCount": 10,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-core-api-2.0.0-milestone.4.6.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4733,
-          "downloadCount": 26,
+          "downloadCount": 27,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-fabric-api-2.0.0-milestone.4.6.jar"
         },
         {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3440369,
-          "downloadCount": 34,
+          "downloadCount": 35,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-neoforge-2.0.0-milestone.4.6.jar"
         },
         {
@@ -172,7 +172,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 42408,
-          "downloadCount": 8,
+          "downloadCount": 9,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.6/refinedstorage-storage-api-2.0.0-milestone.4.6.jar"
         }
       ],
@@ -195,9 +195,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 264
+        "downloads": 268
       }
     ],
-    "totalDownloads": 264
+    "totalDownloads": 268
   }
 }
