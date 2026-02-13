@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.4.json",
   "name": "v2.0.0-milestone.4.4",
-  "indexedAt": "2026-02-12T12:53:49Z",
+  "indexedAt": "2026-02-13T01:47:31Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 100696,
-          "downloadCount": 15,
+          "downloadCount": 16,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.4/refinedstorage-network-2.0.0-milestone.4.4.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 31278,
-          "downloadCount": 12,
+          "downloadCount": 13,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.4/refinedstorage-network-test-2.0.0-milestone.4.4.jar"
         },
         {
@@ -173,9 +173,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 297
+        "downloads": 299
       }
     ],
-    "totalDownloads": 297
+    "totalDownloads": 299
   }
 }

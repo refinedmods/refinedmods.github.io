@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-milestone.4.5.json",
   "name": "v2.0.0-milestone.4.5",
-  "indexedAt": "2026-02-12T12:53:49Z",
+  "indexedAt": "2026-02-13T01:47:31Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 8944,
-          "downloadCount": 14,
+          "downloadCount": 15,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.5/refinedstorage-core-api-2.0.0-milestone.4.5.jar"
         },
         {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 33402,
-          "downloadCount": 14,
+          "downloadCount": 15,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.5/refinedstorage-grid-api-2.0.0-milestone.4.5.jar"
         },
         {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 30835,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.5/refinedstorage-network-test-2.0.0-milestone.4.5.jar"
         },
         {
@@ -195,9 +195,9 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 727
+        "downloads": 730
       }
     ],
-    "totalDownloads": 727
+    "totalDownloads": 730
   }
 }
