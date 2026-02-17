@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-jei-integration/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2026-02-16T12:50:41Z",
+  "indexedAt": "2026-02-17T01:31:33Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 58343,
-          "downloadCount": 145,
+          "downloadCount": 146,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v1.0.0/refinedstorage-jei-integration-neoforge-1.0.0.jar"
         }
       ],
@@ -234,17 +234,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 227
+        "downloads": 228
       },
       {
         "source": "modrinth",
-        "downloads": 74369
+        "downloads": 74588
       },
       {
         "source": "curseforge",
-        "downloads": 7187974
+        "downloads": 7204303
       }
     ],
-    "totalDownloads": 7262570
+    "totalDownloads": 7279119
   }
 }
