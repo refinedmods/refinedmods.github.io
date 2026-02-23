@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.1.json",
   "name": "v2.0.1",
-  "indexedAt": "2026-02-22T12:37:01Z",
+  "indexedAt": "2026-02-23T01:29:56Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 110158,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.1/refinedstorage-common-api-2.0.1.jar"
         },
         {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4506772,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.1/refinedstorage-neoforge-2.0.1.jar"
         },
         {
@@ -205,7 +205,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3829,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.1/refinedstorage-neoforge-api-2.0.1.jar"
         },
         {
@@ -249,7 +249,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 33988,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.1/refinedstorage-network-api-2.0.1.jar"
         },
         {
@@ -315,7 +315,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 33422,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.1/refinedstorage-resource-api-2.0.1.jar"
         },
         {
@@ -337,7 +337,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 44545,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.1/refinedstorage-storage-api-2.0.1.jar"
         }
       ],
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 51
+        "downloads": 57
       },
       {
         "source": "modrinth",
-        "downloads": 8098
+        "downloads": 8605
       },
       {
         "source": "curseforge",
-        "downloads": 55459
+        "downloads": 59546
       }
     ],
-    "totalDownloads": 63608
+    "totalDownloads": 68208
   }
 }
