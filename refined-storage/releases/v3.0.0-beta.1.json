@@ -1,0 +1,492 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.1.json",
+  "name": "v3.0.0-beta.1",
+  "indexedAt": "2026-04-13T02:04:48Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 308118112,
+      "nodeId": "RE_kwDOEkvWPM4SXYJg",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v3.0.0-beta.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/308118112/assets",
+      "assets": [
+        {
+          "id": 395032769,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jB",
+          "name": "refinedstorage-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032768,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jA",
+          "name": "refinedstorage-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032770,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jC",
+          "name": "refinedstorage-autocrafting-api-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 45757,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-autocrafting-api-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032771,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jD",
+          "name": "refinedstorage-autocrafting-api-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 111983,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-autocrafting-api-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032775,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jH",
+          "name": "refinedstorage-common-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2845132,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-common-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032772,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jE",
+          "name": "refinedstorage-common-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3769174,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-common-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032776,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jI",
+          "name": "refinedstorage-common-api-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 72697,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-common-api-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032773,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jF",
+          "name": "refinedstorage-common-api-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 114200,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-common-api-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032779,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jL",
+          "name": "refinedstorage-core-api-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4399,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-core-api-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032774,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jG",
+          "name": "refinedstorage-core-api-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 7604,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-core-api-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032781,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jN",
+          "name": "refinedstorage-fabric-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1133765,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-fabric-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032778,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jK",
+          "name": "refinedstorage-fabric-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5567300,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-fabric-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032785,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jR",
+          "name": "refinedstorage-fabric-api-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4772,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-fabric-api-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032783,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jP",
+          "name": "refinedstorage-fabric-api-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 6137,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-fabric-api-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032786,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jS",
+          "name": "refinedstorage-neoforge-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1203362,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-neoforge-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032787,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jT",
+          "name": "refinedstorage-neoforge-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4631219,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-neoforge-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032777,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jJ",
+          "name": "refinedstorage-neoforge-api-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4435,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-neoforge-api-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032780,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jM",
+          "name": "refinedstorage-neoforge-api-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5376,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-neoforge-api-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032794,
+          "nodeId": "RA_kwDOEkvWPM4Xi7ja",
+          "name": "refinedstorage-network-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 71414,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-network-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032790,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jW",
+          "name": "refinedstorage-network-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 140867,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-network-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032789,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jV",
+          "name": "refinedstorage-network-api-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 23484,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-network-api-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032788,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jU",
+          "name": "refinedstorage-network-api-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33712,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-network-api-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032795,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jb",
+          "name": "refinedstorage-network-test-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19817,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-network-test-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032784,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jQ",
+          "name": "refinedstorage-network-test-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33064,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-network-test-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032799,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jf",
+          "name": "refinedstorage-query-parser-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 13401,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-query-parser-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032796,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jc",
+          "name": "refinedstorage-query-parser-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28878,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-query-parser-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032793,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jZ",
+          "name": "refinedstorage-resource-api-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19299,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-resource-api-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032791,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jX",
+          "name": "refinedstorage-resource-api-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33377,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-resource-api-3.0.0-beta.1.jar"
+        },
+        {
+          "id": 395032798,
+          "nodeId": "RA_kwDOEkvWPM4Xi7je",
+          "name": "refinedstorage-storage-api-3.0.0-beta.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27692,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-storage-api-3.0.0-beta.1-sources.jar"
+        },
+        {
+          "id": 395032792,
+          "nodeId": "RA_kwDOEkvWPM4Xi7jY",
+          "name": "refinedstorage-storage-api-3.0.0-beta.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 44360,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.1/refinedstorage-storage-api-3.0.0-beta.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/308118112/assets{?name,label}",
+      "tagName": "v3.0.0-beta.1",
+      "targetCommitish": "035848afbbb44a8a60584903943c70ccdea9de2c",
+      "body": "### Added\n\n-   Ported to Minecraft 26.1.2.\n\n### Fixed\n\n-   Correct the torch model for detectors.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2026-04-13T01:20:02Z",
+      "publishedAt": "2026-04-13T01:20:01Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v3.0.0-beta.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v3.0.0-beta.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/308118112",
+      "createdAt": "2026-04-13T01:17:02Z"
+    },
+    {
+      "id": 7918936,
+      "dateModified": "2026-04-13T01:30:38Z",
+      "fileLength": 5567300,
+      "fileName": "refinedstorage-fabric-3.0.0-beta.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Fabric",
+        "26.1.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/7918936",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/7918936",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/7918936",
+      "platform": "FABRIC",
+      "createdAt": "2026-04-13T01:20:37Z"
+    },
+    {
+      "id": 7918937,
+      "dateModified": "2026-04-13T01:30:37Z",
+      "fileLength": 4631219,
+      "fileName": "refinedstorage-neoforge-3.0.0-beta.1.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "26.1.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/7918937",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/7918937",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/7918937",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-13T01:20:37Z"
+    },
+    {
+      "id": "1oSs5TRt",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "3.0.0-beta.1",
+      "changelog": "### Added\n\n-   Ported to Minecraft 26.1.2.\n\n### Fixed\n\n-   Correct the torch model for detectors.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "670eabe918423728893b7f16a757870d0b48c7ed469fc4d056532781e4bd694881c7233960e1890ca75aa1a5d437b2c3799194e5b65e18ea608fae56ec444470",
+            "sha1": "3e976e82b1fc5cec99bd1af615b8013b55260a02"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/1oSs5TRt/refinedstorage-fabric-3.0.0-beta.1.jar",
+          "filename": "refinedstorage-fabric-3.0.0-beta.1.jar",
+          "primary": true,
+          "size": 5567300
+        }
+      ],
+      "gameVersions": [
+        "26.1.2"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/1oSs5TRt",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/1oSs5TRt",
+      "platform": "FABRIC",
+      "createdAt": "2026-04-13T01:20:47Z"
+    },
+    {
+      "id": "k4yMUj29",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "3.0.0-beta.1",
+      "changelog": "### Added\n\n-   Ported to Minecraft 26.1.2.\n\n### Fixed\n\n-   Correct the torch model for detectors.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "0ba152bf108c35f7787cd8895309ec24886a1cd1517d6dd0a9acfc1708e0b972808acf0c727fd5d9707b2e9ea098f041548f8aa305bc2269f0ad67afdd8132fd",
+            "sha1": "01dc0c73cf6724572f5d91989501096899ec8d6c"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/k4yMUj29/refinedstorage-neoforge-3.0.0-beta.1.jar",
+          "filename": "refinedstorage-neoforge-3.0.0-beta.1.jar",
+          "primary": true,
+          "size": 4631219
+        }
+      ],
+      "gameVersions": [
+        "26.1.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/k4yMUj29",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/k4yMUj29",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-13T01:20:47Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "modrinth",
+        "downloads": 7
+      },
+      {
+        "source": "curseforge",
+        "downloads": 6
+      }
+    ],
+    "totalDownloads": 14
+  }
+}
