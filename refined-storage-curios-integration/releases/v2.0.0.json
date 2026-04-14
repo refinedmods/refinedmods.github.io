@@ -1,0 +1,126 @@
+{
+  "url": "https://refinedmods.com/refined-storage-curios-integration/releases/v2.0.0.json",
+  "name": "v2.0.0",
+  "indexedAt": "2026-04-14T02:01:46Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 308377289,
+      "nodeId": "RE_kwDOMKBqa84SYXbJ",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/tag/v2.0.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/308377289/assets",
+      "assets": [
+        {
+          "id": 395462743,
+          "nodeId": "RA_kwDOMKBqa84XkkhX",
+          "name": "refinedstorage-curios-integration-2.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 7749,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/download/v2.0.0/refinedstorage-curios-integration-2.0.0-sources.jar"
+        },
+        {
+          "id": 395462742,
+          "nodeId": "RA_kwDOMKBqa84XkkhW",
+          "name": "refinedstorage-curios-integration-2.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 11158,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/download/v2.0.0/refinedstorage-curios-integration-2.0.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/308377289/assets{?name,label}",
+      "tagName": "v2.0.0",
+      "targetCommitish": "fb6abf45c35738b27989559a1acfa46694b9ec93",
+      "body": "### Added\n\n-   Ported to Minecraft 26.1.2.\n-   Support for the Wireless Autocrafting Monitor.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2026-04-13T14:27:59Z",
+      "publishedAt": "2026-04-13T14:27:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/tarball/v2.0.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/zipball/v2.0.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/308377289",
+      "createdAt": "2026-04-13T14:26:09Z"
+    },
+    {
+      "id": 7921089,
+      "dateModified": "2026-04-13T14:30:26Z",
+      "fileLength": 11158,
+      "fileName": "refinedstorage-curios-integration-2.0.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "26.1.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-curios-integration/download/7921089",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-curios-integration/files/7921089",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230729/files/7921089",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-13T14:28:21Z"
+    },
+    {
+      "id": "yTYhBwGC",
+      "projectId": "s6zjL86N",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.0",
+      "changelog": "### Added\n\n-   Ported to Minecraft 26.1.2.\n-   Support for the Wireless Autocrafting Monitor.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "8a00720050321a71b7339b37c168df3a5115e4c6e4f2b93f058370833f2b385f7eb2ddd4671297007e2ddb3fd2f0d5a9896b70083532ff68f760063632aa9b79",
+            "sha1": "31b342f4744c3374a1324a973f167d91e7a3d995"
+          },
+          "url": "https://cdn.modrinth.com/data/s6zjL86N/versions/yTYhBwGC/refinedstorage-curios-integration-2.0.0.jar",
+          "filename": "refinedstorage-curios-integration-2.0.0.jar",
+          "primary": true,
+          "size": 11158
+        }
+      ],
+      "gameVersions": [
+        "26.1.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-curios-integration/version/yTYhBwGC",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-curios-integration/version/yTYhBwGC",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-13T14:28:30Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 2
+      },
+      {
+        "source": "modrinth",
+        "downloads": 3
+      },
+      {
+        "source": "curseforge",
+        "downloads": 36
+      }
+    ],
+    "totalDownloads": 41
+  }
+}

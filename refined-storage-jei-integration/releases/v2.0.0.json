@@ -1,0 +1,250 @@
+{
+  "url": "https://refinedmods.com/refined-storage-jei-integration/releases/v2.0.0.json",
+  "name": "v2.0.0",
+  "indexedAt": "2026-04-14T02:01:35Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 308363344,
+      "nodeId": "RE_kwDOMEAkB84SYUBQ",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/tag/v2.0.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/308363344/assets",
+      "assets": [
+        {
+          "id": 395444411,
+          "nodeId": "RA_kwDOMEAkB84XkgC7",
+          "name": "refinedstorage-jei-integration-2.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v2.0.0/refinedstorage-jei-integration-2.0.0-sources.jar"
+        },
+        {
+          "id": 395444417,
+          "nodeId": "RA_kwDOMEAkB84XkgDB",
+          "name": "refinedstorage-jei-integration-2.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v2.0.0/refinedstorage-jei-integration-2.0.0.jar"
+        },
+        {
+          "id": 395444414,
+          "nodeId": "RA_kwDOMEAkB84XkgC-",
+          "name": "refinedstorage-jei-integration-common-2.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 29431,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v2.0.0/refinedstorage-jei-integration-common-2.0.0-sources.jar"
+        },
+        {
+          "id": 395444420,
+          "nodeId": "RA_kwDOMEAkB84XkgDE",
+          "name": "refinedstorage-jei-integration-common-2.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 55471,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v2.0.0/refinedstorage-jei-integration-common-2.0.0.jar"
+        },
+        {
+          "id": 395444418,
+          "nodeId": "RA_kwDOMEAkB84XkgDC",
+          "name": "refinedstorage-jei-integration-fabric-2.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 25333,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v2.0.0/refinedstorage-jei-integration-fabric-2.0.0-sources.jar"
+        },
+        {
+          "id": 395444413,
+          "nodeId": "RA_kwDOMEAkB84XkgC9",
+          "name": "refinedstorage-jei-integration-fabric-2.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 60106,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v2.0.0/refinedstorage-jei-integration-fabric-2.0.0.jar"
+        },
+        {
+          "id": 395444415,
+          "nodeId": "RA_kwDOMEAkB84XkgC_",
+          "name": "refinedstorage-jei-integration-neoforge-2.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 25181,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v2.0.0/refinedstorage-jei-integration-neoforge-2.0.0-sources.jar"
+        },
+        {
+          "id": 395444416,
+          "nodeId": "RA_kwDOMEAkB84XkgDA",
+          "name": "refinedstorage-jei-integration-neoforge-2.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 59475,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-jei-integration/releases/download/v2.0.0/refinedstorage-jei-integration-neoforge-2.0.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/308363344/assets{?name,label}",
+      "tagName": "v2.0.0",
+      "targetCommitish": "c4e74ce2944c59e3c452a81c29f7c29e06188beb",
+      "body": "### Added\n\n-   Ported to Minecraft 26.1.2.\n\n### Fixed\n\n-   Autocraft from JEI tooltip being wrong on macOS.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2026-04-13T13:59:17Z",
+      "publishedAt": "2026-04-13T13:59:16Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/tarball/v2.0.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/zipball/v2.0.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/308363344",
+      "createdAt": "2026-04-13T13:56:49Z"
+    },
+    {
+      "id": "D5K19JDa",
+      "projectId": "VzR5wiLo",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.0",
+      "changelog": "### Added\n\n-   Ported to Minecraft 26.1.2.\n\n### Fixed\n\n-   Autocraft from JEI tooltip being wrong on macOS.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "ea26f63830405c3e280e96ab2eee1b74514c051f2842ddbc80dfee51b0edf5fbb3c69c0d67b4e401ccb73ccd105d99a6e554ab2316f6bc3dedfca0e414a07871",
+            "sha1": "01be5e70b62238733de1af4a6d59c384a44d5af1"
+          },
+          "url": "https://cdn.modrinth.com/data/VzR5wiLo/versions/D5K19JDa/refinedstorage-jei-integration-neoforge-2.0.0.jar",
+          "filename": "refinedstorage-jei-integration-neoforge-2.0.0.jar",
+          "primary": true,
+          "size": 59475
+        }
+      ],
+      "gameVersions": [
+        "26.1.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-jei-integration/version/D5K19JDa",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-jei-integration/version/D5K19JDa",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-13T13:59:41Z"
+    },
+    {
+      "id": "qWVblXJX",
+      "projectId": "VzR5wiLo",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.0",
+      "changelog": "### Added\n\n-   Ported to Minecraft 26.1.2.\n\n### Fixed\n\n-   Autocraft from JEI tooltip being wrong on macOS.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "fad7cadcaa63891ca22045cf70a8cb17c7bf15f6196dbe88059c1d0095e03203f078c95721054d481f0c4175c8f1093d1c9676334ca0db151a104c29a3c10231",
+            "sha1": "3f8e4295b83159b9f88a0243560e04e5e226ac4a"
+          },
+          "url": "https://cdn.modrinth.com/data/VzR5wiLo/versions/qWVblXJX/refinedstorage-jei-integration-fabric-2.0.0.jar",
+          "filename": "refinedstorage-jei-integration-fabric-2.0.0.jar",
+          "primary": true,
+          "size": 60106
+        }
+      ],
+      "gameVersions": [
+        "26.1.2"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-jei-integration/version/qWVblXJX",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-jei-integration/version/qWVblXJX",
+      "platform": "FABRIC",
+      "createdAt": "2026-04-13T13:59:41Z"
+    },
+    {
+      "id": 7920963,
+      "dateModified": "2026-04-13T14:02:06Z",
+      "fileLength": 59475,
+      "fileName": "refinedstorage-jei-integration-neoforge-2.0.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "26.1.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration/download/7920963",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration/files/7920963",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230497/files/7920963",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-13T13:59:53Z"
+    },
+    {
+      "id": 7920964,
+      "dateModified": "2026-04-13T14:02:06Z",
+      "fileLength": 60106,
+      "fileName": "refinedstorage-jei-integration-fabric-2.0.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Fabric",
+        "26.1.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration/download/7920964",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration/files/7920964",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230497/files/7920964",
+      "platform": "FABRIC",
+      "createdAt": "2026-04-13T13:59:53Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 3
+      },
+      {
+        "source": "modrinth",
+        "downloads": 13
+      },
+      {
+        "source": "curseforge",
+        "downloads": 73
+      }
+    ],
+    "totalDownloads": 89
+  }
+}

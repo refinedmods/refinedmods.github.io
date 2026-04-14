@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-jei-integration/releases.json",
   "name": "Refined Storage - JEI Integration",
-  "indexedAt": "2026-04-13T13:13:18Z",
+  "indexedAt": "2026-04-14T02:01:35Z",
   "releases": [
     {
       "name": "v0.1.0",
@@ -114,23 +114,36 @@
         "https://www.curseforge.com/api/v1/mods/1230497/files/6359014"
       ],
       "createdAt": "2025-03-28T11:46:01Z"
+    },
+    {
+      "name": "v2.0.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-jei-integration/releases/v2.0.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage-jei-integration/releases/308363344",
+        "https://www.curseforge.com/api/v1/mods/1230497/files/7920964",
+        "https://www.curseforge.com/api/v1/mods/1230497/files/7920963",
+        "https://api.modrinth.com/v2/project/refined-storage-jei-integration/version/D5K19JDa",
+        "https://api.modrinth.com/v2/project/refined-storage-jei-integration/version/qWVblXJX"
+      ],
+      "createdAt": "2026-04-13T13:56:49Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 1193
+        "downloads": 1196
       },
       {
         "source": "modrinth",
-        "downloads": 98298
+        "downloads": 98463
       },
       {
         "source": "curseforge",
-        "downloads": 8484688
+        "downloads": 8497668
       }
     ],
-    "totalDownloads": 8584179
+    "totalDownloads": 8597327
   }
 }
