@@ -1,0 +1,492 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.4.json",
+  "name": "v3.0.0-beta.4",
+  "indexedAt": "2026-04-17T02:00:15Z",
+  "type": "BETA",
+  "sources": [
+    {
+      "id": 310031366,
+      "nodeId": "RE_kwDOEkvWPM4SerQG",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v3.0.0-beta.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/310031366/assets",
+      "assets": [
+        {
+          "id": 398012233,
+          "nodeId": "RA_kwDOEkvWPM4XuS9J",
+          "name": "refinedstorage-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012235,
+          "nodeId": "RA_kwDOEkvWPM4XuS9L",
+          "name": "refinedstorage-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012230,
+          "nodeId": "RA_kwDOEkvWPM4XuS9G",
+          "name": "refinedstorage-autocrafting-api-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 45757,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-autocrafting-api-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012231,
+          "nodeId": "RA_kwDOEkvWPM4XuS9H",
+          "name": "refinedstorage-autocrafting-api-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 111983,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-autocrafting-api-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012244,
+          "nodeId": "RA_kwDOEkvWPM4XuS9U",
+          "name": "refinedstorage-common-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2847249,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-common-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012236,
+          "nodeId": "RA_kwDOEkvWPM4XuS9M",
+          "name": "refinedstorage-common-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3773913,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-common-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012234,
+          "nodeId": "RA_kwDOEkvWPM4XuS9K",
+          "name": "refinedstorage-common-api-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 72721,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-common-api-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012232,
+          "nodeId": "RA_kwDOEkvWPM4XuS9I",
+          "name": "refinedstorage-common-api-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 114242,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-common-api-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012241,
+          "nodeId": "RA_kwDOEkvWPM4XuS9R",
+          "name": "refinedstorage-core-api-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4399,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-core-api-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012237,
+          "nodeId": "RA_kwDOEkvWPM4XuS9N",
+          "name": "refinedstorage-core-api-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 7604,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-core-api-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012243,
+          "nodeId": "RA_kwDOEkvWPM4XuS9T",
+          "name": "refinedstorage-fabric-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1135809,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-fabric-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012238,
+          "nodeId": "RA_kwDOEkvWPM4XuS9O",
+          "name": "refinedstorage-fabric-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5653765,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-fabric-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012240,
+          "nodeId": "RA_kwDOEkvWPM4XuS9Q",
+          "name": "refinedstorage-fabric-api-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4775,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-fabric-api-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012239,
+          "nodeId": "RA_kwDOEkvWPM4XuS9P",
+          "name": "refinedstorage-fabric-api-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 6152,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-fabric-api-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012254,
+          "nodeId": "RA_kwDOEkvWPM4XuS9e",
+          "name": "refinedstorage-neoforge-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1205619,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-neoforge-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012252,
+          "nodeId": "RA_kwDOEkvWPM4XuS9c",
+          "name": "refinedstorage-neoforge-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4636691,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-neoforge-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012246,
+          "nodeId": "RA_kwDOEkvWPM4XuS9W",
+          "name": "refinedstorage-neoforge-api-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4435,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-neoforge-api-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012242,
+          "nodeId": "RA_kwDOEkvWPM4XuS9S",
+          "name": "refinedstorage-neoforge-api-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5376,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-neoforge-api-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012247,
+          "nodeId": "RA_kwDOEkvWPM4XuS9X",
+          "name": "refinedstorage-network-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 71414,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-network-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012250,
+          "nodeId": "RA_kwDOEkvWPM4XuS9a",
+          "name": "refinedstorage-network-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 140867,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-network-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012257,
+          "nodeId": "RA_kwDOEkvWPM4XuS9h",
+          "name": "refinedstorage-network-api-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 23484,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-network-api-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012248,
+          "nodeId": "RA_kwDOEkvWPM4XuS9Y",
+          "name": "refinedstorage-network-api-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33712,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-network-api-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012245,
+          "nodeId": "RA_kwDOEkvWPM4XuS9V",
+          "name": "refinedstorage-network-test-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19817,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-network-test-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012253,
+          "nodeId": "RA_kwDOEkvWPM4XuS9d",
+          "name": "refinedstorage-network-test-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33064,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-network-test-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012258,
+          "nodeId": "RA_kwDOEkvWPM4XuS9i",
+          "name": "refinedstorage-query-parser-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 13493,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-query-parser-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012256,
+          "nodeId": "RA_kwDOEkvWPM4XuS9g",
+          "name": "refinedstorage-query-parser-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 29019,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-query-parser-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012251,
+          "nodeId": "RA_kwDOEkvWPM4XuS9b",
+          "name": "refinedstorage-resource-api-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19299,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-resource-api-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012259,
+          "nodeId": "RA_kwDOEkvWPM4XuS9j",
+          "name": "refinedstorage-resource-api-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33377,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-resource-api-3.0.0-beta.4.jar"
+        },
+        {
+          "id": 398012255,
+          "nodeId": "RA_kwDOEkvWPM4XuS9f",
+          "name": "refinedstorage-storage-api-3.0.0-beta.4-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27692,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-storage-api-3.0.0-beta.4-sources.jar"
+        },
+        {
+          "id": 398012249,
+          "nodeId": "RA_kwDOEkvWPM4XuS9Z",
+          "name": "refinedstorage-storage-api-3.0.0-beta.4.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 44360,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-storage-api-3.0.0-beta.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/310031366/assets{?name,label}",
+      "tagName": "v3.0.0-beta.4",
+      "targetCommitish": "1def6a15b387c5e47a9d640534d55aa1a7840f0b",
+      "body": "### Added\n\n-   You can now configure Refined Storage to not require energy. Controllers are not necessary in this case. Creative variants of items will be hidden and items will function without energy.\n\n### Fixed\n\n-   The mouse cursor can now go out of the scrollbar bounds while scrolling.\n-   You can no longer change the energy capacity to be zero.\n-   Fixed stonecutter patterns not respecting output larger than one.\n-   Fixed title marquee effect when hovering being FPS dependant.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2026-04-16T19:35:26Z",
+      "publishedAt": "2026-04-16T19:35:25Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v3.0.0-beta.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v3.0.0-beta.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/310031366",
+      "createdAt": "2026-04-16T19:25:06Z"
+    },
+    {
+      "id": "XxS4xHo2",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "3.0.0-beta.4",
+      "changelog": "### Added\n\n-   You can now configure Refined Storage to not require energy. Controllers are not necessary in this case. Creative variants of items will be hidden and items will function without energy.\n\n### Fixed\n\n-   The mouse cursor can now go out of the scrollbar bounds while scrolling.\n-   You can no longer change the energy capacity to be zero.\n-   Fixed stonecutter patterns not respecting output larger than one.\n-   Fixed title marquee effect when hovering being FPS dependant.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "a65f49d7aad94e045192b0edd4c04023371b4cc8d638922f62c5df7d301bef7db91e65f57933508115c3c002cd960e99a15a38063f7e49ebccaeda062d45db6b",
+            "sha1": "0813c2a1d12a095896f1135e2d6b2eb76bdb4ec9"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/XxS4xHo2/refinedstorage-neoforge-3.0.0-beta.4.jar",
+          "filename": "refinedstorage-neoforge-3.0.0-beta.4.jar",
+          "primary": true,
+          "size": 4636691
+        }
+      ],
+      "gameVersions": [
+        "26.1.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/XxS4xHo2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/XxS4xHo2",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-16T19:37:03Z"
+    },
+    {
+      "id": 7936700,
+      "dateModified": "2026-04-16T19:41:37Z",
+      "fileLength": 5653765,
+      "fileName": "refinedstorage-fabric-3.0.0-beta.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Fabric",
+        "26.1.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/7936700",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/7936700",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/7936700",
+      "platform": "FABRIC",
+      "createdAt": "2026-04-16T19:37:03Z"
+    },
+    {
+      "id": "19J1nHVf",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "3.0.0-beta.4",
+      "changelog": "### Added\n\n-   You can now configure Refined Storage to not require energy. Controllers are not necessary in this case. Creative variants of items will be hidden and items will function without energy.\n\n### Fixed\n\n-   The mouse cursor can now go out of the scrollbar bounds while scrolling.\n-   You can no longer change the energy capacity to be zero.\n-   Fixed stonecutter patterns not respecting output larger than one.\n-   Fixed title marquee effect when hovering being FPS dependant.",
+      "versionType": "beta",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "c9fd8c2cda299e7aab62b5582ba9c006c97f7de3e7174f41b3d0acad647fe319ea09a19cc6bc7b01bd9db96efdb3e147d4f4d86bff0057e3ac139f668ac0b6ab",
+            "sha1": "0c31cb7b6bf5ffb7207a58b18421de7c9b481081"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/19J1nHVf/refinedstorage-fabric-3.0.0-beta.4.jar",
+          "filename": "refinedstorage-fabric-3.0.0-beta.4.jar",
+          "primary": true,
+          "size": 5653765
+        }
+      ],
+      "gameVersions": [
+        "26.1.2"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/19J1nHVf",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/19J1nHVf",
+      "platform": "FABRIC",
+      "createdAt": "2026-04-16T19:37:03Z"
+    },
+    {
+      "id": 7936701,
+      "dateModified": "2026-04-16T19:42:28Z",
+      "fileLength": 4636691,
+      "fileName": "refinedstorage-neoforge-3.0.0-beta.4.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "26.1.2"
+      ],
+      "releaseType": "BETA",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/7936701",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/7936701",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/7936701",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-16T19:37:03Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "modrinth",
+        "downloads": 22
+      },
+      {
+        "source": "curseforge",
+        "downloads": 94
+      }
+    ],
+    "totalDownloads": 117
+  }
+}
