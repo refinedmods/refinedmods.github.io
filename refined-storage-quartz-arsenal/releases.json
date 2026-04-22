@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases.json",
   "name": "Refined Storage - Quartz Arsenal",
-  "indexedAt": "2026-04-21T13:11:55Z",
+  "indexedAt": "2026-04-22T02:02:01Z",
   "releases": [
     {
       "name": "v0.1.0",
@@ -122,6 +122,19 @@
       "createdAt": "2025-09-12T17:53:04Z"
     },
     {
+      "name": "v1.0.7",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v1.0.7.json",
+      "sources": [
+        "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/pkjt65Nk",
+        "https://www.curseforge.com/api/v1/mods/1230483/files/7961976",
+        "https://www.curseforge.com/api/v1/mods/1230483/files/7961977",
+        "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/stBEBeIt",
+        "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/311871929"
+      ],
+      "createdAt": "2026-04-21T17:38:47Z"
+    },
+    {
       "name": "v2.0.0",
       "type": "RELEASE",
       "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v2.0.0.json",
@@ -159,23 +172,36 @@
         "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/vk3iq96S"
       ],
       "createdAt": "2026-04-14T11:55:48Z"
+    },
+    {
+      "name": "v2.0.3",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v2.0.3.json",
+      "sources": [
+        "https://www.curseforge.com/api/v1/mods/1230483/files/7961738",
+        "https://www.curseforge.com/api/v1/mods/1230483/files/7961739",
+        "https://api.github.com/repos/refinedmods/refinedstorage-quartz-arsenal/releases/311850649",
+        "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/YqQsOqy9",
+        "https://api.modrinth.com/v2/project/refined-storage-quartz-arsenal/version/35lx5KbD"
+      ],
+      "createdAt": "2026-04-21T16:47:17Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 418
+        "downloads": 420
       },
       {
         "source": "modrinth",
-        "downloads": 37177
+        "downloads": 37389
       },
       {
         "source": "curseforge",
-        "downloads": 8740847
+        "downloads": 8757579
       }
     ],
-    "totalDownloads": 8778442
+    "totalDownloads": 8795388
   }
 }
