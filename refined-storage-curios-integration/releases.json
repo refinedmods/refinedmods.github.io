@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-curios-integration/releases.json",
   "name": "Refined Storage - Curios Integration",
-  "indexedAt": "2026-04-26T02:08:22Z",
+  "indexedAt": "2026-04-26T12:55:29Z",
   "releases": [
     {
       "name": "v0.1.0",
@@ -51,13 +51,23 @@
         "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/308377289"
       ],
       "createdAt": "2026-04-13T14:26:09Z"
+    },
+    {
+      "name": "v2.0.1",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage-curios-integration/releases/v2.0.1.json",
+      "sources": [
+        "https://api.modrinth.com/v2/project/refined-storage-curios-integration/version/AQXVmnUq",
+        "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/313711680"
+      ],
+      "createdAt": "2026-04-26T07:33:25Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 240
+        "downloads": 243
       },
       {
         "source": "modrinth",
@@ -65,9 +75,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 8468357
+        "downloads": 8480737
       }
     ],
-    "totalDownloads": 8482167
+    "totalDownloads": 8494550
   }
 }

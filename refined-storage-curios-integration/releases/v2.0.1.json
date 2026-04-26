@@ -1,0 +1,96 @@
+{
+  "url": "https://refinedmods.com/refined-storage-curios-integration/releases/v2.0.1.json",
+  "name": "v2.0.1",
+  "indexedAt": "2026-04-26T12:55:29Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 313711680,
+      "nodeId": "RE_kwDOMKBqa84SstxA",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/tag/v2.0.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/313711680/assets",
+      "assets": [
+        {
+          "id": 405789987,
+          "nodeId": "RA_kwDOMKBqa84YL90j",
+          "name": "refinedstorage-curios-integration-2.0.1-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 7359,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/download/v2.0.1/refinedstorage-curios-integration-2.0.1-sources.jar"
+        },
+        {
+          "id": 405789986,
+          "nodeId": "RA_kwDOMKBqa84YL90i",
+          "name": "refinedstorage-curios-integration-2.0.1.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 10638,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/download/v2.0.1/refinedstorage-curios-integration-2.0.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/313711680/assets{?name,label}",
+      "tagName": "v2.0.1",
+      "targetCommitish": "f34f4f7b726d379364f65a1d6ccab5970a9126fd",
+      "body": "### Fixed\n\n-   Compatibility with Refined Storage v3.0.0-beta.6.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2026-04-26T07:34:49Z",
+      "publishedAt": "2026-04-26T07:34:48Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/tarball/v2.0.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/zipball/v2.0.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-curios-integration/releases/313711680",
+      "createdAt": "2026-04-26T07:33:25Z"
+    },
+    {
+      "id": "AQXVmnUq",
+      "projectId": "s6zjL86N",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.1",
+      "changelog": "### Fixed\n\n-   Compatibility with Refined Storage v3.0.0-beta.6.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "326d3b0b3da99187a0b1d79f4b24feb6356f6e79c7ef6c14e1e289ea09289bfc99c5d4634ed35757175f85e6e8a71fab726405653005aabca3c0f8faf10aae25",
+            "sha1": "3b01dc65ed8ddcefd8cca27116004497d9d655c6"
+          },
+          "url": "https://cdn.modrinth.com/data/s6zjL86N/versions/AQXVmnUq/refinedstorage-curios-integration-2.0.1.jar",
+          "filename": "refinedstorage-curios-integration-2.0.1.jar",
+          "primary": true,
+          "size": 10638
+        }
+      ],
+      "gameVersions": [
+        "26.1.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-curios-integration/version/AQXVmnUq",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-curios-integration/version/AQXVmnUq",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-26T07:35:15Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 3
+      },
+      {
+        "source": "modrinth",
+        "downloads": 0
+      }
+    ],
+    "totalDownloads": 3
+  }
+}
