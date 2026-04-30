@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v2.0.3.json",
   "name": "v2.0.3",
-  "indexedAt": "2026-04-29T13:33:20Z",
+  "indexedAt": "2026-04-30T02:29:41Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 68244,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v2.0.3/refinedstorage-quartz-arsenal-neoforge-2.0.3.jar"
         }
       ],
@@ -178,32 +178,6 @@
       "createdAt": "2026-04-21T16:50:32Z"
     },
     {
-      "id": 7961739,
-      "dateModified": "2026-04-21T16:54:12Z",
-      "fileLength": 68244,
-      "fileName": "refinedstorage-quartz-arsenal-neoforge-2.0.3.jar",
-      "status": "APPROVED",
-      "gameVersions": [
-        "NeoForge",
-        "26.1.2"
-      ],
-      "releaseType": "RELEASE",
-      "user": {
-        "username": "raoulvdberge",
-        "id": "24123658"
-      },
-      "additionalFilesCount": 0,
-      "hasServerPack": false,
-      "additionalServerPackFilesCount": 0,
-      "isEarlyAccessContent": false,
-      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal/download/7961739",
-      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal/files/7961739",
-      "source": "curseforge",
-      "url": "https://www.curseforge.com/api/v1/mods/1230483/files/7961739",
-      "platform": "NEOFORGE",
-      "createdAt": "2026-04-21T16:50:54Z"
-    },
-    {
       "id": 7961738,
       "dateModified": "2026-04-21T16:54:13Z",
       "fileLength": 67071,
@@ -228,23 +202,49 @@
       "url": "https://www.curseforge.com/api/v1/mods/1230483/files/7961738",
       "platform": "FABRIC",
       "createdAt": "2026-04-21T16:50:54Z"
+    },
+    {
+      "id": 7961739,
+      "dateModified": "2026-04-21T16:54:12Z",
+      "fileLength": 68244,
+      "fileName": "refinedstorage-quartz-arsenal-neoforge-2.0.3.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "NeoForge",
+        "26.1.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal/download/7961739",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal/files/7961739",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230483/files/7961739",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-04-21T16:50:54Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "source": "modrinth",
-        "downloads": 114
+        "downloads": 116
       },
       {
         "source": "curseforge",
-        "downloads": 18629
+        "downloads": 18655
       }
     ],
-    "totalDownloads": 18748
+    "totalDownloads": 18777
   }
 }
