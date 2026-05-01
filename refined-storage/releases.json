@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases.json",
   "name": "Refined Storage",
-  "indexedAt": "2026-04-30T13:33:36Z",
+  "indexedAt": "2026-05-01T13:07:50Z",
   "releases": [
     {
       "name": "v0.1.0-alpha",
@@ -3693,6 +3693,19 @@
       "createdAt": "2026-04-21T16:49:27Z"
     },
     {
+      "name": "v2.0.5",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage/releases/v2.0.5.json",
+      "sources": [
+        "https://api.modrinth.com/v2/project/refined-storage/version/hVcXtoQ1",
+        "https://api.modrinth.com/v2/project/refined-storage/version/pcnM8PeB",
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/315993073",
+        "https://www.curseforge.com/api/v1/mods/243076/files/8016646",
+        "https://www.curseforge.com/api/v1/mods/243076/files/8016647"
+      ],
+      "createdAt": "2026-04-30T18:35:05Z"
+    },
+    {
       "name": "v3.0.0-beta.1",
       "type": "BETA",
       "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.1.json",
@@ -3769,23 +3782,36 @@
         "https://api.github.com/repos/refinedmods/refinedstorage2/releases/313708297"
       ],
       "createdAt": "2026-04-26T07:00:01Z"
+    },
+    {
+      "name": "v3.0.0-beta.7",
+      "type": "BETA",
+      "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.7.json",
+      "sources": [
+        "https://api.modrinth.com/v2/project/refined-storage/version/zQTpahcN",
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/315998396",
+        "https://www.curseforge.com/api/v1/mods/243076/files/8016765",
+        "https://www.curseforge.com/api/v1/mods/243076/files/8016766",
+        "https://api.modrinth.com/v2/project/refined-storage/version/PtkP9f52"
+      ],
+      "createdAt": "2026-04-30T18:55:23Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 36378
+        "downloads": 36386
       },
       {
         "source": "modrinth",
-        "downloads": 1080029
+        "downloads": 1086080
       },
       {
         "source": "curseforge",
-        "downloads": 143939968
+        "downloads": 144009650
       }
     ],
-    "totalDownloads": 145056375
+    "totalDownloads": 145132116
   }
 }
