@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.0.json",
   "name": "v3.0.0",
-  "indexedAt": "2026-05-15T02:38:21Z",
+  "indexedAt": "2026-05-17T02:33:55Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5500525,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0/refinedstorage-fabric-3.0.0.jar"
         },
         {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4489106,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0/refinedstorage-neoforge-3.0.0.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 3
+        "downloads": 5
       },
       {
         "source": "modrinth",
-        "downloads": 175
+        "downloads": 514
       },
       {
         "source": "curseforge",
-        "downloads": 611
+        "downloads": 12813
       }
     ],
-    "totalDownloads": 789
+    "totalDownloads": 13332
   }
 }
