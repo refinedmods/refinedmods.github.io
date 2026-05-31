@@ -1,0 +1,492 @@
+{
+  "url": "https://refinedmods.com/refined-storage/releases/v2.0.7.json",
+  "name": "v2.0.7",
+  "indexedAt": "2026-05-31T15:36:33Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 323865101,
+      "nodeId": "RE_kwDOEkvWPM4TTcoN",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.7",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/323865101/assets",
+      "assets": [
+        {
+          "id": 422440093,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyd",
+          "name": "refinedstorage-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440085,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyV",
+          "name": "refinedstorage-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-2.0.7.jar"
+        },
+        {
+          "id": 422440099,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyj",
+          "name": "refinedstorage-autocrafting-api-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 46152,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-autocrafting-api-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440096,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyg",
+          "name": "refinedstorage-autocrafting-api-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 112173,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-autocrafting-api-2.0.7.jar"
+        },
+        {
+          "id": 422440106,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyq",
+          "name": "refinedstorage-common-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2627906,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-common-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440098,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyi",
+          "name": "refinedstorage-common-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3534508,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-common-2.0.7.jar"
+        },
+        {
+          "id": 422440101,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyl",
+          "name": "refinedstorage-common-api-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 72428,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-common-api-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440092,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyc",
+          "name": "refinedstorage-common-api-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 110656,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-common-api-2.0.7.jar"
+        },
+        {
+          "id": 422440086,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyW",
+          "name": "refinedstorage-core-api-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5271,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-core-api-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440087,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyX",
+          "name": "refinedstorage-core-api-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8665,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-core-api-2.0.7.jar"
+        },
+        {
+          "id": 422440102,
+          "nodeId": "RA_kwDOEkvWPM4ZLeym",
+          "name": "refinedstorage-fabric-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1182177,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-fabric-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440104,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyo",
+          "name": "refinedstorage-fabric-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5353138,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-fabric-2.0.7.jar"
+        },
+        {
+          "id": 422440088,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyY",
+          "name": "refinedstorage-fabric-api-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5495,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-fabric-api-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440094,
+          "nodeId": "RA_kwDOEkvWPM4ZLeye",
+          "name": "refinedstorage-fabric-api-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 6403,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-fabric-api-2.0.7.jar"
+        },
+        {
+          "id": 422440108,
+          "nodeId": "RA_kwDOEkvWPM4ZLeys",
+          "name": "refinedstorage-neoforge-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1203844,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-neoforge-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440100,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyk",
+          "name": "refinedstorage-neoforge-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4359886,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-neoforge-2.0.7.jar"
+        },
+        {
+          "id": 422440091,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyb",
+          "name": "refinedstorage-neoforge-api-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3165,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-neoforge-api-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440089,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyZ",
+          "name": "refinedstorage-neoforge-api-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3829,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-neoforge-api-2.0.7.jar"
+        },
+        {
+          "id": 422440111,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyv",
+          "name": "refinedstorage-network-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 71598,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-network-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440105,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyp",
+          "name": "refinedstorage-network-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 140700,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-network-2.0.7.jar"
+        },
+        {
+          "id": 422440097,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyh",
+          "name": "refinedstorage-network-api-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 23790,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-network-api-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440112,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyw",
+          "name": "refinedstorage-network-api-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33988,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-network-api-2.0.7.jar"
+        },
+        {
+          "id": 422440110,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyu",
+          "name": "refinedstorage-network-test-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19935,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-network-test-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440116,
+          "nodeId": "RA_kwDOEkvWPM4ZLey0",
+          "name": "refinedstorage-network-test-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33185,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-network-test-2.0.7.jar"
+        },
+        {
+          "id": 422440095,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyf",
+          "name": "refinedstorage-query-parser-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 13590,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-query-parser-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440117,
+          "nodeId": "RA_kwDOEkvWPM4ZLey1",
+          "name": "refinedstorage-query-parser-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 29121,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-query-parser-2.0.7.jar"
+        },
+        {
+          "id": 422440103,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyn",
+          "name": "refinedstorage-resource-api-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19419,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-resource-api-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440115,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyz",
+          "name": "refinedstorage-resource-api-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33422,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-resource-api-2.0.7.jar"
+        },
+        {
+          "id": 422440109,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyt",
+          "name": "refinedstorage-storage-api-2.0.7-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27883,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-storage-api-2.0.7-sources.jar"
+        },
+        {
+          "id": 422440114,
+          "nodeId": "RA_kwDOEkvWPM4ZLeyy",
+          "name": "refinedstorage-storage-api-2.0.7.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 44545,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.7/refinedstorage-storage-api-2.0.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/323865101/assets{?name,label}",
+      "tagName": "v2.0.7",
+      "targetCommitish": "1bfc1f4b3112e4e04d4f17b263c42ed91eb18fbd",
+      "body": "### Changed\n\n-   The slot limit for a fluid in the processing pattern configuration has been increased to maximum 64 buckets.\n\n### Fixed\n\n-   Grid search only matching original item names and not renamed items.\n-   Grid tooltip search not taking into account player sensitive tooltip information.\n-   The slot limit for an item in the processing pattern configuration being calculated in a stack insensitive way.\n-   Crash when a crafting pattern\u0027s recipe returns an empty output.\n-   Autocrafting tasks getting stuck when multiple tasks using the same pattern were crafting through the same external machine at the same time.\n-   Ability to insert non-pattern items into Autocrafters via the Autocrafter Manager.\n-   Autocrafting Monitor not notified (without reopening) when an external machine became full or unavailable.\n-   Wireless Grid reporting duplicate amount of resources.\n-   Grid updates are now throttled to 4 times per second per resource type to prevent client performance issues. Throttled updates will be queued and synced every second.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2026-05-17T10:31:12Z",
+      "publishedAt": "2026-05-17T10:31:11Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.7",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.7",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/323865101",
+      "createdAt": "2026-05-17T10:21:39Z"
+    },
+    {
+      "id": "4PpNhcyh",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.7",
+      "changelog": "### Changed\n\n-   The slot limit for a fluid in the processing pattern configuration has been increased to maximum 64 buckets.\n\n### Fixed\n\n-   Grid search only matching original item names and not renamed items.\n-   Grid tooltip search not taking into account player sensitive tooltip information.\n-   The slot limit for an item in the processing pattern configuration being calculated in a stack insensitive way.\n-   Crash when a crafting pattern\u0027s recipe returns an empty output.\n-   Autocrafting tasks getting stuck when multiple tasks using the same pattern were crafting through the same external machine at the same time.\n-   Ability to insert non-pattern items into Autocrafters via the Autocrafter Manager.\n-   Autocrafting Monitor not notified (without reopening) when an external machine became full or unavailable.\n-   Wireless Grid reporting duplicate amount of resources.\n-   Grid updates are now throttled to 4 times per second per resource type to prevent client performance issues. Throttled updates will be queued and synced every second.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "360b057b97360b293c7a2f81e18043c94f308191b501725d30fa44e2df36cc752fffdb2bb4804cbf4cbbdd11db7cbe2559479f33a7affe38e3774af2ff41ee4f",
+            "sha1": "6c5e3de20fe0ec7f8e0991e9cec1abc347a2e12d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/4PpNhcyh/refinedstorage-fabric-2.0.7.jar",
+          "filename": "refinedstorage-fabric-2.0.7.jar",
+          "primary": true,
+          "size": 5353138
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/4PpNhcyh",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/4PpNhcyh",
+      "platform": "FABRIC",
+      "createdAt": "2026-05-17T10:32:37Z"
+    },
+    {
+      "id": "rtvR2XE2",
+      "projectId": "KDvYkUg3",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.7",
+      "changelog": "### Changed\n\n-   The slot limit for a fluid in the processing pattern configuration has been increased to maximum 64 buckets.\n\n### Fixed\n\n-   Grid search only matching original item names and not renamed items.\n-   Grid tooltip search not taking into account player sensitive tooltip information.\n-   The slot limit for an item in the processing pattern configuration being calculated in a stack insensitive way.\n-   Crash when a crafting pattern\u0027s recipe returns an empty output.\n-   Autocrafting tasks getting stuck when multiple tasks using the same pattern were crafting through the same external machine at the same time.\n-   Ability to insert non-pattern items into Autocrafters via the Autocrafter Manager.\n-   Autocrafting Monitor not notified (without reopening) when an external machine became full or unavailable.\n-   Wireless Grid reporting duplicate amount of resources.\n-   Grid updates are now throttled to 4 times per second per resource type to prevent client performance issues. Throttled updates will be queued and synced every second.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "e44b7e5690b5d6cfe3e66e3903e822dfa20ae19d294568881b43b6bcdc38c49cc079b201349eb01172509b0444b2e551a9465bcd09eb266342451cbe4584a7d2",
+            "sha1": "bfb73c517c76b250836a1cf6e5f8712fa7ea1b7d"
+          },
+          "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/rtvR2XE2/refinedstorage-neoforge-2.0.7.jar",
+          "filename": "refinedstorage-neoforge-2.0.7.jar",
+          "primary": true,
+          "size": 4359886
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage/version/rtvR2XE2",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage/version/rtvR2XE2",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-05-17T10:32:37Z"
+    },
+    {
+      "id": 8102975,
+      "dateModified": "2026-05-17T10:41:22Z",
+      "fileLength": 4359886,
+      "fileName": "refinedstorage-neoforge-2.0.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "1.21.1",
+        "NeoForge"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/8102975",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/8102975",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/8102975",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-05-17T10:32:43Z"
+    },
+    {
+      "id": 8102976,
+      "dateModified": "2026-05-17T10:41:50Z",
+      "fileLength": 5353138,
+      "fileName": "refinedstorage-fabric-2.0.7.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Fabric",
+        "1.21.1"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/8102976",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/8102976",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/243076/files/8102976",
+      "platform": "FABRIC",
+      "createdAt": "2026-05-17T10:32:44Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 0
+      },
+      {
+        "source": "modrinth",
+        "downloads": 683
+      },
+      {
+        "source": "curseforge",
+        "downloads": 9157
+      }
+    ],
+    "totalDownloads": 9840
+  }
+}

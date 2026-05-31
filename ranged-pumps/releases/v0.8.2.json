@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.8.2.json",
   "name": "v0.8.2",
-  "indexedAt": "2026-05-17T02:35:01Z",
+  "indexedAt": "2026-05-31T15:37:41Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 26035,
-          "downloadCount": 13,
+          "downloadCount": 14,
           "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.8.2/rangedpumps-0.8.2.jar"
         }
       ],
@@ -102,17 +102,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 13
+        "downloads": 14
       },
       {
         "source": "modrinth",
-        "downloads": 1235
+        "downloads": 1261
       },
       {
         "source": "curseforge",
-        "downloads": 8454086
+        "downloads": 8462449
       }
     ],
-    "totalDownloads": 8455334
+    "totalDownloads": 8463724
   }
 }
