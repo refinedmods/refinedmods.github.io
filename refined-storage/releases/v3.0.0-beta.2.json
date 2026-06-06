@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.2.json",
   "name": "v3.0.0-beta.2",
-  "indexedAt": "2026-06-05T14:32:06Z",
+  "indexedAt": "2026-06-06T02:32:55Z",
   "type": "BETA",
   "sources": [
     {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 72697,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.2/refinedstorage-common-api-3.0.0-beta.2-sources.jar"
         },
         {
@@ -117,7 +117,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 7604,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.2/refinedstorage-core-api-3.0.0-beta.2.jar"
         },
         {
@@ -150,7 +150,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4772,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.2/refinedstorage-fabric-api-3.0.0-beta.2-sources.jar"
         },
         {
@@ -249,7 +249,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 33712,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.2/refinedstorage-network-api-3.0.0-beta.2.jar"
         },
         {
@@ -271,7 +271,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 33064,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.2/refinedstorage-network-test-3.0.0-beta.2.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 8
+        "downloads": 13
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 7709
       }
     ],
-    "totalDownloads": 7960
+    "totalDownloads": 7965
   }
 }
