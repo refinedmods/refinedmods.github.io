@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.2.json",
   "name": "v3.0.2",
-  "indexedAt": "2026-06-06T02:32:55Z",
+  "indexedAt": "2026-06-06T13:16:10Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 112487,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.2/refinedstorage-autocrafting-api-3.0.2.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3628953,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.2/refinedstorage-common-3.0.2.jar"
         },
         {
@@ -205,7 +205,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5424,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.2/refinedstorage-neoforge-api-3.0.2.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 4
+        "downloads": 7
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 287
       }
     ],
-    "totalDownloads": 377
+    "totalDownloads": 380
   }
 }
