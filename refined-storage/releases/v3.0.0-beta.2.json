@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.2.json",
   "name": "v3.0.0-beta.2",
-  "indexedAt": "2026-06-07T02:51:40Z",
+  "indexedAt": "2026-06-07T13:26:56Z",
   "type": "BETA",
   "sources": [
     {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5568483,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.2/refinedstorage-fabric-3.0.0-beta.2.jar"
         },
         {
@@ -216,7 +216,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 71414,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.2/refinedstorage-network-3.0.0-beta.2-sources.jar"
         },
         {
@@ -315,7 +315,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 33377,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.2/refinedstorage-resource-api-3.0.0-beta.2.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 18
+        "downloads": 21
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 7709
       }
     ],
-    "totalDownloads": 7970
+    "totalDownloads": 7973
   }
 }
