@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.2.json",
   "name": "v3.0.2",
-  "indexedAt": "2026-06-07T13:26:56Z",
+  "indexedAt": "2026-06-08T02:54:16Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -62,7 +62,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 2694039,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.2/refinedstorage-common-3.0.2-sources.jar"
         },
         {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 72995,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.2/refinedstorage-common-api-3.0.2-sources.jar"
         },
         {
@@ -227,7 +227,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 141174,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.2/refinedstorage-network-3.0.2.jar"
         },
         {
@@ -271,7 +271,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 35436,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.2/refinedstorage-network-test-3.0.2.jar"
         },
         {
@@ -293,7 +293,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 29019,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.2/refinedstorage-query-parser-3.0.2.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 14
+        "downloads": 19
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 287
       }
     ],
-    "totalDownloads": 387
+    "totalDownloads": 392
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v2.0.5.json",
   "name": "v2.0.5",
-  "indexedAt": "2026-06-07T13:27:42Z",
+  "indexedAt": "2026-06-08T02:55:07Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 52576,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v2.0.5/refinedstorage-quartz-arsenal-common-2.0.5.jar"
         },
         {
@@ -234,7 +234,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "source": "modrinth",
@@ -245,6 +245,6 @@
         "downloads": 63705
       }
     ],
-    "totalDownloads": 64204
+    "totalDownloads": 64205
   }
 }

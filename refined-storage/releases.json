@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases.json",
   "name": "Refined Storage",
-  "indexedAt": "2026-06-07T13:26:56Z",
+  "indexedAt": "2026-06-08T02:54:16Z",
   "releases": [
     {
       "name": "v0.1.0-alpha",
@@ -3745,6 +3745,19 @@
       "createdAt": "2026-05-17T18:07:28Z"
     },
     {
+      "name": "v2.0.9",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage/releases/v2.0.9.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/335630996",
+        "https://www.curseforge.com/api/v1/mods/243076/files/8211701",
+        "https://www.curseforge.com/api/v1/mods/243076/files/8211700",
+        "https://api.modrinth.com/v2/project/refined-storage/version/PMoDGaFz",
+        "https://api.modrinth.com/v2/project/refined-storage/version/lHHiI26k"
+      ],
+      "createdAt": "2026-06-07T15:57:53Z"
+    },
+    {
       "name": "v3.0.0-beta.1",
       "type": "BETA",
       "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.1.json",
@@ -3951,23 +3964,36 @@
         "https://api.modrinth.com/v2/project/refined-storage/version/Tgt0ejtB"
       ],
       "createdAt": "2026-05-31T14:43:15Z"
+    },
+    {
+      "name": "v3.2.1",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/refined-storage/releases/v3.2.1.json",
+      "sources": [
+        "https://www.curseforge.com/api/v1/mods/243076/files/8211385",
+        "https://api.github.com/repos/refinedmods/refinedstorage2/releases/335620461",
+        "https://api.modrinth.com/v2/project/refined-storage/version/P12kjgPK",
+        "https://www.curseforge.com/api/v1/mods/243076/files/8211383",
+        "https://api.modrinth.com/v2/project/refined-storage/version/kRu67Bk2"
+      ],
+      "createdAt": "2026-06-07T15:00:10Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 36716
+        "downloads": 36733
       },
       {
         "source": "modrinth",
-        "downloads": 1253289
+        "downloads": 1255671
       },
       {
         "source": "curseforge",
         "downloads": 146957277
       }
     ],
-    "totalDownloads": 148247282
+    "totalDownloads": 148249681
   }
 }
