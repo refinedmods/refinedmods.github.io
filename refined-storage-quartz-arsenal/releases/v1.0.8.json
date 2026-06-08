@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v1.0.8.json",
   "name": "v1.0.8",
-  "indexedAt": "2026-06-08T02:55:07Z",
+  "indexedAt": "2026-06-08T15:35:55Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.8/refinedstorage-quartz-arsenal-1.0.8-sources.jar"
         },
         {
@@ -40,7 +40,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 34542,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.8/refinedstorage-quartz-arsenal-common-1.0.8-sources.jar"
         },
         {
@@ -234,17 +234,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 6
+        "downloads": 8
       },
       {
         "source": "modrinth",
-        "downloads": 3142
+        "downloads": 3234
       },
       {
         "source": "curseforge",
-        "downloads": 119044
+        "downloads": 129663
       }
     ],
-    "totalDownloads": 122192
+    "totalDownloads": 132905
   }
 }
