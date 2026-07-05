@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.1.0.json",
   "name": "v3.1.0",
-  "indexedAt": "2026-07-05T02:27:49Z",
+  "indexedAt": "2026-07-05T13:16:29Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -293,7 +293,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 29019,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.1.0/refinedstorage-query-parser-3.1.0.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 37
+        "downloads": 38
       },
       {
         "source": "modrinth",
@@ -484,9 +484,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 23278
+        "downloads": 23280
       }
     ],
-    "totalDownloads": 23741
+    "totalDownloads": 23744
   }
 }
