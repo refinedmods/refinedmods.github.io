@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.9.json",
   "name": "v2.0.9",
-  "indexedAt": "2026-07-04T13:07:44Z",
+  "indexedAt": "2026-07-05T02:27:49Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 110656,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.9/refinedstorage-common-api-2.0.9.jar"
         },
         {
@@ -238,7 +238,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 23790,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.9/refinedstorage-network-api-2.0.9-sources.jar"
         },
         {
@@ -282,7 +282,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 13590,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.9/refinedstorage-query-parser-2.0.9-sources.jar"
         },
         {
@@ -326,7 +326,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 27883,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.9/refinedstorage-storage-api-2.0.9-sources.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 37
+        "downloads": 41
       },
       {
         "source": "modrinth",
-        "downloads": 18481
+        "downloads": 18897
       },
       {
         "source": "curseforge",
-        "downloads": 340422
+        "downloads": 355957
       }
     ],
-    "totalDownloads": 358940
+    "totalDownloads": 374895
   }
 }
