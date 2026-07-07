@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.8.json",
   "name": "v3.0.0-beta.8",
-  "indexedAt": "2026-07-07T02:27:39Z",
+  "indexedAt": "2026-07-07T14:13:38Z",
   "type": "BETA",
   "sources": [
     {
@@ -40,7 +40,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 45764,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.8/refinedstorage-autocrafting-api-3.0.0-beta.8-sources.jar"
         },
         {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 111846,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.8/refinedstorage-autocrafting-api-3.0.0-beta.8.jar"
         },
         {
@@ -216,7 +216,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 71416,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.8/refinedstorage-network-3.0.0-beta.8-sources.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 82
+        "downloads": 85
       },
       {
         "source": "modrinth",
-        "downloads": 1940
+        "downloads": 1943
       },
       {
         "source": "curseforge",
-        "downloads": 43963
+        "downloads": 43965
       }
     ],
-    "totalDownloads": 45985
+    "totalDownloads": 45993
   }
 }
