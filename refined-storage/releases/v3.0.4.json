@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.4.json",
   "name": "v3.0.4",
-  "indexedAt": "2026-07-09T02:14:07Z",
+  "indexedAt": "2026-07-09T14:40:27Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4399,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.4/refinedstorage-core-api-3.0.4-sources.jar"
         },
         {
@@ -260,7 +260,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 19925,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.4/refinedstorage-network-test-3.0.4-sources.jar"
         },
         {
@@ -304,7 +304,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 19299,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.4/refinedstorage-resource-api-3.0.4-sources.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 45
+        "downloads": 48
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 17955
       }
     ],
-    "totalDownloads": 18528
+    "totalDownloads": 18531
   }
 }

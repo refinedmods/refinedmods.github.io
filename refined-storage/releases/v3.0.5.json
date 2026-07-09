@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.5.json",
   "name": "v3.0.5",
-  "indexedAt": "2026-07-09T02:14:07Z",
+  "indexedAt": "2026-07-09T14:40:27Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -216,7 +216,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 71413,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-network-3.0.5-sources.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 80
+        "downloads": 81
       },
       {
         "source": "modrinth",
-        "downloads": 1955
+        "downloads": 1956
       },
       {
         "source": "curseforge",
-        "downloads": 48177
+        "downloads": 48183
       }
     ],
-    "totalDownloads": 50212
+    "totalDownloads": 50220
   }
 }
