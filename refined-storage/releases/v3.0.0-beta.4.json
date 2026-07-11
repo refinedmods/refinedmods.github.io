@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.4.json",
   "name": "v3.0.0-beta.4",
-  "indexedAt": "2026-07-10T14:06:02Z",
+  "indexedAt": "2026-07-11T01:59:55Z",
   "type": "BETA",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 111983,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-autocrafting-api-3.0.0-beta.4.jar"
         },
         {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 114242,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-common-api-3.0.0-beta.4.jar"
         },
         {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4399,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-core-api-3.0.0-beta.4-sources.jar"
         },
         {
@@ -271,7 +271,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 33064,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-network-test-3.0.0-beta.4.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 34
+        "downloads": 38
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 28126
       }
     ],
-    "totalDownloads": 28790
+    "totalDownloads": 28794
   }
 }
