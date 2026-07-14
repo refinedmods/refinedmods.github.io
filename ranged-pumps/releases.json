@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases.json",
   "name": "Ranged Pumps",
-  "indexedAt": "2026-07-13T14:16:42Z",
+  "indexedAt": "2026-07-14T01:51:59Z",
   "releases": [
     {
       "name": "v0.1.0",
@@ -211,23 +211,34 @@
         "https://api.modrinth.com/v2/project/ranged-pumps/version/UXBUFwl2"
       ],
       "createdAt": "2024-07-06T16:47:00Z"
+    },
+    {
+      "name": "v2.0.0",
+      "type": "RELEASE",
+      "url": "https://refinedmods.com/ranged-pumps/releases/v2.0.0.json",
+      "sources": [
+        "https://api.github.com/repos/refinedmods/rangedpumps/releases/353219160",
+        "https://api.modrinth.com/v2/project/ranged-pumps/version/3zZyW9zS",
+        "https://www.curseforge.com/api/v1/mods/247496/files/8425210"
+      ],
+      "createdAt": "2026-07-13T14:31:34Z"
     }
   ],
   "stats": {
     "downloads": [
       {
         "source": "github",
-        "downloads": 239
+        "downloads": 241
       },
       {
         "source": "modrinth",
-        "downloads": 15732
+        "downloads": 15738
       },
       {
         "source": "curseforge",
-        "downloads": 75384980
+        "downloads": 75399482
       }
     ],
-    "totalDownloads": 75400951
+    "totalDownloads": 75415461
   }
 }

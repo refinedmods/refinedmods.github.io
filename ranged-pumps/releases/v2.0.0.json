@@ -1,0 +1,128 @@
+{
+  "url": "https://refinedmods.com/ranged-pumps/releases/v2.0.0.json",
+  "name": "v2.0.0",
+  "indexedAt": "2026-07-14T01:51:59Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 353219160,
+      "nodeId": "RE_kwDOA8bqCc4VDbJY",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v2.0.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/353219160/assets",
+      "assets": [
+        {
+          "id": 475564834,
+          "nodeId": "RA_kwDOA8bqCc4cWIsi",
+          "name": "rangedpumps-2.0.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19027,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v2.0.0/rangedpumps-2.0.0-sources.jar"
+        },
+        {
+          "id": 475564833,
+          "nodeId": "RA_kwDOA8bqCc4cWIsh",
+          "name": "rangedpumps-2.0.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 29512,
+          "downloadCount": 2,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v2.0.0/rangedpumps-2.0.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/353219160/assets{?name,label}",
+      "tagName": "v2.0.0",
+      "targetCommitish": "4632a3dfb0826f4f5a5813107e54910330b5ae8f",
+      "body": "\n### Changed\n\n-   Ported to Minecraft 26.1.2.\n\n### Added\n\n-   Turkish translation.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2026-07-13T14:32:29Z",
+      "publishedAt": "2026-07-13T14:32:29Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v2.0.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v2.0.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/353219160",
+      "createdAt": "2026-07-13T14:31:34Z"
+    },
+    {
+      "id": 8425210,
+      "dateModified": "2026-07-13T14:39:34Z",
+      "fileLength": 29512,
+      "fileName": "rangedpumps-2.0.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Client",
+        "NeoForge",
+        "Server",
+        "26.1.2"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/download/8425210",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps/files/8425210",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/247496/files/8425210",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-07-13T14:32:55Z"
+    },
+    {
+      "id": "3zZyW9zS",
+      "projectId": "ceOkTRlU",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "2.0.0",
+      "changelog": "\n### Changed\n\n-   Ported to Minecraft 26.1.2.\n\n### Added\n\n-   Turkish translation.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "50f2c26c36f46652b9ae4afeb4c1db7c330e666471bf3b6b3902eaed33ddb6fbbaf55a937f8e0e9e8036df61dac2d1cfd21d1f854a33522667bb495a46315fa4",
+            "sha1": "39b3b2f5760f338ddad0f4d883751333ae0993ba"
+          },
+          "url": "https://cdn.modrinth.com/data/ceOkTRlU/versions/3zZyW9zS/rangedpumps-2.0.0.jar",
+          "filename": "rangedpumps-2.0.0.jar",
+          "primary": true,
+          "size": 29512
+        }
+      ],
+      "gameVersions": [
+        "26.1.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/ranged-pumps/version/3zZyW9zS",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/ranged-pumps/version/3zZyW9zS",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-07-13T14:33:00Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 2
+      },
+      {
+        "source": "modrinth",
+        "downloads": 1
+      },
+      {
+        "source": "curseforge",
+        "downloads": 19
+      }
+    ],
+    "totalDownloads": 22
+  }
+}
