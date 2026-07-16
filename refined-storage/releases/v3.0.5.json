@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.5.json",
   "name": "v3.0.5",
-  "indexedAt": "2026-07-16T01:57:52Z",
+  "indexedAt": "2026-07-16T13:27:00Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -172,7 +172,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 1213732,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-neoforge-3.0.5-sources.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 90
+        "downloads": 91
       },
       {
         "source": "modrinth",
@@ -484,9 +484,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 48232
+        "downloads": 48238
       }
     ],
-    "totalDownloads": 50279
+    "totalDownloads": 50286
   }
 }
