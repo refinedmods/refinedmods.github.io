@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.8.json",
   "name": "v2.0.8",
-  "indexedAt": "2026-07-19T13:00:49Z",
+  "indexedAt": "2026-07-20T02:22:13Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4359902,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.8/refinedstorage-neoforge-2.0.8.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 87
+        "downloads": 88
       },
       {
         "source": "modrinth",
-        "downloads": 20654
+        "downloads": 20756
       },
       {
         "source": "curseforge",
-        "downloads": 301239
+        "downloads": 301712
       }
     ],
-    "totalDownloads": 321980
+    "totalDownloads": 322556
   }
 }
