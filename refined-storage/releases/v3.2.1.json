@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.2.1.json",
   "name": "v3.2.1",
-  "indexedAt": "2026-07-22T13:26:58Z",
+  "indexedAt": "2026-07-23T02:06:21Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4538659,
-          "downloadCount": 7,
+          "downloadCount": 8,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-neoforge-3.2.1.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 198
+        "downloads": 199
       },
       {
         "source": "modrinth",
-        "downloads": 5197
+        "downloads": 5282
       },
       {
         "source": "curseforge",
-        "downloads": 195041
+        "downloads": 197335
       }
     ],
-    "totalDownloads": 200436
+    "totalDownloads": 202816
   }
 }

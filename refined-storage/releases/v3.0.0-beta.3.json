@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.3.json",
   "name": "v3.0.0-beta.3",
-  "indexedAt": "2026-07-22T13:26:58Z",
+  "indexedAt": "2026-07-23T02:06:21Z",
   "type": "BETA",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 114200,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.3/refinedstorage-common-api-3.0.0-beta.3.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 58
+        "downloads": 59
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 951
       }
     ],
-    "totalDownloads": 1135
+    "totalDownloads": 1136
   }
 }
