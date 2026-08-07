@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v1.0.1.json",
   "name": "v1.0.1",
-  "indexedAt": "2026-08-06T13:49:18Z",
+  "indexedAt": "2026-08-07T02:18:43Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 66415,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v1.0.1/refinedstorage-quartz-arsenal-neoforge-1.0.1.jar"
         }
       ],
@@ -234,17 +234,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 9
+        "downloads": 10
       },
       {
         "source": "modrinth",
-        "downloads": 650
+        "downloads": 652
       },
       {
         "source": "curseforge",
-        "downloads": 363012
+        "downloads": 363013
       }
     ],
-    "totalDownloads": 363671
+    "totalDownloads": 363675
   }
 }
