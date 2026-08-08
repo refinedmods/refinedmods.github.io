@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.2.1.json",
   "name": "v3.2.1",
-  "indexedAt": "2026-08-07T12:45:17Z",
+  "indexedAt": "2026-08-08T01:04:34Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 17,
+          "downloadCount": 18,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-3.2.1-sources.jar"
         },
         {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 22,
+          "downloadCount": 23,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-3.2.1.jar"
         },
         {
@@ -40,7 +40,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 46923,
-          "downloadCount": 9,
+          "downloadCount": 10,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-autocrafting-api-3.2.1-sources.jar"
         },
         {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 113671,
-          "downloadCount": 9,
+          "downloadCount": 10,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-autocrafting-api-3.2.1.jar"
         },
         {
@@ -62,7 +62,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 2711448,
-          "downloadCount": 8,
+          "downloadCount": 9,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-common-3.2.1-sources.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 3670222,
-          "downloadCount": 10,
+          "downloadCount": 11,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-common-3.2.1.jar"
         },
         {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 73548,
-          "downloadCount": 7,
+          "downloadCount": 8,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-common-api-3.2.1-sources.jar"
         },
         {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 116279,
-          "downloadCount": 7,
+          "downloadCount": 8,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-common-api-3.2.1.jar"
         },
         {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4399,
-          "downloadCount": 8,
+          "downloadCount": 9,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-core-api-3.2.1-sources.jar"
         },
         {
@@ -117,7 +117,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 7604,
-          "downloadCount": 11,
+          "downloadCount": 12,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-core-api-3.2.1.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 240
+        "downloads": 250
       },
       {
         "source": "modrinth",
-        "downloads": 6513
+        "downloads": 6555
       },
       {
         "source": "curseforge",
-        "downloads": 247847
+        "downloads": 249674
       }
     ],
-    "totalDownloads": 254600
+    "totalDownloads": 256479
   }
 }
