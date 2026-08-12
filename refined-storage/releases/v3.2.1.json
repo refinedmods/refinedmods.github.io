@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.2.1.json",
   "name": "v3.2.1",
-  "indexedAt": "2026-08-12T01:17:19Z",
+  "indexedAt": "2026-08-12T12:52:35Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 20,
+          "downloadCount": 21,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-3.2.1-sources.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 255
+        "downloads": 256
       },
       {
         "source": "modrinth",
-        "downloads": 6834
+        "downloads": 6871
       },
       {
         "source": "curseforge",
-        "downloads": 263032
+        "downloads": 264299
       }
     ],
-    "totalDownloads": 270121
+    "totalDownloads": 271426
   }
 }
