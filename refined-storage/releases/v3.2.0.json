@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.2.0.json",
   "name": "v3.2.0",
-  "indexedAt": "2026-08-21T00:53:39Z",
+  "indexedAt": "2026-08-21T12:32:02Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 113671,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.0/refinedstorage-autocrafting-api-3.2.0.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 98
+        "downloads": 99
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 39302
       }
     ],
-    "totalDownloads": 41138
+    "totalDownloads": 41139
   }
 }
