@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.9.14.json",
   "name": "v1.9.14",
-  "indexedAt": "2026-09-05T02:22:09Z",
+  "indexedAt": "2026-09-05T14:21:34Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 3130706,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.9.14/refinedstorage-1.9.14.jar"
         }
       ],
@@ -98,7 +98,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "source": "modrinth",
@@ -109,6 +109,6 @@
         "downloads": 72548
       }
     ],
-    "totalDownloads": 72660
+    "totalDownloads": 72661
   }
 }
