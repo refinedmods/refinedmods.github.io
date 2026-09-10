@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.5.4-alpha.json",
   "name": "v0.5.4-alpha",
-  "indexedAt": "2026-09-09T15:43:05Z",
+  "indexedAt": "2026-09-10T02:30:20Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 369686,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.5.4-alpha/refinedstorage-0.5.4.jar"
         }
       ],
@@ -98,7 +98,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "source": "modrinth",
@@ -109,6 +109,6 @@
         "downloads": 522
       }
     ],
-    "totalDownloads": 566
+    "totalDownloads": 567
   }
 }
