@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.6.3-alpha.json",
   "name": "v0.6.3-alpha",
-  "indexedAt": "2026-09-11T02:24:48Z",
+  "indexedAt": "2026-09-11T15:39:48Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 418862,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.3-alpha/refinedstorage-0.6.3.jar"
         }
       ],
@@ -98,7 +98,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "source": "modrinth",
@@ -109,6 +109,6 @@
         "downloads": 475
       }
     ],
-    "totalDownloads": 533
+    "totalDownloads": 534
   }
 }
