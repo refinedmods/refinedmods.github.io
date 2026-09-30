@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-rei-integration/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2026-09-29T17:27:15Z",
+  "indexedAt": "2026-09-30T03:25:20Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 5,
+          "downloadCount": 6,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v1.0.0/refinedstorage-rei-integration-1.0.0.jar"
         },
         {
@@ -234,17 +234,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 35
+        "downloads": 36
       },
       {
         "source": "modrinth",
-        "downloads": 21928
+        "downloads": 21955
       },
       {
         "source": "curseforge",
-        "downloads": 21578
+        "downloads": 21586
       }
     ],
-    "totalDownloads": 43541
+    "totalDownloads": 43577
   }
 }
