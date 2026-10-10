@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.3.json",
   "name": "v3.0.3",
-  "indexedAt": "2026-10-09T17:49:33Z",
+  "indexedAt": "2026-10-10T03:45:11Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 115151,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.3/refinedstorage-common-api-3.0.3.jar"
         },
         {
@@ -227,7 +227,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 141319,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.3/refinedstorage-network-3.0.3.jar"
         },
         {
@@ -304,7 +304,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 19299,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.3/refinedstorage-resource-api-3.0.3-sources.jar"
         },
         {
@@ -326,7 +326,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 27692,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.3/refinedstorage-storage-api-3.0.3-sources.jar"
         },
         {
@@ -337,7 +337,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 44360,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.3/refinedstorage-storage-api-3.0.3.jar"
         }
       ],
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 74
+        "downloads": 79
       },
       {
         "source": "modrinth",
@@ -487,6 +487,6 @@
         "downloads": 114
       }
     ],
-    "totalDownloads": 261
+    "totalDownloads": 266
   }
 }
