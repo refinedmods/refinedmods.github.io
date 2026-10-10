@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v2.0.1.json",
   "name": "v2.0.1",
-  "indexedAt": "2026-10-10T03:46:34Z",
+  "indexedAt": "2026-10-10T16:45:36Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -62,7 +62,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 23210,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v2.0.1/refinedstorage-quartz-arsenal-fabric-2.0.1-sources.jar"
         },
         {
@@ -234,7 +234,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 19
+        "downloads": 20
       },
       {
         "source": "modrinth",
@@ -245,6 +245,6 @@
         "downloads": 122
       }
     ],
-    "totalDownloads": 196
+    "totalDownloads": 197
   }
 }
