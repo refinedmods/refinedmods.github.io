@@ -1,0 +1,128 @@
+{
+  "url": "https://refinedmods.com/refined-storage-mekanism-integration/releases/v1.2.0.json",
+  "name": "v1.2.0",
+  "indexedAt": "2026-10-15T02:42:00Z",
+  "type": "RELEASE",
+  "sources": [
+    {
+      "id": 412751643,
+      "nodeId": "RE_kwDOMA56iM4Ymhcb",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/tag/v1.2.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/412751643/assets",
+      "assets": [
+        {
+          "id": 640474358,
+          "nodeId": "RA_kwDOMA56iM4mLNz2",
+          "name": "refinedstorage-mekanism-integration-1.2.0-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 114222,
+          "downloadCount": 0,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v1.2.0/refinedstorage-mekanism-integration-1.2.0-sources.jar"
+        },
+        {
+          "id": 640474355,
+          "nodeId": "RA_kwDOMA56iM4mLNzz",
+          "name": "refinedstorage-mekanism-integration-1.2.0.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 163632,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage-mekanism-integration/releases/download/v1.2.0/refinedstorage-mekanism-integration-1.2.0.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/412751643/assets{?name,label}",
+      "tagName": "v1.2.0",
+      "targetCommitish": "154c924a210f44bc9c8dd9f97f4242c32c277993",
+      "body": "\n### Added\n\n-   You can now use the External Storage on QIO blocks, like the QIO Dashboard, to access the items on its QIO frequency.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2026-10-14T13:29:18Z",
+      "publishedAt": "2026-10-14T13:29:17Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/tarball/v1.2.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/zipball/v1.2.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage-mekanism-integration/releases/412751643",
+      "createdAt": "2026-10-14T13:27:39Z"
+    },
+    {
+      "id": "tBhhaBqM",
+      "projectId": "QHMDf0Sd",
+      "authorId": "R9RLzzR6",
+      "versionNumber": "1.2.0",
+      "changelog": "\n### Added\n\n-   You can now use the External Storage on QIO blocks, like the QIO Dashboard, to access the items on its QIO frequency.",
+      "versionType": "release",
+      "status": "listed",
+      "files": [
+        {
+          "hashes": {
+            "sha512": "210755a20e9c9a31c2f6ee44e54817e40dacea66ec97dbacc97ee3424f59e5c3f7462680d315166e684dafae75ddeb59516806f1a3580ef074dda3cb0a2eb1ae",
+            "sha1": "a514a0a42fe62781b8f75327f35d7d894efe6449"
+          },
+          "url": "https://cdn.modrinth.com/data/QHMDf0Sd/versions/tBhhaBqM/refinedstorage-mekanism-integration-1.2.0.jar",
+          "filename": "refinedstorage-mekanism-integration-1.2.0.jar",
+          "primary": true,
+          "size": 163632
+        }
+      ],
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "htmlUrl": "https://modrinth.com/mod/refined-storage-mekanism-integration/version/tBhhaBqM",
+      "source": "modrinth",
+      "url": "https://api.modrinth.com/v2/project/refined-storage-mekanism-integration/version/tBhhaBqM",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-10-14T13:29:48Z"
+    },
+    {
+      "id": 9173187,
+      "dateModified": "2026-10-14T13:38:49Z",
+      "fileLength": 163632,
+      "fileName": "refinedstorage-mekanism-integration-1.2.0.jar",
+      "status": "APPROVED",
+      "gameVersions": [
+        "Client",
+        "1.21.1",
+        "NeoForge",
+        "Server"
+      ],
+      "releaseType": "RELEASE",
+      "user": {
+        "username": "raoulvdberge",
+        "id": "24123658"
+      },
+      "additionalFilesCount": 0,
+      "hasServerPack": false,
+      "additionalServerPackFilesCount": 0,
+      "isEarlyAccessContent": false,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-mekanism-integration/download/9173187",
+      "htmlUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-mekanism-integration/files/9173187",
+      "source": "curseforge",
+      "url": "https://www.curseforge.com/api/v1/mods/1230504/files/9173187",
+      "platform": "NEOFORGE",
+      "createdAt": "2026-10-14T13:36:20Z"
+    }
+  ],
+  "stats": {
+    "downloads": [
+      {
+        "source": "github",
+        "downloads": 1
+      },
+      {
+        "source": "modrinth",
+        "downloads": 118
+      },
+      {
+        "source": "curseforge",
+        "downloads": 601
+      }
+    ],
+    "totalDownloads": 720
+  }
+}

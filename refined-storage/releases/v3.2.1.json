@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.2.1.json",
   "name": "v3.2.1",
-  "indexedAt": "2026-10-14T03:00:57Z",
+  "indexedAt": "2026-10-15T02:40:46Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 34,
+          "downloadCount": 35,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-3.2.1-sources.jar"
         },
         {
@@ -62,7 +62,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 2711448,
-          "downloadCount": 1289,
+          "downloadCount": 1301,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-common-3.2.1-sources.jar"
         },
         {
@@ -84,7 +84,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 73548,
-          "downloadCount": 1285,
+          "downloadCount": 1297,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-common-api-3.2.1-sources.jar"
         },
         {
@@ -106,7 +106,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4399,
-          "downloadCount": 1283,
+          "downloadCount": 1295,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-core-api-3.2.1-sources.jar"
         },
         {
@@ -183,7 +183,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 4538659,
-          "downloadCount": 1291,
+          "downloadCount": 1303,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-neoforge-3.2.1.jar"
         },
         {
@@ -216,7 +216,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 71903,
-          "downloadCount": 1273,
+          "downloadCount": 1285,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-network-3.2.1-sources.jar"
         },
         {
@@ -238,7 +238,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 23399,
-          "downloadCount": 1276,
+          "downloadCount": 1288,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-network-api-3.2.1-sources.jar"
         },
         {
@@ -304,7 +304,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 19299,
-          "downloadCount": 1275,
+          "downloadCount": 1287,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-resource-api-3.2.1-sources.jar"
         },
         {
@@ -326,7 +326,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 27692,
-          "downloadCount": 1276,
+          "downloadCount": 1288,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.2.1/refinedstorage-storage-api-3.2.1-sources.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 10515
+        "downloads": 10612
       },
       {
         "source": "modrinth",
-        "downloads": 11797
+        "downloads": 11918
       },
       {
         "source": "curseforge",
-        "downloads": 562736
+        "downloads": 570474
       }
     ],
-    "totalDownloads": 585048
+    "totalDownloads": 593004
   }
 }
