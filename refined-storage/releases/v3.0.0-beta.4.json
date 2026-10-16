@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.0-beta.4.json",
   "name": "v3.0.0-beta.4",
-  "indexedAt": "2026-10-16T02:36:37Z",
+  "indexedAt": "2026-10-16T15:53:02Z",
   "type": "BETA",
   "sources": [
     {
@@ -139,7 +139,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 5653765,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.0-beta.4/refinedstorage-fabric-3.0.0-beta.4.jar"
         },
         {
@@ -476,7 +476,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 67
+        "downloads": 68
       },
       {
         "source": "modrinth",
@@ -484,9 +484,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 28199
+        "downloads": 28200
       }
     ],
-    "totalDownloads": 28915
+    "totalDownloads": 28917
   }
 }
