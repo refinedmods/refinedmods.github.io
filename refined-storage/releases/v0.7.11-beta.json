@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.11-beta.json",
   "name": "v0.7.11-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 111000511,
-      "nodeId": "MDc6UmVsZWFzZTExMTAwMDUxMQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.11-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000511/assets",
-      "assets": [
-        {
-          "id": 115529339,
-          "nodeId": "RA_kwDOAtXBQM4G4tZ7",
-          "name": "refinedstorage-0.7.11.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 460674,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.11-beta/refinedstorage-0.7.11.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000511/assets{?name,label}",
-      "tagName": "v0.7.11-beta",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Right click on grid search bar clears the search query.\r\n\r\n### Fixed\r\n\r\n- Fixed crash with wireless grid.\r\n- Fixed high RF/t usage on external storage.\r\n- Fixed that requesting crafting processing task yields too many tasks.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:25:41Z",
-      "publishedAt": "2023-07-04T14:25:41Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.11-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.11-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000511",
-      "createdAt": "2016-06-12T08:57:44Z"
-    },
     {
       "id": 2307027,
       "dateModified": "2023-07-04T13:56:48Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 73
       },
@@ -109,6 +74,6 @@
         "downloads": 4656
       }
     ],
-    "totalDownloads": 4730
+    "totalDownloads": 4729
   }
 }

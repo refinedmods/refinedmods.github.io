@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.31.json",
   "name": "v1.5.31",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,37 +29,6 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2515440",
       "platform": "FORGE",
       "createdAt": "2017-12-31T16:31:21Z"
-    },
-    {
-      "id": 110470269,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDI2OQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.31",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470269/assets",
-      "assets": [
-        {
-          "id": 114987015,
-          "nodeId": "RA_kwDOAtXBQM4G2pAH",
-          "name": "refinedstorage-1.5.31.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1750553,
-          "downloadCount": 4,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.31/refinedstorage-1.5.31.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470269/assets{?name,label}",
-      "tagName": "v1.5.31",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Storage disk and block stored and capacity counts are formatted now in the tooltip.\r\n- Improved the \"cannot craft! loop in processing...\" error message.\r\n- Made the Disk Manipulator unsided (inserting goes to insert slots and extracting from output slots).\r\n\r\n### Fixed\r\n\r\n- Fixed error logs when toggling the Pattern Grid from and to processing mode.\r\n- Fixed pattern slots in Crafters not being accessible.\r\n- Fixed rare Grid crash.\r\n- Fixed OpenComputers cable showing up in Grid as air.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T08:56:03Z",
-      "publishedAt": "2023-06-30T08:56:03Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.31",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.31",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470269",
-      "createdAt": "2018-01-01T19:39:27Z"
     },
     {
       "id": "G5PUHGAS",
@@ -97,18 +66,14 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 4
-      },
-      {
         "source": "modrinth",
         "downloads": 96
       },
       {
         "source": "curseforge",
-        "downloads": 916575
+        "downloads": 916588
       }
     ],
-    "totalDownloads": 916675
+    "totalDownloads": 916684
   }
 }

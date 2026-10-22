@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.1-beta.json",
   "name": "v1.4.1-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
     {
@@ -29,37 +29,6 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2383720",
       "platform": "FORGE",
       "createdAt": "2017-02-19T14:55:14Z"
-    },
-    {
-      "id": 110492891,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ5Mjg5MQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.1-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492891/assets",
-      "assets": [
-        {
-          "id": 115010795,
-          "nodeId": "RA_kwDOAtXBQM4G2uzr",
-          "name": "refinedstorage-1.4.1.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1550005,
-          "downloadCount": 2,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.1-beta/refinedstorage-1.4.1.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492891/assets{?name,label}",
-      "tagName": "v1.4.1-beta",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added Storage Monitor.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2232.\r\n\r\n### Fixed\r\n\r\n- Fixed Processing Pattern Encoder and Security Manager recipes not supporting oredict workbench and chest.\r\n- Fixed network nodes not respecting redstone mode.\r\n- Fixed \"Clear\" and \"Create Pattern\" buttons not working correctly when using Grid Filter tabs.\r\n- Fixed Wrench in Dismantling Mode voiding Storage Block contents.\r\n- Fixed OPs not having global permissions on secured storage systems.\r\n- Fixed crash when Destructor tries to break secured network block.\r\n- Fixed Fluid Interface not dropping inventory contents.\r\n- Fixed Disk Manipulator crash.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T12:22:51Z",
-      "publishedAt": "2023-06-30T12:22:51Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.1-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.1-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492891",
-      "createdAt": "2017-02-20T00:33:56Z"
     },
     {
       "id": "obWjt4eG",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 2
-      },
-      {
         "source": "modrinth",
         "downloads": 102
       },
@@ -109,6 +74,6 @@
         "downloads": 36585
       }
     ],
-    "totalDownloads": 36689
+    "totalDownloads": 36687
   }
 }

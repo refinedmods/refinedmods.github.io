@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.6.12-alpha.json",
   "name": "v0.6.12-alpha",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "ALPHA",
   "sources": [
-    {
-      "id": 111006991,
-      "nodeId": "MDc6UmVsZWFzZTExMTAwNjk5MQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.12-alpha",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111006991/assets",
-      "assets": [
-        {
-          "id": 115535594,
-          "nodeId": "RA_kwDOAtXBQM4G4u7q",
-          "name": "refinedstorage-0.6.12.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 414728,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.12-alpha/refinedstorage-0.6.12.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111006991/assets{?name,label}",
-      "tagName": "v0.6.12-alpha",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Crafting tasks are now sorted from new to old in the Crafting Monitor.\r\n\r\n### Fixed\r\n\r\n- Fixed Crafting Grid / Pattern Grid not throwing items on break.\r\n- Fixed NPE in some tiles.\r\n- Fixed going out of crafting GUI not restoring state (scrollbar and search term).\r\n- Fixed not being able to place cake or string.\r\n- Fixed Importer getting stuck on slot.\r\n- Fixed silicon + quartz enriched iron not having oredict names.\r\n- Performance improvement to Grids.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T15:15:32Z",
-      "publishedAt": "2023-07-04T15:15:32Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.12-alpha",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.12-alpha",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111006991",
-      "createdAt": "2016-05-25T20:51:41Z"
-    },
     {
       "id": 2302848,
       "dateModified": "2023-07-04T15:08:00Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 46
       },
@@ -109,6 +74,6 @@
         "downloads": 1188
       }
     ],
-    "totalDownloads": 1235
+    "totalDownloads": 1234
   }
 }

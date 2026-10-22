@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.7.1-alpha.json",
   "name": "v1.7.1-alpha",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "ALPHA",
   "sources": [
-    {
-      "id": 86566597,
-      "nodeId": "MDc6UmVsZWFzZTg2NTY2NTk3",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.1-alpha",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566597/assets",
-      "assets": [
-        {
-          "id": 88798392,
-          "nodeId": "RA_kwDOAtXBQM4FSvS4",
-          "name": "refinedstorage-1.7.1.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1832618,
-          "downloadCount": 6,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.1-alpha/refinedstorage-1.7.1.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566597/assets{?name,label}",
-      "tagName": "v1.7.1-alpha",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed Pattern Grid causing world hanging on load.\r\n- Fixed External Storage not refreshing when the storage is broken or replaced.\r\n- Fixed delay in block update when placing a cable block.\r\n- Fixed holder of cable blocks sometimes conflicting with a cable connection while rendering.\r\n- Fixed being able to move wireless items in inventory when using a keybinding to open.\r\n- Fixed crash when breaking a Grid, Crafting Monitor, Crafter Manager or Portable Grid when another player is still\r\n  using it.\r\n\r\n### Changed\r\n\r\n- The Pattern Grid now switches automatically between crafting pattern and processing pattern mode when using JEI\r\n  transfer.\r\n- The Pattern Grid now switches automatically between crafting pattern and processing pattern mode when re-inserting an\r\n  existing Pattern.\r\n- Grids now do not sort if you interact with it while holding shift.\r\n\r\n### Removed\r\n\r\n- Exact mode for processing patterns no longer exist, you can now define per-slot which item/fluid tags are allowed to\r\n  be used by autocrafting, by using CTRL + click on the filter slot in the Pattern Grid.\r\n- Removed migration code for the development builds that were released on Discord (not on CurseForge). If you used the\r\n  development builds and never used version 1.7.0 before, first switch to 1.7.0, open your world, modify a storage disk,\r\n  and then upgrade to 1.7.1.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2022-12-19T17:55:12Z",
-      "publishedAt": "2022-12-19T17:55:12Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.1-alpha",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.1-alpha",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566597",
-      "createdAt": "2019-11-18T20:36:14Z"
-    },
     {
       "id": 2829731,
       "dateModified": "2022-12-19T18:07:36Z",
@@ -97,18 +66,14 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 6
-      },
-      {
         "source": "modrinth",
         "downloads": 105
       },
       {
         "source": "curseforge",
-        "downloads": 218716
+        "downloads": 218718
       }
     ],
-    "totalDownloads": 218827
+    "totalDownloads": 218823
   }
 }

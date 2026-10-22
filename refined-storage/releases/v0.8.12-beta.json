@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.12-beta.json",
   "name": "v0.8.12-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 110998701,
-      "nodeId": "MDc6UmVsZWFzZTExMDk5ODcwMQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.12-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998701/assets",
-      "assets": [
-        {
-          "id": 115527458,
-          "nodeId": "RA_kwDOAtXBQM4G4s8i",
-          "name": "refinedstorage-0.8.12.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 514429,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.12-beta/refinedstorage-0.8.12.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998701/assets{?name,label}",
-      "tagName": "v0.8.12-beta",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed dupe bug when shift clicking output slot in grid.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:16:00Z",
-      "publishedAt": "2023-07-04T14:16:00Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.12-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.12-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998701",
-      "createdAt": "2016-07-19T22:32:48Z"
-    },
     {
       "id": 2317263,
       "dateModified": "2023-07-04T10:46:17Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 50
       },
@@ -109,6 +74,6 @@
         "downloads": 41168
       }
     ],
-    "totalDownloads": 41219
+    "totalDownloads": 41218
   }
 }

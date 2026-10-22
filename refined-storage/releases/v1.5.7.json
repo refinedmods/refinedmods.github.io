@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.7.json",
   "name": "v1.5.7",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110471566,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTU2Ng\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.7",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471566/assets",
-      "assets": [
-        {
-          "id": 114988179,
-          "nodeId": "RA_kwDOAtXBQM4G2pST",
-          "name": "refinedstorage-1.5.7.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1653190,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.7/refinedstorage-1.5.7.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471566/assets{?name,label}",
-      "tagName": "v1.5.7",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added advancements.\r\n\r\n### Changed\r\n\r\n- Exposed pattern inventory for Pattern Grid.\r\n\r\n### Fixed\r\n\r\n- Fixed crashes relating to scrollbar in GUIs.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T09:07:15Z",
-      "publishedAt": "2023-06-30T09:07:15Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.7",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.7",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471566",
-      "createdAt": "2017-07-03T21:07:04Z"
-    },
     {
       "id": 2445716,
       "dateModified": "2023-06-30T09:24:41Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 136
       },
@@ -109,6 +74,6 @@
         "downloads": 7613
       }
     ],
-    "totalDownloads": 7750
+    "totalDownloads": 7749
   }
 }

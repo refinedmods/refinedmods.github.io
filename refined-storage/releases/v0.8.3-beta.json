@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.3-beta.json",
   "name": "v0.8.3-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
     {
@@ -30,37 +30,6 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2312551",
       "platform": "FORGE",
       "createdAt": "2016-07-02T17:07:17Z"
-    },
-    {
-      "id": 110999771,
-      "nodeId": "MDc6UmVsZWFzZTExMDk5OTc3MQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.3-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999771/assets",
-      "assets": [
-        {
-          "id": 115528789,
-          "nodeId": "RA_kwDOAtXBQM4G4tRV",
-          "name": "refinedstorage-0.8.3.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 466966,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.3-beta/refinedstorage-0.8.3.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999771/assets{?name,label}",
-      "tagName": "v0.8.3-beta",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed drawer controllers not working with external storage.\r\n- Fixed right click taking 64 items instead of 32 items.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:20:40Z",
-      "publishedAt": "2023-07-04T14:20:40Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.3-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.3-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999771",
-      "createdAt": "2016-07-02T18:51:57Z"
     },
     {
       "id": "K1YTksBI",
@@ -99,10 +68,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 41
       },
@@ -111,6 +76,6 @@
         "downloads": 4218
       }
     ],
-    "totalDownloads": 4260
+    "totalDownloads": 4259
   }
 }

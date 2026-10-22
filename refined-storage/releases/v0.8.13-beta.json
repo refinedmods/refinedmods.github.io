@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.13-beta.json",
   "name": "v0.8.13-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
     {
@@ -29,37 +29,6 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2320042",
       "platform": "FORGE",
       "createdAt": "2016-07-31T17:04:03Z"
-    },
-    {
-      "id": 110998653,
-      "nodeId": "MDc6UmVsZWFzZTExMDk5ODY1Mw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.13-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998653/assets",
-      "assets": [
-        {
-          "id": 115527331,
-          "nodeId": "RA_kwDOAtXBQM4G4s6j",
-          "name": "refinedstorage-0.8.13.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 543233,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.13-beta/refinedstorage-0.8.13.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998653/assets{?name,label}",
-      "tagName": "v0.8.13-beta",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added config option to set the base energy usage of the Controller (default is 0).\r\n- Added Grid Filter item to filter items in any Grid.\r\n- Added support for processing patterns with big stacksizes.\r\n- Added Network Transmitter, Network Receiver and Network Cards.\r\n\r\n### Changed\r\n\r\n- The slot where the Wireless Grid is in in the Wireless Grid GUI is now disabled, so the item can\u0027t be thrown out of the inventory by accident.\r\n- Changed Relay recipe to use redstone torch instead of Basic Processor.\r\n- Placed machines now face the block they are placed on, like hoppers.\r\n\r\n### Fixed\r\n\r\n- Fixed rendering crash with Disk Drive.\r\n- Fixed crash when quickly toggling sorting direction in Grid.\r\n- Fixed not being able to clear exporter row in interface.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:12:23Z",
-      "publishedAt": "2023-07-04T14:12:23Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.13-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.13-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998653",
-      "createdAt": "2016-07-31T17:10:44Z"
     },
     {
       "id": "X4typAJg",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 44
       },
@@ -109,6 +74,6 @@
         "downloads": 1391
       }
     ],
-    "totalDownloads": 1436
+    "totalDownloads": 1435
   }
 }

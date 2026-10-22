@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.7.json",
   "name": "v1.6.7",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110330950,
-      "nodeId": "MDc6UmVsZWFzZTExMDMzMDk1MA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.7",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330950/assets",
-      "assets": [
-        {
-          "id": 114836914,
-          "nodeId": "RA_kwDOAtXBQM4G2EWy",
-          "name": "refinedstorage-1.6.7.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1780193,
-          "downloadCount": 3,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.7/refinedstorage-1.6.7.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330950/assets{?name,label}",
-      "tagName": "v1.6.7",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- The Processor Binding recipe now only gives 8 items instead of 16.\r\n\r\n### Fixed\r\n\r\n- Fixed the Raw Processor recipes not taking oredicted silicon.\r\n- Fixed the Processor Binding recipe not taking oredicted slimeballs.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-29T09:34:47Z",
-      "publishedAt": "2023-06-29T09:34:47Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.7",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.7",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330950",
-      "createdAt": "2018-10-19T18:55:27Z"
-    },
     {
       "id": 2629484,
       "dateModified": "2023-06-29T09:44:18Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 3
-      },
-      {
         "source": "modrinth",
         "downloads": 115
       },
@@ -109,6 +74,6 @@
         "downloads": 7977
       }
     ],
-    "totalDownloads": 8095
+    "totalDownloads": 8092
   }
 }

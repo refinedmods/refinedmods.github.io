@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.5.0.json",
   "name": "v0.5.0",
-  "indexedAt": "2026-10-22T02:49:28Z",
+  "indexedAt": "2026-10-22T16:25:44Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 55596030,
-      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDMw",
-      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.5.0",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596030/assets",
-      "assets": [
-        {
-          "id": 52081157,
-          "nodeId": "RA_kwDOA8bqCc4DGrIF",
-          "name": "rangedpumps-0.5.jar",
-          "state": "uploaded",
-          "contentType": "application/java-archive",
-          "size": 21519,
-          "downloadCount": 15,
-          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.5.0/rangedpumps-0.5.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596030/assets{?name,label}",
-      "tagName": "v0.5.0",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Port to Minecraft 1.12.\r\n\r\n### Changed\r\n\r\n- Changed scanning system to scan nearest blocks first.\r\n- The pump no longer requires a redstone signal. If a redstone signal is given, the pump will pause instead.\r\n- The pump now auto-pushes liquids to neighboring tanks.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2021-12-18T12:48:30Z",
-      "publishedAt": "2021-12-18T12:48:30Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.5.0",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.5.0",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596030",
-      "createdAt": "2017-06-25T14:24:53Z"
-    },
     {
       "id": 2441326,
       "dateModified": "2021-12-18T13:00:09Z",
@@ -99,18 +68,14 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 15
-      },
-      {
         "source": "modrinth",
-        "downloads": 8708
+        "downloads": 8714
       },
       {
         "source": "curseforge",
-        "downloads": 29383667
+        "downloads": 29385146
       }
     ],
-    "totalDownloads": 29392390
+    "totalDownloads": 29393860
   }
 }

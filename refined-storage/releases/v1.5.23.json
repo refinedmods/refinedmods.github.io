@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.23.json",
   "name": "v1.5.23",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -31,37 +31,6 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2499881",
       "platform": "FORGE",
       "createdAt": "2017-11-13T22:06:06Z"
-    },
-    {
-      "id": 110470681,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDY4MQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.23",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470681/assets",
-      "assets": [
-        {
-          "id": 114987396,
-          "nodeId": "RA_kwDOAtXBQM4G2pGE",
-          "name": "refinedstorage-1.5.23.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1817957,
-          "downloadCount": 3,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.23/refinedstorage-1.5.23.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470681/assets{?name,label}",
-      "tagName": "v1.5.23",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed duplication bug with autocrafting.\r\n- Fixed Fluid Interface with Stack Upgrade not exporting fluids.\r\n- Fixed fluids in Fluid Grid not showing actual mB on tooltip when pressing CTRL + SHIFT.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T08:59:39Z",
-      "publishedAt": "2023-06-30T08:59:39Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.23",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.23",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470681",
-      "createdAt": "2017-11-13T22:16:04Z"
     },
     {
       "id": "PxiUp4pX",
@@ -101,10 +70,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 3
-      },
-      {
         "source": "modrinth",
         "downloads": 58
       },
@@ -113,6 +78,6 @@
         "downloads": 209702
       }
     ],
-    "totalDownloads": 209763
+    "totalDownloads": 209760
   }
 }

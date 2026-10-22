@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.4.json",
   "name": "v1.2.4",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110514002,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxNDAwMg\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.4",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514002/assets",
-      "assets": [
-        {
-          "id": 115029303,
-          "nodeId": "RA_kwDOAtXBQM4G2zU3",
-          "name": "refinedstorage-1.2.4.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1347605,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.4/refinedstorage-1.2.4.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514002/assets{?name,label}",
-      "tagName": "v1.2.4",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added tooltip search with #.\r\n\r\n### Changed\r\n\r\n- Mod search can now also take mod name instead of just id.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where Disk Manipulator doesn\u0027t save disks.\r\n- Fixed Disk Drive stored quantity GUI text hovering over other text.\r\n- Fixed External Storage being in item and fluid mode at the same time.\r\n- Fixed Wrench working when player is not sneaking.\r\n- Fixed External Storage cache counting items up when extracting.\r\n- Fixed External Storage cache not working properly on Compacting Drawers.\r\n\r\n### Removed\r\n\r\n- Removed ability to put External Storages on Refined Storage network blocks.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T14:53:36Z",
-      "publishedAt": "2023-06-30T14:53:36Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.4",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.4",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514002",
-      "createdAt": "2016-11-10T21:14:07Z"
-    },
     {
       "id": 2343393,
       "dateModified": "2023-06-30T15:11:51Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 48
       },
@@ -109,6 +74,6 @@
         "downloads": 240242
       }
     ],
-    "totalDownloads": 240291
+    "totalDownloads": 240290
   }
 }

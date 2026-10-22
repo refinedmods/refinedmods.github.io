@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.10-beta.json",
   "name": "v1.4.10-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 110492454,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjQ1NA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.10-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492454/assets",
-      "assets": [
-        {
-          "id": 115010394,
-          "nodeId": "RA_kwDOAtXBQM4G2uta",
-          "name": "refinedstorage-1.4.10.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1654256,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.10-beta/refinedstorage-1.4.10.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492454/assets{?name,label}",
-      "tagName": "v1.4.10-beta",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Improved performance of network scanning.\r\n\r\n### Fixed\r\n\r\n- Fixed crash when attempting to get direction of a node.\r\n- Fixed bug where some network parts don\u0027t want to connect to the storage system.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T12:19:35Z",
-      "publishedAt": "2023-06-30T12:19:35Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.10-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.10-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492454",
-      "createdAt": "2017-05-25T16:25:21Z"
-    },
     {
       "id": 2424653,
       "dateModified": "2023-06-30T13:37:54Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 52
       },
@@ -109,6 +74,6 @@
         "downloads": 30510
       }
     ],
-    "totalDownloads": 30563
+    "totalDownloads": 30562
   }
 }

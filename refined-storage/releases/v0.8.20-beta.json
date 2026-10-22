@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.20-beta.json",
   "name": "v0.8.20-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 110998280,
-      "nodeId": "MDc6UmVsZWFzZTExMDk5ODI4MA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.20-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998280/assets",
-      "assets": [
-        {
-          "id": 115526785,
-          "nodeId": "RA_kwDOAtXBQM4G4syB",
-          "name": "refinedstorage-0.8.20.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 609985,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.20-beta/refinedstorage-0.8.20.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998280/assets{?name,label}",
-      "tagName": "v0.8.20-beta",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed crash with Grid.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:09:38Z",
-      "publishedAt": "2023-07-04T14:09:38Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.20-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.20-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998280",
-      "createdAt": "2016-08-18T15:23:25Z"
-    },
     {
       "id": 2323857,
       "dateModified": "2023-07-04T10:43:19Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 55
       },
@@ -109,6 +74,6 @@
         "downloads": 25846
       }
     ],
-    "totalDownloads": 25902
+    "totalDownloads": 25901
   }
 }

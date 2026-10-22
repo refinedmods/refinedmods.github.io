@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.7-beta.json",
   "name": "v1.4.7-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 110492604,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ5MjYwNA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.7-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492604/assets",
-      "assets": [
-        {
-          "id": 115010554,
-          "nodeId": "RA_kwDOAtXBQM4G2uv6",
-          "name": "refinedstorage-1.4.7.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1651511,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.7-beta/refinedstorage-1.4.7.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492604/assets{?name,label}",
-      "tagName": "v1.4.7-beta",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added config option \"debugLog\" that logs diagnostic info to help developers to fix the inventory loss bug, please enable it if you are experiencing this issue.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where Portable Grid would dupe in inventory.\r\n- Worked around an autocrafting bug to prevent crashes.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T12:20:30Z",
-      "publishedAt": "2023-06-30T12:20:30Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.7-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.7-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492604",
-      "createdAt": "2017-05-23T16:57:08Z"
-    },
     {
       "id": 2423733,
       "dateModified": "2023-06-30T13:38:51Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 104
       },
@@ -109,6 +74,6 @@
         "downloads": 1362
       }
     ],
-    "totalDownloads": 1467
+    "totalDownloads": 1466
   }
 }

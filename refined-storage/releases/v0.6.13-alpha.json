@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.6.13-alpha.json",
   "name": "v0.6.13-alpha",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "ALPHA",
   "sources": [
-    {
-      "id": 111006950,
-      "nodeId": "MDc6UmVsZWFzZTExMTAwNjk1MA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.6.13-alpha",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111006950/assets",
-      "assets": [
-        {
-          "id": 115535563,
-          "nodeId": "RA_kwDOAtXBQM4G4u7L",
-          "name": "refinedstorage-0.6.13.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 415212,
-          "downloadCount": 2,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.6.13-alpha/refinedstorage-0.6.13.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111006950/assets{?name,label}",
-      "tagName": "v0.6.13-alpha",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Performance improvements.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T15:15:16Z",
-      "publishedAt": "2023-07-04T15:15:16Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.6.13-alpha",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.6.13-alpha",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111006950",
-      "createdAt": "2016-05-27T20:28:31Z"
-    },
     {
       "id": 2303246,
       "dateModified": "2023-07-04T15:07:39Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 2
-      },
-      {
         "source": "modrinth",
         "downloads": 54
       },
@@ -109,6 +74,6 @@
         "downloads": 512
       }
     ],
-    "totalDownloads": 568
+    "totalDownloads": 566
   }
 }

@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.5.json",
   "name": "v1.2.0-beta.5",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 110514414,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxNDQxNA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.5",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514414/assets",
-      "assets": [
-        {
-          "id": 115029659,
-          "nodeId": "RA_kwDOAtXBQM4G2zab",
-          "name": "refinedstorage-1.2-beta5.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1141779,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.5/refinedstorage-1.2-beta5.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514414/assets{?name,label}",
-      "tagName": "v1.2.0-beta.5",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- More autocrafting issues.\r\n- External Storage TPS lag issues.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T14:56:14Z",
-      "publishedAt": "2023-06-30T14:56:14Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.5",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.5",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514414",
-      "createdAt": "2016-10-30T19:58:34Z"
-    },
     {
       "id": 2340603,
       "dateModified": "2023-06-30T15:14:33Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 106
       },
@@ -109,6 +74,6 @@
         "downloads": 10365
       }
     ],
-    "totalDownloads": 10472
+    "totalDownloads": 10471
   }
 }

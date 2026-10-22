@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.5.json",
   "name": "v1.6.5",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110331032,
-      "nodeId": "MDc6UmVsZWFzZTExMDMzMTAzMg\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.5",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331032/assets",
-      "assets": [
-        {
-          "id": 114836992,
-          "nodeId": "RA_kwDOAtXBQM4G2EYA",
-          "name": "refinedstorage-1.6.5.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1879337,
-          "downloadCount": 5,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.5/refinedstorage-1.6.5.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110331032/assets{?name,label}",
-      "tagName": "v1.6.5",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- The Pattern Grid in fluid mode now supports up to 64 buckets in the input and output processing slots.\r\n\r\n### Fixed\r\n\r\n- Fixed Refined Storage silicon\u0027s oredict entry being registered too late.\r\n- Fixed duplication bug with filter slots.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-29T09:35:38Z",
-      "publishedAt": "2023-06-29T09:35:38Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.5",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.5",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331032",
-      "createdAt": "2018-09-11T12:45:08Z"
-    },
     {
       "id": 2615805,
       "dateModified": "2023-06-29T09:44:54Z",
@@ -97,18 +66,14 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 5
-      },
-      {
         "source": "modrinth",
         "downloads": 73
       },
       {
         "source": "curseforge",
-        "downloads": 886643
+        "downloads": 886647
       }
     ],
-    "totalDownloads": 886721
+    "totalDownloads": 886720
   }
 }

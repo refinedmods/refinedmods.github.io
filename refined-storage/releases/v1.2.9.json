@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.9.json",
   "name": "v1.2.9",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110513795,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxMzc5NQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.9",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513795/assets",
-      "assets": [
-        {
-          "id": 115029198,
-          "nodeId": "RA_kwDOAtXBQM4G2zTO",
-          "name": "refinedstorage-1.2.9.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1384066,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.9/refinedstorage-1.2.9.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513795/assets{?name,label}",
-      "tagName": "v1.2.9",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Updated Forge to 2185.\r\n\r\n### Fixed\r\n\r\n- Fixed Wrench clearing NBT data when reset causing problems with Morph O Tool.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T14:52:03Z",
-      "publishedAt": "2023-06-30T14:52:03Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.9",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.9",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513795",
-      "createdAt": "2016-12-06T21:15:52Z"
-    },
     {
       "id": 2353006,
       "dateModified": "2023-06-30T15:10:09Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 60
       },
@@ -109,6 +74,6 @@
         "downloads": 15471
       }
     ],
-    "totalDownloads": 15532
+    "totalDownloads": 15531
   }
 }

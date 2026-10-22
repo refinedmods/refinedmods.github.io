@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.30.json",
   "name": "v1.5.30",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110470308,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDMwOA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.30",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470308/assets",
-      "assets": [
-        {
-          "id": 114987053,
-          "nodeId": "RA_kwDOAtXBQM4G2pAt",
-          "name": "refinedstorage-1.5.30.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1747377,
-          "downloadCount": 3,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.30/refinedstorage-1.5.30.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470308/assets{?name,label}",
-      "tagName": "v1.5.30",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed crashing bug when MCMultiPart is not installed.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T08:56:26Z",
-      "publishedAt": "2023-06-30T08:56:26Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.30",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.30",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470308",
-      "createdAt": "2017-12-24T22:09:50Z"
-    },
     {
       "id": 2513433,
       "dateModified": "2023-06-30T09:17:37Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 3
-      },
-      {
         "source": "modrinth",
         "downloads": 72
       },
@@ -109,6 +74,6 @@
         "downloads": 47394
       }
     ],
-    "totalDownloads": 47469
+    "totalDownloads": 47466
   }
 }

@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.8.0.json",
   "name": "v0.8.0",
-  "indexedAt": "2026-10-22T02:49:28Z",
+  "indexedAt": "2026-10-22T16:25:44Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 55596086,
-      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDg2",
-      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.8.0",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596086/assets",
-      "assets": [
-        {
-          "id": 52081196,
-          "nodeId": "RA_kwDOA8bqCc4DGrIs",
-          "name": "rangedpumps-0.8.jar",
-          "state": "uploaded",
-          "contentType": "application/java-archive",
-          "size": 25171,
-          "downloadCount": 12,
-          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.8.0/rangedpumps-0.8.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596086/assets{?name,label}",
-      "tagName": "v0.8.0",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Port to Minecraft 1.16.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2021-12-18T12:50:05Z",
-      "publishedAt": "2021-12-18T12:50:05Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.8.0",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.8.0",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596086",
-      "createdAt": "2020-07-15T18:02:54Z"
-    },
     {
       "id": 3005757,
       "dateModified": "2021-12-18T13:03:09Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 12
-      },
-      {
         "source": "modrinth",
         "downloads": 172
       },
@@ -109,6 +74,6 @@
         "downloads": 143379
       }
     ],
-    "totalDownloads": 143563
+    "totalDownloads": 143551
   }
 }

@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.6.json",
   "name": "v1.5.6",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110471603,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTYwMw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.6",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471603/assets",
-      "assets": [
-        {
-          "id": 114988232,
-          "nodeId": "RA_kwDOAtXBQM4G2pTI",
-          "name": "refinedstorage-1.5.6.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1633305,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.6/refinedstorage-1.5.6.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471603/assets{?name,label}",
-      "tagName": "v1.5.6",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Updated Forge to stable 2387.\r\n\r\n### Fixed\r\n\r\n- Fixed bug where players couldn\u0027t place regular blocks next to secured networks.\r\n\r\n### Removed\r\n\r\n- Removed Processing Pattern Encoder, that functionality is now available in the Pattern Grid.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T09:07:43Z",
-      "publishedAt": "2023-06-30T09:07:43Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.6",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.6",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471603",
-      "createdAt": "2017-06-29T09:03:20Z"
-    },
     {
       "id": 2443159,
       "dateModified": "2023-06-30T09:24:57Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 109
       },
@@ -109,6 +74,6 @@
         "downloads": 8531
       }
     ],
-    "totalDownloads": 8641
+    "totalDownloads": 8640
   }
 }

@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.4.4-beta.json",
   "name": "v1.4.4-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 110492752,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ5Mjc1Mg\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.4.4-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492752/assets",
-      "assets": [
-        {
-          "id": 115010659,
-          "nodeId": "RA_kwDOAtXBQM4G2uxj",
-          "name": "refinedstorage-1.4.4.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1583501,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.4.4-beta/refinedstorage-1.4.4.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110492752/assets{?name,label}",
-      "tagName": "v1.4.4-beta",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Updated Forge to 2284.\r\n\r\n### Fixed\r\n\r\n- Fixed Disk Manipulator crashing due to empty stack.\r\n- Fixed issue where empty stacks show up in the system.\r\n- Fixed Storage Monitor not respecting security settings.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T12:21:38Z",
-      "publishedAt": "2023-06-30T12:21:38Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.4.4-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.4.4-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110492752",
-      "createdAt": "2017-04-27T21:19:31Z"
-    },
     {
       "id": 2412698,
       "dateModified": "2023-06-30T13:39:50Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 63
       },
@@ -109,6 +74,6 @@
         "downloads": 28925
       }
     ],
-    "totalDownloads": 28989
+    "totalDownloads": 28988
   }
 }

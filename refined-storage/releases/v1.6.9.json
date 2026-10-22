@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.9.json",
   "name": "v1.6.9",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110330875,
-      "nodeId": "MDc6UmVsZWFzZTExMDMzMDg3NQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.9",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330875/assets",
-      "assets": [
-        {
-          "id": 114836822,
-          "nodeId": "RA_kwDOAtXBQM4G2EVW",
-          "name": "refinedstorage-1.6.9.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1782023,
-          "downloadCount": 4,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.9/refinedstorage-1.6.9.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330875/assets{?name,label}",
-      "tagName": "v1.6.9",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- You can now interact with the fluid container input slot in the Fluid Interface.\r\n\r\n### Fixed\r\n\r\n- Fixed OpenComputers \"unknown error\" when using extract item API.\r\n- Fixed client FPS stuttering when opening a Crafting Grid.\r\n- Fixed rare Grid crashing issue.\r\n",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-29T09:34:01Z",
-      "publishedAt": "2023-06-29T09:34:01Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.9",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.9",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330875",
-      "createdAt": "2018-10-27T18:08:59Z"
-    },
     {
       "id": 2632393,
       "dateModified": "2023-06-29T09:43:45Z",
@@ -97,18 +66,14 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 4
-      },
-      {
         "source": "modrinth",
         "downloads": 300
       },
       {
         "source": "curseforge",
-        "downloads": 776662
+        "downloads": 776663
       }
     ],
-    "totalDownloads": 776966
+    "totalDownloads": 776963
   }
 }

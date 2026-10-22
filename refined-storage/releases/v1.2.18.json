@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.18.json",
   "name": "v1.2.18",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110513233,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxMzIzMw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.18",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513233/assets",
-      "assets": [
-        {
-          "id": 115028849,
-          "nodeId": "RA_kwDOAtXBQM4G2zNx",
-          "name": "refinedstorage-1.2.18.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1395269,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.18/refinedstorage-1.2.18.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513233/assets{?name,label}",
-      "tagName": "v1.2.18",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Fluid Grid now first tries to get buckets from your inventory instead of the storage.\r\n- Performance improvements with oredict autocrafting.\r\n\r\n### Fixed\r\n\r\n- Fixed client side crash with cable.\r\n- Fixed client side crash with disk drive.\r\n- Fixed crash with external storage in fluid mode.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T14:49:07Z",
-      "publishedAt": "2023-06-30T14:49:07Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.18",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.18",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513233",
-      "createdAt": "2017-01-20T22:13:40Z"
-    },
     {
       "id": 2371496,
       "dateModified": "2023-06-30T15:07:06Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 83
       },
@@ -109,6 +74,6 @@
         "downloads": 374303
       }
     ],
-    "totalDownloads": 374387
+    "totalDownloads": 374386
   }
 }

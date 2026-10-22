@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.5-beta.json",
   "name": "v0.7.5-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 111001042,
-      "nodeId": "MDc6UmVsZWFzZTExMTAwMTA0Mg\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.5-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001042/assets",
-      "assets": [
-        {
-          "id": 115529829,
-          "nodeId": "RA_kwDOAtXBQM4G4thl",
-          "name": "refinedstorage-0.7.5.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 419418,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.5-beta/refinedstorage-0.7.5.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111001042/assets{?name,label}",
-      "tagName": "v0.7.5-beta",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed wrong ascending / descending order in Grid.\r\n- Fixed autocrafting not giving back byproducts.\r\n- Fixed Solderer causing too many chunk updates.\r\n- Fixed Solderer slot sides being weird.\r\n- Performance improvements.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:29:46Z",
-      "publishedAt": "2023-07-04T14:29:46Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.5-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.5-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001042",
-      "createdAt": "2016-05-29T10:42:28Z"
-    },
     {
       "id": 2303629,
       "dateModified": "2023-07-04T14:00:45Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 56
       },
@@ -109,6 +74,6 @@
         "downloads": 850
       }
     ],
-    "totalDownloads": 907
+    "totalDownloads": 906
   }
 }

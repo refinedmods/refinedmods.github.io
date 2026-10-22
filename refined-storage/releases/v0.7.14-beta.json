@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.14-beta.json",
   "name": "v0.7.14-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 111000329,
-      "nodeId": "MDc6UmVsZWFzZTExMTAwMDMyOQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.14-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000329/assets",
-      "assets": [
-        {
-          "id": 115529230,
-          "nodeId": "RA_kwDOAtXBQM4G4tYO",
-          "name": "refinedstorage-0.7.14.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 460008,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.14-beta/refinedstorage-0.7.14.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000329/assets{?name,label}",
-      "tagName": "v0.7.14-beta",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added shift clicking support to every inventory (for upgrades etc).\r\n- Added grid filtering options: @ for searching on mod items, # for searching on tooltips.\r\n- Added a way to clear patterns (shift + right click in inventory).\r\n\r\n### Changed\r\n\r\n- Updated Forge to build 1965.\r\n- Tweaked some recipes.\r\n- Tweaked energy usage in some machines.\r\n\r\n### Fixed\r\n\r\n- Fixed item overflow bug with storage drawers and external storage.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:24:29Z",
-      "publishedAt": "2023-07-04T14:24:29Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.14-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.14-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000329",
-      "createdAt": "2016-06-17T21:15:13Z"
-    },
     {
       "id": 2308298,
       "dateModified": "2023-07-04T13:55:47Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 62
       },
@@ -109,6 +74,6 @@
         "downloads": 4111
       }
     ],
-    "totalDownloads": 4174
+    "totalDownloads": 4173
   }
 }

@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.3-beta.json",
   "name": "v0.7.3-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 111001112,
-      "nodeId": "MDc6UmVsZWFzZTExMTAwMTExMg\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.3-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001112/assets",
-      "assets": [
-        {
-          "id": 115529884,
-          "nodeId": "RA_kwDOAtXBQM4G4tic",
-          "name": "refinedstorage-0.7.3.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 418318,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.3-beta/refinedstorage-0.7.3.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111001112/assets{?name,label}",
-      "tagName": "v0.7.3-beta",
-      "targetCommitish": "develop",
-      "body": "### Changed\r\n\r\n- Crafting tasks are now sorted from new to old in the Crafting Monitor.\r\n- Broke Interface block inventory compatibility: make sure to take all your items out of your Interface blocks before you apply the update.\r\n\r\n### Fixed\r\n\r\n- Fixed grid performance by not sending grid data so often.\r\n- Fixed silicon + quartz enriched iron not having oredict names.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:30:19Z",
-      "publishedAt": "2023-07-04T14:30:19Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.3-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.3-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111001112",
-      "createdAt": "2016-05-25T19:00:09Z"
-    },
     {
       "id": 2302840,
       "dateModified": "2023-07-04T14:01:55Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 43
       },
@@ -109,6 +74,6 @@
         "downloads": 1331
       }
     ],
-    "totalDownloads": 1375
+    "totalDownloads": 1374
   }
 }

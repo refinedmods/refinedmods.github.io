@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.8.json",
   "name": "v1.6.8",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110330917,
-      "nodeId": "MDc6UmVsZWFzZTExMDMzMDkxNw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.8",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330917/assets",
-      "assets": [
-        {
-          "id": 114836869,
-          "nodeId": "RA_kwDOAtXBQM4G2EWF",
-          "name": "refinedstorage-1.6.8.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1780464,
-          "downloadCount": 5,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.8/refinedstorage-1.6.8.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330917/assets{?name,label}",
-      "tagName": "v1.6.8",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed Ender IO incompatibility.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-29T09:34:24Z",
-      "publishedAt": "2023-06-29T09:34:24Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.8",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.8",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330917",
-      "createdAt": "2018-10-20T10:09:01Z"
-    },
     {
       "id": 2629750,
       "dateModified": "2023-06-29T09:44:01Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 5
-      },
-      {
         "source": "modrinth",
         "downloads": 93
       },
@@ -109,6 +74,6 @@
         "downloads": 402625
       }
     ],
-    "totalDownloads": 402723
+    "totalDownloads": 402718
   }
 }

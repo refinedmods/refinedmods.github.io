@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.19-beta.json",
   "name": "v0.7.19-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 111000005,
-      "nodeId": "MDc6UmVsZWFzZTExMTAwMDAwNQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.19-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000005/assets",
-      "assets": [
-        {
-          "id": 115528996,
-          "nodeId": "RA_kwDOAtXBQM4G4tUk",
-          "name": "refinedstorage-0.7.19.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 461107,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.19-beta/refinedstorage-0.7.19.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000005/assets{?name,label}",
-      "tagName": "v0.7.19-beta",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed controller being buggy with reconnecting.\r\n- Fixed controller texture updating too slow when energy changes.\r\n- Fixed not being able to take item from grid at times.\r\n- Fixed external storage on storage drawer sending an item count of 0 over.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:22:15Z",
-      "publishedAt": "2023-07-04T14:22:15Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.19-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.19-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000005",
-      "createdAt": "2016-06-25T10:48:42Z"
-    },
     {
       "id": 2310378,
       "dateModified": "2023-07-04T13:47:52Z",
@@ -97,18 +66,14 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
-        "downloads": 395
+        "downloads": 533
       },
       {
         "source": "curseforge",
-        "downloads": 18240
+        "downloads": 18241
       }
     ],
-    "totalDownloads": 18636
+    "totalDownloads": 18774
   }
 }

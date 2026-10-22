@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.11-beta.json",
   "name": "v0.8.11-beta",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 110999290,
-      "nodeId": "MDc6UmVsZWFzZTExMDk5OTI5MA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.11-beta",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999290/assets",
-      "assets": [
-        {
-          "id": 115528316,
-          "nodeId": "RA_kwDOAtXBQM4G4tJ8",
-          "name": "refinedstorage-0.8.11.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 514424,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.11-beta/refinedstorage-0.8.11.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999290/assets{?name,label}",
-      "tagName": "v0.8.11-beta",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added X button to Processing Pattern Encoder to clear configuration of inputs and outputs.\r\n- Added Grid view toggle buttons (regular, craftable items only, no craftable items).\r\n- Added ability to shift click items into Importer, Exporter, Constructor, Destructor and Detector to set up whitelist / blacklist configurations easier.\r\n- Re-added opposite facing on shift click functionality.\r\n\r\n### Changed\r\n\r\n- Solderer upgrades go to upgrades slots first now when shift clicking.\r\n- Updated to Forge 2014.\r\n\r\n### Fixed\r\n\r\n- Fixed minor dupe bug with JEI transferring.\r\n- Fixed exporter crafting upgrades taking priority over other tasks.\r\n- Fixed NPE with incorrectly initialized disks.\r\n- Fixed not being able to take out items of Grid 2K16.\r\n- Fixed not being able to start autocrafting for certain items (most notably IC2 items).",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-07-04T14:17:11Z",
-      "publishedAt": "2023-07-04T14:17:11Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.11-beta",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.11-beta",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999290",
-      "createdAt": "2016-07-19T12:52:21Z"
-    },
     {
       "id": 2317123,
       "dateModified": "2023-07-04T10:46:38Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 70
       },
@@ -109,6 +74,6 @@
         "downloads": 1114
       }
     ],
-    "totalDownloads": 1185
+    "totalDownloads": 1184
   }
 }

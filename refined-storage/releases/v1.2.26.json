@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.26.json",
   "name": "v1.2.26",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,37 +29,6 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2431884",
       "platform": "FORGE",
       "createdAt": "2017-06-10T20:05:10Z"
-    },
-    {
-      "id": 110512830,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxMjgzMA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.26",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512830/assets",
-      "assets": [
-        {
-          "id": 115028532,
-          "nodeId": "RA_kwDOAtXBQM4G2zI0",
-          "name": "refinedstorage-1.2.26.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1412278,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.26/refinedstorage-1.2.26.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110512830/assets{?name,label}",
-      "tagName": "v1.2.26",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed Interface duping items on extract-only storages.\r\n- Fixed calculating crafting resources for more than 9 unique items, for addon mods.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T14:45:59Z",
-      "publishedAt": "2023-06-30T14:45:59Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.26",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.26",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512830",
-      "createdAt": "2017-06-10T20:08:49Z"
     },
     {
       "id": "Map4zjlx",
@@ -97,18 +66,14 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 1943
       },
       {
         "source": "curseforge",
-        "downloads": 10631916
+        "downloads": 10632403
       }
     ],
-    "totalDownloads": 10633860
+    "totalDownloads": 10634346
   }
 }

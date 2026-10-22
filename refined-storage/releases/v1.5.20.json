@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.20.json",
   "name": "v1.5.20",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110470818,
-      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDgxOA\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.20",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470818/assets",
-      "assets": [
-        {
-          "id": 114987522,
-          "nodeId": "RA_kwDOAtXBQM4G2pIC",
-          "name": "refinedstorage-1.5.20.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1703415,
-          "downloadCount": 4,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.20/refinedstorage-1.5.20.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470818/assets{?name,label}",
-      "tagName": "v1.5.20",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Restore MC 1.12.0 compatibility.\r\n",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T09:00:52Z",
-      "publishedAt": "2023-06-30T09:00:52Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.20",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.20",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470818",
-      "createdAt": "2017-10-09T17:28:56Z"
-    },
     {
       "id": 2489086,
       "dateModified": "2023-06-30T09:20:51Z",
@@ -101,10 +70,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 4
-      },
-      {
         "source": "modrinth",
         "downloads": 72
       },
@@ -113,6 +78,6 @@
         "downloads": 37963
       }
     ],
-    "totalDownloads": 38039
+    "totalDownloads": 38035
   }
 }

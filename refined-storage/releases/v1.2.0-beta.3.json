@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.3.json",
   "name": "v1.2.0-beta.3",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "BETA",
   "sources": [
-    {
-      "id": 110514493,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxNDQ5Mw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.3",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514493/assets",
-      "assets": [
-        {
-          "id": 115029756,
-          "nodeId": "RA_kwDOAtXBQM4G2zb8",
-          "name": "refinedstorage-1.2-beta3.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1122849,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.3/refinedstorage-1.2-beta3.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514493/assets{?name,label}",
-      "tagName": "v1.2.0-beta.3",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- More autocrafting issues.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T14:56:46Z",
-      "publishedAt": "2023-06-30T14:56:46Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.3",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.3",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514493",
-      "createdAt": "2016-10-25T20:41:37Z"
-    },
     {
       "id": 2339508,
       "dateModified": "2023-06-30T15:15:17Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 75
       },
@@ -109,6 +74,6 @@
         "downloads": 1655
       }
     ],
-    "totalDownloads": 1731
+    "totalDownloads": 1730
   }
 }

@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.8.json",
   "name": "v1.2.8",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110513839,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxMzgzOQ\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.8",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513839/assets",
-      "assets": [
-        {
-          "id": 115029216,
-          "nodeId": "RA_kwDOAtXBQM4G2zTg",
-          "name": "refinedstorage-1.2.8.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1384305,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.8/refinedstorage-1.2.8.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513839/assets{?name,label}",
-      "tagName": "v1.2.8",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed autocrafting bugs.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T14:52:19Z",
-      "publishedAt": "2023-06-30T14:52:19Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.8",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.8",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513839",
-      "createdAt": "2016-11-30T20:40:34Z"
-    },
     {
       "id": 2350970,
       "dateModified": "2023-06-30T15:10:27Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 102
       },
@@ -109,6 +74,6 @@
         "downloads": 189431
       }
     ],
-    "totalDownloads": 189534
+    "totalDownloads": 189533
   }
 }

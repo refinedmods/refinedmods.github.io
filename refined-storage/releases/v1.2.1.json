@@ -1,40 +1,9 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.1.json",
   "name": "v1.2.1",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
-    {
-      "id": 110514147,
-      "nodeId": "MDc6UmVsZWFzZTExMDUxNDE0Nw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.1",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514147/assets",
-      "assets": [
-        {
-          "id": 115029401,
-          "nodeId": "RA_kwDOAtXBQM4G2zWZ",
-          "name": "refinedstorage-1.2.1.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1338870,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.1/refinedstorage-1.2.1.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514147/assets{?name,label}",
-      "tagName": "v1.2.1",
-      "targetCommitish": "develop",
-      "body": "### Added\r\n\r\n- Added Wireless Crafting Monitor (with temporary textures).\r\n- Added support for JEI R and U keys in Grids.\r\n\r\n### Changed\r\n\r\n- You can now decompose storage disks if the item count is below zero by any chance.\r\n\r\n### Fixed\r\n\r\n- Fixed crafting upgrade having weird behavior.\r\n- Fixed external storage not updating when loading chunk.\r\n- Fixed external storage crash.\r\n- Fixed weird autocrafting behavior.\r\n\r\n### Removed\r\n\r\n- Removed controller explosions when multiple controllers are connected to the same network.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T14:54:37Z",
-      "publishedAt": "2023-06-30T14:54:37Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.1",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.1",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514147",
-      "createdAt": "2016-11-05T13:57:45Z"
-    },
     {
       "id": 2342059,
       "dateModified": "2023-06-30T15:12:44Z",
@@ -97,10 +66,6 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 106
       },
@@ -109,6 +74,6 @@
         "downloads": 1953
       }
     ],
-    "totalDownloads": 2060
+    "totalDownloads": 2059
   }
 }

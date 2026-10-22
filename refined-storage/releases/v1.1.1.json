@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.1.1.json",
   "name": "v1.1.1",
-  "indexedAt": "2026-10-22T02:47:40Z",
+  "indexedAt": "2026-10-22T16:24:57Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,37 +29,6 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2332840",
       "platform": "FORGE",
       "createdAt": "2016-09-28T06:28:54Z"
-    },
-    {
-      "id": 110520773,
-      "nodeId": "MDc6UmVsZWFzZTExMDUyMDc3Mw\u003d\u003d",
-      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.1.1",
-      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520773/assets",
-      "assets": [
-        {
-          "id": 115035475,
-          "nodeId": "RA_kwDOAtXBQM4G201T",
-          "name": "refinedstorage-1.1.1.jar",
-          "state": "uploaded",
-          "contentType": "application/octet-stream",
-          "size": 1029775,
-          "downloadCount": 1,
-          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.1.1/refinedstorage-1.1.1.jar"
-        }
-      ],
-      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110520773/assets{?name,label}",
-      "tagName": "v1.1.1",
-      "targetCommitish": "develop",
-      "body": "### Fixed\r\n\r\n- Fixed crash on servers.",
-      "draft": false,
-      "prerelease": false,
-      "updatedAt": "2023-06-30T15:43:03Z",
-      "publishedAt": "2023-06-30T15:43:03Z",
-      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.1.1",
-      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.1.1",
-      "source": "github",
-      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110520773",
-      "createdAt": "2016-09-28T11:16:39Z"
     },
     {
       "id": "VfYyJ2IJ",
@@ -97,16 +66,12 @@
   "stats": {
     "downloads": [
       {
-        "source": "github",
-        "downloads": 1
-      },
-      {
         "source": "modrinth",
         "downloads": 85
       },
       {
         "source": "curseforge",
-        "downloads": 13741
+        "downloads": 13742
       }
     ],
     "totalDownloads": 13827
