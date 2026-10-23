@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.14.json",
   "name": "v1.5.14",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110471129,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTEyOQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.14",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471129/assets",
+      "assets": [
+        {
+          "id": 114987849,
+          "nodeId": "RA_kwDOAtXBQM4G2pNJ",
+          "name": "refinedstorage-1.5.14.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1705970,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.14/refinedstorage-1.5.14.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471129/assets{?name,label}",
+      "tagName": "v1.5.14",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added config option to modify the Solderer speed per Speed Upgrade, defaulting to 22.5% faster per upgrade, making it 90% faster on a fully upgraded Solderer.\r\n- Added CTM integration.\r\n\r\n### Changed\r\n\r\n- Updated Forge to 2426.\r\n- Updated French translation.\r\n\r\n### Fixed\r\n\r\n- Fixed more crashes relating to scrollbar in GUIs.\r\n- Fixed crash with Detector.\r\n- Fixed bug where pattern create button wasn\u0027t visible when grid tabs were selected.\r\n- Fixed performance issue with Controllers turning off and on and Interfaces.\r\n- Fixed Interfaces exposing network inventory don\u0027t hide storages that are disconnected.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T09:03:40Z",
+      "publishedAt": "2023-06-30T09:03:40Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.14",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.14",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471129",
+      "createdAt": "2017-08-03T17:31:00Z"
+    },
     {
       "id": 2459679,
       "dateModified": "2023-06-30T09:22:43Z",
@@ -68,6 +99,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 76
       },
@@ -76,6 +111,6 @@
         "downloads": 27460
       }
     ],
-    "totalDownloads": 27536
+    "totalDownloads": 27537
   }
 }

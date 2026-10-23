@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/spawner-imbuer/releases/v0.1.0.json",
   "name": "v0.1.0",
-  "indexedAt": "2026-10-22T16:25:51Z",
+  "indexedAt": "2026-10-23T02:53:12Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -31,6 +31,37 @@
       "url": "https://www.curseforge.com/api/v1/mods/261930/files/2387905",
       "platform": "FORGE",
       "createdAt": "2017-03-02T12:15:15Z"
+    },
+    {
+      "id": 126198132,
+      "nodeId": "MDc6UmVsZWFzZTEyNjE5ODEzMg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/spawnerimbuer/releases/tag/v0.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/spawnerimbuer/releases/126198132/assets",
+      "assets": [
+        {
+          "id": 131911473,
+          "nodeId": "RA_kwDOBPzFvc4H3M8x",
+          "name": "spawnerimbuer-0.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 5896,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/spawnerimbuer/releases/download/v0.1.0/spawnerimbuer-0.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/spawnerimbuer/releases/126198132/assets{?name,label}",
+      "tagName": "v0.1.0",
+      "targetCommitish": "master",
+      "body": "Initial release",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-10-23T08:08:59Z",
+      "publishedAt": "2023-10-23T08:08:59Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/spawnerimbuer/tarball/v0.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/spawnerimbuer/zipball/v0.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/spawnerimbuer/releases/126198132",
+      "createdAt": "2017-03-02T12:17:28Z"
     },
     {
       "id": "dxWW9iDw",
@@ -70,6 +101,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 4
+      },
+      {
         "source": "modrinth",
         "downloads": 406
       },
@@ -78,6 +113,6 @@
         "downloads": 14941
       }
     ],
-    "totalDownloads": 15347
+    "totalDownloads": 15351
   }
 }

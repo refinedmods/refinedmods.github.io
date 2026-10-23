@@ -1,9 +1,360 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.0-beta.11.json",
   "name": "v2.0.0-beta.11",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 242359409,
+      "nodeId": "RE_kwDOEkvWPM4Ochxx",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v2.0.0-beta.11",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/242359409/assets",
+      "assets": [
+        {
+          "id": 286118264,
+          "nodeId": "RA_kwDOEkvWPM4RDdF4",
+          "name": "refinedstorage-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 11,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118263,
+          "nodeId": "RA_kwDOEkvWPM4RDdF3",
+          "name": "refinedstorage-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 23,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118265,
+          "nodeId": "RA_kwDOEkvWPM4RDdF5",
+          "name": "refinedstorage-autocrafting-api-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 45409,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-autocrafting-api-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118270,
+          "nodeId": "RA_kwDOEkvWPM4RDdF-",
+          "name": "refinedstorage-autocrafting-api-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 111468,
+          "downloadCount": 10,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-autocrafting-api-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118271,
+          "nodeId": "RA_kwDOEkvWPM4RDdF_",
+          "name": "refinedstorage-common-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2770569,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-common-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118275,
+          "nodeId": "RA_kwDOEkvWPM4RDdGD",
+          "name": "refinedstorage-common-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3663377,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-common-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118268,
+          "nodeId": "RA_kwDOEkvWPM4RDdF8",
+          "name": "refinedstorage-common-api-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 72329,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-common-api-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118266,
+          "nodeId": "RA_kwDOEkvWPM4RDdF6",
+          "name": "refinedstorage-common-api-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 110433,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-common-api-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118280,
+          "nodeId": "RA_kwDOEkvWPM4RDdGI",
+          "name": "refinedstorage-core-api-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5271,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-core-api-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118284,
+          "nodeId": "RA_kwDOEkvWPM4RDdGM",
+          "name": "refinedstorage-core-api-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 8665,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-core-api-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118272,
+          "nodeId": "RA_kwDOEkvWPM4RDdGA",
+          "name": "refinedstorage-fabric-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1163842,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-fabric-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118278,
+          "nodeId": "RA_kwDOEkvWPM4RDdGG",
+          "name": "refinedstorage-fabric-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5474659,
+          "downloadCount": 12,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-fabric-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118269,
+          "nodeId": "RA_kwDOEkvWPM4RDdF9",
+          "name": "refinedstorage-fabric-api-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5361,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-fabric-api-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118267,
+          "nodeId": "RA_kwDOEkvWPM4RDdF7",
+          "name": "refinedstorage-fabric-api-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 6280,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-fabric-api-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118279,
+          "nodeId": "RA_kwDOEkvWPM4RDdGH",
+          "name": "refinedstorage-neoforge-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1185715,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-neoforge-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118276,
+          "nodeId": "RA_kwDOEkvWPM4RDdGE",
+          "name": "refinedstorage-neoforge-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4479108,
+          "downloadCount": 17,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-neoforge-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118274,
+          "nodeId": "RA_kwDOEkvWPM4RDdGC",
+          "name": "refinedstorage-neoforge-api-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3165,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-neoforge-api-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118281,
+          "nodeId": "RA_kwDOEkvWPM4RDdGJ",
+          "name": "refinedstorage-neoforge-api-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3829,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-neoforge-api-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118285,
+          "nodeId": "RA_kwDOEkvWPM4RDdGN",
+          "name": "refinedstorage-network-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 71012,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-network-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118282,
+          "nodeId": "RA_kwDOEkvWPM4RDdGK",
+          "name": "refinedstorage-network-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 139528,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-network-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118277,
+          "nodeId": "RA_kwDOEkvWPM4RDdGF",
+          "name": "refinedstorage-network-api-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24200,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-network-api-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118273,
+          "nodeId": "RA_kwDOEkvWPM4RDdGB",
+          "name": "refinedstorage-network-api-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 34494,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-network-api-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118286,
+          "nodeId": "RA_kwDOEkvWPM4RDdGO",
+          "name": "refinedstorage-network-test-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19935,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-network-test-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118283,
+          "nodeId": "RA_kwDOEkvWPM4RDdGL",
+          "name": "refinedstorage-network-test-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33185,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-network-test-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118289,
+          "nodeId": "RA_kwDOEkvWPM4RDdGR",
+          "name": "refinedstorage-query-parser-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 13485,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-query-parser-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118288,
+          "nodeId": "RA_kwDOEkvWPM4RDdGQ",
+          "name": "refinedstorage-query-parser-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28951,
+          "downloadCount": 5,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-query-parser-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118290,
+          "nodeId": "RA_kwDOEkvWPM4RDdGS",
+          "name": "refinedstorage-resource-api-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 18301,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-resource-api-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118287,
+          "nodeId": "RA_kwDOEkvWPM4RDdGP",
+          "name": "refinedstorage-resource-api-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 31004,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-resource-api-2.0.0-beta.11.jar"
+        },
+        {
+          "id": 286118292,
+          "nodeId": "RA_kwDOEkvWPM4RDdGU",
+          "name": "refinedstorage-storage-api-2.0.0-beta.11-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27883,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-storage-api-2.0.0-beta.11-sources.jar"
+        },
+        {
+          "id": 286118291,
+          "nodeId": "RA_kwDOEkvWPM4RDdGT",
+          "name": "refinedstorage-storage-api-2.0.0-beta.11.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 44545,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-beta.11/refinedstorage-storage-api-2.0.0-beta.11.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/242359409/assets{?name,label}",
+      "tagName": "v2.0.0-beta.11",
+      "targetCommitish": "75f491bc7b0b821ef0ddaf86313082351bfae6b3",
+      "body": "### Added\n\n-   The resource type side button now shows a warning when the Grid is filtering by resource type and there are no resources for that type to display.\n-   The Autocrafting Monitor now shows the state of the crafting task (ready, extracting initial resources, running, returning internal storage and completed). If a task is not able to run or complete, this should give more insight as to why.\n-   The Autocrafting Monitor now shows which initial resources still have to be extracted from the storage before the task can start. Most of the time this is instant and won\u0027t be visible to the user, but can help with understanding stuck tasks when combining autocrafting with external storages that report fake items like Functional Storage\u0027s Compacting Storage.\n\n### Fixed\n\n-   Autocrafting not properly differentiating between outputs and byproducts and calculating the wrong task when requesting a byproduct of another pattern.\n-   Reduce lag spikes when opening a Grid with many item types.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2025-08-25T19:03:36Z",
+      "publishedAt": "2025-08-25T19:03:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v2.0.0-beta.11",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v2.0.0-beta.11",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/242359409",
+      "createdAt": "2025-08-25T18:55:29Z"
+    },
     {
       "id": 6927797,
       "dateModified": "2025-08-25T19:10:38Z",
@@ -124,14 +475,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 207
+      },
+      {
         "source": "modrinth",
-        "downloads": 9243
+        "downloads": 9249
       },
       {
         "source": "curseforge",
-        "downloads": 296907
+        "downloads": 296915
       }
     ],
-    "totalDownloads": 306150
+    "totalDownloads": 306371
   }
 }

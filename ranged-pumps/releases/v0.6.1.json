@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.6.1.json",
   "name": "v0.6.1",
-  "indexedAt": "2026-10-22T16:25:44Z",
+  "indexedAt": "2026-10-23T02:53:03Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 55596056,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDU2",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.6.1",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596056/assets",
+      "assets": [
+        {
+          "id": 52081177,
+          "nodeId": "RA_kwDOA8bqCc4DGrIZ",
+          "name": "rangedpumps-0.6.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 24616,
+          "downloadCount": 10,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.6.1/rangedpumps-0.6.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596056/assets{?name,label}",
+      "tagName": "v0.6.1",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fix Pump not dropping when breaking.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2021-12-18T12:49:07Z",
+      "publishedAt": "2021-12-18T12:49:07Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.6.1",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.6.1",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596056",
+      "createdAt": "2019-11-07T12:33:44Z"
+    },
     {
       "id": 2823421,
       "dateModified": "2021-12-18T13:00:59Z",
@@ -66,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 10
+      },
+      {
         "source": "modrinth",
         "downloads": 162
       },
       {
         "source": "curseforge",
-        "downloads": 578335
+        "downloads": 578342
       }
     ],
-    "totalDownloads": 578497
+    "totalDownloads": 578514
   }
 }

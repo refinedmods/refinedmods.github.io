@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.19-beta.json",
   "name": "v0.8.19-beta",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 110998325,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5ODMyNQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.19-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998325/assets",
+      "assets": [
+        {
+          "id": 115526811,
+          "nodeId": "RA_kwDOAtXBQM4G4syb",
+          "name": "refinedstorage-0.8.19.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 609413,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.19-beta/refinedstorage-0.8.19.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110998325/assets{?name,label}",
+      "tagName": "v0.8.19-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed item duplication bug with External Storage.\r\n- Fixed External Storage taking too long to update storage.\r\n- Fixed crash with Grid.\r\n- Fixed crash when shift clicking unsupported item in a slot.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-07-04T14:09:57Z",
+      "publishedAt": "2023-07-04T14:09:57Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.19-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.19-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110998325",
+      "createdAt": "2016-08-13T23:46:51Z"
+    },
     {
       "id": 2322890,
       "dateModified": "2023-07-04T10:43:43Z",
@@ -66,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 53
       },
       {
         "source": "curseforge",
-        "downloads": 8631
+        "downloads": 8632
       }
     ],
-    "totalDownloads": 8684
+    "totalDownloads": 8686
   }
 }

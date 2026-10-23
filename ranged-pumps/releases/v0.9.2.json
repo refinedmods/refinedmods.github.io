@@ -1,9 +1,41 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.9.2.json",
   "name": "v0.9.2",
-  "indexedAt": "2026-10-22T16:25:44Z",
+  "indexedAt": "2026-10-23T02:53:03Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 62843337,
+      "nodeId": "RE_kwDOA8bqCc4DvunJ",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.9.2",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/62843337/assets",
+      "assets": [
+        {
+          "id": 60679636,
+          "nodeId": "RA_kwDOA8bqCc4DneXU",
+          "name": "rangedpumps-0.9.2.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 28238,
+          "downloadCount": 16,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.9.2/rangedpumps-0.9.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/62843337/assets{?name,label}",
+      "tagName": "v0.9.2",
+      "targetCommitish": "develop",
+      "body": "\n### Changed\n\n- Ported to Minecraft 1.18.2.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2022-03-26T15:25:14Z",
+      "publishedAt": "2022-03-26T15:25:13Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.9.2",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.9.2",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/62843337",
+      "createdAt": "2022-03-26T15:20:10Z"
+    },
     {
       "id": 3714025,
       "dateModified": "2022-03-26T15:37:28Z",
@@ -66,14 +98,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 16
+      },
+      {
         "source": "modrinth",
         "downloads": 518
       },
       {
         "source": "curseforge",
-        "downloads": 1822000
+        "downloads": 1822037
       }
     ],
-    "totalDownloads": 1822518
+    "totalDownloads": 1822571
   }
 }

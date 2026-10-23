@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.33.json",
   "name": "v1.5.33",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110470162,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MDE2Mg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.33",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470162/assets",
+      "assets": [
+        {
+          "id": 114986888,
+          "nodeId": "RA_kwDOAtXBQM4G2o-I",
+          "name": "refinedstorage-1.5.33.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1821882,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.33/refinedstorage-1.5.33.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110470162/assets{?name,label}",
+      "tagName": "v1.5.33",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added Crafter Manager.\r\n\r\n### Changed\r\n\r\n- Patterns in the Crafter slots now automatically render the output without pressing shift.\r\n- Increased Grid performance.\r\n- Various internal refactors.\r\n\r\n### Fixed\r\n\r\n- Fixed Disk Manipulator not extracting items.\r\n- Fixed filter slots not caring about max stack size.\r\n- Fixed model warning about Portable Grid.\r\n- Fixed crash when autocompleting Ender IO recipes from JEI.\r\n- Fixed Grid not always using all combinations when using JEI autocompletion.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T08:55:04Z",
+      "publishedAt": "2023-06-30T08:55:04Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.33",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.33",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110470162",
+      "createdAt": "2018-04-06T10:14:46Z"
+    },
     {
       "id": 2554172,
       "dateModified": "2023-06-30T09:16:17Z",
@@ -66,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 3
+      },
+      {
         "source": "modrinth",
         "downloads": 125
       },
       {
         "source": "curseforge",
-        "downloads": 568168
+        "downloads": 568170
       }
     ],
-    "totalDownloads": 568293
+    "totalDownloads": 568298
   }
 }

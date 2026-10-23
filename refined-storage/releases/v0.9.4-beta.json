@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.9.4-beta.json",
   "name": "v0.9.4-beta",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 110521060,
+      "nodeId": "MDc6UmVsZWFzZTExMDUyMTA2MA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.9.4-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521060/assets",
+      "assets": [
+        {
+          "id": 115035834,
+          "nodeId": "RA_kwDOAtXBQM4G2066",
+          "name": "refinedstorage-0.9.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 718697,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.9.4-beta/refinedstorage-0.9.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110521060/assets{?name,label}",
+      "tagName": "v0.9.4-beta",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Reduced explosion radius when multiple controllers are connected to the same network.\r\n\r\n### Fixed\r\n\r\n- Fixed mod not working without JEI.\r\n- Little fixes in German translation.\r\n- Reverted network changes that caused buggy behavior.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T15:45:32Z",
+      "publishedAt": "2023-06-30T15:45:32Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.9.4-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.9.4-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110521060",
+      "createdAt": "2016-08-27T22:50:22Z"
+    },
     {
       "id": 2326651,
       "dateModified": "2023-06-30T15:52:55Z",
@@ -66,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
-        "downloads": 52
+        "downloads": 54
       },
       {
         "source": "curseforge",
         "downloads": 35059
       }
     ],
-    "totalDownloads": 35111
+    "totalDownloads": 35114
   }
 }

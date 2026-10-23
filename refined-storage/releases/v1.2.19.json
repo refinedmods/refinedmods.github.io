@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.19.json",
   "name": "v1.2.19",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110513176,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMzE3Ng\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.19",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513176/assets",
+      "assets": [
+        {
+          "id": 115028807,
+          "nodeId": "RA_kwDOAtXBQM4G2zNH",
+          "name": "refinedstorage-1.2.19.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1407452,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.19/refinedstorage-1.2.19.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110513176/assets{?name,label}",
+      "tagName": "v1.2.19",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added integration for Collosal Chests for the External Storage, Importer and Exporter improving performance.\r\n\r\n### Changed\r\n\r\n- Updated cable part back texture and Construction and Destruction Core textures.\r\n- Updated Forge to 2221.\r\n- Updated Chinese translation.\r\n- Exposed the Network Card inventory of the Network Transmitter so other tiles can interact with it.\r\n- Increased size of Detector textbox.\r\n- Autocrafting bugfixes.\r\n- Handle breaking and placing blocks better for Constructor and Destructor.\r\n\r\n### Fixed\r\n\r\n- Fixed stack upgrades not working in exporter when stack size is 16.\r\n- Fixed crash when rotating External Storage.\r\n- Fixed disk textures not working on latest Forge.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T14:48:47Z",
+      "publishedAt": "2023-06-30T14:48:47Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.19",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.19",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110513176",
+      "createdAt": "2017-02-01T20:48:59Z"
+    },
     {
       "id": 2376751,
       "dateModified": "2023-06-30T15:06:46Z",
@@ -66,6 +97,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 57
       },
@@ -74,6 +109,6 @@
         "downloads": 5171
       }
     ],
-    "totalDownloads": 5228
+    "totalDownloads": 5229
   }
 }

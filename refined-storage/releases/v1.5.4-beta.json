@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.4-beta.json",
   "name": "v1.5.4-beta",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 110471856,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTg1Ng\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.4-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471856/assets",
+      "assets": [
+        {
+          "id": 114988523,
+          "nodeId": "RA_kwDOAtXBQM4G2pXr",
+          "name": "refinedstorage-1.5.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1676481,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.4-beta/refinedstorage-1.5.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471856/assets{?name,label}",
+      "tagName": "v1.5.4-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed External Storage crashing.\r\n- Fixed crash when node data mismatches between world and dat file.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T09:09:53Z",
+      "publishedAt": "2023-06-30T09:09:53Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.4-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.4-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471856",
+      "createdAt": "2017-06-24T20:00:42Z"
+    },
     {
       "id": 2440957,
       "dateModified": "2023-06-30T09:25:31Z",
@@ -66,6 +97,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 119
       },
@@ -74,6 +109,6 @@
         "downloads": 669
       }
     ],
-    "totalDownloads": 788
+    "totalDownloads": 789
   }
 }

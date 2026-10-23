@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.1-beta.json",
   "name": "v0.8.1-beta",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 110999866,
+      "nodeId": "MDc6UmVsZWFzZTExMDk5OTg2Ng\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.8.1-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999866/assets",
+      "assets": [
+        {
+          "id": 115528898,
+          "nodeId": "RA_kwDOAtXBQM4G4tTC",
+          "name": "refinedstorage-0.8.1.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 463103,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.1-beta/refinedstorage-0.8.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110999866/assets{?name,label}",
+      "tagName": "v0.8.1-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed upgrades from interface not dropping.\r\n- Fixed lag caused by constantly rebuilding storage.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-07-04T14:21:23Z",
+      "publishedAt": "2023-07-04T14:21:23Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.8.1-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.8.1-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110999866",
+      "createdAt": "2016-06-30T19:57:57Z"
+    },
     {
       "id": 2312063,
       "dateModified": "2023-07-04T10:51:01Z",
@@ -68,6 +99,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 50
       },
@@ -76,6 +111,6 @@
         "downloads": 3823
       }
     ],
-    "totalDownloads": 3873
+    "totalDownloads": 3874
   }
 }

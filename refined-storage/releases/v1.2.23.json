@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.23.json",
   "name": "v1.2.23",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,6 +29,37 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2391574",
       "platform": "FORGE",
       "createdAt": "2017-03-11T12:56:04Z"
+    },
+    {
+      "id": 110512928,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMjkyOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.23",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512928/assets",
+      "assets": [
+        {
+          "id": 115028606,
+          "nodeId": "RA_kwDOAtXBQM4G2zJ-",
+          "name": "refinedstorage-1.2.23.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1409455,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.23/refinedstorage-1.2.23.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110512928/assets{?name,label}",
+      "tagName": "v1.2.23",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Implemented support for the Forge update JSON system.\r\n\r\n### Changed\r\n\r\n- The Detector no longer outputs a strong redstone signal.\r\n\r\n### Fixed\r\n\r\n- Fixed crash in storage cache.\r\n- Fixed Crafting Pattern model.\r\n- Fixed Constructor not working on Botania flowers.\r\n- Fixed Disk Manipulator crash.\r\n- Fixed slow oredict comparisons causing TPS lag.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T14:46:54Z",
+      "publishedAt": "2023-06-30T14:46:54Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.23",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.23",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512928",
+      "createdAt": "2017-03-11T13:02:52Z"
     },
     {
       "id": "lduq40MS",
@@ -66,6 +97,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 128
       },
@@ -74,6 +109,6 @@
         "downloads": 293217
       }
     ],
-    "totalDownloads": 293345
+    "totalDownloads": 293346
   }
 }

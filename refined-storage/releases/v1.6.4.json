@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.4.json",
   "name": "v1.6.4",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110331087,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMTA4Nw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.4",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331087/assets",
+      "assets": [
+        {
+          "id": 114837067,
+          "nodeId": "RA_kwDOAtXBQM4G2EZL",
+          "name": "refinedstorage-1.6.4.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1877782,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.4/refinedstorage-1.6.4.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110331087/assets{?name,label}",
+      "tagName": "v1.6.4",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Rewrote autocrafting again, bringing performance up to par with other autocrafting mods.\r\n- Autocrafting now reserves items and fluids in an internal inventory to avoid having the storage network steal stacks required for autocrafting.\r\n- Reworked the Crafting Monitor to be more condensed and more clear.\r\n\r\n### Fixed\r\n\r\n- Fixed not being able to craft upgrades that require enchanted books.\r\n- Fixed quick jittering of the Grid and Crafting Monitor when opening them because the tabs appear.\r\n\r\n### Removed\r\n\r\n- Removed left / right click functionality on filter slots to increase / decrease the amount, replaced that functionality with a dialog.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-29T09:36:04Z",
+      "publishedAt": "2023-06-29T09:36:04Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.4",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.4",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110331087",
+      "createdAt": "2018-08-27T19:59:22Z"
+    },
     {
       "id": 2612213,
       "dateModified": "2023-06-29T09:45:13Z",
@@ -66,6 +97,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 3
+      },
+      {
         "source": "modrinth",
         "downloads": 119
       },
@@ -74,6 +109,6 @@
         "downloads": 147316
       }
     ],
-    "totalDownloads": 147435
+    "totalDownloads": 147438
   }
 }

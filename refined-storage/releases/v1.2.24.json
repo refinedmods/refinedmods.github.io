@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.24.json",
   "name": "v1.2.24",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,6 +29,37 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2394485",
       "platform": "FORGE",
       "createdAt": "2017-03-18T13:47:00Z"
+    },
+    {
+      "id": 110512893,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMjg5Mw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.24",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512893/assets",
+      "assets": [
+        {
+          "id": 115028578,
+          "nodeId": "RA_kwDOAtXBQM4G2zJi",
+          "name": "refinedstorage-1.2.24.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1411998,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.24/refinedstorage-1.2.24.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110512893/assets{?name,label}",
+      "tagName": "v1.2.24",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Made the keybinding to focus on the Grid search bar configurable.\r\n\r\n### Fixed\r\n\r\n- Autocrafting bugfixes.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T14:46:35Z",
+      "publishedAt": "2023-06-30T14:46:35Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.24",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.24",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512893",
+      "createdAt": "2017-03-18T13:49:58Z"
     },
     {
       "id": "ZwA2eWbr",
@@ -66,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 113
       },
       {
         "source": "curseforge",
-        "downloads": 120949
+        "downloads": 120952
       }
     ],
-    "totalDownloads": 121062
+    "totalDownloads": 121066
   }
 }

@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.6.12.json",
   "name": "v1.6.12",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110330718,
+      "nodeId": "MDc6UmVsZWFzZTExMDMzMDcxOA\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.6.12",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330718/assets",
+      "assets": [
+        {
+          "id": 114836576,
+          "nodeId": "RA_kwDOAtXBQM4G2ERg",
+          "name": "refinedstorage-1.6.12.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1896159,
+          "downloadCount": 6,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.6.12/refinedstorage-1.6.12.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110330718/assets{?name,label}",
+      "tagName": "v1.6.12",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added a completion percentage to the Crafting Monitor.\r\n\r\n### Changed\r\n\r\n- Updated Russian translation.\r\n- Increased the speed of autocrafting.\r\n\r\n### Fixed\r\n\r\n- Fixed External Storage sending storage updates when it is disabled.\r\n- Fixed slight performance issue with loading Crafters from disk.\r\n- Fixed storage GUIs overflowing on large numbers.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-29T09:32:48Z",
+      "publishedAt": "2023-06-29T09:32:48Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.6.12",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.6.12",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110330718",
+      "createdAt": "2018-11-28T20:26:12Z"
+    },
     {
       "id": 2642249,
       "dateModified": "2023-06-29T09:42:28Z",
@@ -66,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 6
+      },
+      {
         "source": "modrinth",
         "downloads": 210
       },
       {
         "source": "curseforge",
-        "downloads": 3141432
+        "downloads": 3141470
       }
     ],
-    "totalDownloads": 3141642
+    "totalDownloads": 3141686
   }
 }

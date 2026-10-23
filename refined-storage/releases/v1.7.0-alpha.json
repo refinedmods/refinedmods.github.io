@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.7.0-alpha.json",
   "name": "v1.7.0-alpha",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "ALPHA",
   "sources": [
     {
@@ -29,6 +29,37 @@
       "url": "https://www.curseforge.com/api/v1/mods/243076/files/2820669",
       "platform": "FORGE",
       "createdAt": "2019-11-02T12:45:38Z"
+    },
+    {
+      "id": 86566640,
+      "nodeId": "MDc6UmVsZWFzZTg2NTY2NjQw",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.7.0-alpha",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566640/assets",
+      "assets": [
+        {
+          "id": 88798444,
+          "nodeId": "RA_kwDOAtXBQM4FSvTs",
+          "name": "refinedstorage-1.7.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1814621,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.7.0-alpha/refinedstorage-1.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/86566640/assets{?name,label}",
+      "tagName": "v1.7.0-alpha",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.14.\r\n\r\n### Fixed\r\n\r\n- Fixed the Fluid Grid not having a View type setting.\r\n\r\n### Changed\r\n\r\n- Oredict mode for Patterns has been replaced with \"Exact mode\" (by default on). When exact mode is off, Refined Storage\r\n  will use equivalent items or fluids from the Minecraft item/fluid tag system.\r\n- Grid filtering with \"$\" now does filtering based on item/fluid tag name instead of oredict name.\r\n- When binding a network item to a network you can now bind to any network block, not only the Controller.\r\n\r\n### Removed\r\n\r\n- The Reader and Writer, this will return later in an addon mod.\r\n- Cross dimensional functionality on the Network Transmitter for the moment, this will return later.\r\n- Covers.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2022-12-19T17:55:38Z",
+      "publishedAt": "2022-12-19T17:55:38Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.7.0-alpha",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.7.0-alpha",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/86566640",
+      "createdAt": "2019-11-02T13:30:03Z"
     },
     {
       "id": "PrJ56qWO",
@@ -66,6 +97,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 3
+      },
+      {
         "source": "modrinth",
         "downloads": 305
       },
@@ -74,6 +109,6 @@
         "downloads": 53879
       }
     ],
-    "totalDownloads": 54184
+    "totalDownloads": 54187
   }
 }

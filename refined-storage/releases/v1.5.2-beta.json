@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.5.2-beta.json",
   "name": "v1.5.2-beta",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 110471942,
+      "nodeId": "MDc6UmVsZWFzZTExMDQ3MTk0Mg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.5.2-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471942/assets",
+      "assets": [
+        {
+          "id": 114988617,
+          "nodeId": "RA_kwDOAtXBQM4G2pZJ",
+          "name": "refinedstorage-1.5.2.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1666141,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.5.2-beta/refinedstorage-1.5.2.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110471942/assets{?name,label}",
+      "tagName": "v1.5.2-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed a bug where loading nodes would abort when a single node has an error while reading.\r\n- Fixed Filters not persisting correctly in Portable Grid.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T09:11:16Z",
+      "publishedAt": "2023-06-30T09:11:16Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.5.2-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.5.2-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110471942",
+      "createdAt": "2017-06-20T22:38:40Z"
+    },
     {
       "id": 2437760,
       "dateModified": "2023-06-30T09:26:16Z",
@@ -66,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
-        "downloads": 67
+        "downloads": 69
       },
       {
         "source": "curseforge",
         "downloads": 5913
       }
     ],
-    "totalDownloads": 5980
+    "totalDownloads": 5983
   }
 }

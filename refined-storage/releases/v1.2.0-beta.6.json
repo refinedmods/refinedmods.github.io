@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.0-beta.6.json",
   "name": "v1.2.0-beta.6",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 110514355,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDM1NQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.0-beta.6",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514355/assets",
+      "assets": [
+        {
+          "id": 115029610,
+          "nodeId": "RA_kwDOAtXBQM4G2zZq",
+          "name": "refinedstorage-1.2-beta6.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1152871,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.0-beta.6/refinedstorage-1.2-beta6.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514355/assets{?name,label}",
+      "tagName": "v1.2.0-beta.6",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- More autocrafting issues.\r\n- Oredict autocrafting has been improved.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T14:55:57Z",
+      "publishedAt": "2023-06-30T14:55:57Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.0-beta.6",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.0-beta.6",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514355",
+      "createdAt": "2016-11-02T20:43:57Z"
+    },
     {
       "id": 2341311,
       "dateModified": "2023-06-30T15:14:15Z",
@@ -66,6 +97,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 71
       },
@@ -74,6 +109,6 @@
         "downloads": 979
       }
     ],
-    "totalDownloads": 1050
+    "totalDownloads": 1051
   }
 }

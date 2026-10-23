@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.1.0.json",
   "name": "v0.1.0",
-  "indexedAt": "2026-10-22T16:25:44Z",
+  "indexedAt": "2026-10-23T02:53:03Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -27,6 +27,37 @@
       "source": "curseforge",
       "url": "https://www.curseforge.com/api/v1/mods/247496/files/2315995",
       "createdAt": "2016-07-14T23:49:39Z"
+    },
+    {
+      "id": 55595968,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk1OTY4",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.1.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55595968/assets",
+      "assets": [
+        {
+          "id": 52081093,
+          "nodeId": "RA_kwDOA8bqCc4DGrHF",
+          "name": "rangedpumps-0.1.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 18048,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.1.0/rangedpumps-0.1.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55595968/assets{?name,label}",
+      "tagName": "v0.1.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Initial release for Minecraft 1.10.2.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2021-12-18T12:46:36Z",
+      "publishedAt": "2021-12-18T12:46:36Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.1.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.1.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55595968",
+      "createdAt": "2016-07-15T00:35:32Z"
     },
     {
       "id": "er6XBvsy",
@@ -64,6 +95,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 9
+      },
+      {
         "source": "modrinth",
         "downloads": 156
       },
@@ -72,6 +107,6 @@
         "downloads": 481
       }
     ],
-    "totalDownloads": 637
+    "totalDownloads": 646
   }
 }

@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/ranged-pumps/releases/v0.7.0.json",
   "name": "v0.7.0",
-  "indexedAt": "2026-10-22T16:25:44Z",
+  "indexedAt": "2026-10-23T02:53:03Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 55596064,
+      "nodeId": "MDc6UmVsZWFzZTU1NTk2MDY0",
+      "htmlUrl": "https://github.com/refinedmods/rangedpumps/releases/tag/v0.7.0",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596064/assets",
+      "assets": [
+        {
+          "id": 52081186,
+          "nodeId": "RA_kwDOA8bqCc4DGrIi",
+          "name": "rangedpumps-0.7.jar",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 25083,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/rangedpumps/releases/download/v0.7.0/rangedpumps-0.7.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/rangedpumps/releases/55596064/assets{?name,label}",
+      "tagName": "v0.7.0",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Port to Minecraft 1.15.\r\n- You can now configure the block that liquids have to be replaced with.\r\n",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2021-12-18T12:49:24Z",
+      "publishedAt": "2021-12-18T12:49:24Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/tarball/v0.7.0",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/rangedpumps/zipball/v0.7.0",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/rangedpumps/releases/55596064",
+      "createdAt": "2020-01-20T00:42:18Z"
+    },
     {
       "id": 2864306,
       "dateModified": "2021-12-18T13:01:32Z",
@@ -66,6 +97,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 9
+      },
+      {
         "source": "modrinth",
         "downloads": 157
       },
@@ -74,6 +109,6 @@
         "downloads": 26642
       }
     ],
-    "totalDownloads": 26799
+    "totalDownloads": 26808
   }
 }

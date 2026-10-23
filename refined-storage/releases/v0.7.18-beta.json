@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.18-beta.json",
   "name": "v0.7.18-beta",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 111000159,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDE1OQ\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.18-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000159/assets",
+      "assets": [
+        {
+          "id": 115529116,
+          "nodeId": "RA_kwDOAtXBQM4G4tWc",
+          "name": "refinedstorage-0.7.18.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 461038,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.18-beta/refinedstorage-0.7.18.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000159/assets{?name,label}",
+      "tagName": "v0.7.18-beta",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed cables sending updates when not needed.\r\n- Fixed cables not connecting to foreign machines that implement the API.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-07-04T14:23:14Z",
+      "publishedAt": "2023-07-04T14:23:14Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.18-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.18-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000159",
+      "createdAt": "2016-06-24T18:01:24Z"
+    },
     {
       "id": 2310163,
       "dateModified": "2023-07-04T13:48:22Z",
@@ -66,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
-        "downloads": 296
+        "downloads": 298
       },
       {
         "source": "curseforge",
         "downloads": 1153
       }
     ],
-    "totalDownloads": 1449
+    "totalDownloads": 1452
   }
 }

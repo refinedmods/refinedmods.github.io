@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.25.json",
   "name": "v1.2.25",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110512867,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxMjg2Nw\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.25",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512867/assets",
+      "assets": [
+        {
+          "id": 115028562,
+          "nodeId": "RA_kwDOAtXBQM4G2zJS",
+          "name": "refinedstorage-1.2.25.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1413155,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.25/refinedstorage-1.2.25.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110512867/assets{?name,label}",
+      "tagName": "v1.2.25",
+      "targetCommitish": "develop",
+      "body": "### Changed\r\n\r\n- Fire event on completion of an autocrafting task.\r\n- Fire player crafting event when shift clicking in the grid.\r\n- Allow INodeNetwork instances to return an ItemStack for display in Controller GUI.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T14:46:20Z",
+      "publishedAt": "2023-06-30T14:46:20Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.25",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.25",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110512867",
+      "createdAt": "2017-03-25T19:41:33Z"
+    },
     {
       "id": 2397273,
       "dateModified": "2023-06-30T15:05:03Z",
@@ -66,14 +97,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 88
       },
       {
         "source": "curseforge",
-        "downloads": 1934539
+        "downloads": 1934552
       }
     ],
-    "totalDownloads": 1934627
+    "totalDownloads": 1934641
   }
 }

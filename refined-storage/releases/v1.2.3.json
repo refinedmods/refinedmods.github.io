@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v1.2.3.json",
   "name": "v1.2.3",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 110514076,
+      "nodeId": "MDc6UmVsZWFzZTExMDUxNDA3Ng\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v1.2.3",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514076/assets",
+      "assets": [
+        {
+          "id": 115029324,
+          "nodeId": "RA_kwDOAtXBQM4G2zVM",
+          "name": "refinedstorage-1.2.3.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 1339183,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v1.2.3/refinedstorage-1.2.3.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/110514076/assets{?name,label}",
+      "tagName": "v1.2.3",
+      "targetCommitish": "develop",
+      "body": "### Fixed\r\n\r\n- Fixed fluid cache updating wrongly.\r\n- Fixed Exporter scheduling too many crafting tasks.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-06-30T14:53:56Z",
+      "publishedAt": "2023-06-30T14:53:56Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v1.2.3",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v1.2.3",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/110514076",
+      "createdAt": "2016-11-06T00:45:12Z"
+    },
     {
       "id": 2342285,
       "dateModified": "2023-06-30T15:12:12Z",
@@ -66,6 +97,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 49
       },
@@ -74,6 +109,6 @@
         "downloads": 9548
       }
     ],
-    "totalDownloads": 9597
+    "totalDownloads": 9598
   }
 }

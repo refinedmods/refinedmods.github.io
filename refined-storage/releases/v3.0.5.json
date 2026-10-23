@@ -1,9 +1,360 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v3.0.5.json",
   "name": "v3.0.5",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "RELEASE",
   "sources": [
+    {
+      "id": 325745375,
+      "nodeId": "RE_kwDOEkvWPM4Tanrf",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage2/releases/tag/v3.0.5",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/325745375/assets",
+      "assets": [
+        {
+          "id": 425004877,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9N",
+          "name": "refinedstorage-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004899,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9j",
+          "name": "refinedstorage-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 261,
+          "downloadCount": 7,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-3.0.5.jar"
+        },
+        {
+          "id": 425004871,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9H",
+          "name": "refinedstorage-autocrafting-api-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 46923,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-autocrafting-api-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004884,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9U",
+          "name": "refinedstorage-autocrafting-api-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 113671,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-autocrafting-api-3.0.5.jar"
+        },
+        {
+          "id": 425004879,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9P",
+          "name": "refinedstorage-common-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 2693898,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-common-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004898,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9i",
+          "name": "refinedstorage-common-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 3628612,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-common-3.0.5.jar"
+        },
+        {
+          "id": 425004892,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9c",
+          "name": "refinedstorage-common-api-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 72995,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-common-api-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004875,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9L",
+          "name": "refinedstorage-common-api-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 115151,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-common-api-3.0.5.jar"
+        },
+        {
+          "id": 425004873,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9J",
+          "name": "refinedstorage-core-api-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4399,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-core-api-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004900,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9k",
+          "name": "refinedstorage-core-api-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 7604,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-core-api-3.0.5.jar"
+        },
+        {
+          "id": 425004874,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9K",
+          "name": "refinedstorage-fabric-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1144246,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-fabric-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004893,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9d",
+          "name": "refinedstorage-fabric-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5505600,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-fabric-3.0.5.jar"
+        },
+        {
+          "id": 425004885,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9V",
+          "name": "refinedstorage-fabric-api-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4727,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-fabric-api-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004872,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9I",
+          "name": "refinedstorage-fabric-api-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 6206,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-fabric-api-3.0.5.jar"
+        },
+        {
+          "id": 425004882,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9S",
+          "name": "refinedstorage-neoforge-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 1213732,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-neoforge-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004881,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9R",
+          "name": "refinedstorage-neoforge-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4494188,
+          "downloadCount": 9,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-neoforge-3.0.5.jar"
+        },
+        {
+          "id": 425004890,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9a",
+          "name": "refinedstorage-neoforge-api-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 4377,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-neoforge-api-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004889,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9Z",
+          "name": "refinedstorage-neoforge-api-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 5424,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-neoforge-api-3.0.5.jar"
+        },
+        {
+          "id": 425004902,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9m",
+          "name": "refinedstorage-network-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 71413,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-network-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004880,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9Q",
+          "name": "refinedstorage-network-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 141319,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-network-3.0.5.jar"
+        },
+        {
+          "id": 425004878,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9O",
+          "name": "refinedstorage-network-api-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 23368,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-network-api-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004888,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9Y",
+          "name": "refinedstorage-network-api-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33653,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-network-api-3.0.5.jar"
+        },
+        {
+          "id": 425004886,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9W",
+          "name": "refinedstorage-network-test-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19925,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-network-test-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004883,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9T",
+          "name": "refinedstorage-network-test-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33289,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-network-test-3.0.5.jar"
+        },
+        {
+          "id": 425004894,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9e",
+          "name": "refinedstorage-query-parser-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 13493,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-query-parser-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004891,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9b",
+          "name": "refinedstorage-query-parser-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 29019,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-query-parser-3.0.5.jar"
+        },
+        {
+          "id": 425004897,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9h",
+          "name": "refinedstorage-resource-api-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 19299,
+          "downloadCount": 4,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-resource-api-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004896,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9g",
+          "name": "refinedstorage-resource-api-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 33377,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-resource-api-3.0.5.jar"
+        },
+        {
+          "id": 425004895,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9f",
+          "name": "refinedstorage-storage-api-3.0.5-sources.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 27692,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-storage-api-3.0.5-sources.jar"
+        },
+        {
+          "id": 425004887,
+          "nodeId": "RA_kwDOEkvWPM4ZVQ9X",
+          "name": "refinedstorage-storage-api-3.0.5.jar",
+          "label": "",
+          "state": "uploaded",
+          "contentType": "application/java-archive",
+          "size": 44360,
+          "downloadCount": 3,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v3.0.5/refinedstorage-storage-api-3.0.5.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage2/releases/325745375/assets{?name,label}",
+      "tagName": "v3.0.5",
+      "targetCommitish": "bdef8a6fce3ff2c95cabef892070a272aafda722",
+      "body": "\n### Added\n\n-   You can now clear the configuration of a Regulator Upgrade by using the item while crouching.\n\n### Fixed\n\n-   Security Manager not initializing correctly.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2026-05-20T08:23:37Z",
+      "publishedAt": "2026-05-20T08:23:36Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/tarball/v3.0.5",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage2/zipball/v3.0.5",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage2/releases/325745375",
+      "createdAt": "2026-05-20T08:13:59Z"
+    },
     {
       "id": "s5EsahvO",
       "projectId": "KDvYkUg3",
@@ -124,14 +475,18 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 106
+      },
+      {
         "source": "modrinth",
         "downloads": 2069
       },
       {
         "source": "curseforge",
-        "downloads": 48872
+        "downloads": 48878
       }
     ],
-    "totalDownloads": 50941
+    "totalDownloads": 51053
   }
 }

@@ -1,9 +1,40 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.7.13-beta.json",
   "name": "v0.7.13-beta",
-  "indexedAt": "2026-10-22T16:24:57Z",
+  "indexedAt": "2026-10-23T02:51:20Z",
   "type": "BETA",
   "sources": [
+    {
+      "id": 111000382,
+      "nodeId": "MDc6UmVsZWFzZTExMTAwMDM4Mg\u003d\u003d",
+      "htmlUrl": "https://github.com/refinedmods/refinedstorage/releases/tag/v0.7.13-beta",
+      "assetsUrl": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000382/assets",
+      "assets": [
+        {
+          "id": 115529252,
+          "nodeId": "RA_kwDOAtXBQM4G4tYk",
+          "name": "refinedstorage-0.7.13.jar",
+          "state": "uploaded",
+          "contentType": "application/octet-stream",
+          "size": 456878,
+          "downloadCount": 1,
+          "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.7.13-beta/refinedstorage-0.7.13.jar"
+        }
+      ],
+      "uploadUrl": "https://uploads.github.com/repos/refinedmods/refinedstorage/releases/111000382/assets{?name,label}",
+      "tagName": "v0.7.13-beta",
+      "targetCommitish": "develop",
+      "body": "### Added\r\n\r\n- Added ability to triple click in grid.",
+      "draft": false,
+      "prerelease": false,
+      "updatedAt": "2023-07-04T14:24:46Z",
+      "publishedAt": "2023-07-04T14:24:46Z",
+      "tarballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/tarball/v0.7.13-beta",
+      "zipballUrl": "https://api.github.com/repos/refinedmods/refinedstorage/zipball/v0.7.13-beta",
+      "source": "github",
+      "url": "https://api.github.com/repos/refinedmods/refinedstorage/releases/111000382",
+      "createdAt": "2016-06-16T11:53:20Z"
+    },
     {
       "id": 2307969,
       "dateModified": "2023-07-04T13:56:15Z",
@@ -66,6 +97,10 @@
   "stats": {
     "downloads": [
       {
+        "source": "github",
+        "downloads": 1
+      },
+      {
         "source": "modrinth",
         "downloads": 52
       },
@@ -74,6 +109,6 @@
         "downloads": 6619
       }
     ],
-    "totalDownloads": 6671
+    "totalDownloads": 6672
   }
 }
