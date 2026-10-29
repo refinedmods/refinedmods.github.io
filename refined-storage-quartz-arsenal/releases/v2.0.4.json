@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-quartz-arsenal/releases/v2.0.4.json",
   "name": "v2.0.4",
-  "indexedAt": "2026-10-28T17:47:22Z",
+  "indexedAt": "2026-10-29T03:50:40Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 261,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v2.0.4/refinedstorage-quartz-arsenal-2.0.4.jar"
         },
         {
@@ -51,7 +51,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 52455,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v2.0.4/refinedstorage-quartz-arsenal-common-2.0.4.jar"
         },
         {
@@ -73,7 +73,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 66930,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v2.0.4/refinedstorage-quartz-arsenal-fabric-2.0.4.jar"
         },
         {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 68103,
-          "downloadCount": 11,
+          "downloadCount": 12,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-quartz-arsenal/releases/download/v2.0.4/refinedstorage-quartz-arsenal-neoforge-2.0.4.jar"
         }
       ],
@@ -234,7 +234,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 26
+        "downloads": 30
       },
       {
         "source": "modrinth",
@@ -245,6 +245,6 @@
         "downloads": 78712
       }
     ],
-    "totalDownloads": 79309
+    "totalDownloads": 79313
   }
 }
