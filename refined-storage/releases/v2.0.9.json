@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v2.0.9.json",
   "name": "v2.0.9",
-  "indexedAt": "2026-11-09T21:49:11Z",
+  "indexedAt": "2026-11-10T05:31:22Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -95,7 +95,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 110656,
-          "downloadCount": 9,
+          "downloadCount": 10,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.9/refinedstorage-common-api-2.0.9.jar"
         },
         {
@@ -476,17 +476,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 270
+        "downloads": 271
       },
       {
         "source": "modrinth",
-        "downloads": 135091
+        "downloads": 135300
       },
       {
         "source": "curseforge",
-        "downloads": 3826074
+        "downloads": 3832276
       }
     ],
-    "totalDownloads": 3961435
+    "totalDownloads": 3967847
   }
 }
