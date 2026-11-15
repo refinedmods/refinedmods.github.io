@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage/releases/v0.8.9-beta.json",
   "name": "v0.8.9-beta",
-  "indexedAt": "2026-11-15T04:11:48Z",
+  "indexedAt": "2026-11-15T18:20:24Z",
   "type": "BETA",
   "sources": [
     {
@@ -17,7 +17,7 @@
           "state": "uploaded",
           "contentType": "application/octet-stream",
           "size": 507638,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage/releases/download/v0.8.9-beta/refinedstorage-0.8.9.jar"
         }
       ],
@@ -100,7 +100,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "source": "modrinth",
@@ -108,9 +108,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 9039
+        "downloads": 9040
       }
     ],
-    "totalDownloads": 9094
+    "totalDownloads": 9096
   }
 }
