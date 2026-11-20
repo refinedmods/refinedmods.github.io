@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-trinkets-integration/releases/v1.0.0.json",
   "name": "v1.0.0",
-  "indexedAt": "2026-11-20T05:13:11Z",
+  "indexedAt": "2026-11-20T19:31:22Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -18,7 +18,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 8816,
-          "downloadCount": 1,
+          "downloadCount": 3,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v1.0.0/refinedstorage-trinkets-integration-1.0.0-sources.jar"
         },
         {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 11723,
-          "downloadCount": 5,
+          "downloadCount": 6,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v1.0.0/refinedstorage-trinkets-integration-1.0.0.jar"
         }
       ],
@@ -110,17 +110,17 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 6
+        "downloads": 9
       },
       {
         "source": "modrinth",
-        "downloads": 12600
+        "downloads": 12621
       },
       {
         "source": "curseforge",
-        "downloads": 8729
+        "downloads": 8735
       }
     ],
-    "totalDownloads": 21335
+    "totalDownloads": 21365
   }
 }
