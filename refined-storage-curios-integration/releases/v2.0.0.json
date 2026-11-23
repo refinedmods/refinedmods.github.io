@@ -1,7 +1,7 @@
 {
   "url": "https://refinedmods.com/refined-storage-curios-integration/releases/v2.0.0.json",
   "name": "v2.0.0",
-  "indexedAt": "2026-11-23T05:06:42Z",
+  "indexedAt": "2026-11-23T23:13:01Z",
   "type": "RELEASE",
   "sources": [
     {
@@ -29,7 +29,7 @@
           "state": "uploaded",
           "contentType": "application/java-archive",
           "size": 11158,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "downloadUrl": "https://github.com/refinedmods/refinedstorage-curios-integration/releases/download/v2.0.0/refinedstorage-curios-integration-2.0.0.jar"
         }
       ],
@@ -110,7 +110,7 @@
     "downloads": [
       {
         "source": "github",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "source": "modrinth",
@@ -118,9 +118,9 @@
       },
       {
         "source": "curseforge",
-        "downloads": 43957
+        "downloads": 43958
       }
     ],
-    "totalDownloads": 44073
+    "totalDownloads": 44075
   }
 }
